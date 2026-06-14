@@ -56,16 +56,25 @@ veredicto del árbitro.
 
 ## Orquestación
 
-Esta skill usa el Dynamic Workflow definido en `.claude/workflows/round-based-debate.md`,
-con los agentes `thesis-framer`, `proponent-debater`, `opponent-debater` y `debate-arbiter`.
+Esta skill es **autocontenida**: ejecuta la orquestación con la tool `Task`, lanzando los
+subagentes `thesis-framer`, `proponent-debater`, `opponent-debater` y `debate-arbiter`.
+La especificación detallada está en `.claude/workflows/round-based-debate.md`; **léela con
+`Read` al iniciar** para seguir el detalle de cada fase (este archivo no se autocarga, es
+una spec de referencia).
+
+El debate es **secuencial, no paralelo**: en cada ronda interviene un agente y luego el
+otro responde, con contexto acumulado. Nunca lances proponente y oponente en paralelo.
 
 Fases:
-0. Recolección de parámetros.
-1. Enmarcado (`thesis-framer`).
-2. Apertura del árbitro (`debate-arbiter`).
-3. Debate secuencial por rondas (alternancia según quién inicia).
-4. Cierre del debate.
-5. Veredicto del árbitro (`debate-arbiter`) y persistencia.
+0. **Recolección de parámetros** — confirmar tesis, número de rondas, quién inicia y uso de
+   evidencia web. No iniciar sin número de rondas.
+1. **Enmarcado** — `Task` → `thesis-framer`.
+2. **Apertura del árbitro** — `Task` → `debate-arbiter` (confirma reglas, sin preferencia).
+3. **Debate secuencial por rondas** — para cada ronda, lanzar primero al agente que inicia
+   y luego al rival, pasándole todo el contexto previo. Repetir hasta completar las rondas.
+4. **Cierre del debate** — no más intervenciones de los debatientes.
+5. **Veredicto del árbitro** — `Task` → `debate-arbiter`, declara ganador y persiste las
+   3 salidas.
 
 ## Salidas obligatorias (3 archivos por debate)
 
