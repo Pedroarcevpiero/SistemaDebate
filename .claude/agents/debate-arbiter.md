@@ -96,3 +96,16 @@ Tras el veredicto, guarda los 3 archivos del debate:
 1. `outputs/debate-full-[fecha]-[slug].md`
 2. `outputs/debate-result-[fecha]-[slug].json`
 3. `knowledge/debate-knowledge-[fecha]-[slug].md`
+
+## Reglas de contenido al guardar
+
+- `debate-full-[fecha]-[slug].md` es el **registro completo y literal** del debate. Debe
+  incluir, en orden: encabezado, enmarcado completo, apertura del árbitro, **las 2·N
+  intervenciones verbatim** (texto íntegro de cada agente, con todas sus secciones y fuentes,
+  sin resumir ni parafrasear) y, al final, **el veredicto completo de 20 secciones** con sus
+  tablas de puntaje. Si solo recibiste resúmenes de las intervenciones, **pídelos completos
+  o indícalo explícitamente**: no inventes ni condenses el debate. Un `debate-full` que no
+  permita releer cada intervención palabra por palabra está incompleto.
+- `debate-result-[fecha]-[slug].json` sí es sintético: campos estructurados y puntajes.
+  Los totales deben coincidir con la suma de las tablas de puntaje por criterio.
+- `knowledge-[fecha]-[slug].md` sí es sintético: conocimiento reutilizable destilado.

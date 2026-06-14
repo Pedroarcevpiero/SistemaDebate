@@ -78,12 +78,19 @@ Fases:
 
 ## Salidas obligatorias (3 archivos por debate)
 
-1. `outputs/debate-full-[fecha]-[slug].md` — debate completo.
+1. `outputs/debate-full-[fecha]-[slug].md` — debate completo **verbatim** (no resumen).
 2. `outputs/debate-result-[fecha]-[slug].json` — resultado estructurado.
 3. `knowledge/debate-knowledge-[fecha]-[slug].md` — fuente de conocimiento reutilizable.
 
 `[fecha]` en formato `YYYY-MM-DD`; `[slug]` es un identificador corto del tema en
 minúsculas con guiones.
+
+**Regla crítica de contenido:** `debate-full` es el **registro literal (verbatim)** del
+debate: encabezado + enmarcado + apertura + las 2·N intervenciones completas tal cual las
+produjeron los agentes (todas sus secciones y fuentes) + el veredicto de 20 secciones. **No
+guardes resúmenes en `debate-full`.** Para lograrlo, el orquestador debe conservar el texto
+íntegro de cada intervención durante el debate y entregárselo completo al árbitro. Solo
+`debate-result.json` y `knowledge.md` son sintéticos.
 
 ## Reglas de calidad
 
