@@ -1,0 +1,60 @@
+{
+  "tesis_original": "Prohibición de uso de Fable 5 por parte del gobierno de USA para no norteamericanos, ¿esto es justo para los otros países, significa que ahora se crearán brechas o diferencias de conocimiento que traerán más brechas sociales en el futuro?",
+  "tesis_reformulada": "Si el gobierno de EE.UU. restringiera el acceso a un modelo de IA de frontera ('Fable 5') exclusivamente a usuarios estadounidenses, dicha restricción constituiría una política injusta hacia los demás países y generaría/ampliaría brechas de conocimiento que a su vez generarían/ampliarían brechas sociales futuras.",
+  "numero_rondas": 4,
+  "quien_inicio": "Proponente",
+  "ganador": "Oponente",
+  "nivel_confianza": "Medio-Alto",
+  "puntaje_proponente_total": 70,
+  "puntaje_oponente_total": 91,
+  "revision_humana_requerida": true,
+  "mejores_argumentos_proponente": [
+    "Distincion injusticia de diseno vs. magnitud de la brecha: la injusticia del criterio por nacionalidad es independiente de los sustitutos.",
+    "Migracion de la brecha de existencia hacia calidad/velocidad de acceso a la frontera.",
+    "ITAR/criptografia como precedente de mission creep regulatorio."
+  ],
+  "mejores_argumentos_oponente": [
+    "Falsacion verificada de la premisa de apertura (AI Diffusion Framework rescindido mayo 2025).",
+    "Distincion adversario designado (China/Macao) vs. no estadounidense en general.",
+    "Problema del contrafactual: linea base de cero acceso para todos, no acceso igualitario previo.",
+    "Ecosistema de modelos abiertos chinos 2026 como mitigante de la magnitud."
+  ],
+  "refutaciones_clave": [
+    "Oponente R1: falsacion empirica del framework.",
+    "Oponente R4: problema del contrafactual y desactivacion de la analogia de escuelas segregadas.",
+    "Proponente R4: distincion diseno/magnitud que salva la dimension normativa."
+  ],
+  "concesiones": [
+    "Proponente: rescision del framework (R2); sin exclusion al Sur Global hoy (R3); magnitud mitigada por sustitutos (R4).",
+    "Oponente: injusticia prima facie por nacionalidad (R3); injusticia distributiva real y posible brecha futura por sustitutos rezagados (R4)."
+  ],
+  "evidencia_decisiva": [
+    "Rescision verificada del AI Diffusion Framework (mayo 2025).",
+    "Regla de enero 2026 dirigida a China/Macao como adversarios designados, no a no estadounidenses."
+  ],
+  "evidencia_debil": [
+    "Analogia de brecha de banda ancha global (infraestructura fisica vs. software).",
+    "Analogia de escuelas segregadas.",
+    "Cadena causal brecha social futura: condicional no establecido para ambos lados."
+  ],
+  "desvios_detectados": [
+    "Proponente: uso de brecha de banda ancha (infraestructura) fuera del eje de acceso a modelos.",
+    "Reencuadre prospectivo en R3 en el limite de cambio de tesis, pero legitimo por el marco hipotetico original."
+  ],
+  "falacias_o_evasiones": [
+    "Proponente: falacia posibilidad->necesidad (R3).",
+    "Proponente: deslizamiento de tesis hacia brecha de calidad/velocidad.",
+    "Oponente: sin falacias significativas."
+  ],
+  "que_podria_cambiar_el_resultado": [
+    "Evidencia de restriccion real, amplia y vigente por nacionalidad (no por adversario designado).",
+    "Evidencia empirica de brechas sociales medibles por sustitutos rezagados.",
+    "Que el Proponente hubiera defendido la tesis acotada (injusticia de diseno) desde el inicio."
+  ],
+  "recomendaciones": [
+    "Revision humana requerida antes de cualquier uso politico/regulatorio.",
+    "Separar injusticia de diseno (normativa) de magnitud de brecha (empirica).",
+    "Monitorear la distincion adversario designado vs. restriccion por nacionalidad general.",
+    "No tratar precedentes historicos como prueba de necesidad, solo de posibilidad."
+  ]
+}
