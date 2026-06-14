@@ -1,0 +1,100 @@
+{
+  "debate": {
+    "id": "2026-06-14-googl-vs-amzn",
+    "fecha": "2026-06-14",
+    "tema": "Alphabet (GOOGL/GOOG) vs Amazon (AMZN) como inversion a 10 anios",
+    "alto_impacto": true,
+    "requiere_revision_humana": true,
+    "rondas": 8,
+    "intervenciones": 16,
+    "quien_inicia": "Oponente"
+  },
+  "tesis": "Para un inversor con horizonte de 10 anios, Alphabet (GOOGL/GOOG) ofrece una relacion riesgo/retorno superior a Amazon (AMZN), considerando crecimiento estructural, IA, cloud, publicidad, e-commerce, margenes, FCF, valoracion, moat, riesgo regulatorio y capacidad de reinversion.",
+  "posiciones": {
+    "proponente": "Defensa de Alphabet (GOOGL/GOOG): mejor relacion riesgo/retorno a 10 anios por superioridad de margen, balance, FCF, recompras e integracion vertical de IA.",
+    "oponente": "Defensa de Amazon (AMZN): mejor relacion riesgo/retorno a 10 anios por FCF absoluto convergente, tres motores diversificados (AWS, ads, retail con IA) y menor varianza de riesgo regulatorio."
+  },
+  "criterios": [
+    "Crecimiento estructural",
+    "Moat competitivo",
+    "Margenes y FCF",
+    "Riesgo regulatorio",
+    "Valoracion vs. crecimiento",
+    "Calidad de escenarios",
+    "Capacidad de reinversion",
+    "Calidad de refutacion",
+    "Uso y citacion de evidencia",
+    "Consistencia interna"
+  ],
+  "puntajes": {
+    "proponente": {
+      "crecimiento_estructural": 9,
+      "moat_competitivo": 8,
+      "margenes_y_fcf": 10,
+      "riesgo_regulatorio": 8,
+      "valoracion_vs_crecimiento": 8,
+      "calidad_de_escenarios": 9,
+      "capacidad_de_reinversion": 10,
+      "calidad_de_refutacion": 9,
+      "uso_y_citacion_de_evidencia": 9,
+      "consistencia_interna": 8,
+      "total": 88,
+      "max": 100
+    },
+    "oponente": {
+      "crecimiento_estructural": 8,
+      "moat_competitivo": 8,
+      "margenes_y_fcf": 7,
+      "riesgo_regulatorio": 9,
+      "valoracion_vs_crecimiento": 8,
+      "calidad_de_escenarios": 8,
+      "capacidad_de_reinversion": 7,
+      "calidad_de_refutacion": 8,
+      "uso_y_citacion_de_evidencia": 8,
+      "consistencia_interna": 9,
+      "total": 80,
+      "max": 100
+    }
+  },
+  "resultado": {
+    "ganador": "Proponente",
+    "ganador_posicion": "Alphabet (GOOGL/GOOG)",
+    "margen": "estrecho-a-moderado",
+    "diferencia_puntos": 8,
+    "nivel_de_confianza": "Medio",
+    "razon_principal": "El Proponente convirtio su tesis de superioridad de margen en evidencia empirica verificada del mismo trimestre (FCF $10.1B vs $1.2B bajo identico shock de capex), transformando una hipotesis de riesgo del Oponente en un experimento natural ya resuelto a su favor, y cerro su unico flanco cuantitativo abierto (backlog Cloud >$460B). El Oponente nunca tradujo su mejor terreno (riesgo regulatorio bifurcado) a un rango numerico de impacto en FCF que invirtiera la ventaja de calidad concedida.",
+    "empate_tecnico_posible": true,
+    "condiciones_empate": "Si el arbitro ponderara el riesgo de cola regulatorio bifurcado de Alphabet (dos casos antimonopolio con monopolio confirmado) por encima de la calidad de negocio y la mecanica de EPS, y tratara la honestidad intelectual/consistencia del Oponente (su criterio mas fuerte) como factor decisivo."
+  },
+  "evidencia_decisiva": [
+    "FCF comparativo del mismo trimestre bajo identico shock de capex: Alphabet $10.1B vs Amazon $1.2B (-95%), con caja neta $49.3B y FCF TTM $64.4B (SEC 8-K / 10-Q Q1 2026, TheNextWeb).",
+    "Backlog de Google Cloud >$460B (Constellation/Sherwood), que supero los $364B de AWS y cerro el flanco cuantitativo abierto del Proponente.",
+    "Margen consolidado 36.1% vs 13.1% y expansion de margen de Cloud 17.8%->32.9% (SEC 8-K Q1 2026)."
+  ],
+  "evidencia_debil": [
+    "Estimacion de 'bajo de un digito en CPM' del Proponente (R6), marcada como estimacion del agente.",
+    "Dilucion neta de Amazon '<1% anual' del Oponente (R8), sin fuente primaria pero usada como pilar del argumento de EPS.",
+    "Cifras de ecosistema de Alphabet (Android, Chrome, Gmail, YouTube) citadas como 'rango conocido' sin fuente directa.",
+    "Proyeccion lineal de AWS al 25-28% durante 10 anios (Oponente, R2) sin justificar saturacion del TAM."
+  ],
+  "concesiones_clave": {
+    "proponente": [
+      "R3: opacidad real sobre que % de los $60.4B de Search proviene de AI Overviews vs. crecimiento organico.",
+      "R5-R6: el caso ad-tech es el punto regulatorio mas debil de su posicion; riesgo de desintegracion de sistemas, no simple recorte del 7%.",
+      "R7-R8: la base de ingresos incrementales absolutos de Amazon en la decada es real y mayor."
+    ],
+    "oponente": [
+      "R2: el remedio de sept. 2025 fue benigno; la perdida total de los $20B de Apple no se materializo.",
+      "R4: Gemini/TPU da a Alphabet integracion vertical de pila completa que Amazon no replica.",
+      "R6: el backlog >$460B neutraliza su reto; el FCF deprimido es la cola mas seria de Amazon y no pudo refutarla del todo.",
+      "R7-R8: la ventaja de margen de Alphabet es real y persistente; en calidad de negocio actual Alphabet gana con claridad."
+    ]
+  },
+  "falacias_y_desvios": {
+    "desvios_del_tema": "Ninguno significativo. Disciplina tematica alta y excepcional en ambos lados; sin deriva ideologica sobre big tech, comparaciones desplazadas con terceros ni debate sobre el monto/cartera.",
+    "proponente": "Leve tension interna (caja neta como 'colchon defensivo' en R4 y 'motor ofensivo de recompras' en R7), resuelta de forma plausible en R8 con prueba empirica del trimestre.",
+    "oponente": "Intento de inversion de la carga de la prueba en R2 (reencuadrar un fallo benigno como 'riesgo aplazado' sin nueva evidencia), parcialmente desmontado. Apelacion final apoyada en 'dos litigios suenan peor que uno' sin traducirlo a rango numerico de impacto en FCF.",
+    "evasiones": "Ninguna; ambos respondieron de forma directa y frecuentemente concedieron antes de refutar."
+  },
+  "nota_revision_humana": "Tema financiero de alto impacto. El veredicto evalua exclusivamente la calidad argumentativa contra los 10 criterios del enmarcado; NO constituye asesoria de inversion, recomendacion de compra/venta de GOOGL o AMZN, ni prediccion de retorno. Cualquier decision real con los USD 20,000 requiere revision por un profesional financiero humano cualificado, considerando tolerancia al riesgo, horizonte real, situacion fiscal y diversificacion de cartera. Verificar los datos de Q1 2026 contra los 10-K/10-Q primarios antes de cualquier uso decisional."
+}
