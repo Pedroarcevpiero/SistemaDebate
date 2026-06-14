@@ -1,0 +1,71 @@
+{
+  "debate_id": "2026-06-14-modelo-economico-peru",
+  "fecha": "2026-06-14",
+  "tema_alto_impacto": true,
+  "revision_humana_obligatoria": true,
+  "tesis": "¿Perú debería mantener su modelo de economía social de mercado actual (BCRP autónomo, propiedad/inversión privada, separación fiscal-monetaria, disciplina fiscal) [Proponente] o reemplazarlo por uno de mayor intervención estatal (control ejecutivo de la moneda, empresas estatales estratégicas ampliadas, redistribución dirigida, crédito productivo dirigido, reducción de desigualdad territorial) [Oponente]?",
+  "rondas": 6,
+  "intervenciones_totales": 12,
+  "intervenciones_evaluadas_verbatim": 9,
+  "intervenciones_no_preservadas": ["R1-Proponente", "R1-Oponente", "R2-Proponente"],
+  "inicio": "Proponente",
+  "ganador": "Proponente",
+  "nivel_confianza": "Medio",
+  "puntaje_total": {
+    "proponente": 93,
+    "oponente": 87,
+    "max": 110
+  },
+  "puntajes_proponente": {
+    "claridad_tesis": 9,
+    "respuesta_directa": 9,
+    "calidad_evidencia": 8,
+    "pertinencia_fuentes": 8,
+    "fuerza_logica": 9,
+    "capacidad_refutacion": 8,
+    "reconocimiento_debilidades": 9,
+    "consistencia_interna": 7,
+    "foco_tema": 9,
+    "relevancia_practica": 8,
+    "sostener_posicion": 9
+  },
+  "puntajes_oponente": {
+    "claridad_tesis": 7,
+    "respuesta_directa": 9,
+    "calidad_evidencia": 8,
+    "pertinencia_fuentes": 8,
+    "fuerza_logica": 8,
+    "capacidad_refutacion": 9,
+    "reconocimiento_debilidades": 9,
+    "consistencia_interna": 6,
+    "foco_tema": 8,
+    "relevancia_practica": 9,
+    "sostener_posicion": 6
+  },
+  "razon_ganador": "El Proponente sostuvo su tesis y ganó el marco conceptual (asimetría error de omisión reversible vs error de comisión con pasivos contingentes), forzando al Oponente a replegarse desde la tesis fuerte asignada hacia una regla automática sobre regalías que preserva BCRP autónomo y disciplina fiscal, es decir una reforma dentro del modelo del Proponente.",
+  "penalizaciones": [
+    {"agente": "Oponente", "tipo": "deriva_de_tesis", "severidad": "leve-moderada", "detalle": "Estrechó la tesis asignada (control ejecutivo de la moneda, empresas estatales, crédito discrecional) hasta una regla automática sobre regalías que preserva BCRP y disciplina fiscal."},
+    {"agente": "Proponente", "tipo": "posible_contradiccion", "severidad": "leve", "detalle": "BCRP blindable vs fondo no blindable; defendida con razón de principio pero no cerrada frente a la versión por fórmula."}
+  ],
+  "evidencia_decisiva": [
+    "Captura de Proinversión: 65,000+ proyectos paralizados, 17.3% del PBI; 120 disposiciones presupuesto 2025 (El Comercio/Convoca)",
+    "Desagregación morosidad Agrobanco: 99.26% grandes empresas vs <9% pequeños productores",
+    "Caída del crecimiento potencial ~6% (2002-2013) a ~2.5-3% (2020s) con arquitectura constante (FMI/BCRP)"
+  ],
+  "evidencia_debil": [
+    "Analogía Noruega (instituciones no comparables, reconocido)",
+    "Modelo FEES Chile introducido tarde sin desarrollo anti-captura",
+    "Inclusión financiera Findex (cuenta digital != crédito productivo)"
+  ],
+  "convergencia": "Ambos terminaron en: preservar BCRP autónomo + disciplina fiscal + regla automática sobre regalías extraordinarias + reformar capacidad de ejecución.",
+  "que_cambiaria_resultado": [
+    "Si las 3 intervenciones faltantes mostraran deriva o evidencia inventada del Proponente",
+    "Si se juzgara por mejor propuesta de política y no por defensa de tesis asignada",
+    "Una refutación sólida del Proponente al mecanismo FEES por fórmula habría sellado el resultado"
+  ],
+  "archivos": {
+    "full": "outputs/debate-full-2026-06-14-modelo-economico-peru.md",
+    "result": "outputs/debate-result-2026-06-14-modelo-economico-peru.json",
+    "knowledge": "knowledge/debate-knowledge-2026-06-14-modelo-economico-peru.md"
+  }
+}
