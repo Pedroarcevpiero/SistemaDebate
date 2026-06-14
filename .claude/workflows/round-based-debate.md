@@ -59,6 +59,13 @@ El árbitro **no debe declarar ninguna preferencia inicial**.
 
 ## Fase 3 — Debate secuencial por rondas
 
+> **Regla de persistencia (crítica):** el orquestador debe **conservar el texto íntegro
+> y literal (verbatim) de cada intervención** tal como la devuelve cada agente. No se
+> guardan resúmenes. A medida que avanza el debate, acumula las intervenciones completas
+> para construir luego `outputs/debate-full-[fecha]-[slug].md`. Pasar resúmenes en lugar
+> del texto completo es un error: el archivo `debate-full` debe permitir releer el debate
+> palabra por palabra.
+
 Ejecuta el debate alternado según quién inicia.
 
 **Si inicia el proponente**, para cada ronda N:
@@ -95,7 +102,8 @@ Si usan web, deben **citar la fuente** y explicar cómo afecta el argumento.
 
 Tras completar todas las rondas:
 - No permitir nuevas intervenciones de proponente u oponente.
-- Entregar todo el historial al árbitro.
+- Entregar al árbitro **el historial completo y literal (verbatim)** de las 2·N
+  intervenciones, más el enmarcado y la apertura. No entregues resúmenes.
 - El árbitro evalúa el debate completo.
 
 ---
@@ -111,3 +119,20 @@ Luego guarda los **3 archivos obligatorios**:
 1. `outputs/debate-full-[fecha]-[slug].md`
 2. `outputs/debate-result-[fecha]-[slug].json`
 3. `knowledge/debate-knowledge-[fecha]-[slug].md`
+
+### Contenido obligatorio de `debate-full-[fecha]-[slug].md`
+
+Este archivo es el **registro completo y literal** del debate, no un resumen. Debe contener,
+en este orden:
+
+1. Encabezado (tesis, fecha, rondas, quién inició, nota de alto impacto si aplica).
+2. Enmarcado completo del `thesis-framer`.
+3. Apertura completa del árbitro.
+4. **Las 2·N intervenciones verbatim**, en orden, con su título y todas sus secciones
+   (Respuesta directa, Argumento/Objeción, Evidencia con fuentes, Ataque, Concesión, Reto),
+   tal como las produjeron `proponent-debater` y `opponent-debater`. Nada de paráfrasis.
+5. El **veredicto completo de 20 secciones** del árbitro, incluidas las tablas de puntaje.
+
+Si el archivo no permite releer cada intervención palabra por palabra, está incompleto y
+debe regenerarse. El `debate-result` JSON y el `knowledge` md sí son sintéticos; el
+`debate-full` no.
