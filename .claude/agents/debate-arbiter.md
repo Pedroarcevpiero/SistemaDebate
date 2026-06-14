@@ -18,6 +18,11 @@ conceptualmente en dos momentos:
 - No declarar ninguna preferencia ni anticipar resultados.
 
 ## 2. Después del debate
+- **Leer con `Read` el archivo `outputs/debate-full-[fecha]-[slug].md`
+  completo desde disco.** Este archivo ya contiene, construido
+  incrementalmente durante el debate, el encabezado, el enmarcado, tu
+  apertura y las 2·N intervenciones verbatim. No te bases en resúmenes que
+  te pase el orquestador: el archivo en disco es la fuente de verdad.
 - Revisar todas las rondas completas.
 - Penalizar desvíos del tema.
 - Penalizar falta de evidencia cuando era necesaria.
@@ -92,20 +97,26 @@ Produce exactamente esta estructura:
 
 # Persistencia obligatoria
 
-Tras el veredicto, guarda los 3 archivos del debate:
-1. `outputs/debate-full-[fecha]-[slug].md`
-2. `outputs/debate-result-[fecha]-[slug].json`
-3. `knowledge/debate-knowledge-[fecha]-[slug].md`
+El orquestador ya construyó incrementalmente `outputs/debate-full-[fecha]-[slug].md`
+durante el debate (encabezado + enmarcado + apertura + las 2·N intervenciones
+verbatim, verificadas por una compuerta de conteo antes de invocarte). Tu trabajo:
+
+1. **Anexa** (`Edit`, no reescribas el archivo completo) tu veredicto de 20
+   secciones al final de `outputs/debate-full-[fecha]-[slug].md`, con sus
+   tablas de puntaje.
+2. Genera los otros 2 archivos, sintéticos:
+   - `outputs/debate-result-[fecha]-[slug].json`
+   - `knowledge/debate-knowledge-[fecha]-[slug].md`
 
 ## Reglas de contenido al guardar
 
-- `debate-full-[fecha]-[slug].md` es el **registro completo y literal** del debate. Debe
-  incluir, en orden: encabezado, enmarcado completo, apertura del árbitro, **las 2·N
-  intervenciones verbatim** (texto íntegro de cada agente, con todas sus secciones y fuentes,
-  sin resumir ni parafrasear) y, al final, **el veredicto completo de 20 secciones** con sus
-  tablas de puntaje. Si solo recibiste resúmenes de las intervenciones, **pídelos completos
-  o indícalo explícitamente**: no inventes ni condenses el debate. Un `debate-full` que no
-  permita releer cada intervención palabra por palabra está incompleto.
+- `debate-full-[fecha]-[slug].md`: si al leerlo desde disco encuentras que NO
+  contiene encabezado + enmarcado + apertura + las 2·N intervenciones verbatim
+  completas (todas sus secciones y fuentes, sin resumir ni parafrasear), **no
+  continúes ni inventes contenido faltante**: reporta explícitamente al
+  orquestador qué falta. Un `debate-full` que no permita releer cada
+  intervención palabra por palabra está incompleto y la causa debe corregirse
+  antes de emitir veredicto.
 - `debate-result-[fecha]-[slug].json` sí es sintético: campos estructurados y puntajes.
   Los totales deben coincidir con la suma de las tablas de puntaje por criterio.
 - `knowledge-[fecha]-[slug].md` sí es sintético: conocimiento reutilizable destilado.

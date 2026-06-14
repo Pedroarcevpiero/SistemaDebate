@@ -68,13 +68,18 @@ otro responde, con contexto acumulado. Nunca lances proponente y oponente en par
 Fases:
 0. **Recolección de parámetros** — confirmar tesis, número de rondas, quién inicia y uso de
    evidencia web. No iniciar sin número de rondas.
-1. **Enmarcado** — `Task` → `thesis-framer`.
-2. **Apertura del árbitro** — `Task` → `debate-arbiter` (confirma reglas, sin preferencia).
+1. **Enmarcado y creación del archivo** — `Task` → `thesis-framer`; luego crear de inmediato
+   `outputs/debate-full-[fecha]-[slug].md` con encabezado + enmarcado (`Write`).
+2. **Apertura del árbitro** — `Task` → `debate-arbiter` (confirma reglas, sin preferencia);
+   anexar su apertura al archivo.
 3. **Debate secuencial por rondas** — para cada ronda, lanzar primero al agente que inicia
-   y luego al rival, pasándole todo el contexto previo. Repetir hasta completar las rondas.
-4. **Cierre del debate** — no más intervenciones de los debatientes.
-5. **Veredicto del árbitro** — `Task` → `debate-arbiter`, declara ganador y persiste las
-   3 salidas.
+   y luego al rival. Tras CADA intervención, **anexarla verbatim al archivo
+   inmediatamente** (antes de lanzar la siguiente). Repetir hasta completar las rondas.
+4. **Cierre del debate y compuerta de verificación** — no más intervenciones de los
+   debatientes; releer el archivo y contar que existan exactamente 2·N intervenciones
+   (todas las rondas, ambas posiciones). Si falta alguna, detenerse y reportarlo.
+5. **Veredicto del árbitro** — `Task` → `debate-arbiter`, que lee el archivo completo
+   desde disco, anexa su veredicto de 20 secciones, y genera los otros 2 archivos.
 
 ## Salidas obligatorias (3 archivos por debate)
 
@@ -88,9 +93,14 @@ minúsculas con guiones.
 **Regla crítica de contenido:** `debate-full` es el **registro literal (verbatim)** del
 debate: encabezado + enmarcado + apertura + las 2·N intervenciones completas tal cual las
 produjeron los agentes (todas sus secciones y fuentes) + el veredicto de 20 secciones. **No
-guardes resúmenes en `debate-full`.** Para lograrlo, el orquestador debe conservar el texto
-íntegro de cada intervención durante el debate y entregárselo completo al árbitro. Solo
-`debate-result.json` y `knowledge.md` son sintéticos.
+guardes resúmenes en `debate-full`.**
+
+**Persistencia incremental (crítica):** el archivo `debate-full` se crea al inicio del
+debate (Fase 1) y se **anexa** tras cada paso (apertura, cada intervención, veredicto). El
+disco es la fuente de verdad, no el contexto del orquestador — así una compactación de
+contexto a mitad del debate no puede borrar intervenciones ya producidas. Antes de invocar
+al árbitro (Fase 4), verificar que el archivo contiene las 2·N intervenciones completas.
+Solo `debate-result.json` y `knowledge.md` son sintéticos.
 
 ## Reglas de calidad
 
