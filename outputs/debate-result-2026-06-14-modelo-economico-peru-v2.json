@@ -1,0 +1,99 @@
+{
+  "debate": {
+    "id": "2026-06-14-modelo-economico-peru-v2",
+    "fecha": "2026-06-14",
+    "tema": "Modelo economico del Peru (v2)",
+    "tesis": "Debe el Peru mantener su modelo de economia social de mercado (propiedad privada predominante, BCRP autonomo, separacion monetaria-fiscal) o transitar a un modelo de mayor intervencion estatal con el Ejecutivo controlando la politica monetaria, expandiendo empresas publicas estrategicas y redistribuyendo riqueza de forma mas activa.",
+    "alto_impacto": true,
+    "requiere_revision_humana": true,
+    "rondas": 8,
+    "intervenciones": 16,
+    "quien_inicia": "Proponente"
+  },
+  "posiciones": {
+    "proponente": "Defensa del statu quo (economia social de mercado, BCRP autonomo, propiedad privada).",
+    "oponente": "Defensa del cambio hacia mayor intervencion estatal (control monetario coordinado, empresas publicas estrategicas, banca de desarrollo, redistribucion activa)."
+  },
+  "criterios": [
+    "Claridad de tesis",
+    "Respuesta directa al rival",
+    "Calidad de evidencia",
+    "Pertinencia de fuentes",
+    "Fuerza logica",
+    "Capacidad de refutacion",
+    "Reconocimiento honesto de debilidades",
+    "Consistencia interna",
+    "Foco en el tema",
+    "Relevancia practica",
+    "Capacidad de sostener la posicion hasta el final"
+  ],
+  "puntajes": {
+    "proponente": {
+      "claridad_de_tesis": 9,
+      "respuesta_directa_al_rival": 9,
+      "calidad_de_evidencia": 8,
+      "pertinencia_de_fuentes": 9,
+      "fuerza_logica": 9,
+      "capacidad_de_refutacion": 9,
+      "reconocimiento_honesto_de_debilidades": 9,
+      "consistencia_interna": 8,
+      "foco_en_el_tema": 10,
+      "relevancia_practica": 9,
+      "sostener_posicion_hasta_el_final": 8,
+      "total": 95,
+      "max": 110
+    },
+    "oponente": {
+      "claridad_de_tesis": 7,
+      "respuesta_directa_al_rival": 9,
+      "calidad_de_evidencia": 8,
+      "pertinencia_de_fuentes": 8,
+      "fuerza_logica": 8,
+      "capacidad_de_refutacion": 9,
+      "reconocimiento_honesto_de_debilidades": 10,
+      "consistencia_interna": 7,
+      "foco_en_el_tema": 10,
+      "relevancia_practica": 9,
+      "sostener_posicion_hasta_el_final": 8,
+      "total": 91,
+      "max": 110
+    }
+  },
+  "resultado": {
+    "ganador": "Proponente",
+    "margen": "estrecho",
+    "diferencia_puntos": 4,
+    "nivel_de_confianza": "Medio",
+    "razon_principal": "El Proponente gana por realismo institucional y por forzar la convergencia de la propuesta rival hacia reformas dentro del modelo de 1993. El Oponente concedio honestamente que dos de sus tres pilares colapsan en reformas legales ordinarias, dejando insatisfecha la carga de probar la necesidad de un reemplazo de modelo, pese a ganar el intercambio final sobre COFIDE 2025.",
+    "empate_tecnico_posible": true,
+    "condiciones_empate": "Si se ponderara mas la honestidad intelectual y la calidad del diagnostico, o el desempeno de la ronda final, sobre el cumplimiento estricto de la tesis original."
+  },
+  "evidencia_decisiva": "Trayectoria COFIDE 2024->2025 (morosidad 21.48% -> 2.6%, utilidad neta +43%) que revirtio la evidencia de cierre del Proponente y establecio un patron de corregibilidad del credito dirigido a escala.",
+  "evidencia_debil": [
+    "Agrobanco como prueba aislada de escalabilidad (caso de nicho)",
+    "COFIDE 21.48% (2024) como snapshot decisivo sin trayectoria",
+    "Causalidad superciclo de commodities -> convergencia 2004-2019 no cuantificada",
+    "Cifras de orden de magnitud (canon, presupuesto Juntos) sin fuente primaria directa"
+  ],
+  "concesiones_clave": {
+    "proponente": [
+      "Convergencia post-2020 estancada; bono sin empleo es ilusion de modernidad",
+      "Agrobanco refuta el absoluto 'el Estado no puede'",
+      "Ejecucion subnacional es debilidad compartida",
+      "COFIDE 2.6% en 2025 debilitaria su argumento de escala si se sostiene"
+    ],
+    "oponente": [
+      "La hiperinflacion 1985-1990 es advertencia real; no propone financiamiento monetario del deficit",
+      "El control monetario ejecutivo literal nunca fue su posicion real",
+      "El pilar fiscal (IEM/GEM) es reforma dentro del modelo de 1993",
+      "El riesgo de reversion por captura politica futura es genuino y no resuelto"
+    ]
+  },
+  "falacias_y_desvios": {
+    "desvios_del_tema": "Ninguno significativo; disciplina tematica alta en ambos.",
+    "proponente": "Falacia de generalizacion inicial (Petroperu -> todo credito dirigido), corregida; imprecision en R5 corregida honestamente en R6.",
+    "oponente": "Uso parcialmente circular de la PNCP (parcialmente desmontado); reformulaciones sucesivas que diluyeron la tesis original.",
+    "evasiones": "Ninguna; el Oponente reconocio explicitamente cuando insistir seria evasion."
+  },
+  "nota_revision_humana": "Tema economico, monetario, fiscal y constitucional de alto impacto. El veredicto evalua calidad argumentativa, NO constituye asesoria ni recomendacion de politica publica. Requiere revision por especialistas humanos antes de cualquier uso decisional."
+}
