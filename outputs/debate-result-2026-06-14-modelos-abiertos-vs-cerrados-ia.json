@@ -5,8 +5,18 @@
   "quien_inicio": "Oponente (Agente B, cierre/control)",
   "ganador": "Oponente",
   "nivel_confianza": "Medio",
-  "puntaje_proponente_total": 88,
-  "puntaje_oponente_total": 95,
+  "puntaje_proponente_total": 81,
+  "puntaje_oponente_total": 88,
+  "puntajes_proponente": {
+    "claridad_tesis": 7, "respuesta_directa": 8, "calidad_evidencia": 7, "pertinencia_fuentes": 7,
+    "fuerza_logica": 8, "capacidad_refutacion": 8, "reconocimiento_debilidades": 9, "consistencia_interna": 6,
+    "foco_tema": 6, "relevancia_practica": 8, "sostenimiento_final": 7
+  },
+  "puntajes_oponente": {
+    "claridad_tesis": 8, "respuesta_directa": 8, "calidad_evidencia": 7, "pertinencia_fuentes": 8,
+    "fuerza_logica": 9, "capacidad_refutacion": 8, "reconocimiento_debilidades": 8, "consistencia_interna": 8,
+    "foco_tema": 8, "relevancia_practica": 8, "sostenimiento_final": 8
+  },
   "mejores_argumentos_proponente": [
     "Falacia del 'vacío seguro': el cierre occidental no reduce el riesgo global, solo transfiere liderazgo normativo (no refutado de fondo).",
     "Datos verificables de adopción: OpenRouter 61% tokens, HuggingFace 41% vs 36.5% EEUU, a16z 80% startups.",
