@@ -1,0 +1,57 @@
+{
+  "tesis_original": "Modelos abiertos vs cerrados de IA.",
+  "tesis_reformulada": "¿La política por defecto para modelos fundacionales avanzados debería ser apertura (cierre solo si evaluaciones independientes demuestran riesgo sistémico concreto, Proponente=Agente A) o cierre/control (apertura solo bajo seguridad verificada, Oponente=Agente B)?",
+  "numero_rondas": 8,
+  "quien_inicio": "Oponente (Agente B, cierre/control)",
+  "ganador": "Oponente",
+  "nivel_confianza": "Medio",
+  "puntaje_proponente_total": 88,
+  "puntaje_oponente_total": 95,
+  "mejores_argumentos_proponente": [
+    "Falacia del 'vacío seguro': el cierre occidental no reduce el riesgo global, solo transfiere liderazgo normativo (no refutado de fondo).",
+    "Datos verificables de adopción: OpenRouter 61% tokens, HuggingFace 41% vs 36.5% EEUU, a16z 80% startups.",
+    "Auditoría distribuida y detectabilidad del sesgo precisamente por ser abierto.",
+    "Modelos cerrados igualmente vulnerables vía API fine-tuning (<$50)."
+  ],
+  "mejores_argumentos_oponente": [
+    "Asimetría de reversibilidad: irreversibilidad de pesos abiertos vs reversibilidad del cierre.",
+    "Heretic sobre Llama 3.3/Gemma 3 pre-escrutinados refuta la 'apertura condicionada' conductual.",
+    "Reencuadre disciplinado: separar abierto/cerrado de China/Occidente; carga de prueba en quien publica.",
+    "Gobernanza de cómputo y estándares de auditoría (Brussels Effect) sobre prohibición unilateral."
+  ],
+  "refutaciones_clave": [
+    "Oponente R7: Heretic vence modelos con escrutinio previo, neutraliza apertura condicionada.",
+    "Proponente R1/R5: API fine-tuning <$50 y guardrails cerrados removibles erosionan la seguridad por diseño del cierre."
+  ],
+  "concesiones": {
+    "proponente": ["Pérdida de revocación", "v1 abierto no desaprende", "Cita soberanía R3 no verificable", "RLHF insuficiente", "TAR/Deep Ignorance no definitivos"],
+    "oponente": ["SPOF institucional es gobernanza", "Adopción china 61% real y relevante", "Rollback como corrección futura", "Dicotomía abierto/cerrado demasiado burda"]
+  },
+  "evidencia_decisiva": [
+    "Datos de adopción del Proponente (OpenRouter, HuggingFace, a16z) — verificables.",
+    "Heretic del Oponente (desactivación de salvaguardas en <10 min en modelos pre-escrutinados)."
+  ],
+  "evidencia_debil": [
+    "Citas arXiv 26xx.xxxxx (2602.21012, 2604.06217, 2506.01814 y otras) confirmadas solo en titulo/existencia, no en contenido — usadas por ambos lados.",
+    "Cifra '50-60% adopcion china' de R3, explicitamente no verificable y concedida."
+  ],
+  "desvios_detectados": [
+    "Proponente R3: pivote a soberania rozó el desvío; reconducido al tema en R4."
+  ],
+  "falacias_o_evasiones": [
+    "Proponente R3: uso momentáneo de evidencia no verificable como decisiva (mitigado por concesión inmediata).",
+    "Sin evasiones graves ni ataques personales por ninguno de los dos lados."
+  ],
+  "que_podria_cambiar_el_resultado": [
+    "Si el 'vacío seguro' se eleva a evidencia decisiva con cuantificación del riesgo global neto, el Proponente podría empatar o ganar.",
+    "Si las citas arXiv 26xx clave del Oponente resultaran no verificables en contenido, su ventaja caería hacia empate técnico.",
+    "Verificación independiente de Heretic y de la asimetría de reversibilidad en escenarios reales."
+  ],
+  "recomendaciones": [
+    "Adoptar marco mixto: apertura general + verificación previa solo para capacidades concretas de doble uso (bio-uplift, ciber-ofensivo autónomo).",
+    "Situar la carga de la prueba proporcional a irreversibilidad y capacidad específica, no al formato en bloque.",
+    "Invertir en gobernanza de cómputo y auditoría independiente antes que en prohibiciones unilaterales.",
+    "Verificar todas las citas arXiv 26xx antes de cualquier uso en decisiones reales.",
+    "REVISIÓN HUMANA OBLIGATORIA: tema de alto impacto, no usar para política o acción sin experto."
+  ]
+}
