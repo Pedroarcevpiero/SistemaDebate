@@ -26,7 +26,7 @@ No repreguntes lo que el usuario ya respondió.
 
 ---
 
-## Fase 1 — Enmarcado
+## Fase 1 — Enmarcado y creación del archivo `debate-full`
 
 Ejecuta `thesis-framer`.
 
@@ -40,6 +40,16 @@ Salida obligatoria:
 - Alcance.
 - Exclusiones.
 - Riesgos de desviación temática.
+
+> **Regla de persistencia incremental (crítica):** inmediatamente después de
+> obtener el enmarcado, **fija el `[slug]` y crea con `Write`** el archivo
+> `outputs/debate-full-[fecha]-[slug].md` con el encabezado (tesis, fecha,
+> número de rondas, quién inicia) y el enmarcado completo del `thesis-framer`.
+> A partir de aquí, **el disco es la fuente de verdad del debate, no el
+> contexto del orquestador**. Cada fase posterior **anexa** (`Edit` o
+> reescritura append-only) contenido a este mismo archivo apenas se produce.
+> Esto evita que una compactación de contexto a mitad del debate borre
+> intervenciones ya producidas.
 
 ---
 
@@ -55,30 +65,45 @@ Ejecuta `debate-arbiter` para confirmar:
 
 El árbitro **no debe declarar ninguna preferencia inicial**.
 
+**Anexa inmediatamente** la apertura completa del árbitro al `debate-full`
+ya creado en Fase 1.
+
 ---
 
 ## Fase 3 — Debate secuencial por rondas
 
-> **Regla de persistencia (crítica):** el orquestador debe **conservar el texto íntegro
-> y literal (verbatim) de cada intervención** tal como la devuelve cada agente. No se
-> guardan resúmenes. A medida que avanza el debate, acumula las intervenciones completas
-> para construir luego `outputs/debate-full-[fecha]-[slug].md`. Pasar resúmenes en lugar
-> del texto completo es un error: el archivo `debate-full` debe permitir releer el debate
-> palabra por palabra.
+> **Regla de persistencia incremental (crítica):** tras recibir el texto de
+> **cada** intervención (proponent-debater u opponent-debater), el
+> orquestador debe, **en el mismo turno y antes de lanzar la siguiente
+> ronda**:
+> 1. **Anexar el texto verbatim completo** de esa intervención al
+>    `debate-full-[fecha]-[slug].md` (con su título "## Intervención del
+>    [Proponente/Oponente] — Ronda [N]" y todas sus secciones).
+> 2. Verificar (releyendo el archivo o contando) que la intervención quedó
+>    escrita antes de continuar.
+>
+> El contexto para el siguiente debatiente (rondas previas, retos
+> pendientes, evidencia usada) debe obtenerse **leyendo el archivo en
+> disco** con `Read`, no confiando en la memoria acumulada de la
+> conversación. Esto es lo que garantiza que ninguna intervención se pierda
+> si el contexto del orquestador se compacta a mitad del debate.
+>
+> No se guardan resúmenes: cada intervención se anexa palabra por palabra,
+> tal como la devuelve el agente.
 
 Ejecuta el debate alternado según quién inicia.
 
 **Si inicia el proponente**, para cada ronda N:
-1. `proponent-debater`
-2. `opponent-debater`
+1. `proponent-debater` → anexar al archivo
+2. `opponent-debater` → anexar al archivo
 
 **Si inicia el oponente**, para cada ronda N:
-1. `opponent-debater`
-2. `proponent-debater`
+1. `opponent-debater` → anexar al archivo
+2. `proponent-debater` → anexar al archivo
 
 Repite hasta completar el número de rondas acordado.
 
-Cada agente debe recibir como contexto:
+Cada agente debe recibir como contexto (leído del archivo en disco):
 - Tesis reformulada.
 - Criterios de evaluación.
 - Intervención anterior del rival.
@@ -98,32 +123,42 @@ Si usan web, deben **citar la fuente** y explicar cómo afecta el argumento.
 
 ---
 
-## Fase 4 — Cierre de debate
+## Fase 4 — Cierre de debate y compuerta de verificación
 
 Tras completar todas las rondas:
 - No permitir nuevas intervenciones de proponente u oponente.
-- Entregar al árbitro **el historial completo y literal (verbatim)** de las 2·N
-  intervenciones, más el enmarcado y la apertura. No entregues resúmenes.
-- El árbitro evalúa el debate completo.
+- **Compuerta de verificación (obligatoria):** lee `debate-full-[fecha]-[slug].md`
+  completo y cuenta los encabezados `## Intervención del Proponente — Ronda [N]`
+  y `## Intervención del Oponente — Ronda [N]`. Deben sumar exactamente **2·N**
+  (N = número de rondas acordado), con todas las rondas 1..N presentes para ambas
+  posiciones.
+  - Si falta alguna intervención, **detente y reporta al usuario** qué falta antes
+    de continuar. No invoques al árbitro ni guardes un veredicto sobre un debate
+    incompleto sin que el usuario lo sepa.
+  - Si las 2·N están completas, continúa a Fase 5.
 
 ---
 
 ## Fase 5 — Veredicto del árbitro
 
-Ejecuta `debate-arbiter`. Debe producir el veredicto con 20 secciones (ver
-`.claude/agents/debate-arbiter.md`), incluyendo tablas de puntaje 0–10 para proponente
-y oponente, y la declaración de ganador (Proponente / Oponente / Empate técnico), nivel
-de confianza (Alto / Medio / Bajo) y recomendaciones prácticas.
+Ejecuta `debate-arbiter`, indicándole que **lea `debate-full-[fecha]-[slug].md`
+desde disco** (ya contiene encabezado + enmarcado + apertura + las 2·N
+intervenciones verbatim verificadas en Fase 4). El árbitro:
 
-Luego guarda los **3 archivos obligatorios**:
-1. `outputs/debate-full-[fecha]-[slug].md`
-2. `outputs/debate-result-[fecha]-[slug].json`
-3. `knowledge/debate-knowledge-[fecha]-[slug].md`
+1. Lee el archivo completo.
+2. Produce el veredicto con 20 secciones (ver `.claude/agents/debate-arbiter.md`),
+   incluyendo tablas de puntaje 0–10 para proponente y oponente, declaración de
+   ganador (Proponente / Oponente / Empate técnico), nivel de confianza
+   (Alto / Medio / Bajo) y recomendaciones prácticas.
+3. **Anexa** (no reescribe) el veredicto al final de `debate-full-[fecha]-[slug].md`.
+4. Genera los otros 2 archivos obligatorios, sintéticos:
+   - `outputs/debate-result-[fecha]-[slug].json`
+   - `knowledge/debate-knowledge-[fecha]-[slug].md`
 
-### Contenido obligatorio de `debate-full-[fecha]-[slug].md`
+### Resultado final de `debate-full-[fecha]-[slug].md`
 
-Este archivo es el **registro completo y literal** del debate, no un resumen. Debe contener,
-en este orden:
+Al terminar, el archivo contiene, en este orden (construido incrementalmente
+desde la Fase 1, no al final):
 
 1. Encabezado (tesis, fecha, rondas, quién inició, nota de alto impacto si aplica).
 2. Enmarcado completo del `thesis-framer`.
@@ -133,6 +168,6 @@ en este orden:
    tal como las produjeron `proponent-debater` y `opponent-debater`. Nada de paráfrasis.
 5. El **veredicto completo de 20 secciones** del árbitro, incluidas las tablas de puntaje.
 
-Si el archivo no permite releer cada intervención palabra por palabra, está incompleto y
-debe regenerarse. El `debate-result` JSON y el `knowledge` md sí son sintéticos; el
-`debate-full` no.
+La compuerta de Fase 4 garantiza que el paso 4 esté completo antes de que el
+árbitro escriba el paso 5. El `debate-result` JSON y el `knowledge` md sí son
+sintéticos; el `debate-full` no.
