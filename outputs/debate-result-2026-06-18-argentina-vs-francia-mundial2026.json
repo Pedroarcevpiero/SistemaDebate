@@ -1,0 +1,110 @@
+{
+  "debate": {
+    "id": "2026-06-18-argentina-vs-francia-mundial2026",
+    "fecha": "2026-06-18",
+    "tema": "Probabilidad relativa de ganar el Mundial FIFA 2026: Argentina vs. Francia",
+    "tesis": "Argentina tiene mas probabilidades que Francia de ganar el Mundial FIFA 2026, evaluada como comparacion de probabilidad relativa con base en la evidencia disponible al momento del debate (debut de grupos de ambas selecciones ya disputado).",
+    "alto_impacto": false,
+    "requiere_revision_humana": false,
+    "naturaleza": "Debate predictivo, tactico y argumentativo sobre futbol. Evalua calidad argumentativa y uso de evidencia, NO es prediccion oficial ni garantia del resultado real del torneo en curso.",
+    "rondas": 6,
+    "intervenciones": 12,
+    "quien_inicia": "Proponente"
+  },
+  "posiciones": {
+    "proponente": "Argentina tiene mayor probabilidad de ganar el Mundial 2026 (jerarquia de campeon defensor, Messi vigente, gestion de penales, solidez defensiva y generacion diversificada).",
+    "oponente": "Francia tiene mayor probabilidad de ganar el Mundial 2026 (profundidad de plantilla ofensiva, estrella joven en plenitud, finalizacion repartida ya mostrada en 2026, continuidad de Deschamps)."
+  },
+  "criterios": [
+    "Ranking FIFA y su peso como indicador",
+    "Rendimiento y resultados en el Mundial 2026 disputado",
+    "Calidad y profundidad de plantilla",
+    "Impacto actual del jugador estrella",
+    "Solidez defensiva",
+    "Calidad y variedad ofensiva",
+    "Fortaleza y equilibrio del mediocampo",
+    "Experiencia en eliminacion directa e historial reciente",
+    "Fortaleza mental, liderazgo y jerarquia",
+    "Reconocimiento y gestion de riesgos propios",
+    "Calidad de evidencia y citacion de fuentes",
+    "Capacidad de refutacion",
+    "Consistencia interna a lo largo de las rondas"
+  ],
+  "puntajes": {
+    "proponente": {
+      "ranking_fifa": 7,
+      "rendimiento_mundial_2026": 7,
+      "calidad_y_profundidad_de_plantilla": 6,
+      "impacto_jugador_estrella": 8,
+      "solidez_defensiva": 9,
+      "variedad_ofensiva": 8,
+      "mediocampo": 8,
+      "experiencia_eliminacion_directa": 9,
+      "fortaleza_mental_jerarquia": 9,
+      "reconocimiento_riesgos_propios": 9,
+      "calidad_evidencia_y_fuentes": 8,
+      "capacidad_de_refutacion": 8,
+      "consistencia_interna": 7,
+      "total": 101,
+      "max": 130
+    },
+    "oponente": {
+      "ranking_fifa": 7,
+      "rendimiento_mundial_2026": 8,
+      "calidad_y_profundidad_de_plantilla": 9,
+      "impacto_jugador_estrella": 8,
+      "solidez_defensiva": 6,
+      "variedad_ofensiva": 7,
+      "mediocampo": 7,
+      "experiencia_eliminacion_directa": 6,
+      "fortaleza_mental_jerarquia": 7,
+      "reconocimiento_riesgos_propios": 10,
+      "calidad_evidencia_y_fuentes": 8,
+      "capacidad_de_refutacion": 9,
+      "consistencia_interna": 8,
+      "total": 100,
+      "max": 130
+    }
+  },
+  "resultado": {
+    "ganador": "Empate tecnico",
+    "ventaja_narrativa_cierre": "Oponente",
+    "margen": "minimo",
+    "diferencia_puntos": 1,
+    "nivel_de_confianza": "Medio",
+    "razon_principal": "Debate extraordinariamente parejo con fortalezas simetricas y complementarias. El Proponente domino criterios de defensa, eliminacion directa, jerarquia y reconocimiento de riesgos con la mejor evidencia historica reciente (penales, titulo sin la estrella en Copa America 2024). El Oponente domino rendimiento en 2026, profundidad de plantilla y refutacion, demostrando que el 'triple rematador' argentino se activa solo en ausencia de Messi y no se ha manifestado en el torneo en curso, la metrica que el enmarcado prioriza (criterio 2). La inconsistencia de estandar de evidencia del Proponente (reconocida por el mismo) compensa la mayor fragilidad estructural admitida por el Oponente. Ningun lado satisfizo la carga decisiva con evidencia estricta de 2026.",
+    "empate_tecnico_posible": true,
+    "condiciones_desempate": "Si se pondera mas el criterio 2 (rendimiento estricto en 2026) gana el Oponente; si se pondera mas la capacidad demostrada en escenarios limite reales (criterios 8 y 9) gana el Proponente."
+  },
+  "evidencia_decisiva": "La concesion del Proponente en R6 ('dentro de este Mundial 2026 los tres goles terminaron en los pies de Messi; no tengo evidencia de que Lautaro o Alvarez sean el rematador decisivo en 2026') combinada con el peso del criterio 2 del enmarcado, donde Francia muestra dos finalizadores distintos en partido oficial 2026 (Mbappe + Barcola) y Argentina solo uno.",
+  "evidencia_debil": [
+    "Ranking FIFA como indicador (ambos coinciden en que es promedio historico, no proyeccion eliminatoria)",
+    "'Friccion de egos' del ataque frances (Proponente R3): hipotesis no verificada con datos del torneo",
+    "Datos de Lautaro/Alvarez 2024-2025 usados para sostener afirmacion sobre 2026 tras imponer el estandar contrario al rival",
+    "Gol de Barcola como prueba de plan B: muestra de un solo partido y por el mismo mecanismo tactico que Mbappe (concedido por el Oponente)",
+    "Continuidad de Deschamps en finales: indicador estructural indirecto, no de rendimiento comparativo 2026"
+  ],
+  "concesiones_clave": {
+    "proponente": [
+      "Penales no equivale a jugar sin Messi (R3)",
+      "Usar el plantel de 2022 como prueba estructural vigente fue un salto logico debil (R3)",
+      "Inconsistencia de estandar al usar datos 2024-2025 tras exigir evidencia 'dentro de 2026' (R5 y R6)",
+      "El 'triple rematador' no se ha activado dentro del Mundial 2026 (R6)",
+      "Ausencia de un sustituto de Di Maria de nivel comparable (R3)"
+    ],
+    "oponente": [
+      "El historial de penales argentino es activo real y diferenciador, no anecdotico (R2 y R5)",
+      "Francia carece de mediocentro creador puro y su mecanismo de desborde es 'mas estudiable' (R4)",
+      "Su intento de presentar a Dembele como creador interior no se sostiene; autocorregido (R4)",
+      "El eje de contencion frances depende de un solo pivote fisico joven (Tchouameni), con Camavinga fuera por lesion (R6)",
+      "Vulnerabilidad defensiva real expuesta ante Costa de Marfil (R1)"
+    ]
+  },
+  "falacias_y_desvios": {
+    "desvios_del_tema": "Ninguno significativo; disciplina tematica alta en ambos. Los usos de 2022/2024 se conectaron explicitamente con la probabilidad en 2026.",
+    "proponente": "Inconsistencia de estandar de evidencia (exigir 'dentro de 2026' y luego apoyarse en 2024-2025), reconocida honestamente por el mismo; comparacion inicial selectiva del mediocampo frances (solo Kante), corregida por el rival.",
+    "oponente": "Intento de presentar a Dembele como creador interior, autocorregido en R4 sin que el rival lo forzara; no constituye contradiccion sostenida.",
+    "evasiones": "Ninguna; ambos respondieron directamente los retos de cierre de cada ronda."
+  },
+  "nota_final": "Evaluacion de calidad argumentativa de un debate predictivo deportivo. NO constituye prediccion oficial ni garantia del resultado del Mundial FIFA 2026, que sigue en curso. El campeon efectivo puede diferir de cualquier conclusion alcanzada aqui. La unica evidencia dirimente (resultado real del torneo) aun no esta disponible."
+}
