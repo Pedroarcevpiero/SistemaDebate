@@ -1151,3 +1151,99 @@ El Proponente argumenta sobre robótica, VE y manufactura — dominios donde Chi
 - [DO] TrendForce (sep. 2025): TSMC Arizona fab 3 adelantada a 2027, 2nm y A16
 - [DO] SupplyICs/Manufacturing Dive: CHIPS Act primera fab certificada junio 2025, 244,000 empleos, $30.7B en premios
 
+
+---
+
+## Intervención del Proponente — Ronda 4
+
+### Respuesta directa al argumento anterior (Preguntas pendientes de R3)
+
+**Pregunta 1 del Oponente: ¿Puede China liderar en IA con chips que cuestan 50% más y tienen yields de 30-40%?**
+
+Primero, reconozco el dato sobre DeepSeek R1 y los H800 — no lo refutaré porque es factualmente correcto [DO]. DeepSeek R1 fue entrenado sobre hardware con restricciones de exportación occidentales, no sobre Ascend 910. Eso es una concesión real y la registro como tal.
+
+Pero el Oponente comete un error lógico clásico: confunde el estado presente con el destino de 2050. El mecanismo concreto por el que China avanza sin EUV no es superar el límite físico de los 5nm — es *rodearlo*:
+
+- **Chiplets + packaging avanzado [EC]:** SMIC produce múltiples dies a 7nm con DUV (proceso N+2) y los integra mediante interposers 2.5D. El rendimiento efectivo del sistema supera la suma de los dies individuales.
+- **Escala masiva sobre yields bajos [EC]:** Si un die de SMIC cuesta el doble pero China fabrica 10 veces más volumen gracias a su base de consumo interno y subsidios estatales, el costo *por sistema desplegado* converge. Huawei Mate 60 Pro demuestra que esto ya es operativo.
+- **Inversión estatal sostenida [DO]:** Big Fund III aportó $47.5B adicionales en 2024. A 2050, son 26 años de acumulación tecnológica con recursos estatales.
+
+**Pregunta 2 del Oponente: ¿En cuál dominio de frontera lidera o liderará China?**
+
+El dominio donde China lidera *ya* es **IA aplicada a escala de despliegue**: mayor ecosistema de inferencia de IA del mundo, datos etiquetados en chino mandarín, y 600+ millones de cámaras de vigilancia desplegadas [DO].
+
+El dominio donde China *liderará* específicamente hacia 2035-2040 con mayor probabilidad (70%) es **computación cuántica aplicada a criptografía y materiales**. China tiene más publicaciones de computación cuántica revisadas por pares que cualquier otro país desde 2019 [DO, Nature Index].
+
+---
+
+### Argumento principal: China no necesita ganar la guerra; necesita hacer que EE.UU. no pueda ganarla
+
+**I. El presupuesto militar en PPP: la brecha es menor de lo que parece**
+
+[DO] El presupuesto oficial de defensa de China en 2024 fue de ~$231B nominales. El gasto real estimado oscila entre $318B y $471B según SIPRI e IISS. En PPP, dado que salarios militares, construcción de bases e infraestructura cuestan 30-50% menos en China, el poder de compra efectivo equivale a entre $500B y $700B. EE.UU. gastó $886B en 2024. La brecha nominal es 4:1; la brecha en poder de combate efectivo probablemente ya es inferior a 2:1. [EC]
+
+**II. La flota más numerosa del mundo y una brecha de construcción naval irreversible**
+
+[DO] La Marina del EPL superó los 370 buques en 2024 mientras la US Navy tenía 296. Proyección del Pentágono para 2030: PLAN en 435 buques, US Navy en 294 (DoD China Military Power Report 2024).
+
+[DO] Una estimación desclasificada de la Oficina de Inteligencia Naval indica que China tiene **232 veces** la capacidad de construcción naval de EE.UU. en tonelaje (19FortyFive, abril 2026, citando ONI). Tasa: China agregó 30 buques el último año; EE.UU. agregó 2.
+
+A 2050, con 24 años de ese diferencial sostenido, la flota china será dominante en el Indo-Pacífico por saturación numérica.
+
+**III. Doctrina A2/AD: la asimetría como multiplicador de fuerza**
+
+China no necesita proyectar fuerza a Washington. Necesita que Washington no pueda proyectar fuerza a Taipei, el Mar del Sur de China o el estrecho de Malaca.
+
+[DO] El DF-17, con velocidad Mach 5-8 y trayectoria maniobrable que evade sistemas de defensa existentes, cubre un rango de 1,800-2,500 km — incluyendo Guam, Japón, Corea del Sur y Filipinas. El YJ-21, misil hipersónico antibuque, amenaza activos navales a 1,500 km [DO].
+
+La lógica es brutal en su simplicidad: un portaaviones de $13B con 5,000 tripulantes no puede ser expuesto a un misil de $10M que viaja a Mach 7. El ratio costo-efectividad favorece a China por 1,000:1 en este escenario.
+
+**IV. Arsenal nuclear: de mínimo disuasorio a segunda potencia nuclear**
+
+[DO] El Informe del Pentágono de diciembre de 2024 confirma que China superó las 600 ojivas nucleares operativas a mediados de 2024. Proyección para 2030: más de 1,000 ojivas [DO, DoD 2024].
+
+El impacto estratégico no es paridad numérica con EE.UU. (que tiene ~5,500 ojivas). Es que China ya ha superado el umbral de *segundo golpe garantizado contra ciudades y bases de EE.UU.*, lo que anula la posibilidad de coerción nuclear estadounidense sobre cualquier conflicto por Taiwán.
+
+**V. Espacio y ciberespacio**
+
+[DO] La estación espacial Tiangong está operativa con presencia humana permanente desde 2022. China alunizó en el lado oculto de la Luna (Chang'e-4, 2019) y recolectó muestras lunares (Chang'e-5, 2020; Chang'e-6, 2024). Para 2050, China planea una base lunar habitada [PI, Plan Espacial Nacional de China].
+
+[DO] El informe Mandiant/Google 2023-2024 documenta que grupos vinculados al Estado chino (Volt Typhoon, Salt Typhoon) han pre-posicionado acceso persistente en infraestructura crítica estadounidense — redes eléctricas, agua, telecomunicaciones.
+
+**VI. La red de alianzas de EE.UU. como carga, no solo activo**
+
+1. **Costo fiscal insostenible [EC]:** EE.UU. mantiene bases en 80 países. La OTAN, revitalizada por Ucrania, exige más financiamiento.
+2. **Vulnerabilidad de aliados del Indo-Pacífico [DO]:** Japón y Corea del Sur están a menos de 1,000 km de China. Sus bases son los primeros objetivos del DF-17.
+3. **Coherencia de la alianza en un conflicto por Taiwán [EI]:** Ningún tratado obliga a la OTAN a defender Taiwán. La disposición de Europa a arriesgar conflicto nuclear con China por una isla que no reconocen diplomáticamente es incierta.
+
+---
+
+### Concesión limitada
+
+Reconozco que EE.UU. mantiene ventajas cualitativas reales: sus submarinos clase Virginia son superiores a cualquier equivalente chino actual [DO], su experiencia de combate integrado (C4ISR) no tiene paralelo, y la capacidad de proyección global mediante 11 portaaviones operativos no tiene equivalente chino a corto plazo.
+
+**En un conflicto global de alta intensidad fuera del Indo-Pacífico, EE.UU. sigue siendo superior en 2050 con probabilidad de 65%.** Pero ese no es el teatro de operaciones relevante. China gana si controla su entorno regional y niega a EE.UU. la capacidad de intervenir decisivamente en Taiwán — y para eso, la A2/AD es suficiente hoy, y será abrumadora en 2050.
+
+---
+
+### Dos preguntas críticas para el Oponente
+
+**Pregunta 1 — La matemática de la disuasión naval:**
+Si China lanza 150 misiles hipersónicos DF-17 y YJ-21 simultáneamente contra un grupo de batalla centrado en portaaviones dentro del radio de 1,500 km del estrecho de Taiwán, y el costo total es inferior al 10% del valor del portaaviones, y la probabilidad de derribo individual por sistemas Aegis es del 70%: ¿cuántos misiles llegan al objetivo en valor esperado? ¿Y qué presidente de EE.UU. envía el portaaviones sabiendo esa matemática?
+
+**Pregunta 2 — La coherencia de la alianza del Indo-Pacífico:**
+¿Cuál de los siguientes países tiene un tratado formal que obligue a defensa mutua de Taiwán — Japón, Australia, Corea del Sur o Filipinas? Si ninguno tiene ese tratado, ¿en qué base legal y política concreta descansa la afirmación de que la alianza del Indo-Pacífico es un activo confiable en el escenario de conflicto más probable?
+
+---
+
+### Fuentes
+
+- DoD China Military Power Report 2024: presupuesto nuclear, flota PLAN
+- 19FortyFive (abril 2026): China tiene 230x capacidad de construcción naval de EE.UU.
+- CSIS ChinaPower: estimaciones de gasto real de defensa china
+- Arms Control Association (enero 2025): arsenal nuclear chino sigue creciendo
+- National Interest: capacidades del DF-17 hipersónico
+- Janes: postura A2/AD china en Indo-Pacífico
+- Radio Free Asia: China supera 600 ojivas nucleares (informe DoD)
+- AEI: la US Navy está quedando atrás en relación a China
+
