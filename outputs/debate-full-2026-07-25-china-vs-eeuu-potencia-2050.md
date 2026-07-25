@@ -1439,3 +1439,71 @@ Si China supera a EE.UU. como primera potencia mundial, necesita poder imponer r
 
 El PLAN no ha disparado un torpedo en combate real, no ha coordinado un grupo de batalla bajo fuego anti-navío real, y no ha operado su cadena de mando bajo las condiciones de caos y degradación de comunicaciones que produce un adversario de primer nivel. EE.UU. ha tenido 25 años de guerra continua para descubrir qué falla y corregirlo —desde la doctrina de guerra urbana hasta la arquitectura de red en combate degradado. ¿Cómo calcula el Proponente que el PLAN cerrará esa brecha de experiencia operativa real para 2050, cuando la única forma de cerrarla es... combatir en una guerra? ¿Y qué probabilidad asigna a que esa guerra de entrenamiento no sea contra EE.UU. mismo?
 
+
+## Intervención del Proponente — Ronda 5
+
+### Respuesta directa al argumento anterior
+
+Los dos retos de R4 merecen respuesta directa antes de entrar en finanzas.
+
+**Reto 1: Base naval y capacidad de proyección en Ormuz y Bab el-Mandeb.** La pregunta asume que China necesita replicar el modelo de poder naval americano para influir sobre esos estrechos. Ese supuesto es errado. El control de los accesos energéticos tiene una dimensión financiera que la fuerza naval no cubre sola. Si en 2050 el petróleo del Golfo se liquida en yuanes digitales, con compensación en CIPS, y los vendedores depositan sus excedentes en bancos chinos o compran deuda en renminbi, China ejerce coerción económica estructural sin necesitar una flota en el Mar Rojo. Dicho esto, concedo que China tendrá una brecha naval real en esas aguas hasta al menos 2040. La contraoferta china es hacer que la hegemonía naval resulte financieramente irrelevante sobre los recursos clave.
+
+**Reto 2: Brecha de experiencia de combate del PLAN.** Este punto es legítimo, pero opera en el mismo marco mental: que la primacía se decide en batalla convencional. La experiencia de combate importa cuando hay combate. La disuasión A2/AD, que el oponente ya concedió en R4, tiene precisamente el efecto de hacer que ese combate no ocurra. No obstante, la brecha existe y no se cierra con simulacros.
+
+---
+
+### Argumento central R5 — Moneda, finanzas y coerción económica
+
+La hegemonía monetaria americana no es un atributo natural: es una construcción institucional vulnerable a dos tensiones estructurales que China está explotando con precisión.
+
+**1. CIPS: la alternativa de fontanería financiera ya existe y crece.**
+
+En 2024, CIPS procesó 175.49 billones de yuanes (aprox. 24.47 billones de dólares) en transacciones, con un crecimiento interanual del 43%. [DO] La red cubre 4,900 instituciones bancarias en 189 países, con 174 participantes directos y 1,509 indirectos, cifra que incluye desde enero de 2026 a tres grandes bancos singapurenses. [DO] El oponente concedió en R3 que el crecimiento de CIPS es real. Lo que no ha respondido es la trayectoria: si CIPS mantiene tasas de crecimiento del 20-30% anuales durante la próxima década, en 2035 su volumen supera al de SWIFT en transacciones en yuanes.
+
+**2. El petrodólar ya no es un monopolio.**
+
+En 2024, Arabia Saudita no renovó formalmente su compromiso de 50 años de facturar petróleo exclusivamente en dólares. [DO] Actualmente, el 45% de las ventas de crudo saudita a China se liquidan en yuanes. [DO] Arabia Saudita se incorporó en junio de 2024 al proyecto mBridge, la plataforma de moneda digital de banco central liderada por China junto al BIS. [DO] Rusia, Irán, Venezuela, UAE y Egipto también operan contratos en yuan. La pregunta no es si el petroyuan reemplazará al petrodólar mañana. La pregunta es si en 2050 el dólar mantendrá el monopolio energético que le da su poder coercitivo. La respuesta, con los datos actuales, es negativa.
+
+**3. Acumulación de oro como cobertura estratégica ante sanciones.**
+
+El PBOC lleva 20 meses consecutivos comprando oro, con la mayor compra mensual del ciclo registrada en junio de 2026 (480,000 onzas). [DO] Las reservas de oro chinas alcanzaron los 75.44 millones de onzas. El oro ya representa cerca del 10% de las reservas totales chinas. [DO] Esta no es una estrategia de rendimiento; es una estrategia de aislamiento ante el riesgo de weaponización del dólar. La lección de la congelación de reservas rusas en 2022 fue absorbida e instrumentalizada: China está construyendo un colchón que no puede ser inmovilizado por el Tesoro americano.
+
+**4. La deuda americana como vulnerabilidad sistémica del dólar.**
+
+El dólar conserva su estatus porque los mercados confían en la deuda soberana americana. Pero esa confianza tiene un techo fiscal. La deuda pública de EE.UU. superó los 36 billones de dólares en 2025, con proyecciones del CBO que la sitúan por encima del 120% del PIB hacia 2035. [DO] La credibilidad del dólar como reserva de valor depende de que el Congreso americano mantenga disciplina fiscal de forma indefinida. Ese es un supuesto político, no económico.
+
+**5. e-CNY y el vector de internacionalización digital.**
+
+El yuan digital (e-CNY) permite transacciones bilaterales que eluden los nodos de compensación en dólares. mBridge ya conecta bancos centrales de China, EAU, Tailandia y Hong Kong. [DO] Esto no necesita que el yuan sea una moneda de reserva dominante: necesita que ser lo suficientemente viable para que los estados que quieren evadir sanciones americanas lo usen como canal alternativo. Y eso ya está ocurriendo.
+
+---
+
+### Evidencia usada
+
+- [DO] CIPS procesó $24.47 billones en 2024, crecimiento del 43% interanual. Fuente: FXC Intelligence (fxcintel.com/research/analysis/cips-growth-may-2025)
+- [DO] Arabia Saudita liquida el 45% de sus ventas de crudo a China en yuanes. Fuente: S&P Global / Fortune
+- [DO] Arabia Saudita se incorporó a mBridge en junio de 2024. Fuente: pgurus.com
+- [DO] PBOC lleva 20 meses consecutivos comprando oro; 75.44 millones de onzas en junio de 2026. Fuente: China Daily / BigGo Finance
+- [DO] El oro representa ~10% de reservas totales chinas. Fuente: Discovery Alert
+- [DO] La participación del dólar en reservas globales cayó a 57.4% en Q3 2024, mínimo desde 1994. Fuente: Wolf Street
+
+---
+
+### Ataque al punto débil del oponente
+
+La vulnerabilidad central que el oponente no ha abordado es la **weaponización del dólar como acelerador de su propio declive**. Al congelar 300 mil millones de dólares en reservas rusas en 2022, Washington demostró que el dólar puede ser usado como arma de estado. Esa demostración fue un error estratégico de primer orden: le dijo a cada banco central del mundo que mantener reservas en dólares implica aceptar la soberanía financiera condicionada de EE.UU. China, India, Arabia Saudita, y docenas de estados del Sur Global absorbieron esa lección simultáneamente. El proceso de diversificación de reservas que ya muestra el dato de 57.4% no es ideológico: es racional y se acelerará conforme aumenten las tensiones geopolíticas. El dólar está erosionando su propio monopolio por sobrecarga coercitiva.
+
+---
+
+### Concesión limitada
+
+La mayor debilidad del yuan es estructural y no se resuelve con CIPS ni con mBridge: **la convertibilidad de capital**. China mantiene controles de capital que impiden que inversores extranjeros acumulen yuanes libremente, los reasignen sin restricción, o los saquen del sistema cuando lo decidan. Un activo de reserva genuino requiere liquidez irrestricta. Mientras Pekín no libere la cuenta de capital, el yuan no puede ser moneda de reserva dominante. El 2.3% de participación del yuan en reservas globales, a pesar de una década de internacionalización activa, refleja exactamente ese límite. El e-CNY y el sistema bilateral de swaps pueden circunvalar parcialmente ese problema para transacciones específicas, pero no lo resuelven en el plano sistémico. La tesis no requiere que el yuan reemplace al dólar como moneda de reserva dominante en 2050, pero sí que la hegemonía del dólar sea suficientemente erosionada para que EE.UU. pierda su capacidad de coerción financiera unilateral.
+
+---
+
+### Pregunta o reto al oponente
+
+**Reto 1.** El dólar cayó de 71% a 57.4% de las reservas globales entre 2000 y 2024, una caída de 13.6 puntos porcentuales en 24 años. Si esa tendencia continúa a tasa similar o superior post-2022 por el efecto de weaponización, el dólar estaría por debajo del 45% hacia 2045. ¿En qué mecanismo estructural concreto confía el oponente para detener esa tendencia, más allá de afirmar que "no hay alternativa"?
+
+**Reto 2.** Arabia Saudita ya integra mBridge, liquida el 45% de su crudo a China en yuanes, y abandonó el compromiso petrodólar de 50 años. Si en los próximos 10 años el precio del petróleo continúa relevante y Riad expande esa proporción al 70-80%, ¿qué instrumento financiero o político tiene EE.UU. para revertir esa decisión soberana saudita sin destruir la alianza bilateral?
+
