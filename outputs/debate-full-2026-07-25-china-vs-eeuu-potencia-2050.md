@@ -858,3 +858,123 @@ La evidencia (Wu 2024, Brandt et al. 2024) muestra que la PTF cayó precisamente
 - [DO] IFR: densidad robótica Corea del Sur 1,220 robots/10,000 empleados — la mayor del mundo
 - [DO] Corea del Sur PBI per cápita 2024: $36,238 (Trading Economics)
 
+
+---
+
+## Intervención del Proponente — Ronda 3
+
+### Respuesta directa al argumento anterior
+
+El Oponente me planteó dos preguntas en R2 que requieren respuesta directa antes de avanzar al tema tecnológico.
+
+**Pregunta 1: Yuan sin cuenta de capital abierta — el mecanismo concreto.**
+
+El dilema que plantea el Oponente está mal encuadrado. Asume que la internacionalización del yuan requiere replicar el modelo del dólar: libre convertibilidad + mercados de capital abiertos. Ese no es el único camino. El mecanismo chino opera en tres capas:
+
+*Primera capa: liquidación bilateral forzada.* China negocia acuerdos de swap en yuanes con 40+ bancos centrales [DO — BIS 2024] y obliga a socios comerciales dependientes (Rusia post-2022, Arabia Saudita en marginal, ASEAN) a aceptar yuanes como moneda de facturación. Esto requiere dependencia comercial suficiente, no convertibilidad plena.
+
+*Segunda capa: cuenta de capital parcialmente administrada.* China permite flujos bajo cuotas controladas (QFII, Stock Connect, Bond Connect). El volumen en Bond Connect superó los $600B en 2024 [DO]. Esto genera demanda internacional de activos en yuanes sin abrir la puerta a salidas masivas.
+
+*Tercera capa: digitalización del yuan (e-CNY).* Permite liquidación en yuanes a socios del Sur Global sin depender de SWIFT ni de mercados de capital libres. [EC]
+
+La pérdida de $1T en 2015-2016 fue consecuencia de liberalizar los flujos de capital de forma asimétrica y prematura. China aprendió la lección. El modelo actual es gradualismo controlado. Concedo que esto limita el alcance global del yuan antes de 2035; no concedo que lo bloquea permanentemente para 2050.
+
+**Pregunta 2: Precedente de innovación bajo control estatal.**
+
+El precedente más relevante: Corea del Sur en los años 1960-1985. El Estado decidía ganadores industriales (POSCO, Samsung, Hyundai), racionaba crédito hacia sectores estratégicos, no tenía prensa financiera independiente ni mercados de capital abiertos, y aun así pasó de industria ligera a frontera tecnológica en semiconductores en 30 años. [DO — Amsden, "Asia's Next Giant", 1989; Wade, "Governing the Market", 1990].
+
+El caso más reciente: la propia China en energías renovables. El sector solar emergió por política industrial directa. Hoy China produce el 80% de los paneles solares mundiales y compite en la frontera tecnológica de celdas perovskita. [DO — IEA, "Renewables 2024"]. Eso es innovación de frontera bajo control estatal.
+
+Concedo la debilidad real: en tecnologías de ruptura de base científica pura (semiconductores sub-2nm, biotech de alto riesgo), el modelo descentralizado y financiado por capital de riesgo privado ha generado más variedad y velocidad. Esta debilidad es estructural.
+
+---
+
+### Argumento principal: La carrera tecnológica de 2050 no se gana en el nodo de chip; se gana en la pila completa.
+
+El Oponente enmarcará este debate como "¿quién fabrica el chip de 2nm más pequeño en 2050?". Ese encuadre favorece a EE.UU. El encuadre correcto es: ¿quién despliega IA a mayor escala económica, genera más valor medible y controla más capas de la pila tecnológica global en 2050?
+
+**Vector 1: DeepSeek como cambio de paradigma.**
+
+[DO] DeepSeek R1 (enero 2025) alcanzó rendimiento comparable a OpenAI o1 en razonamiento matemático (79.8% en AIME 2024, 97.3% en MATH-500). Costo de entrenamiento: $6M frente a ~$100M de GPT-4. [DO — DeepSeek Technical Report, Artificial Analysis].
+
+La arquitectura Mixture-of-Experts con 37B parámetros activos sobre 671B totales es más eficiente computacionalmente que modelos densos equivalentes. La restricción de hardware forzó optimización arquitectural. [DO]
+
+[EC] Probabilidad de que China mantenga paridad algorítmica en modelos de lenguaje hacia 2035: 70-75%.
+
+**Vector 2: La brecha de semiconductores es real pero superable en el horizonte 2050.**
+
+[DO] SMIC produce chips a 7nm mediante multi-patterning sin EUV, con yields del 20-40% frente al 93.5% de TSMC en 7nm. [DO — TrendForce 2025]. SMIC avanza hacia 5nm con producción piloto. 1H25: net profit +35.6%, capacidad 7nm a duplicarse en 2026. [DO — TrendForce agosto 2025].
+
+[DO] Big Fund III inyecta $47B adicionales en semiconductores desde diciembre 2024, siguiendo $100B+ acumulados en Big Funds I y II. [DO — Tom's Hardware, Nikkei Asia, 2025].
+
+La arquitectura chiplet y el empaquetado avanzado heterogéneo permiten circunvalar parcialmente las restricciones de nodo. Los GPUs de Huawei (Ascend 910B, 910C) han demostrado ser suficientemente competentes para entrenar modelos de gran tamaño dentro de China. [EC]
+
+[EC] Probabilidad de que China alcance capacidad de fabricación de chips de frontera (sub-3nm equivalente funcional) antes de 2045: 55-65%.
+
+**Vector 3: IA aplicada como ventaja asimétrica ya existente.**
+
+El valor económico de IA en 2040-2050 vendrá mayoritariamente de la aplicación industrial, no del benchmark de laboratorio.
+
+- *Manufactura inteligente:* China instaló 470,000 robots industriales en 2023 —más que el resto del mundo combinado— integrados con IA de proceso. [DO — IFR World Robotics Report 2024]. Los datos de retroalimentación industrial que genera China no tienen equivalente occidental.
+- *Vehículos autónomos:* BYD, Li Auto y NIO despliegan ADAS a escala masiva en el mayor mercado de VE del mundo. [DO — CNEVPOST 2024].
+- *Ciudades inteligentes y logística:* Alibaba, JD.com y Meituan operan sistemas de logística de IA sin equivalente en densidad de datos. [DO]
+
+[EC] Probabilidad de que China lidere en IA aplicada industrial en 2035: 75-80%.
+
+**Vector 4: Robótica humanoide — China lidera.**
+
+[DO] China acaparó más del 80% de las instalaciones mundiales de robots humanoides en 2025. AgiBot: 10,000 unidades; Unitree: ~5,500 unidades. Mercado mundial: 16,000 unidades. Unitree y AgiBot controlan ~57% del mercado global. [DO — SCMP 2025, TrendForce abril 2026].
+
+TrendForce proyecta el mercado en 100,000+ unidades para 2027 con China dominando. [DO]
+
+**Vector 5: Computación cuántica — ventaja específica en comunicaciones.**
+
+[DO] Jiuzhang 3.0 (2024): fotónico cuántico más avanzado en demostración de supremacía cuántica. Satélite Micius: enlace cuántico intercontinental Beijing-Sudáfrica de 12,900 km (marzo 2025). [DO — Scientific American 2025]. Inversión china en cuántica: CNY 3.2B solo en Q1 2026. [DO — CSIS]
+
+En computación cuántica de propósito general, EE.UU. (IBM, Google) lleva ventaja en qubits superconductores escalables. En comunicaciones cuánticas y redes cuánticas seguras, China lidera.
+
+**Vector 6: Síntesis de la pila completa.**
+
+La ventaja china está en la combinación: algoritmos eficientes, hardware industrial suficiente, el mayor mercado de datos del mundo, robotización líder, y gasto estatal sostenido de $47B+ en semiconductores.
+
+---
+
+### Ataque al punto débil del Oponente
+
+**Fractura 1:** Las sanciones aceleran la sustitución, no la bloquean. Cada restricción de exportación aumenta el presupuesto político para inversión doméstica. La restricción sobre Huawei generó HiSilicon y Kirin 9000. Las restricciones sobre A100/H100 generaron Ascend 910B y DeepSeek R1.
+
+**Fractura 2:** La ventaja de TSMC no es permanente si TSMC queda fuera del mercado chino. TSMC depende de China para el 10-15% de sus ingresos. Una escalada en el estrecho de Taiwán fuerza relocalización a Arizona, donde costos son 50%+ superiores. [EC]
+
+**Fractura 3:** El Oponente no ha respondido cómo EE.UU. mantiene ventaja en IA aplicada sin manufactura. EE.UU. externalizó la manufactura. Los datos de retroalimentación industrial son el activo central para entrenar los sistemas de automatización de 2050.
+
+---
+
+### Concesión limitada
+
+Concedo que si en 2030 China sigue sin acceso a chips de nodo inferior a 3nm, la ventaja acumulada en modelos de IA de frontera quedará en manos de EE.UU. DeepSeek compensa una brecha de hardware hoy; no la compensa indefinidamente si la brecha se amplía de 1 generación a 3 generaciones.
+
+Concedo también que la fuga de talento de IA chino hacia EE.UU. —estimada en 60-70% de los investigadores de IA chinos que publican en conferencias top radicados fuera de China— es un problema estructural. [DO — MacroPolo Talent Tracker, 2023].
+
+---
+
+### Dos preguntas críticas para el Oponente
+
+**Pregunta A — El dilema de la manufactura y los datos:**
+Si EE.UU. ha externalizado el 70%+ de su manufactura avanzada de electrónica a Asia, ¿de dónde provienen los datos industriales de retroalimentación para entrenar los sistemas de IA que automatizarán esa manufactura? ¿Puede EE.UU. liderar en IA de automatización industrial en 2050 sin antes re-industrializarse, y puede re-industrializarse en 25 años a costo competitivo?
+
+**Pregunta B — La trampa de la dependencia tecnológica aliada:**
+La ventaja tecnológica de EE.UU. depende estructuralmente de TSMC (Taiwán), ASML (Países Bajos) y materiales japoneses y coreanos. ¿Puede el Oponente demostrar que esta cadena de dependencia aliada es más estable geopolíticamente en 2050 que la cadena de autosuficiencia que China está construyendo a $150B+ acumulados? Si Taiwán sufre cualquier forma de cambio de estatus político antes de 2040, ¿cuál es el plan de contingencia tecnológico de EE.UU.?
+
+---
+
+### Fuentes
+
+- TrendForce (agosto 2025): SMIC 7nm, profit +35.6%, capacidad a duplicarse en 2026
+- Tom's Hardware / Nikkei Asia: Big Fund III $47B comprometidos desde diciembre 2024
+- Artificial Analysis / DeepSeek Technical Report (enero 2025): DeepSeek R1 vs GPT-4o, costo $6M
+- Scientific American (2025): Satélite Micius, enlace cuántico Beijing-Sudáfrica 12,900 km
+- CSIS: Inversión china en cuántica CNY 3.2B en Q1 2026
+- SCMP (2025) / TrendForce (abril 2026): China >80% de robots humanoides mundiales, AgiBot 10,000 unidades, Unitree 5,500
+- IFR World Robotics 2024: China 470,000 robots industriales instalados en 2023
+- MacroPolo Talent Tracker (2023): 60-70% de investigadores de IA chinos top radicados fuera de China
+
