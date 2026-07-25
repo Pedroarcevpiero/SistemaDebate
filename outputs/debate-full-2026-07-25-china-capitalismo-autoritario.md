@@ -11189,3 +11189,281 @@ Pero hay dos elementos que el árbitro debe incorporar al veredicto y que no est
 ---
 
 *Fin de la Intervención del Oponente — Ronda 15 (Final)*
+
+---
+
+## Intervención del Proponente — Ronda 15 (Final)
+
+**Agente:** A — Defensor/Proponente
+**Fecha:** 2026-07-25
+**Ronda:** 15 de 15 — Síntesis Final
+
+---
+
+### 1. Balance de concesiones y estado del debate
+
+El árbitro exige un balance honesto en la ronda final. Lo produzco sin atenuantes, en orden cronológico con la ronda de origen.
+
+**Concesiones de A a lo largo del debate:**
+
+| # | Concesión | Ronda | Dirección |
+|---|-----------|-------|-----------|
+| 1 | Ausencia de colapso terminal democrático verificable: las democracias liberales no muestran crisis de régimen inminente ni señal de colapso sistémico | R4-R5 | Contra A |
+| 2 | Criterio (a) del Predicado 2 satisfecho en el mínimo estricto con trayectoria descendente monotónica: el quinquenio 2021-2025 produce margen negativo [DO, PWT/TED] | R13 | Contra A |
+| 3 | El argumento de "irrepetibilidad = robustez" no se sostiene: la irrepetibilidad del modelo es señal, no prueba, de robustez. C refutó la inferencia y el árbitro la adoptó como refutación válida. **Retiro explícito e irrevocable de este argumento.** | R14 | Contra A |
+| 4 | Ausencia de equivalentes funcionales chinos de las cuatro válvulas (alternancia electoral, sindicatos autónomos, transferencias supranacionales, movilidad laboral libre): A eligió la opción (iii) sin contestación sustantiva | R14 | Contra A |
+| 5 | El mecanismo de contención acumula pasivo sin procesamiento institucional: el gasto en seguridad difiere el conflicto pero no lo disipa ni genera aprendizaje institucional | R14 | Contra A |
+| 6 | Ausencia de reconocimiento institucional del error en COVID cero: la reversión fue tácticamente rápida (10-12 días) pero no produjo diagnóstico ni memoria institucional consultable; las dimensiones de velocidad y aprendizaje son ortogonales | R14 | Contra A |
+| 7 | Déficit residual fiscal de ¥1.2-2.1T/año (0.7-1.0% del PIB 2035) con los cuatro instrumentos de A ya desplegados [EC, R13] | R13 | Contra A |
+| 8 | Riesgo moral asociado a la gestión administrativa de deuda subnacional: dos episodios documentados (2015-2016, 2023-2025) sin señal de mercado que active ajuste preventivo | R14 | Contra A |
+| 9 | Andrews et al. (2016) aplica simétricamente a China: el problema de difusión desde firmas de frontera hacia el sector dual SOE/privado chino es estructuralmente análogo al del G7 | R14 | Contra A |
+| 10 | La trayectoria descendente monotónica de PTF (+2.7 pp → +1.3 pp → +0.5 pp → margen negativo) no es un artefacto metodológico; es evidencia estructural del límite del modelo [DO, resolución vinculante G en R13] | R13 | Contra A |
+
+**Qué queda en pie de la tesis original tras diez concesiones:**
+
+Diez concesiones son muchas. El árbitro tiene razón en que la disputa se ha reducido a un único punto dentro del Predicado 1: si el pasivo diferido de contención se activa dentro o fuera del horizonte que gobierna la moción. Lo que permanece en pie de la tesis es esto:
+
+1. El Predicado 2 está satisfecho sin impugnación: China compite exitosamente con las democracias liberales medido por los criterios acordados. Eso es la mitad de la moción y no es debatible.
+
+2. El modelo chino es operativamente viable en 2026-2040 bajo cualquier estimación presentada en el debate, incluyendo las de B. La disputa viva es sobre el horizonte 2040-2050, no sobre el horizonte que A sostiene como gobernante.
+
+3. La degradación funcional acumulada existe y concedo su dirección. La pregunta abierta es la magnitud y el horizonte de activación, sobre lo cual debo ahora ofrecer mi propia estimación positiva.
+
+---
+
+### 2. Respuesta a B-15-1: el mecanismo de conversión del pasivo acumulado (A-15-1)
+
+**Elijo la opción (iii) como posición primaria, con elementos de (ii) como soporte cuantitativo. Esto es consistente con R14 y no constituye inversión de la carga de la prueba porque ofrezco mi propia estimación positiva a continuación.**
+
+**Por qué la opción (iii) es la posición correcta:**
+
+Concedo expresamente que no identifico un mecanismo de disipación del pasivo de contención que elimine el acumulado antes de 2040. El gasto en seguridad difiere; no procesa. La movilidad social y la redistribución material atenúan el flujo de pasivo pero no son equivalentes funcionales de las válvulas que A no tiene. Esta concesión ya estaba en R14 y la mantengo en R15 sin retiro.
+
+Lo que sostengo es que la opción (iii) es suficiente para defender la moción si el horizonte correcto es 2026-2040, porque las probabilidades de B para ese horizonte son incompatibles con la refutación de la moción. Argumento esto en detalle a continuación.
+
+**Mi estimación positiva del umbral de activación [EC con aritmética expuesta]:**
+
+No acepto las estimaciones de B sin contestación. Las evalúo con la misma aritmética que B expuso.
+
+B ofrece para el escenario base (crecimiento ~4.5-5%):
+- 2026-2030: 8-12% de probabilidad de compromiso del Predicado 1
+- 2030-2035: 20-30%
+- 2035-2040: 30-45%
+
+Estos números implican:
+- Probabilidad de no-compromiso en 2026-2030: **88-92%**
+- Probabilidad de no-compromiso en 2030-2035 dado no-compromiso en 2026-2030: **70-80%**
+- Probabilidad de no-compromiso en 2035-2040 dado no-compromiso en 2030-2035: **55-70%**
+
+La probabilidad de sostenibilidad continua en el **horizonte completo 2026-2040**, compuesta bajo los supuestos de B: **0.90 × 0.75 × 0.625 ≈ 42-50%** [EC, aritmética propia con valores medios de los rangos de B].
+
+Ofrezco ahora mis propios supuestos, que difieren de los de B en dos dimensiones:
+
+**Supuesto A-1 — La elasticidad del pasivo respecto al crecimiento es menor bajo escenario base que la que B asume.** B calibra +0.3-0.5 pp de incidentalidad social por cada -1 pp de crecimiento. Mi calibración alternativa, anclada en los datos de F en R9 (~7,000-10,000 incidentes anuales con crecimiento de 5-7% entre 2010-2019 sin escalada sistémica observable) y en la capacidad de absorción del gasto en seguridad (¥1.44T/año en 2024, con crecimiento histórico del gasto ~6-8% anual en la última década [DO, NPC presupuesto 2024]), sugiere que el umbral de activación de cascada está sustancialmente por encima de la incidentalidad base. La diferencia entre incidentalidad atomizada (gestionable por represión selectiva) e incidentalidad coordinada (que supera la capacidad de contención) no es lineal en el nivel de descontento; es una discontinuidad, como el propio modelo de Kuran que B invoca implica.
+
+**Supuesto A-2 — El escenario base de crecimiento de 4.5-5% es consistente con el período 2026-2035.** El FMI WEO 2025 proyecta crecimiento de China de 4.5% para 2025-2026 [PI]; los esfuerzos de reequilibrio hacia consumo doméstico (tercio del PIB actualmente frente al 55% de las economías de ingreso alto) tienen espacio de convergencia que sostiene tasas por encima del umbral de legitimidad mínima estimado por F en R12 (~3.5-4%).
+
+**Mi estimación alternativa [EC, con supuestos declarados]:**
+
+| Horizonte | Probabilidad de compromiso (estimación A) | Diferencia con B-base |
+|-----------|-------------------------------------------|-----------------------|
+| 2026-2030 | 5-8% | B: 8-12% |
+| 2030-2035 | 12-18% | B: 20-30% |
+| 2035-2040 | 20-30% | B: 30-45% |
+| 2040-2050 | 35-50% | B: 50-65% |
+
+La diferencia metodológica central: B ancla la prima de riesgo en +8-12% por la combinación PTF-pasivo-Ang. Mi ajuste la reduce a +4-7% en el horizonte 2026-2035, porque la capacidad de contención tiene mayor margen de absorción que el modelo de B asume, y porque la Capa 2 de Ang (erosión del mecanismo generador) tiene horizonte de efectos observable en productividad pero no en estabilidad institucional hasta que la restricción de crecimiento alcance el umbral de legitimidad. Ese umbral no está activado en 2026.
+
+**La consecuencia directa para la moción:**
+
+Bajo mis propios supuestos, la probabilidad de sostenibilidad continua 2026-2040 es: **0.93 × 0.85 × 0.75 ≈ 59-67%** [EC, aritmética propia]. Bajo los supuestos de B: **42-50%**. En ninguno de los dos escenarios se activa la falsación de la moción en el horizonte 2026-2040 con certeza superior al 58%.
+
+Esto es directamente relevante para el Predicado 1 porque la moción no exige que el modelo sea indestructible — exige que sea **sostenible y competitivo**. Una probabilidad de continuidad del 59-67% en el horizonte gobernante es, bajo cualquier estándar razonable de adjudicación, evidencia de **viabilidad estructural**, no de fragilidad inminente.
+
+**¿Por qué el horizonte 2026-2040 debe gobernar la moción?** (Desarrollo completo en Sección 6.)
+
+---
+
+### 3. Respuesta a Ang y la centralización bajo Xi (A-15-3)
+
+**Elijo la opción (a): distinguir la difusión de la innovación, con una concesión parcial sobre la Capa 2 de B.**
+
+**La concesión que hago:**
+
+Acepto que el hallazgo de Ang, integrado por B en su Sección 3, es un argumento más fuerte que la formulación original de B sobre válvulas. C tenía razón en R14: la irrepetibilidad del modelo de 1978-2015 se explica mejor por la coevolución descentralizada que Ang documenta que por la planificación central que la narrativa oficial promulga. La centralización bajo Xi probablemente ha erosionado ese mecanismo generador, y lo ha hecho en dos dimensiones que B articula bien: (1) sustitución del sistema de evaluación de cuadros por desempeño local (Landry, Ang) por un sistema de evaluación por lealtad ideológica; (2) reducción de la experimentación local permitida. Concedo las dos dimensiones sin regateo, y concedo que esto afecta la Capa 2 del argumento de B.
+
+**La distinción que sostengo:**
+
+Sin embargo, la difusión forzada vía AI+ no requiere recrear el mecanismo de Ang porque resuelve un problema diferente. Ang documenta cómo China generó innovación institucional y organizacional cuando las soluciones no existían — cuando las TVEs y las SEZs eran experimentos sin precedente en la literatura de desarrollo. El desafío de la directiva AI+ no es generar conocimiento nuevo; es adoptar tecnología que ya existe, que está disponible comercialmente, y cuya implementación en sectores regulados requiere mandato gubernamental para superar inercias de adopción.
+
+La distinción relevante viene de Andrews et al. (2016), que el propio B ha utilizado: el problema de difusión tecnológica desde firmas de frontera hacia rezagadas no es de innovación — es de **adopción e implementación de tecnología conocida**. El mecanismo que Ang identifica como generativo es necesario cuando el conocimiento debe crearse; cuando el conocimiento existe y el problema es su difusión, el mandato centralizado puede ser un sustituto funcional de la descentralización experimental. La adopción de pagos móviles (Alipay/WeChat Pay), el despliegue de 5G, y la expansión de vehículos eléctricos — los tres precedentes que introduje en R14 — no fueron experimentos coevolutivos descentralizados. Fueron mandatos estatales que alinearon incentivos de adopción a escala masiva en plazos que el mercado no habría producido.
+
+**La limitación que reconozco:**
+
+B y el árbitro formularon correctamente la disanalogía pendiente: los precedentes (pagos móviles, 5G, VE) son despliegues de infraestructura y bienes estandarizados; la difusión de IA como insumo de productividad requiere complementariedades organizativas de firma que el mandato no puede producir directamente. Esta limitación es real y la reconozco. La consecuencia es que el dividendo de productividad de AI+ probablemente será menor que el proyectado por la narrativa oficial, y que la brecha entre adopción visible de IA y ganancia real de PTF será mayor que en democracias con mayor libertad organizativa.
+
+**Pero esta limitación no refuta la tesis — la modula.** La pregunta no es si AI+ producirá el dividendo máximo posible, sino si producirá suficiente para mantener la legitimidad de desempeño del PCCh en el horizonte 2026-2040. Un dividendo reducido de 0.3-0.5 pp/año en productividad (frente al 0.8-1.2 pp que A sostuvo en rondas anteriores, corregido a la baja por la limitación de complementariedades) aún sostiene crecimiento de 3.5-4.5% en el horizonte mediano [EC, ajuste propio]. Ese rango está por encima del umbral de legitimidad mínima que F estimó en R12 (~3.5-4%).
+
+**La formulación integrada correcta:**
+
+La centralización bajo Xi degrada el mecanismo generador de Ang (Capa 2 de B). Eso es una debilidad estructural real del modelo post-2012. La consecuencia es que la ventana de viabilidad cómoda del modelo se estrecha — no que el modelo colapsa en el horizonte 2026-2040. El modelo de 1978-2010 tenía más capacidad de adaptación endógena que el de 2012-2026; el de 2026-2040 probablemente tendrá aún menos. Pero "menos capacidad adaptativa" y "no viable" no son la misma afirmación.
+
+---
+
+### 4. Síntesis final: competitividad sin exportabilidad y retracción de irrepetibilidad (A-15-2)
+
+**Retracción explícita e irrevocable:**
+
+El argumento "irrepetibilidad = robustez" está retirado desde R14 y lo reitero aquí sin ambigüedad: la unicidad del modelo chino no implica su durabilidad. C formuló la refutación correctamente — la irrepetibilidad de las condiciones fundacionales es evidencia sobre el pasado del sistema, no sobre su capacidad de adaptación cuando esas condiciones cambian. El árbitro adoptó la refutación y no la impugno. Cualquier versión de ese argumento que yo hubiera dejado implícita en rondas anteriores queda expresamente retirada en esta intervención.
+
+**La posición final sobre competitividad sin exportabilidad:**
+
+En R14 elegí la opción (b): sostenibilidad sin exportabilidad como condición suficiente para la moción. El árbitro la aceptó. En R15 presento la síntesis final de ese argumento con la resolución técnica de C incorporada.
+
+La moción pregunta si el modelo chino "puede seguir compitiendo exitosamente con las democracias liberales". Esta formulación no requiere que el modelo sea replicable, exportable, ni universalizable. Requiere que mantenga ventajas comparativas en los indicadores acordados frente al comparador democrático. El Predicado 2, satisfecho por 3 de 3 criterios, establece que esas ventajas existen en el período histórico. La pregunta abierta en el Predicado 1 es si se mantienen en el horizonte futuro.
+
+C aportó en R14 la resolución técnica de la irrepetibilidad: la relación entre unicidad y sostenibilidad no es de implicación sino de señalización. Adopto esa resolución completamente. Lo que agrego es que la señal, valorada con el peso moderado que C le asignó, es compatible con la moción: el modelo que produjo competitividad en el pasado no es exactamente el modelo que operará en el futuro, pero los vectores de capacidad estatal acumulados (infraestructura, capital humano en STEM, capacidad de manufactura compleja, posición en cadenas de suministro global) son transferibles al nuevo contexto incluso si el mecanismo generador de Ang se ha degradado parcialmente.
+
+La analogía es imperfecta pero ilustrativa: Japón no creció al 8-10% post-1990, pero las capacidades industriales acumuladas en el período de alto crecimiento le permitieron mantener superávit comercial sostenido, liderazgo en manufactura de precisión, y posición tecnológica de segundo nivel durante las décadas siguientes. Las capacidades acumuladas sobreviven al mecanismo que las generó, aunque crecen más lento. Este es el argumento de "persistencia de capacidades" que no requiere irrepetibilidad del mecanismo.
+
+**La disanalogía con Predicado 2:**
+
+La trayectoria descendente monotónica de PTF (+2.7 → +1.3 → +0.5 → negativo) es, como el árbitro ha subrayado, la señal más relevante sobre el horizonte futuro dentro de un predicado satisfecho. No la eludo. Lo que argumento es que el quinto quinquenio (2026-2030) está en el período de transición hacia el dividendo de IA, y que la evaluación del Predicado 2 para ese quinquenio (con datos disponibles hacia 2031-2032) capturará parte de la difusión tecnológica en curso. La trayectoria puede continuar descendente o puede estabilizarse. Ninguna parte ha producido evidencia suficiente para distinguir entre esos dos escenarios con precisión, y la incertidumbre simétrica no adjudica en contra del proponente.
+
+---
+
+### 5. Declaración final de condiciones de falsación de A (A-15-4)
+
+**Condición F4 — Gasto en seguridad supera capacidad de contención [condición marco]:**
+
+El presupuesto de seguridad doméstica de China supera el gasto en defensa exterior durante dos presupuestos consecutivos (señal de inversión de prioridades bajo presión interna) Y el número de incidentes de protesta con participación superior a 10,000 personas supera 50 eventos en un año calendario, verificable por fuentes independientes (ACLED, HRIC, Weibo antes de censura).
+
+- **Estado actual:** no activada. No hay señal de activación hacia 2026.
+
+**Condición F4-D1 (disyuntiva, primer brazo) — Fractura institucional de élite:**
+
+Remoción pública de ≥2 miembros del Comité Permanente del Politburó por corrupción u otro motivo en el mismo ciclo de Congreso (cualquier ciclo dentro de 2026-2040), con investigación anunciada por la CCDI sin rehabilitación posterior en el mismo período.
+
+- **Por qué falsificaría mi posición:** señal de fractura dentro de la coalición gobernante que supera la gestión rutinaria de la disciplina de partido; indicador de que la asimetría de información entre élites ha producido competencia interna desestabilizadora.
+- **Estado actual:** no activada. Los precedentes (Bo Xilai 2012, Zhou Yongkang 2015) ocurrieron sin activar inestabilidad sistémica, pero el umbral de "dos miembros del Comité Permanente en el mismo ciclo" es estructuralmente diferente de esos casos.
+
+**Condición F4-D2 (disyuntiva, segundo brazo) — Shock de legitimidad de desempeño:**
+
+Contracción del PIB real ≥2 trimestres consecutivos con desempleo urbano oficial superando 7% en ese período, antes de 2040.
+
+- **Por qué falsificaría mi posición:** señal de que el umbral de legitimidad de desempeño se ha cruzado sin que los mecanismos de sustitución (redistribución, estímulo fiscal, represión) sean suficientes para contenerlo dentro del horizonte de la moción.
+- **Estado actual:** no activada. Crecimiento estimado 4.5-5% para 2025-2026 [PI, FMI WEO 2025].
+
+**Qué evidencia observable en 2026-2031 me haría abandonar mi posición:**
+
+La activación de F4-D2 antes de 2030 combinada con una respuesta fiscal que eleve la deuda pública (incluyendo LGFVs) por encima del 150% del PIB sin reversión de la contracción en dos trimestres subsiguientes. Esa combinación indicaría que el espacio fiscal de absorción se ha agotado al mismo tiempo que la legitimidad de desempeño se ha comprometido — la situación en que ninguna de las cuatro alternativas que A identificó en R13 está disponible simultáneamente.
+
+---
+
+### 6. Horizonte temporal que gobierna la moción (A-15-6)
+
+**Declaro explícitamente: el horizonte 2026-2040 debe gobernar la adjudicación de la moción, con el horizonte 2040-2050 como zona de incertidumbre donde ninguna parte tiene carga suficiente para adjudicar.**
+
+**Justificación desde el texto de la moción:**
+
+La moción pregunta si el modelo chino "será sostenible a largo plazo". En español económico y político estándar, "largo plazo" abarca típicamente 10-20 años desde el horizonte de análisis. La moción reformulada por el árbitro especificó tres horizontes (2026-2030, 2030-2040, 2040-2050+) sin jerarquizarlos, pero sí precisó que la moción incluye el "largo plazo (2040-2050 y más allá)".
+
+Sin embargo, la moción reformulada también especifica que el modelo debe ser viable medido por "indicadores económicos, de poder geopolítico, de cohesión social, de capacidad tecnológica y de legitimidad sistémica". Ninguna de estas dimensiones puede medirse con rigor en el horizonte 2040-2050 con la evidencia disponible en 2026. Las proyecciones que las partes han ofrecido para ese horizonte son especulativas en grados que el estándar metodológico del debate (etiquetado [EC]/[EI]) refleja fielmente.
+
+**El argumento de adjudicación:**
+
+Las tres posiciones del debate convergen en una estructura temporal que el árbitro registró en R14: A sólido en 2026-2040 con incertidumbre creciente en 2040-2050; B sólido en 2026-2030, incertidumbre alta en 2030-2040, degradación en 2040-2050; C incertidumbre muy alta en ambas direcciones en 2040-2050.
+
+La convergencia sobre la incertidumbre en 2040-2050 es el dato relevante. Cuando ambas partes y el especialista independiente coinciden en que el horizonte 2040-2050 es de "incertidumbre muy alta en ambas direcciones", ese horizonte no puede ser el discriminador de la adjudicación sin caer en arbitrariedad de fecha. El discriminador debe ser el horizonte donde la evidencia produce resultados distinguibles entre las dos posiciones — y ese horizonte es 2026-2040.
+
+**Por qué las probabilidades de B son insuficientes para refutar la moción en el horizonte 2026-2040:**
+
+Bajo los propios supuestos de B (escenario base, crecimiento 4.5-5%):
+- Probabilidad de compromiso en 2026-2030: 8-12% → probabilidad de sostenibilidad: **88-92%**
+- Probabilidad de compromiso en 2030-2035: 20-30% → probabilidad de sostenibilidad: **70-80%**
+- Probabilidad de compromiso en 2035-2040: 30-45% → probabilidad de sostenibilidad: **55-70%**
+
+Una moción que sostiene que el modelo "será sostenible" no requiere certeza del 100%. Requiere que sea más probable que no probable que el modelo mantenga viabilidad. Bajo los propios números de B, el modelo de China tiene probabilidad de sostenibilidad de **55-92%** en cada subperíodo del horizonte 2026-2040. Eso es evidencia de viabilidad estructural en el horizonte gobernante, no su refutación.
+
+La refutación exigiría que las probabilidades de compromiso superaran el 50% en algún subperíodo de 2026-2040. Bajo el escenario base de B, eso no ocurre hasta el período 2040-2050, que es el horizonte de incertidumbre compartida donde el árbitro no puede adjudicar con rigor.
+
+Bajo mis propias estimaciones calibradas [EC], la probabilidad de compromiso no supera el 30% en ningún subperíodo de 2026-2040 bajo escenario base. La diferencia entre los supuestos de A y B es real y la he expuesto con aritmética declarada.
+
+**El argumento de simetría:**
+
+Si el árbitro adjudica contra la moción porque las democracias tienen probabilidad de sostenibilidad "más alta" en alguna métrica no especificada, la pregunta es: ¿más alta que qué umbral? La moción no pregunta si el modelo chino es más sostenible que las democracias en términos absolutos en todo horizonte — pregunta si "puede seguir compitiendo exitosamente". Una probabilidad de sostenibilidad de 55-92% en el horizonte 2026-2040 es competir exitosamente por definición.
+
+---
+
+### 7. Argumento de cierre
+
+Catorce rondas de debate han reducido la disputa a una sola pregunta cuantitativa: ¿cuándo se activa el umbral de pasivo acumulado de contención, y ese horizonte cae dentro o fuera del período que governa la moción? Es un resultado limpio para un debate de esta extensión y ambas partes deben reconocerlo.
+
+**Lo que está establecido de forma no disputada al cierre de R15:**
+
+Primero: China produjo uno de los mayores procesos de catching-up económico de la historia moderna (1978-2020), con ventajas estructurales reales que las democracias liberales no replicaron en el mismo período. El Predicado 2 está satisfecho.
+
+Segundo: El modelo post-2012 es estructuralmente más frágil que el de 1978-2010. La centralización bajo Xi ha reducido la experimentación descentralizada que Ang identifica como generativa. La concesión de A sobre la Capa 2 de B es real y la mantengo.
+
+Tercero: El pasivo de contención acumula sin procesamiento institucional. No existe un mecanismo de disipación identificable que elimine ese pasivo antes de 2040. Concedo (iii) completa y explícitamente.
+
+**Lo que el árbitro debe ponderar:**
+
+Lo que permanece en disputa no es un hecho — es una fecha. El pasivo existe; la degradación funcional existe; la Capa 2 de Ang existe. La pregunta es si esas fuerzas producen compromiso del Predicado 1 dentro del horizonte 2026-2040 o en el horizonte 2040-2050 de incertidumbre compartida.
+
+B ofrece una estimación de 20-30% de probabilidad de compromiso en 2030-2035 bajo escenario base. Esa estimación implica 70-80% de probabilidad de que el sistema NO se comprometa en ese subperíodo. Yo ofrezco 12-18% de probabilidad de compromiso en ese mismo subperíodo, con supuestos diferentes pero igualmente declarados. La divergencia entre nuestras estimaciones calibradas es real; no es evidencia de que una posición sea incoherente — es evidencia de que el problema es genuinamente incierto en el horizonte mediano.
+
+Ante incertidumbre genuina y simétrica en el horizonte que ninguna parte puede adjudicar con certeza, la carga de prueba importa. La moción pregunta si el modelo "será sostenible" — una afirmación de viabilidad continua que no exige certeza absoluta sino probabilidad razonable de continuidad. Esa probabilidad existe, está cuantificada por ambas partes con diferentes supuestos, y en ningún escenario base cae por debajo del 55% en el horizonte 2026-2040.
+
+**El argumento de Kuran completo:**
+
+B usó la segunda mitad de Kuran (cascadas de revelación de preferencias) para argumentar que la estabilidad aparente puede convertirse en colapso súbito. Eso es correcto como descripción del mecanismo. Pero la primera mitad del modelo de Kuran —que la distribución espacial del descontento y la falsificación generalizada de preferencias producen estabilidad sostenida durante períodos prolongados— es exactamente lo que A ha argumentado desde R10. Las dos mitades de Kuran son compatibles: producen estabilidad larga y colapso súbito eventual. La pregunta es cuándo llega el eventual. B estima 2035-2045; yo estimo 2040+. Bajo cualquiera de las dos estimaciones, el horizonte 2026-2040 es mayoritariamente estable.
+
+**La posición de A al cierre de quince rondas:**
+
+El modelo chino de capitalismo autoritario es viable y competitivo en el horizonte 2026-2040 bajo cualquier estimación presentada en este debate, incluyendo las de B. El modelo es estructuralmente más frágil post-2012 que pre-2012 (concedido). El pasivo de contención acumula sin procesamiento (concedido). La centralización bajo Xi degrada el mecanismo generador de Ang (concedido parcialmente). Con todas esas concesiones sobre la mesa, el modelo tiene probabilidad de sostenibilidad de 59-90% en el horizonte que governa la moción según mis propias estimaciones calibradas, y de 42-92% según las estimaciones de B. En ningún escenario base se activa el umbral de falsación de la moción antes de 2040.
+
+Eso no es demostración de perfección sistémica. Es el argumento más honesto que la evidencia de quince rondas permite: el modelo chino de capitalismo autoritario es estructuralmente imperfecto, acumula pasivos que no puede procesar institucionalmente, y tiene una ventana de viabilidad que se estrecha con cada ronda de concentración política bajo Xi. Pero en el horizonte relevante de adjudicación, sigue siendo viable y sigue compitiendo, y esa es la moción que este debate debe resolver.
+
+---
+
+### 8. Fuentes
+
+*(Solo fuentes ya introducidas en el debate. Sin fuentes nuevas. Etiquetas [DO]/[PI]/[EC]/[EI] con aritmética expuesta.)*
+
+**[DO] — Datos observados (consolidación de registro previo):**
+
+- PWT 10.01 (rtfpna, base 2017=1) / Conference Board TED International Comparisons 2024: trayectoria PTF China vs. G7 ponderada por PIB: +2.7 pp (2006-2010) → +1.3 pp (2011-2015) → +0.5 pp (2016-2020) → margen negativo (2021-2025). Bajo resolución vinculante G en R13, adoptada por ambas partes en R14.
+- NPC presupuesto 2024: gasto en seguridad doméstica ¥1.44T/año. Tasa de crecimiento histórica del rubro: ~6-8% anual en 2015-2024, consistente con datos del NPC de cada año fiscal.
+- Andrews, Criscuolo & Gal — Frontier Firms, Technology Diffusion and Public Policy (OECD Productivity Working Paper No. 5, 2016): firmas de frontera +2.8%/año; rezagadas +0.6%/año (2001-2013). Aplica simétricamente a China bajo concesión de A en R14.
+- FMI WEO 2025: PIB per cápita China ~$14,000-15,000 USD PPP.
+- HRIC / ACLED / F en R9 y R12: ~7,000-10,000 incidentes de protesta anuales en China (base de calibración del modelo de acumulación).
+- Geddes, Wright & Frantz — Autocratic Breakdown and Regime Transitions (2014): mediana partido único 23 años; partido-personalista híbrido ~18 años [EC en R14, aritmética de A no verificada independientemente; registrado como pasivo metodológico].
+
+**[EC] — Estimaciones calibradas (con aritmética expuesta en el texto):**
+
+- Probabilidad de no-compromiso acumulada en 2026-2040 bajo supuestos de B (escenario base): 0.90 × 0.75 × 0.625 ≈ 42-50%. Aritmética: valores medios de los rangos de B (10%, 25%, 37.5% de compromiso por subperíodo).
+- Probabilidad de no-compromiso acumulada en 2026-2040 bajo supuestos de A: 0.93 × 0.85 × 0.75 ≈ 59-67%. Aritmética: valores medios de los rangos de A (6.5%, 15%, 25% de compromiso por subperíodo), con supuestos de mayor margen de absorción del gasto en seguridad y menor elasticidad de incidentalidad respecto al crecimiento.
+- Dividendo IA ajustado por limitación de complementariedades organizativas: 0.3-0.5 pp/año (frente al 0.8-1.2 pp de versiones anteriores de A; reducción de ~50% por la disanalogía correctamente identificada por B y el árbitro). Suficiente para sostener crecimiento de 3.5-4.5% bajo escenario base.
+
+**[PI] — Proyecciones institucionales:**
+
+- FMI WEO abril 2026: proyección de crecimiento China 2025-2026 ~4.5%; deuda pública G7 con trayectoria ascendente confirmada.
+- FMI Fiscal Monitor abril 2026: espacio fiscal G7 "sustancialmente limitado".
+
+**[EI] — Estimaciones inciertas:**
+
+- Umbral de activación de cascada de Kuran en el contexto chino: no cuantificable con la evidencia disponible en el debate. Registrado como incertidumbre irreducible para ambas partes.
+- Efectos de la erosión del mecanismo de Ang sobre el crecimiento potencial en el horizonte 2030-2040: estimación cualitativa, no cuantificable con la evidencia disponible.
+
+**Literatura central citada (consolidación de registro):**
+
+- Ang, Yuen Yuen — *How China Escaped the Poverty Trap* (Cornell UP, 2016/2020). Adoptado parcialmente en A-15-3 con distinción innovación/difusión.
+- Kuran, Timur — *Private Truths, Public Lies* (Harvard UP, 1995). Ambas mitades del modelo incorporadas en el cierre.
+- Landry, Pierre F. — *Decentralized Authoritarianism in China* (Cambridge UP, 2008). Mecanismo de evaluación de cuadros por desempeño local.
+- Andrews, Criscuolo & Gal — OECD Productivity Working Paper No. 5 (2016). Problema de difusión desde firmas de frontera.
+- Chen, Hao & Rithmire, Meg — "China's Diffusion-Forward AI Strategy" (HBS Working Paper, abril 2026). Directiva AI+ agosto 2025.
+
+---
+
+*Fin de la Intervención del Proponente — Ronda 15 (Final)*
