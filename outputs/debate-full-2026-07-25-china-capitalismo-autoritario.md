@@ -1175,3 +1175,115 @@ El Agente B necesita identificar el actor concreto — no "los mercados" en abst
 ## Evaluación Parcial del Árbitro (G) — Ronda 2
 
 El Agente B presentó el argumento más sólido de esta ronda: su descomposición del crecimiento 1980-2025 en tres condiciones irrepetibles (dividendo demográfico con la caída de dependencia de 68.38% a 36.49%, el bono de adhesión a la OMC y el agotamiento del punto de Lewis hacia 2010), anclada en la ruptura de pendiente de la PTF (+4% a ~1% post-2007), convierte la evidencia de capacidad instalada de A en un problema de retorno sobre el capital, y su señalamiento de selección de evidencia —citar el 4.6% del FMI para 2026 omitiendo el 3.5% para 2030 y el deflactor de -0.7% del mismo IMF Country Report 26/44— es una refutación metodológica que A no anticipó. El punto más fuerte de A fue mostrar que la convergencia simple no explica el diferencial frente a India, Brasil y África, y su reto comparado Japón/Corea es legítimo; su punto más débil, reconocido por el propio B, fue el argumento de "reequilibrio institucional", donde A infiere liderazgo colectivo de unos Reglamentos de junio de 2025 cuyo texto citado establece precisamente "liderazgo centralizado y unificado", apoyándose además en Vision Times, fuente de baja fiabilidad, mientras B contrapone el mismo medio (The Diplomat, diciembre 2025) en sentido opuesto. Como evidencia débil o metodológicamente cuestionable señalo, en A: el uso de Worldometers y Global Times como intermediarios de datos primarios del FMI y del Banco Mundial, la cita de una proyección de Goldman Sachs de 2022 (superación en 2035) sin verificar revisiones, y la afirmación de "primera señal de escape" de la trampa del ingreso medio basada en una columna de opinión del SCMP; en B: la conversión del "+61% vs. 41% contrafactual" del estudio de Cambridge en "+20pp" tabulado sin explicitar el método sintético ni su intervalo de incertidumbre, y la afirmación de que la proyección de Goldman "ha sido revisada" sin aportar la fuente de la revisión.
+
+### Agente B (Crítico) — Ronda 3
+
+---
+
+#### Respuesta directa a Agente A
+
+El Agente A ha construido un argumento sofisticado en esta ronda. Reconozco su precisión en la distinción "crisis de flujo vs. crisis de stock" — esa taxonomía es correcta y la utilizaré como estructura de mi respuesta. También reconozco que la comparación directa con Argentina 2001 o Grecia 2010 es incorrecta dado el perfil de deuda en renminbi. Lo que voy a demostrar, sin embargo, es que el argumento del "control simultáneo" de deudores y acreedores tiene una falacia estructural que el Agente A no examinó: ese control no hace desaparecer las pérdidas, las transfiere al sector público acumulando pasivos contingentes que generan su propia trampa. Adicionalmente, identificaré los actores institucionales específicos que pueden producir estrés sistémico incluso dentro del perímetro de soberanía monetaria. Y mostraré que la "Japanización" que el propio A concede como resultado probable es significativamente peor para China que para Japón — no por razones simétricas, sino por tres asimetrías estructurales que A ignora.
+
+---
+
+#### Objeción principal: El "control simultáneo" como trampa, no como solución
+
+El argumento central de A es que China no puede sufrir una crisis de stock porque el Estado controla simultáneamente a deudores (SOEs, LGFVs) y acreedores (bancos estatales). El argumento tiene una premisa oculta que lo invalida: asume que el control simultáneo genera capacidad de resolución. Lo que en realidad genera es **incapacidad estructural de liquidación**.
+
+La lógica es la siguiente: si el Estado controla tanto al deudor insolvente como al banco acreedor, no puede ordenar la quiebra del deudor sin destruir simultáneamente el activo del banco. Resultado: el Estado no liquida — extiende. Esa extensión es exactamente lo que el Agente A describe como ventaja ("los bancos estatales pueden extender plazos indefinidamente"), pero la misma extensión indefinida que evita el evento sistémico abrupto genera la japonización crónica que A admite como riesgo. No es una solución: es la trampa en cámara lenta.
+
+Las pérdidas no desaparecen cuando el Estado absorbe la deuda LGFV en el balance del gobierno central. Se socializan mediante represión financiera: tasas de depósito mantenidas artificialmente por debajo de la inflación, comprimir el retorno del ahorro de los hogares para financiar el sistema bancario. Ese mecanismo de transferencia tiene un costo calculable. Un estudio del FMI de 2012 sobre represión financiera en China estimó la transferencia de ahorradores a deudores en aproximadamente 3.9% del PIB anual entre 2000-2011. Si el sistema necesita absorber pérdidas en el rango del 10-20% del PIB en deuda LGFV no recuperable (estimación de Fitch, que señala que la reestructuración alcanzó solo el 25% de la deuda oculta), esa represión financiera necesita sostenerse durante años, comprimiendo el consumo privado y ralentizando exactamente el reequilibrio hacia demanda interna que A identifica como su Reforma 2.
+
+Hay una contradicción directa en el argumento de A: no puede implementar simultáneamente la Reforma 2 (elevar consumo mediante expansión de protección social y liberar ahorro precautorio) y la represión financiera necesaria para absorber pérdidas bancarias. Son mecanismos que se oponen: uno transfiere recursos al hogar, el otro los transfiere del hogar al sistema bancario. A no puede tener ambas reformas al mismo tiempo a la escala requerida.
+
+---
+
+#### Evidencia (con fuentes)
+
+| Dato | Valor | Fuente |
+|---|---|---|
+| Absorción PBOC de inventario inmobiliario (programa RMB 300,000M, mayo 2024) | Cubre máx. 5% del stock de viviendas no vendidas | [CNBC, mayo 2024](https://www.cnbc.com/2024/05/17/china-pledges-billions-in-measures-to-support-struggling-property-sector.html) |
+| Deuda LGFV estimada FMI (2025) | 51% del PIB (~$10.4 billones USD) | Estimación FMI citada en búsqueda vía resultados web |
+| Reestructuración LGFV: deuda "oculta" cubierta (Fitch, 2025) | Solo 25% del total oculto | [Caixin Global, oct. 2025](https://www.caixinglobal.com/2025-10-28/chinas-lgfv-crackdown-shows-results-with-debt-cut-by-over-60-102376689.html) |
+| Zhongzhi Enterprise Group: pasivo declarado al colapso | RMB 420,000-460,000M (~$59-65B USD) | [CNN Business, ene. 2024](https://www.cnn.com/2024/01/05/business/chinese-shadow-bank-zhongzhi-bankrupcty); [CNBC, ene. 2024](https://www.cnbc.com/2024/01/08/zhongzhi-latest-casualty-of-chinas-deepening-debt-and-property-crisis-.html) |
+| Activos tangibles de Zhongzhi al colapso | RMB 200,000M ($28B): brecha de ~$36B | [Bloomberg, abr. 2026](https://www.bloomberg.com/news/articles/2026-04-13/china-starts-bankruptcy-liquidation-of-shadow-bank-zhongzhi) |
+| Shadow banking total China (activos WMP + trust, 2024) | RMB 53.3 billones (subida desde RMB 49B en 2023) | [BBVA Research — China Banking Monitor, abr. 2025](https://www.bbvaresearch.com/wp-content/uploads/2025/04/China-banking-monitor-2025.pdf) |
+| Emisiones offshore de LGFVs (2024) | USD 52,700M (+70% interanual) | Resultados de búsqueda sobre LGFV offshore bonds |
+| Deuda pública Japón al inicio de su crisis (1990) | 63-66% del PIB | [Bruegel — Will China's Economy Follow Japan's Path?](https://www.bruegel.org/policy-brief/will-chinas-economy-follow-same-path-japans) |
+| Deuda hogares Japón en 1990 | ~35% del PIB | [Advisors Perspectives, abr. 2024](https://www.advisorperspectives.com/articles/2024/04/03/japans-lost-decades-on-same-path) |
+| Deuda hogares China (2024) | 64% del PIB | [Global Markets Investor](https://globalmarketsinvestor.substack.com/p/chinas-debt-to-gdp-ratio-hit-a-jaw) |
+| Reducción LGFVs en lista gubernamental (a jun. 2025) | 71% de entidades eliminadas | [Caixin Global, oct. 2025](https://www.caixinglobal.com/2025-10-28/chinas-lgfv-crackdown-shows-results-with-debt-cut-by-over-60-102376689.html) |
+
+---
+
+#### Ataque específico
+
+**1. Respuesta al reto de A: los actores que pueden producir estrés sistémico dentro del perímetro de soberanía monetaria**
+
+A planteó un reto preciso: identifica el actor institucional que puede disparar una crisis de deuda dado que la denominación es en RMB, los bancos son estatales y China es acreedor externo neto. Aquí está la respuesta, con mecanismos concretos:
+
+**Actor 1: La banca en la sombra con exposición offshore.** El colapso de Zhongzhi Enterprise Group (declarado insolvente en noviembre de 2023, en liquidación por tribunal de Beijing desde abril de 2026) demuestra que el perímetro de "control estatal" no cubre el ecosistema completo. Zhongzhi gestionaba más de RMB 1 billón en activos y operó durante años fuera de la regulación bancaria estricta, canalizando fondos de inversores minoristas hacia desarrolladores inmobiliarios. Su brecha de insolvencia fue de ~$36,000 millones de dólares. El Estado no intervino con rescate; permitió la quiebra. Los RMB 53.3 billones de activos en el ecosistema shadow banking ampliado (WMPs más trust products) representan un vector de estrés que no obedece a la lógica de "el banco estatal no puede negarse a refinanciar": los productos de wealth management venden implícitamente garantías de retorno que los emisores no pueden cumplir cuando los activos subyacentes — principalmente inmobiliario — pierden valor. No es un banco estatal el que falla; es un contrato implícito con millones de ahorradores minoristas el que se rompe, y ese evento produce corridas en WMPs que fuerzan al Estado a elegir entre rescate generalizado (costo fiscal directo) o pérdida de confianza (costo político). Ninguna de las dos opciones es "gestión sin costo".
+
+**Actor 2: Gobiernos locales con bonos offshore denominados en USD.** Los LGFVs emitieron USD 52,700 millones en bonos offshore durante 2024, un incremento del 70% interanual. Estos bonos no están denominados en RMB. No tienen soberanía monetaria. El mecanismo de "extensión indefinida" no aplica aquí: los tenedores son fondos extranjeros que pueden demandar pago. La investigación de Bloomberg de 2025 revela prácticas de pagos no documentados a inversores en estas emisiones, lo que indica opacidad sistémica sobre la verdadera carga financiera. Un evento de default en bonos offshore de LGFVs — especialmente en provincias de menor rango crediticio como Guizhou o Yunnan — activaría cláusulas de cross-default que contaminarían el costo de financiamiento offshore del conjunto del sector, cortando el acceso a capital extranjero justo cuando las reservas del gobierno central se están usando para recapitalizar bancos domésticos. No es una crisis soberana en RMB; es una crisis de acceso al financiamiento externo con efectos sobre el balance de capital.
+
+**Actor 3: Los depositantes ante stress severo.** A afirma que no hay actor privado autónomo capaz de generar una corrida bancaria. Pero el caso de los pequeños bancos rurales ya es instructivo: en 2022, cuatro bancos rurales en Henan y Anhui congelaron retiros de aproximadamente 40,000 millones de yuanes, desencadenando protestas físicas en Zhengzhou. El Estado intervino con transferencias del Fondo de Garantía de Depósitos, pero el episodio demostró que las corridas minoristas son posibles incluso en el sistema chino y que su contención requiere costo fiscal explícito. Si el estrés inmobiliario se propaga más ampliamente al sistema bancario — incluyendo bancos medianos que tienen mayor exposición relativa a LGFVs que los cuatro grandes — la capacidad de contención del Fondo de Garantía (capitalización limitada) se agotaría rápidamente y la intervención directa del Tesoro sería necesaria, con impacto directo sobre el espacio fiscal que A presupone disponible para las Reformas 3 y 4.
+
+**2. Impugnación de las cuatro reformas: la trampa de incentivos del PCCh**
+
+**Reforma 1 (compra de inventario inmobiliario):** A presenta esta reforma como "instrumento ya existente". El programa del BPoC de RMB 300,000 millones anunciado en mayo de 2024 es real, pero su impacto es marginal por diseño: la evidencia disponible muestra que cubre como máximo el 5% del stock de viviendas no vendidas. El problema de absorción no es de voluntad política: es de precio. Los gobiernos locales quieren vender el inventario a precios cercanos al costo histórico; los compradores (empresas públicas locales convertidas en propietarias de vivienda social) no tienen capacidad fiscal para pagar esos precios. La brecha entre precio de libro y precio de mercado que nadie quiere reconocer es precisamente la pérdida que el sistema de "control simultáneo" protege de ser contabilizada. Más inventario comprado a precios inflados no resuelve el problema; lo transfiere al balance de las empresas públicas locales, que ya están sobre-apalancadas. El 15° Plan Quinquenal puede incluir metas de absorción, pero las metas sin mecanismo de precio real generan exactamente el tipo de acumulación de deuda oculta que produjo el problema LGFV en primer lugar.
+
+**Reforma 3 (conversión LGFV a deuda del gobierno central):** Esta reforma es la más políticamente complicada y A la trata como si fuera técnicamente directa. No lo es. La conversión de deuda LGFV a deuda central requiere que alguien reconozca las pérdidas en el balance existente. Si un LGFV de Guizhou tiene activos valorados en contabilidad en RMB 10,000 millones pero su valor real es RMB 6,000 millones, la conversión a deuda central implica que el gobierno central emite RMB 10,000 millones en bonos nuevos para absorber un activo que vale 6,000. Eso es una transferencia neta de RMB 4,000 millones desde el gobierno central (el contribuyente) hacia los funcionarios locales y los bancos que valoraron incorrectamente esos activos. En la lógica de facciones del PCCh, esa transferencia crea ganadores (gobiernos provinciales sobre-apalancados que escapan consecuencias) y perdedores (provincias fiscalmente responsables que no emitieron en exceso y cuyo espacio fiscal se usa para rescatar a las imprudentes). Ese desequilibrio de incentivos es exactamente el que ha ralentizado la reforma en Guizhou: el programa de Zunyi Road and Bridge — que extendió RMB 15,600 millones de deuda por 20 años — no es una solución de solvencia, es una extensión de madurez que posterga la decisión de absorber pérdidas. Caixin Global reporta que la reestructuración LGFV ha alcanzado el 71% de las entidades en términos de número, pero Fitch estima que solo el 25% de la deuda oculta real está resuelta. Número de entidades y monto de pérdidas absorbidas son métricas completamente distintas.
+
+**3. El argumento del control simultáneo: las pérdidas que no desaparecen**
+
+Cuantifiquemos el costo de la japonización que el propio A admite como resultado probable. Si China transita hacia un equilibrio de crecimiento del 3-3.5% en lugar del 5% actual durante la próxima década, el costo acumulado de bienestar no es trivial: la diferencia entre 5% y 3% de crecimiento anual durante 10 años es aproximadamente una diferencia del 22% en el PIB al final del período. Dado un PIB de aproximadamente USD 19 billones en 2025, eso equivale a aproximadamente USD 4.2 billones de producción "perdida" acumulada en el horizonte 2025-2035, sin contar los efectos multiplicadores sobre legitimidad política y capacidad de gasto público. La represión financiera necesaria para absorber las pérdidas bancarias implica tasas de depósito reales negativas durante años — lo que el BIS documenta como una transferencia estructural desde los hogares hacia el sistema bancario. La tasa de ahorro de los hogares chinos (34% del PIB) no caerá con represión financiera; subirá, porque el ahorro precautorio ante incertidumbre aumenta cuando los retornos financieros son negativos en términos reales. Eso es lo opuesto de la Reforma 2 de A.
+
+**4. La Japanización china es estructuralmente peor que la japonesa**
+
+El Agente A argumenta que China puede intervenir "más rápido" que Japón porque no tiene la restricción de aprobación parlamentaria ni la parálisis del LDP en los años 90. Este argumento tiene problemas empíricos y estructurales serios.
+
+Empíricamente: Forbes (febrero 2025) documenta que la economía china está trazando una trayectoria que replica el patrón de la economía japonesa post-1990, con deflación de precios al productor persistente (deflactor -0.7%), caída del valor de los activos inmobiliarios y debilitamiento del consumo. La velocidad de la intervención no ha evitado que la trayectoria se materialice; solo ha ralentizado su expresión observable.
+
+Estructuralmente, la Japanización china es peor que la japonesa por tres asimetrías que A no aborda:
+
+**Asimetría 1: Leverage inicial mayor.** En 1990, la deuda total (gobierno + corporaciones + hogares) de Japón era aproximadamente del 300% del PIB. China llega a su momento de corrección con 312-366% del PIB (Global Markets Investor; IMF Country Report 26/44), pero con un PIB per cápita que es una fracción del japonés de 1990. Japón era rico cuando se estancó; China enfrentaría el estancamiento siendo significativamente más pobre, reduciendo los amortiguadores de bienestar disponibles.
+
+**Asimetría 2: Demografía peor y sin válvula de inmigración.** La contracción demográfica de China es más abrupta que la japonesa de los años 90. Japón en 1990 todavía tenía una fuerza laboral creciente durante varios años antes de que comenzara la contracción. China ya está en declive de población en edad de trabajar y tiene una política de inmigración estructuralmente restrictiva. Japón compensó parcialmente su contracción demográfica con inmigración temporal especializada y con productividad creciente. China no tiene ninguno de estos dos mecanismos operativos a escala.
+
+**Asimetría 3: Sin deflactor externo comparable al yen.** La apreciación forzada del yen mediante el Plaza Accord de 1985 contribuyó a la burbuja japonesa al encarecer artificialmente las exportaciones. La corrección de esa apreciación fue parte del mecanismo de ajuste externo japonés. China no tiene ese mecanismo de alivio externo disponible: el renminbi está sometido a presión apreciatoria por superávit comercial, pero su depreciación competitiva está políticamente bloqueada por el riesgo de fuga de capitales y las represalias comerciales del G7. China no puede depreciar el RMB suficientemente para estimular exportaciones sin desencadenar exactamente el "sudden stop" de flujos externos que A usa como argumento de inmunidad.
+
+---
+
+#### Concesión
+
+Concedo tres puntos al Agente A en esta ronda:
+
+Primero, la distinción "crisis de flujo" vs. "crisis de stock" es analíticamente correcta y útil. No argumento que China está destinada a una crisis abrupta estilo Grecia o Argentina en el corto plazo. El argumento de B es sobre el costo crónico de la trayectoria, no sobre la probabilidad de un colapso agudo.
+
+Segundo, la comparación con la crisis de securitización de EE.UU. en 2008 es incorrecta. La deuda china no está distribuida globalmente a través de instrumentos securitizados complejos; el riesgo es principalmente doméstico. A tiene razón en este punto.
+
+Tercero, la inyección de capital en los cuatro grandes bancos (RMB 520,000 millones en abril de 2025) es un instrumento de política que Japón tardó demasiado en usar. El timing del uso de esa herramienta es mejor en China. La concesión es sobre el instrumento, no sobre el resultado: usar el instrumento más rápido no elimina el costo; solo lo distribuye de manera diferente.
+
+---
+
+#### Reto para Agente A — Ronda 4
+
+La concesión de A sobre el riesgo de "japonización prolongada" abre la pregunta central que debe responder en la siguiente intervención: si el resultado esperado en el horizonte mediano (2030-2040) es represión financiera sostenida para absorber pérdidas de deuda no recuperable, y si esa represión financiera deprime el consumo doméstico de los hogares, ¿cómo opera simultáneamente la Reforma 2 (expansión de protección social para liberar ahorro precautorio y reequilibrar hacia consumo)? Quantifique: ¿cuánto necesita gastar el gobierno en expansión de protección social para producir un cambio observable en la tasa de ahorro de los hogares, dado que Japón expandió su red de seguridad social durante los años 90 y su tasa de ahorro igualmente se mantuvo elevada durante más de una década? ¿Existe alguna evidencia empírica de que el instrumento de expansión social chino pueda producir el reequilibrio que necesita la economía dentro del horizonte 2030-2040, o el mecanismo requiere al menos una generación para materializarse en patrones de gasto observables?
+
+---
+
+**Fuentes de esta intervención:**
+
+- [CNBC — China pledges $42 billion in measures to support struggling property sector, mayo 2024](https://www.cnbc.com/2024/05/17/china-pledges-billions-in-measures-to-support-struggling-property-sector.html)
+- [Caixin Global — China's LGFV Crackdown Shows Results With Debt Cut by Over 60%, oct. 2025](https://www.caixinglobal.com/2025-10-28/chinas-lgfv-crackdown-shows-results-with-debt-cut-by-over-60-102376689.html)
+- [Atlantic Council — Beijing Extends and Pretends to Deal with Its Mountain of Local Government Debt](https://www.atlanticcouncil.org/blogs/econographics/beijing-extends-and-pretends-to-deal-with-its-mountain-of-local-government-debt/)
+- [CNN Business — Zhongzhi Enterprise Group: Chinese shadow bank files for bankruptcy, ene. 2024](https://www.cnn.com/2024/01/05/business/chinese-shadow-bank-zhongzhi-bankrupcty)
+- [CNBC — Zhongzhi latest casualty of China's deepening debt and property crisis, ene. 2024](https://www.cnbc.com/2024/01/08/zhongzhi-latest-casualty-of-chinas-deepening-debt-and-property-crisis-.html)
+- [Bloomberg — China Starts Bankruptcy Liquidation of Shadow Bank Zhongzhi, abr. 2026](https://www.bloomberg.com/news/articles/2026-04-13/china-starts-bankruptcy-liquidation-of-shadow-bank-zhongzhi)
+- [BBVA Research — China Banking Monitor 2025, abr. 2025](https://www.bbvaresearch.com/wp-content/uploads/2025/04/China-banking-monitor-2025.pdf)
+- [Bruegel — Will China's Economy Follow the Same Path as Japan's?](https://www.bruegel.org/policy-brief/will-chinas-economy-follow-same-path-japans)
+- [Forbes — China's Economic Crisis Is Tracking Japan's Downturn In The 1990s, feb. 2025](https://www.forbes.com/sites/georgecalhoun/2025/02/15/chinas-economic-crisis-is-tracking-japans-downturn-in-the-1990s/)
+- [Advisors Perspectives — Japan's Lost Decades: Are We on the Same Path?, abr. 2024](https://www.advisorperspectives.com/articles/2024/04/03/japans-lost-decades-on-same-path)
+- [S&P Global — Same Game, Different Name: China LGFV Issues to Repay Debt of a Peer, feb. 2024](https://www.spglobal.com/ratings/en/research/articles/240229-same-game-different-name-china-lgfv-issues-to-repay-the-debt-of-a-peer-13019972)
+- [RBA Bulletin — The ABCs of LGFVs: China's Local Government Financing Vehicles, oct. 2024](https://www.rba.gov.au/publications/bulletin/2024/oct/the-abcs-of-lgfvs-chinas-local-government-financing-vehicles.html)
+
