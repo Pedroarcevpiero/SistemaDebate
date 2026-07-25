@@ -238,3 +238,149 @@ Como Árbitro H declaro: no participo en el debate, no tengo posición previa, n
 
 ---
 
+
+---
+
+## Intervención del Proponente — Ronda 1
+
+### Tesis Central con Probabilidad Asignada
+
+**China superará a Estados Unidos y será la primera potencia mundial en 2050, medida por el IPNI de 10 dimensiones, con una probabilidad central del 62%.**
+
+Esta no es una predicción lineal ni una extrapolación mecánica de tendencias pasadas. Es la conclusión de analizar los mecanismos causales concretos que ya operan en 2026 y que, con una trayectoria razonablemente consistente, producen la inversión de la jerarquía de poder para mediados de siglo. La pregunta correcta no es si China tiene obstáculos — los tiene, y los reconoceré con honestidad — sino si Estados Unidos tiene suficientes contraventajas estructurales para frenarlos antes de 2050. La evidencia actual indica que no.
+
+---
+
+### Trayectoria por Dimensiones IPNI
+
+**Dimensión 1 — Economía total y PBI nominal (peso: 12.5%)**
+
+[DO] En 2025, el PBI nominal de China se estima en aproximadamente 19.6 billones de dólares versus 30.6 billones de Estados Unidos, según el FMI (World Economic Outlook, abril 2026). La brecha nominal es real y no debe minimizarse.
+
+[PI] Goldman Sachs proyecta que China superará a Estados Unidos en PBI nominal alrededor de 2035, para luego mantener la posición de líder económico hasta al menos 2050. En esa fecha, China sería la economía nominal más grande del mundo.
+
+Mecanismo causal: La convergencia se produce por tres vectores simultáneos: (a) crecimiento diferencial sostenido — China al 4-5% anual frente a un Estados Unidos proyectado al 2-2.5%; (b) apreciación gradual del yuan a medida que China internacionaliza su moneda y reduce su dependencia del ciclo exportador puro; (c) ganancias de productividad total de los factores derivadas de la adopción masiva de automatización e IA en la manufactura.
+
+**Dimensión 2 — PBI PPP, productividad y riqueza per cápita (peso: 12.5%)**
+
+[DO] China ya es la mayor economía del mundo en términos de PPP. En 2025, el FMI registra el PBI PPP de China en 41.24 billones de dólares internacionales, frente a aproximadamente 29-30 billones de Estados Unidos. China lidera esta dimensión desde 2017.
+
+[EC] La brecha de PBI per cápita PPP es la debilidad central aquí. China en 2026 tiene un ingreso per cápita PPP aproximado de $22,000-23,000 versus $85,000+ de Estados Unidos. Llegar a paridad per cápita en 2050 es improbable dado que China tiene 4.2 veces la población. Sin embargo, la dimensión IPNI no exige paridad per cápita: exige capacidad productiva y de movilización de recursos a escala nacional, donde China ya domina.
+
+Mecanismo causal: La robotización y automatización de la manufactura china permitirá mantener la competitividad sin las presiones salariales que históricamente frenaron a economías de renta media. El programa "Made in China 2025" y sus sucesores ya están redirigiendo la producción hacia sectores de alto valor agregado.
+
+**Dimensión 3 — Tecnología, IA y semiconductores (peso: 20% — dimensión decisiva)**
+
+Esta es la dimensión más disputada y, en mi tesis, la más determinante para el resultado en 2050.
+
+[DO] En 2025, China lidera globalmente en solicitudes de patentes de IA, publica más investigación de IA que cualquier otro país, y tiene el mayor número de graduados en STEM del mundo. El modelo DeepSeek R1, presentado en enero de 2025, demostró capacidades competitivas con los modelos líderes de Estados Unidos a una fracción del costo computacional. Esto no es anécdota: es evidencia de que la estrategia de eficiencia bajo restricciones está funcionando.
+
+[DO] Según datos de SIPRI y reportes del DoD de 2025, China está invirtiendo más de 100 mil millones de dólares en equipamiento de semiconductores en el periodo 2025-2027, con política explícita de autosuficiencia.
+
+[PI] Chatham House (2026) documenta que la fusión militar-civil de China está canalizando los avances comerciales en chips, drones, robótica y LLMs directamente al Ejército Popular de Liberación, acortando el ciclo de innovación-aplicación.
+
+Mecanismo causal: Las restricciones de exportación de semiconductores impuestas por Estados Unidos desde 2022 han funcionado como un acelerador paradójico: forzaron a China a invertir masivamente en cadenas de valor domésticas de chips. Para 2035, la evaluación calibrada indica que China alcanzará suficiencia en chips de lógica de 7nm+ y memoria avanzada. Para 2050, la brecha en la frontera de semiconductores se habrá reducido sustancialmente, aunque no eliminado.
+
+[EI] La incertidumbre central en esta dimensión: si Estados Unidos logra mantener una ventaja insuperable en EUV litografía y en chips de 2nm o menos durante toda la década 2030-2040, la brecha tecnológica podría persistir. Asigno un 30% de probabilidad a este escenario adverso para China.
+
+**Dimensión 4 — Poder militar (peso: 15%)**
+
+[DO] El presupuesto de defensa de China en 2025 fue de 336 mil millones de dólares, un 7.4% de incremento real sobre 2024. Estados Unidos gasta aproximadamente 886 mil millones. La brecha nominal es aproximadamente 2.6x.
+
+[EC] Sin embargo, la paridad de poder de compra militar — lo que cada dólar compra en términos de personal, equipamiento y construcción naval — reduce esta brecha a aproximadamente 1.5-1.8x en favor de Estados Unidos. China puede producir un destructor o un submarino de ataque a un costo significativamente menor que Estados Unidos.
+
+Mecanismo causal: El EPL está en medio de una modernización estructural para 2027 (centenario del EPL), con expansión de la marina de guerra, desarrollo de portaaviones, y capacidades hipersónicas y nucleares. Para 2050, la proyección calibrada es que China tendrá capacidad de proyección de fuerza regional clara y capacidad de disuasión global robusta, aunque no paridad total en capacidad de proyección global de fuerza frente a Estados Unidos.
+
+**Dimensión 5 — Moneda, finanzas y sanciones (peso: 10%)**
+
+[DO] El yuan representa actualmente menos del 3% de las reservas globales. El dominio del dólar en transacciones internacionales supera el 88%. Esta es la debilidad estructural más severa de China en el corto plazo.
+
+[EC] Sin embargo, el yuan digital (e-CNY) más la arquitectura CIPS (alternativa china a SWIFT) más los acuerdos bilaterales de comercio en yuanes con Arabia Saudita, Rusia, Brasil y otros estados del Sur Global, están construyendo una infraestructura financiera paralela. Para 2035, la evaluación calibrada es que el yuan representará 8-12% de reservas globales. Para 2050, un rango de 15-25% es plausible.
+
+Mecanismo causal: La demostración de las sanciones a Rusia en 2022 aceleró la diversificación de reservas en el Sur Global. Este efecto demostración es el principal motor de internacionalización del yuan.
+
+**Dimensión 6 — Demografía, educación y talento (peso: 10%)**
+
+[DO] La población de China alcanzó su pico en 2022 y está en declive demográfico. La tasa de fertilidad es de aproximadamente 1.0-1.1, la más baja en Asia Oriental. Esta es una vulnerabilidad real y no la minimizaré.
+
+[EC] Sin embargo, China gradúa aproximadamente 5 millones de ingenieros por año, más que cualquier otro país del mundo. La robotización y automatización actuarán como multiplicadores de productividad que compensan parcialmente el declive demográfico.
+
+Mecanismo causal: La transición de "bono demográfico" a "bono de capital humano" — China debe completar su transición hacia una economía de alto valor agregado antes de que la contracción demográfica erosione su base productiva. La ventana es 2026-2038.
+
+**Dimensión 7 — Instituciones, gobernanza y autocorrección (peso: 10%)**
+
+[EC] La narrativa occidental asume que el sistema autoritario del Partido Comunista es una debilidad institucional. La evidencia empírica de las últimas cuatro décadas indica que el sistema chino ha demostrado una capacidad notable de coordinación de política industrial a largo plazo, ejecución de infraestructura a escala, y corrección de errores en economía, aunque no en política.
+
+Mecanismo causal: La capacidad del sistema chino para asignar capital a escala, ejecutar transiciones industriales planificadas y mantener coherencia estratégica a 30 años — algo que los ciclos electorales de 4 años en democracias dificultan estructuralmente — es una ventaja real en la competición de poder a largo plazo.
+
+**Dimensión 8 — Alianzas, diplomacia y soft power (peso: 5%)**
+
+[DO] China lidera la Iniciativa de la Franja y la Ruta con más de 140 países participantes. Sin embargo, el soft power de China — medido por encuestas de opinión pública global — es significativamente inferior al de Estados Unidos. Esta dimensión favorece claramente a Estados Unidos en 2026.
+
+[EC] Para 2050, la dinámica cambia si el descontento con el orden liberal occidental continúa creciendo en el Sur Global. Esta es la dimensión de mayor incertidumbre.
+
+**Dimensión 9 — Energía, recursos y cadenas de suministro (peso: 5%)**
+
+[DO] China domina las cadenas de suministro de energía limpia: produce el 80% de los paneles solares globales, el 60% de las baterías de litio, y lidera en vehículos eléctricos. Domina también el procesamiento de tierras raras críticas.
+
+Mecanismo causal: La transición energética global convierte el dominio chino en manufactura de energía renovable en una ventaja estratégica creciente, no decreciente.
+
+---
+
+### Tres Escenarios para 2050
+
+**Escenario Central — Probabilidad: 62%**
+
+China supera a Estados Unidos en el IPNI compuesto para 2050. Lidera claramente en economía nominal, PPP, tecnología (salvo posiblemente en la frontera de semiconductores de menos de 2nm), poder militar regional y cadenas de suministro de energía. La diferencia en moneda internacional y soft power se reduce pero Estados Unidos mantiene ventaja residual en ambas. El resultado neto del índice favorece a China por margen moderado (~55-60% del índice contra 40-45% para Estados Unidos).
+
+Condiciones necesarias: (a) crecimiento chino sostenido entre 3.5% y 5% hasta 2040; (b) transición exitosa a economía de alto valor agregado; (c) suficiencia en semiconductores de generación media para 2035; (d) ausencia de conflicto armado directo con Estados Unidos.
+
+**Escenario Alto — Probabilidad: 22%**
+
+China supera a Estados Unidos con margen claro en más de 7 de las 9 dimensiones del IPNI. Condiciones: autosuficiencia en semiconductores avanzados antes de 2035; yuan al 20%+ de reservas globales para 2045; crisis fiscal o política interna grave en EE.UU.
+
+**Escenario Bajo — Probabilidad: 16%**
+
+China no supera a Estados Unidos en el IPNI para 2050. Condiciones: declive demográfico produce contracción económica severa; restricciones de semiconductores crean brecha insuperable; o conflicto en el estrecho de Taiwán destruye capital acumulado.
+
+---
+
+### Las Tres Vulnerabilidades Más Serias de China — Sin Evasión
+
+**Vulnerabilidad 1 — La trampa demográfica**
+Real, estructural y severa. La robotización y automatización son el mecanismo de mitigación. El precedente de Japón sugiere que este vector no es automáticamente fatal para el poder agregado.
+
+**Vulnerabilidad 2 — La dependencia tecnológica en semiconductores de frontera**
+China sigue sin acceso a máquinas EUV de ASML para chips de menos de 7nm a escala. Sin embargo, el horizonte de 24 años permite el desarrollo de alternativas domésticas. DeepSeek demostró que la eficiencia algorítmica puede compensar parcialmente la brecha en hardware.
+
+**Vulnerabilidad 3 — La dependencia del dólar y la fragilidad del yuan**
+Desventaja real para 2026. En 2050 solo se necesita que el yuan capture 15-20% de reservas globales — no que reemplace al dólar. La arquitectura CIPS + yuan digital + acuerdos bilaterales son vectores concretos ya operativos.
+
+---
+
+### Condición de Falsación: Qué Evidencia Refutaría la Tesis Antes de 2035
+
+1. Si el crecimiento del PBI chino cae persistentemente por debajo del 2% anual durante más de 5 años consecutivos entre 2026 y 2035.
+2. Si China no logra producción masiva de chips de 7nm o equivalentes para 2032.
+3. Si el yuan no alcanza al menos 6% de reservas globales para 2032.
+4. Si un conflicto armado significativo ocurre en el Estrecho de Taiwán antes de 2035.
+
+---
+
+### Dos Preguntas Críticas para el Oponente
+
+**Pregunta 1:** ¿Qué mecanismo específico garantiza que la brecha en semiconductores seguirá siendo insuperable en 2050 — no en 2026 — considerando que el horizonte de 24 años es suficiente para que China desarrolle alternativas domésticas completas? ¿O el argumento del Oponente depende de que las restricciones actuales sean permanentes e irrestrictamente efectivas?
+
+**Pregunta 2:** Si China crece al 4% anual y Estados Unidos al 2.2% anual, ¿en qué dimensiones específicas del IPNI sostiene el Oponente que esta divergencia de tasas no producirá una inversión para 2050, y qué mecanismo concreto — no una tendencia actual, sino un mecanismo causal — explica por qué Estados Unidos aceleraría o China desaceleraría lo suficiente para evitar la inversión?
+
+---
+
+### Fuentes
+
+- FMI, World Economic Outlook (abril 2026): PBI nominal China ~$19.6T, EE.UU. ~$30.6T; PBI PPP China ~$41.24T
+- Goldman Sachs (2022, Kevin Daly y Tadas Gedminas): China supera a EE.UU. en PBI nominal circa 2035
+- SIPRI / MilitarySpend.org: Gasto de defensa China 2025: $336B, incremento real 7.4%
+- Chatham House (abril 2026): Fusión militar-civil canaliza avances en chips, drones, robótica al EPL
+- SEMI: China, Corea del Sur y Taiwán liderarán inversión en equipamiento de chips 2025-2027; China: $100B+ en tres años
+- DoD Annual Report 2025: Military and Security Developments Involving the PRC
+
