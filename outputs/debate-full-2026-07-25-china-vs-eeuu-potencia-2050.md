@@ -2490,3 +2490,460 @@ En el cierre, B debe presentar su tabla IPNI completa con puntuaciones dimensió
 
 **Pregunta 2 — El problema del escenario base americano:**
 B argumenta que EE.UU. mantiene la primacía en 2050. Para que eso ocurra en el Escenario 1 (el más probable, 52%), EE.UU. necesita: (a) resolver la brecha en cadenas de suministro de minerales críticos sin dependencia china, (b) mantener la cohesión de sus alianzas del Indo-Pacífico durante 24 años adicionales sin una crisis de credibilidad, (c) sostener el liderazgo tecnológico en IA de frontera a pesar de haber externalizado su manufactura avanzada, y (d) contener el déficit fiscal estructural antes de que los pagos de intereses compriman el presupuesto de defensa e I+D. ¿Puede B identificar cuál de estas cuatro condiciones es la más sólida y sobre qué evidencia concreta — no tendencia actual ni proyección lineal, sino mecanismo causal verificable — descansa la afirmación de que EE.UU. cumple esa condición en 2050?
+
+## Intervención del Oponente — Ronda 9
+
+### Respuesta directa al argumento anterior
+
+A presentó tres escenarios numerados con probabilidades asignadas y atacó la "estabilidad asumida del bloque aliado" como mi punto débil central. Respondo primero a los dos retos explícitos antes de destruir la arquitectura de escenarios.
+
+**Reto 1 de A: Aritmética del IPNI.** A afirma que las cuatro dimensiones no puntuadas por los especialistas (60% del índice) son las que decidirán el debate y que debo demostrar aritméticamente que EE.UU. gana. Acepto el reto. La tabla completa aparece en la sección de argumento central.
+
+**Reto 2 de A: ¿Cuál de las cuatro condiciones americanas es la más sólida?** La respuesta es el liderazgo tecnológico en IA y semiconductores de frontera. La justificación está en la sección de evidencia.
+
+Sobre la "estabilidad del bloque aliado como activo fijo": A invierte el argumento. No trato a las alianzas como activo fijo; las trato como activo en apreciación. Japón pasó de 1% a 2% del PBI en defensa en 2023 y tiene como objetivo 2% hasta 2027 [DO — Japan Ministry of Defense]. Corea del Sur se integró formalmente en los controles de semiconductores de la alianza Wassenaar en 2023. Australia comprometió $368B AUD en la vida del programa AUKUS para submarinos de propulsión nuclear [DO]. Si las alianzas fueran el activo frágil que A describe, no estarían acelerando su integración militar y tecnológica. A necesita un modelo que explique esa aceleración, no que la ignore.
+
+---
+
+### Argumento central
+
+#### Tabla IPNI Provisional — Estado al Cierre de Ronda 9
+
+Las cuatro dimensiones puntuadas por especialistas (40% del índice) están tomadas directamente del registro del debate. Las cinco dimensiones restantes (60%) son mis puntuaciones justificadas para 2050, con mecanismos explícitos.
+
+| # | Dimensión | Peso | Puntuación EE.UU. (0-10) | Puntuación China (0-10) | Contribución EE.UU. | Contribución China | Fuente |
+|---|---|---:|---:|---:|---:|---:|---|
+| 1 | Economía nominal | 12.5% | 5.5 | 6.5 | 0.69 | 0.81 | Provisional B (ver nota 1) |
+| 2 | PPP/Productividad | 12.5% | 7.0 | 5.5 | 0.875 | 0.69 | Provisional B (ver nota 2) |
+| 3 | Tecnología/IA/Semi | 20% | 7.5 | 5.5 | 1.50 | 1.10 | Provisional B (ver nota 3) |
+| 4 | Poder militar | 15% | 8.0 | 6.0 | 1.20 | 0.90 | Provisional B (ver nota 4) |
+| 5 | Moneda/Finanzas | 10% | 8.65 | 3.75 | 0.865 | 0.375 | Especialista C, R5 |
+| 6 | Demografía | 10% | 7.3 | 4.7 | 0.73 | 0.47 | Especialista F, R6 |
+| 7 | Instituciones | 10% | 5.68 | 6.28 | 0.568 | 0.628 | Especialista F, R7 |
+| 8 | Alianzas/Soft power | 5% | 5.4 | 5.6 | 0.27 | 0.28 | Especialistas E+G, R8 |
+| 9 | Energía/Recursos | 5% | 4.5 | 7.0 | 0.225 | 0.35 | Especialistas E+G, R8 |
+| | **TOTAL** | **100%** | | | **6.92** | **5.60** | |
+
+**Resultado provisional: EE.UU. 6.92 — China 5.60. Ventaja EE.UU. de 1.32 puntos.**
+
+**Notas de justificación para las cuatro dimensiones no cerradas por especialistas:**
+
+**Nota 1 — Economía nominal (12.5%):** Concedo a A una ventaja moderada de China en esta dimensión en 2050. Si el crecimiento chino se sostiene al 3.5-4% hasta 2035 y al 2.5-3% entre 2035-2050 — el escenario más optimista plausible — el cruce nominal ocurriría entre 2036-2040. Pero para 2050, con la contracción demográfica operativa, la ventaja china sería modesta. La puntuación China 6.5 vs. EE.UU. 5.5 refleja ese cruce con margen estrecho. Si el crecimiento chino cae a 2.5% promedio — enteramente plausible dado el precedente de deflación y crisis inmobiliaria — esta dimensión es un empate técnico.
+
+**Nota 2 — PPP y Productividad (12.5%):** China ya lidera en PBI PPP total pero la dimensión incluye tres componentes: escala (China lidera), TFP (EE.UU. lidera ~2x según Penn World Tables) y riqueza per cápita (EE.UU. lidera 5-6x en 2026 y ~4x proyectado para 2050). El promedio ponderado de los tres componentes favorece a EE.UU. incluso en 2050. Puntuación: EE.UU. 7.0, China 5.5.
+
+**Nota 3 — Tecnología/IA/Semiconductores (20%):** [DO — Stanford AI Index 2026] La brecha de capacidad en IA se ha reducido a 2.7 puntos (vs. 17.5-31.6 puntos en 2023). [DO — TechTimes, julio 2026] TSMC Arizona alcanzó el 92% de yield en 4nm y la inversión total del complejo subió a $265B — el mayor compromiso de capital en semiconductores en suelo americano en la historia. [DO] La inversión privada americana en IA en 2025 fue de $285.9B, frente a $12.4B de China — una brecha de 23x. El diferencial de manufactura de chips avanzados es de 35-38x a favor de EE.UU. según CFR. El mecanismo de persistencia es el ecosistema acumulado: 30 años de datos de yield en TSMC, EDA de Synopsys/Cadence, NVLink, CUDA — ninguno replicable con capital en 24 años. Puntuación: EE.UU. 7.5, China 5.5.
+
+**Nota 4 — Poder militar (15%):** EE.UU. mantiene 11 portaaviones operativos, capacidad de proyección en todos los dominios, ~5,500 ojivas nucleares, alianzas que multiplican la capacidad efectiva. China tiene superioridad regional en el Indo-Pacífico por A2/AD pero capacidad de proyección global limitada. El IPNI mide proyección global, no regional. Para 2050, con el rearme de Japón y la maduración de AUKUS, la ventaja americana en el teatro Indo-Pacífico también se comprime. Pero en la dimensión de poder global neto — que incluye Europa, Oriente Medio, África y Latinoamérica — EE.UU. mantiene superioridad estructural. Puntuación: EE.UU. 8.0, China 6.0.
+
+**La aritmética del Reto 1 responde la pregunta de A con precisión:**
+
+- En las cuatro dimensiones que suman el 60% del índice, EE.UU. acumula 4.265 puntos ponderados y China 3.500. Ventaja EE.UU.: +0.765.
+- En las cinco dimensiones ya puntuadas por especialistas (40%), EE.UU. acumula 2.658 y China 2.103. Ventaja EE.UU.: +0.555.
+- Total: EE.UU. 6.92 vs. China 5.60.
+
+Para que China gane el IPNI, necesitaría subir su puntuación en Tecnología (20%) de 5.5 a 7.5 o más, lo que requiere exactamente el breakthrough en semiconductores que los especialistas D y C calificaron como improbable antes de 2050.
+
+---
+
+#### Respuesta a los tres escenarios de A — Identificación del error analítico en cada uno
+
+**Escenario 1 de A (52% — Desacoplamiento Administrado): Error de análisis — supuesto de suficiencia funcional sin costo de eficiencia.**
+
+A afirma que China alcanza "suficiencia" en chips 5-7nm equivalente vía DUV multi-patterning para el 85% de las aplicaciones industriales. Este argumento contiene el error analítico más serio del debate: confunde suficiencia de uso con paridad de costo-eficiencia.
+
+[DO — Especialista D, R3] Sin EUV, SMIC requiere ~34 exposiciones donde TSMC necesita ~9. El costo por wafer es 2-3x superior con yields de 20-40% frente al 93% de TSMC. En 2026 eso es un hándicap manejable con subsidios estatales. En 2050, con chips de frontera producidos en masa en Arizona, Japón y Alemania bajo costos competitivos, el hándicap se vuelve sistémico: China estaría pagando 2-3x más por chips que son 1-2 generaciones inferiores en eficiencia energética. Las aplicaciones de IA de 2050 no son las de 2026 — entrenar modelos multimodales con billones de parámetros o ejecutar sistemas de armas autónomos requiere eficiencia energética que solo los nodos de frontera proveen.
+
+Adicionalmente, A asigna 52% de probabilidad a un escenario que requiere cuatro condiciones simultáneas (yield >60% en 7nm, crecimiento chino ≥2.8%, sin Taiwán, cadenas de energía limpia como columna vertebral). La probabilidad conjunta de cuatro condiciones independientes al 75% de probabilidad cada una es 0.75^4 = 31.6%, no 52%. A está sobreestimando la probabilidad compuesta.
+
+**Escenario 2 de A (22% — Choque de Taiwán con contención exitosa): Error de análisis — subestima la respuesta americana y la varianza.**
+
+A construye un sub-escenario de "contención exitosa" donde Washington decide no intervenir militarmente. Pero ese sub-escenario requiere que EE.UU. abandone dos compromisos formales en vigor: el Taiwan Relations Act, que obliga a mantener capacidad de resistencia de Taiwán [DO], y los tratados bilaterales con Japón y Filipinas, que se activan automáticamente si las líneas de comunicación en el Indo-Pacífico son amenazadas.
+
+[DO — Especialista E, R4] En los juegos de guerra del CSIS sobre Taiwán, el escenario de "no intervención americana" es el menos probable porque cualquier acción militar china sobre Taiwán activa bases en Okinawa, Guam y Filipinas bajo los acuerdos de acceso existentes. A admite que si la operación falla o escala, su tesis colapsa con 80% de probabilidad. El problema: la probabilidad de escalada en cualquier acción militar sobre Taiwán es sustancialmente mayor del 50% según todos los análisis operacionales disponibles. A está asignando 22% a un escenario cuyo sub-escenario más probable (escalada) destruye su propia tesis.
+
+**Escenario 3 de A (26% — Convergencia Multipolar Gradual): Error de análisis — condiciones de falsación embebidas en el propio escenario.**
+
+Para que este escenario ocurra, A requiere: (a) China alcanza PBI per cápita >$20,000 antes de 2040; (b) yuan al 10-12% de reservas entre 2040-2050; (c) EE.UU. no resuelve su déficit fiscal. La condición (b) está directamente falsada por el mecanismo que A mismo concedió en R2: China no puede abrir su cuenta de capital sin riesgo de fuga masiva. Sin apertura de la cuenta de capital, el yuan no llega al 10% de reservas. [DO — IMF COFER Q1 2026: yuan en 2.85% de reservas globales].
+
+---
+
+#### Mi escenario base americano con probabilidad asignada
+
+**Escenario Central EE.UU. — Primacía mantenida: 65% de probabilidad [EC]**
+
+**Descripción:** EE.UU. mantiene el IPNI más alto en 2050. El mecanismo central es la compounding de ventajas en la dimensión tecnológica (20% del índice). El complejo TSMC Arizona con $265B de inversión comprometida produce chips de nodo 2nm o mejor antes de 2030, que se integran con el ecosistema de IA americano ($285.9B de inversión privada en 2025 solo) para generar una brecha de 15-20 años en IA de frontera. China compite en IA aplicada industrial pero no en los dominios de frontera —biología computacional, IA para diseño de armas, computación cuántica de propósito general— que determinan el vector de poder en 2050. La demografía china reduce el crecimiento a 2-2.5% en los 2040s. El yuan no supera el 8% de reservas globales.
+
+**Variables bisagra que lo sostienen:**
+- TSMC Arizona produce en volumen a 2nm o mejor antes de 2031 [DO — en curso]
+- Japón mantiene su objetivo de 2% del PBI en defensa [DO — legislado]
+- China no logra yields competitivos en chips sub-5nm antes de 2038
+- El yuan no supera el 8% de reservas globales en 2050
+
+**Escenario Alto EE.UU. (20%):** China entra en trampa japonesa con deflación, crisis bancaria y estancamiento. PBI nominal chino no supera al americano antes de 2050.
+
+**Escenario Bajo EE.UU. (15%):** China lidera el IPNI por margen estrecho, únicamente si resuelve el EUV doméstico antes de 2033 y EE.UU. sufre parálisis fiscal prolongada.
+
+---
+
+#### Respuesta al Reto 2 — La condición americana más sólida
+
+La condición más sólida, con el mecanismo causal más verificable, es el **liderazgo tecnológico en IA y semiconductores de frontera**, específicamente a través del complejo TSMC Arizona + ecosistema de software americano.
+
+**Mecanismo causal verificable en cuatro pasos:**
+
+*Paso 1 — Inversión física comprometida e irreversible.* [DO — TechTimes, julio 2026] TSMC Arizona alcanzó 92% de yield en 4nm. La inversión total escaló a $265B comprometidos. El Fab 21 Phase 2 completó construcción en abril 2026. La Fab 3 (2nm/A16) está en construcción. Este capital está invertido físicamente: no es una proyección, es concreto y verificable hoy.
+
+*Paso 2 — Brecha de inversión en software que no se compra.* [DO — Stanford AI Index 2026] La inversión privada americana en IA en 2025 fue $285.9B vs $12.4B de China (23x). Esta inversión alimenta el ecosistema CUDA, las arquitecturas transformer y el talento que diseña los chips. [DO — Especialista D, R3] Los datos de yield de 30 años de TSMC, el ecosistema EDA de Synopsys y Cadence, los modelos de IA de OpenAI/Anthropic/Google entrenados con hardware de frontera — ninguno se replica con capital en 24 años porque son acumulaciones de conocimiento embebido en instituciones y personas.
+
+*Paso 3 — Retroalimentación tecnología-militar-finanzas.* Los chips de frontera determinan: la IA que automatiza los sistemas de armas autónomos (dimensión militar, 15%), los modelos que procuran la ventaja en ciberseguridad y finanzas (dimensión moneda, 10%), y la productividad total de factores (dimensión PPP, 12.5%). La tecnología de frontera es el multiplicador de las otras tres dimensiones.
+
+*Paso 4 — El efecto DeepSeek no refuta este mecanismo; lo confirma.* [DO — Stanford AI Index 2026, Epoch AI] DeepSeek-V4 (marzo 2026) corre benchmarks competitivos con modelos americanos. Pero el entrenamiento de DeepSeek R1 requirió 2,078 chips H800 americanos [DO — Epoch AI]. DeepSeek R2 intentó entrenarse en Ascend de Huawei y revirtió a Nvidia por inestabilidad [EC — Tom's Hardware]. China innova en la capa algorítmica pero la capa de silicio sigue siendo americana o dependiente de tecnología americana. Cuando ambas partes adoptan la misma innovación algorítmica, la ventaja vuelve a decidirse por quien tiene más cómputo — y EE.UU. tiene 35-38x más capacidad de manufactura de chips avanzados [DO — CFR, 2026].
+
+---
+
+### Evidencia usada
+
+- [DO] TechTimes, julio 2026: TSMC Arizona inversión total $265B, Fab 21 Phase 1 yield 92% en 4nm, Fab 21 Phase 2 completada abril 2026
+- [DO] Stanford AI Index 2026 / The Next Web: brecha de rendimiento EE.UU.-China en IA reducida a 2.7 puntos; EE.UU. invirtió $285.9B vs China $12.4B en IA en 2025
+- [DO] CFR análisis 2026: ventaja de manufactura de chips avanzados EE.UU. 35-38x sobre China; yields Huawei 5-20% vs Nvidia 60-80%
+- [DO] Epoch AI: DeepSeek-R1 entrenado en 2,078 GPUs H800
+- [EC] Tom's Hardware / Reuters: DeepSeek R2 revirtió a Nvidia después de fallos de entrenamiento en Ascend
+- [DO] Japan Ministry of Defense: objetivo de 2% del PBI en defensa legislado y en ejecución
+- [DO] IMF COFER Q1 2026: yuan en 2.85% de reservas globales
+- [DO] Especialistas C (R5), F (R6), F (R7), E+G (R8): puntuaciones de las cuatro dimensiones ya cerradas del IPNI
+
+---
+
+### Ataque al punto débil del proponente
+
+El error más serio en la arquitectura de escenarios de A es la **ilusión de la suficiencia funcional** que atraviesa los tres escenarios. En todos ellos, A asume que China puede operar a nivel de "suficiencia" en tecnología de 5-7nm y que eso es suficiente para ganar el 20% de peso del IPNI en la dimensión tecnológica.
+
+Pero el índice no mide suficiencia. Mide **frontera tecnológica efectiva**. Y en 2050, la frontera no será 5nm — será lo que A16 de TSMC sea en 2050, más dos generaciones adicionales. Si TSMC en 2026 está en 2nm y avanza un nodo por ciclo de 2-3 años, en 2050 estaría en nodos equivalentes a ~0.3-0.5nm o en arquitecturas radicalmente distintas. China, si logra 5nm a escala competitiva en 2038, estará 12 años y 5-6 generaciones de nodos atrás de la frontera — no "suficiente", sino estructuralmente rezagada.
+
+A cita el control de minerales críticos y manufactura de energía limpia como base del IPNI. Pero esas son dimensiones 8 y 9, que suman el 10% del índice. Ganar 10% de forma dominante no compensa perder 20% en tecnología y quedar atrás en 15% en poder militar. La aritmética no cierra.
+
+El segundo error grave: A trata la probabilidad del 52% de su Escenario 1 como si fuera el resultado esperado de un análisis bayesiano. En realidad, es una estimación subjetiva que viola la regla básica de probabilidades condicionales: las cuatro condiciones necesarias son parcialmente correlacionadas negativamente (si crecimiento chino cae, también cae el ritmo de inversión en semiconductores, lo que hace el yield target más difícil). La probabilidad conjunta es materialmente menor que el producto de las probabilidades individuales.
+
+---
+
+### Concesión limitada
+
+El déficit fiscal estructural de EE.UU. es la variable disruptiva más seria para mi posición. [DO — CBO Budget Outlook 2025: pagos de intereses de la deuda federal superan $880B anuales, aproximándose al presupuesto de defensa]. Si los pagos de intereses superan el presupuesto de defensa antes de 2028 — como proyecta el CBO — el espacio para sostener la inversión en CHIPS Act, en IA, en la base industrial de defensa y en el apoyo a aliados se comprime materialmente. No tengo una respuesta definitiva para este riesgo. El mecanismo de mitigación — el privilegio exorbitante del dólar que permite emitir deuda a tasas más bajas que cualquier competidor — existe y tiene respaldo institucional, pero su durabilidad hasta 2050 no puede garantizarse. Si el déficit produce una crisis de credibilidad fiscal antes de 2035, el escenario base americano se debilita sustancialmente. Lo concedo sin reservas.
+
+---
+
+### Preguntas críticas para R10 — Cierre
+
+**Pregunta 1 — La aritmética del IPNI revisada:**
+
+Mi tabla provisional asigna a EE.UU. 6.92 y a China 5.60 en el IPNI. Para que China gane, A necesita que China supere a EE.UU. en la dimensión Tecnología (20%) con una puntuación de al menos 7.5 sobre 10, lo que requiere que China alcance producción de chips sub-3nm competitivos en rendimiento y costo. A afirmó en el Escenario 1 que EE.UU. "mantiene ventaja en semiconductores de frontera, parcial". Si EE.UU. mantiene ventaja en la dimensión más pesada del índice, ¿cómo puede China ganar el agregado? En R10, A debe presentar su propia tabla IPNI completa con puntuaciones numéricas para las nueve dimensiones y demostrar que su aritmética cierra — con mecanismos, no con tendencias.
+
+**Pregunta 2 — El mecanismo de la victoria china en el escenario más probable:**
+
+A asigna 52% de probabilidad al Escenario 1 y proyecta IPNI China 54-57%. Pero ese escenario requiere que China gane la dimensión tecnológica (20%) a pesar de operar con chips DUV de 5-7nm equivalente mientras EE.UU. opera con chips de nodo 2nm o inferior producidos en Arizona. ¿Cuál es el mecanismo causal específico por el que chips estructuralmente inferiores en eficiencia energética y densidad de cómputo producen un liderazgo en IA de frontera en 2050 suficiente para ganar el 20% del IPNI? Afirmar que el 85% de las aplicaciones no requieren chips de frontera no responde la pregunta, porque el IPNI mide la frontera efectiva del Estado, no el perfil de consumo del mercado masivo.
+
+## Evaluación de Especialistas — Ronda 9
+
+**Nota preliminar de método:** esta evaluación se basa en el registro verbatim del debate en disco (rondas 1–9) y en la evidencia ya introducida y verificada por los especialistas C, D, E, F y G en rondas previas. No se introducen fuentes nuevas no verificables. Las etiquetas [DO] (dato observable), [PI] (proyección institucional), [EC] (estimación calibrada) y [EI] (evidencia insuficiente) se aplican estrictamente. Cuando el estado de la evidencia es opaco, se declara [EI] y no se puntúa como si fuera conocido.
+
+---
+
+### Especialista D — Tecnología, IA y Semiconductores
+
+#### 1. ¿Es técnicamente plausible que China logre yields >60% en 7nm equivalente DUV multi-patterning antes de 2035?
+
+**Respuesta corta: sí es plausible, con probabilidad alta — pero A comete un error de encuadre al tratarlo como la variable bisagra decisiva. Es la variable equivocada.**
+
+Desglosemos el problema en sus tres componentes reales.
+
+**(a) La física del multi-patterning DUV a 7nm es un problema resuelto, no un problema abierto.**
+
+[DO] Ya establecí en R3 que SMIC produce en volumen en N+2 (clase 7nm) usando DUV con SAQP/multipatrón. El chip Kirin 9000S (2023) y sus sucesores demuestran producción comercial sostenida, no prototipos. Esto significa que la pregunta no es "¿puede China hacer 7nm?" — ya lo hace — sino "¿a qué coste y con qué rendimiento?".
+
+[DO] La restricción mecánica que documenté en R3: sin EUV, SMIC requiere ~34 exposiciones DUV donde EUV necesita ~9. Cada exposición adicional introduce error de superposición (overlay) que se acumula estadísticamente.
+
+**(b) La curva de aprendizaje de yield es históricamente predecible en un horizonte de 9 años.**
+
+[EC] La evidencia histórica de la industria muestra que los yields de un nodo maduro convergen hacia 70–90% tras 4–7 años de producción en volumen, incluso en procesos con alta complejidad de patterning. Intel alcanzó yields comerciales en 14nm tras años de dificultad; TSMC estabilizó nodos complejos con curvas similares. No hay razón física para que un proceso 7nm DUV multipatrón esté excluido de esa curva **si el volumen de wafers procesados es suficiente para generar los datos de aprendizaje**.
+
+[EC] Los reportes de terceros sobre yields actuales de SMIC en clase 7nm oscilan en el rango 20–40% para dies grandes (Ascend 910C) y son sustancialmente mejores para dies pequeños. Reitero la advertencia metodológica de R3: **estas son estimaciones de terceros, no datos auditados** — SMIC no publica yields. Cualquier debatiente que cite una cifra puntual de yield de SMIC como dato duro está sobrerrepresentando la calidad de su evidencia.
+
+**Veredicto técnico sobre la variable bisagra de A:** [EC] Asigno probabilidad **75–80%** a que China alcance yields >60% en clase 7nm DUV para dies de tamaño medio antes de 2035. Asigno probabilidad sustancialmente menor — **45–55%** — a que lo logre para **dies grandes de acelerador de IA** (>600 mm²), porque el yield cae superlinealmente con el área del die y ese es precisamente el segmento que determina la capacidad de entrenamiento de IA de frontera.
+
+**Esta distinción es decisiva y A no la hace.** A formula su variable bisagra como ">60% en 7nm equivalente" sin especificar tamaño de die. Formulada así, la condición es casi trivialmente alcanzable y por tanto **no discrimina entre escenarios**. Una variable bisagra que se cumple en el 78% de los futuros no es una bisagra: es un supuesto de fondo. **Penalización metodológica a A: su condición necesaria está mal especificada, lo que infla artificialmente la robustez del Escenario 1.**
+
+**(c) El error de encuadre más serio de A: yield ≠ capacidad de cómputo agregada.**
+
+A afirma que la ventaja estadounidense en sub-2nm "se vuelve irrelevante para el 85% de las aplicaciones industriales globales que operan en nodos de 5nm o superiores". [EI] **A no aporta fuente para la cifra del 85%.** Y aunque fuera correcta como descripción del volumen de unidades, es irrelevante como argumento de poder: el IPNI (dimensión 3) mide "frontera tecnológica efectiva: cómputo, IA, litografía, nodos avanzados, biotecnología" — no cuota de mercado en microcontroladores de electrodomésticos. El valor estratégico se concentra desproporcionadamente en el 15% que A descarta.
+
+Reitero lo que establecí en R3: **la restricción china no es de conocimiento, es de escala económica.** Coste por wafer bueno 2–3× superior y throughput de escáner colapsado (cada wafer ocupa la herramienta 3–4× más tiempo) significa que, incluso con yield del 60%, China necesita **3–4× más escáneres DUV que un competidor con EUV para producir el mismo volumen de chips**. Y los escáneres DUV de inmersión de última generación también están bajo control de exportación desde 2023. La ecuación no es "¿alcanza yield?" sino "¿alcanza yield × volumen × coste competitivo?".
+
+**(d) Lo que sí favorece a A y debe reconocerse.**
+
+[DO] El empaquetado avanzado y los chiplets son una ruta real de compensación parcial en densidad de cómputo por sistema — Huawei lo ha demostrado con CloudMatrix. [PI] Con energía barata y sobrecapacidad de fab, China puede comprar paridad de rendimiento a nivel de rack aunque pierda a nivel de transistor. Este es el argumento más fuerte del lado de A en esta dimensión y es técnicamente sólido.
+
+[DO] Pero no compensa en **eficiencia energética por operación**, que escala con el nodo del transistor, no con el empaquetado. En un mundo donde la energía se convierte en el cuello de botella de la IA — escenario que consideré plausible en R3 — esta desventaja se amplifica en lugar de diluirse. A no ha respondido a esta objeción en ninguna ronda posterior a R3. **Registro esta como una evasión parcial acumulada de A.**
+
+#### 2. En fragmentación tecnológica: ¿tiene el bloque chino masa crítica en I+D para progreso autónomo?
+
+**Respuesta: sí en I+D agregada, no en los cuellos de botella específicos. La masa crítica no es fungible.**
+
+A argumenta que "la masa crítica del bloque chino en PPP ya excede la del bloque americano incluso excluyendo a India" [PI]. Esta afirmación es **defendible en PPP agregado pero irrelevante para la pregunta de I+D**, y la sustitución de una métrica por otra es un deslizamiento que debe señalarse.
+
+**Lo que el bloque chino sí tiene:**
+
+[DO] China por sí sola gradúa el mayor número de ingenieros del mundo, lidera en publicaciones de IA y en solicitudes de patentes de IA. [DO] China realiza más del 50% de las instalaciones anuales globales de robots industriales — superficie de despliegue sin equivalente. [DO] Gasto en I+D chino es el segundo del mundo en términos absolutos y el primero en PPP en varios cómputos. Un bloque China + Rusia + Golfo + África + Asia Central **sí tiene autonomía suficiente para progreso incremental en la mayoría de tecnologías industriales**.
+
+**Lo que el bloque chino no tiene, y esto es dispositivo:**
+
+El resto del bloque que A describe **no aporta prácticamente nada en I+D de frontera**. Rusia aporta energía y materias primas, no capacidad de semiconductores — su industria de chips es marginal y se ha degradado bajo sanciones. Los estados del Golfo aportan capital y energía, no investigadores. África subsahariana y Asia Central aportan recursos y mercados. **El bloque chino en I+D de frontera es, esencialmente, China sola.**
+
+El bloque americano en fragmentación, en cambio, retiene: EE.UU. + Países Bajos (ASML — monopolio absoluto en EUV) + Japón (Tokyo Electron, JSR, Shin-Etsu: fotorresinas, wafers, equipos de deposición) + Corea del Sur (Samsung, SK Hynix: memoria HBM, crítica para IA) + Taiwán (TSMC) + Reino Unido (ARM). **En la cadena específica de semiconductores, la fragmentación deja a China del lado equivocado del corte, no al bloque americano.**
+
+[DO] Recuerdo un dato de R3 que A no ha refutado: el entrenamiento de DeepSeek R2 sobre Huawei Ascend fracasó y DeepSeek retornó a Nvidia, por inestabilidad, interconexión más lenta y limitaciones del toolkit CANN [EC — Tom's Hardware/Reuters, no confirmado oficialmente]. A julio de 2026 R2 no tiene informe técnico ni lanzamiento confirmado [DO]. Esto es evidencia directa de que la autonomía de la pila china **aún no está demostrada en el segmento más exigente**, seis años antes del horizonte que A propone.
+
+**Contrapunto honesto a favor de A:** la fragmentación también daña gravemente al bloque americano. [DO] China refina ~90% de las tierras raras, produce >80% de módulos solares y >75% de celdas de batería. Un corte impone a Occidente 8–12 años de reconstrucción. **Pero la asimetría temporal favorece a EE.UU.: las tierras raras son un problema de capital, permisos y tiempo — geológicamente están distribuidas globalmente. EUV es un problema de acumulación de conocimiento tácito de 30 años en una única empresa.** Se puede abrir una mina y una refinería en una década con dinero suficiente; no se puede comprar tres décadas de curva de aprendizaje litográfico.
+
+**Conclusión de D sobre fragmentación:** el argumento de A es **parcialmente correcto pero direccionalmente invertido en la dimensión que él mismo declaró decisiva (20% del IPNI)**. La fragmentación favorece a China en manufactura (dimensión 9, peso 5%) y perjudica a China en tecnología de frontera (dimensión 3, peso 20%). **A intercambia una ventaja de peso 5% por una desventaja de peso 20% y presenta el intercambio como favorable.** Esto es un error aritmético dentro del marco IPNI que él aceptó como vinculante.
+
+#### 3. Puntuación IPNI provisional — Tecnología, IA y Semiconductores (20%)
+
+Criterios de puntuación (proyección a 2050, no estado 2026): cómputo agregado disponible; capacidad de fabricación en frontera; modelos de IA de frontera; difusión industrial de IA; biotecnología; ecosistema de talento y EDA; autonomía de la pila completa.
+
+| Subcomponente | China 2050 [EC] | EE.UU. 2050 [EC] | Comentario |
+|---|---|---|---|
+| Fabricación en frontera (sub-3nm) | 4.0 | 9.0 | Monopolio ASML + TSMC/Intel/Samsung del lado americano |
+| Cómputo agregado para IA | 6.5 | 8.5 | China compensa parcialmente con volumen y energía |
+| Modelos de IA de frontera | 6.5 | 8.5 | Brecha se estrecha; difusión algorítmica es rápida |
+| Difusión industrial de IA / robótica | 8.5 | 6.5 | Ventaja china estructural y sostenible |
+| EDA, IP y herramientas | 4.0 | 9.5 | Cuello de botella chino más persistente |
+| Biotecnología | 6.5 | 8.0 | China cierra rápido; EE.UU. mantiene frontera |
+| Talento y ecosistema | 7.0 | 8.5 | Volumen chino vs. atracción global americana |
+
+**Puntuación IPNI R9 — Tecnología (20%):**
+
+| Actor | Puntos (0-10) |
+|---|---|
+| China | 6.2 |
+| EE.UU. | 8.4 |
+
+**Justificación:** China converge sustancialmente y **gana claramente la capa de difusión industrial**, que es donde la literatura de tecnologías de propósito general sitúa la mayor parte del PIB incremental en horizontes de 15–25 años [PI]. Pero la dimensión 3 del IPNI está definida operacionalmente como **"frontera tecnológica efectiva: cómputo, IA, litografía, nodos avanzados, biotecnología"** — cuatro de esos cinco términos favorecen a EE.UU. en 2050 bajo cualquier escenario donde el monopolio ASML no se rompa. [EI] La ruptura del monopolio ASML antes de 2035 sigue siendo **la mayor incógnita individual del expediente**, y sigue sin verificación independiente. Si se rompiera, esta puntuación se movería a China 7.5 / EE.UU. 8.0.
+
+**Advertencia a A:** su escenario base asigna implícitamente a China la paridad o superioridad en la dimensión de mayor peso del índice. Ninguna evidencia presentada en nueve rondas sostiene esa asignación. **Su cifra de IPNI 54–57% es incompatible con la puntuación técnica de esta dimensión.**
+
+---
+
+### Especialista E — Militar y Geopolítico
+
+#### 1. Escenario 2: ¿es realista que EE.UU. "no intervendría militarmente más allá del suministro de armas"?
+
+**Respuesta: la premisa no es imposible, pero A la trata con una ligereza que no corresponde a su peso en el escenario. Está clasificada por el propio A como [EI, altamente incierta] y sin embargo sostiene un escenario de 22% de probabilidad cuyo desenlace favorable produce el resultado más extremo del debate (China 60–65% del IPNI).**
+
+**Análisis de condiciones.**
+
+*Condiciones que harían POSIBLE la no intervención:*
+
+1. **Modalidad de la acción.** Un bloqueo naval o cuarentena — el escenario que A especifica — es deliberadamente más ambiguo que una invasión anfibia. No hay un "primer disparo" nítido. Esto maximiza la dificultad de decisión política en Washington y minimiza el efecto galvanizador sobre la opinión pública aliada. **Este es el punto más fuerte del escenario de A y debe reconocerse: A eligió bien la modalidad.**
+
+2. **Ambigüedad estratégica formal.** EE.UU. no tiene un tratado de defensa mutua con Taiwán. El Taiwan Relations Act obliga a suministrar medios de defensa, no a intervenir. Jurídicamente, "armas sin tropas" es la lectura literal del compromiso.
+
+3. **Deterioro de la relación de fuerzas locales.** [DO] Los juegos de guerra del CSIS (2023) proyectan pérdidas estadounidenses de 2 portaaviones y 10–20 buques mayores en la mayoría de escenarios. [DO] La producción de submarinos clase Virginia corre a ~1.2/año frente a los ~2.3 requeridos por AUKUS. Si hacia 2032 la asimetría de costes se ha ampliado, el cálculo de Washington podría cambiar.
+
+4. **Negación de acceso a bases.** Establecí en R4 y R8 que el acceso a bases japonesas o filipinas es **condicional, no automático** [EI]. Sin Kadena, Yokosuka y Luzón, la intervención estadounidense es logísticamente mucho más costosa. Una negativa japonesa o filipina podría convertirse en la coartada política de la no intervención.
+
+5. **Paridad nuclear.** [DO] China pasó de ~200 ojivas en 2020 a >600 operativas estimadas en 2024, con proyección DoD de ~1,000 para 2030 [EI, plausible no inevitable]. La transición de disuasión mínima a segundo golpe sobreviviente **elimina la asimetría de escalada que EE.UU. ha explotado implícitamente**. Esto es real y aumenta genuinamente la probabilidad de no intervención.
+
+*Condiciones que la harían IMPOSIBLE o muy improbable:*
+
+1. **El problema de la credibilidad sistémica.** Aquí está el defecto central del escenario de A. Un bloqueo naval de Taiwán no es un evento local: es un test público del sistema de alianzas americano. La no intervención no cuesta a EE.UU. "Taiwán" — cuesta la credibilidad de las garantías a Japón, Corea del Sur, Filipinas y Australia simultáneamente. **A trata la decisión como un cálculo coste-beneficio sobre Taiwán, cuando estructuralmente es un cálculo sobre todo el perímetro.** Un decisor racional en Washington que valore la red de alianzas por encima de Taiwán tiene **más** incentivo a intervenir, no menos. Este es el argumento que A no aborda.
+
+2. **Endogeneidad de Japón.** [DO] Japón está elevando su gasto de defensa hacia el 2% del PIB y adquiriendo Tomahawks y capacidad de contraataque. Taiwán está a ~110 km de territorio japonés (Yonaguni). Las líneas marítimas japonesas atraviesan el área. Un bloqueo de Taiwán **es funcionalmente un bloqueo parcial de Japón**. La probabilidad de que Japón permanezca pasivo — y de que EE.UU. permanezca pasivo con Japón implicado — es baja.
+
+3. **Semiconductores como interés vital declarado.** La producción de TSMC en Taiwán sigue siendo estructuralmente insustituible en 2032 incluso con las fabs de Arizona plenamente operativas [DO — la Fab 3 apunta a 2nm/A16 antes de 2030, pero el volumen agregado de Arizona sigue siendo una fracción del taiwanés]. Un bloqueo que interrumpa TSMC es un shock económico global de primer orden, no un asunto regional.
+
+4. **Dinámica de escalada horizontal.** Un bloqueo requiere aplicación sostenida en el tiempo: interceptar buques, potencialmente hundir alguno. La probabilidad de un incidente que fuerce la mano estadounidense a lo largo de semanas o meses es acumulativa, no puntual. **A modela la decisión como binaria y de una sola vez. Es secuencial y repetida — lo que aumenta sustancialmente la probabilidad de intervención con el tiempo.**
+
+**Puntuación de realismo de la premisa:** [EC] Asigno probabilidad **20–30%** a que EE.UU. limite su respuesta a suministro de armas ante un bloqueo naval chino sostenido de Taiwán antes de 2032, condicional a que tal bloqueo ocurra. A necesita esta condición para su rama favorable, pero **no le asigna probabilidad explícita** — la deja como [EI] y luego reparte el 22% del escenario entre resultados sin especificar la ponderación interna. **Esto es una omisión metodológica que infla la contribución del Escenario 2 a su tesis.**
+
+**Reconocimiento a favor de A:** su concesión limitada es genuina y sustantiva. Reconoce explícitamente que en la variante de fracaso su tesis "colapsa con probabilidad del 80%" y asigna 12–15% a ese resultado. Es el reconocimiento de debilidad más honesto de las nueve rondas por cualquiera de los dos debatientes, y debe bonificarse. Sin embargo, la aritmética es incómoda para él: si el escenario 2 tiene 22% y la rama de fracaso es 12–15%, **la rama favorable es solo 7–10%** — lo que significa que A está asignando a la rama de fracaso más probabilidad que a la de éxito dentro de su propio escenario. Bien; pero entonces el Escenario 2 es, en balance neto, **destructivo para su tesis**, no neutral. A no extrae esa conclusión.
+
+#### 2. Fragmentación tecnológica y cohesión de alianzas: ¿es correcto el argumento de A sobre Japón y Corea del Sur?
+
+**El dato de A es aproximadamente correcto. La inferencia que extrae de él es incorrecta.**
+
+*Sobre el dato:* [EC] A afirma que Japón y Corea del Sur tienen "30–40% de su comercio con China". La cifra está en el rango correcto para Corea del Sur (China ha sido históricamente su primer socio comercial, con proporciones en torno al 20–25% de exportaciones y superiores si se agrega Hong Kong) y algo alta para Japón (típicamente ~20% de comercio total). **A redondea al alza y presenta un rango que favorece su argumento sin citar fuente puntual.** Penalización menor por precisión, no por sustancia: el punto cualitativo — dependencia comercial asiática significativa de China — es correcto y está bien establecido.
+
+*Sobre la inferencia — aquí A falla en tres niveles:*
+
+**Nivel 1: la tendencia va en dirección contraria.** La proporción del comercio surcoreano y japonés con China **ha estado disminuyendo** desde ~2022, no aumentando. Corea del Sur registró déficit comercial con China por primera vez en décadas y ha redirigido exportaciones hacia EE.UU. y ASEAN. La competencia directa china en semiconductores, automóviles, baterías y construcción naval **convierte a China de cliente en competidor** para ambos países. A extrapola una dependencia decreciente como si fuera creciente.
+
+**Nivel 2: confunde volumen comercial con alineamiento estratégico.** Alemania comerciaba intensamente con Rusia hasta 2022 y reorientó su política energética en 18 meses bajo shock geopolítico. La dependencia comercial es un coste de alineamiento, no un veto. **Y Japón y Corea del Sur tienen amenazas de seguridad territoriales directas — Corea del Norte, disputas marítimas — que solo EE.UU. cubre.** China no puede ofrecer a Seúl protección frente a Pyongyang ni a Tokio frente a China misma. La asimetría del bien de seguridad no tiene sustituto comercial.
+
+**Nivel 3: los ejemplos de A no sostienen su tesis.** A cita Italia saliendo del BRI "sin costo", Turquía, Hungría e India desafiando sanciones secundarias. Pero **Italia saliendo del BRI es evidencia de erosión del bloque chino, no del americano** — A cita en su contra. Turquía y Hungría son casos de fricción intra-alianza sobre asuntos periféricos, no de defección en una crisis existencial. India nunca fue aliado formal de EE.UU. **Ninguno de los cuatro ejemplos es un caso de aliado formal defeccionando en una contingencia militar.**
+
+*Reconocimiento a favor de A:* su premisa general — que la cohesión aliada es la variable más sensible a la política interna americana y no un activo fijo — **es correcta y es su mejor argumento geopolítico del debate**. Yo mismo establecí en R4 y R8 que la fiabilidad de compromiso es la vulnerabilidad real del sistema americano: las alianzas requieren decisión política simultánea de múltiples capitales, mientras China coordina un solo actor. A tiene razón en que B ha tratado las alianzas como un activo fijo sin modelar su erosión. **El defecto de A no es la premisa; es que sobreextiende la premisa hasta convertir una vulnerabilidad condicional en un colapso asumido.**
+
+#### 3. Puntuación IPNI provisional — Poder Militar (15%)
+
+Criterios: gasto ajustado por PPP; proyección global de fuerza; capacidad nuclear; capacidad multidominio; base industrial de defensa; poder agregado de aliados ponderado por fiabilidad; validación en combate.
+
+| Subcomponente | China 2050 [EC] | EE.UU. 2050 [EC] | Comentario |
+|---|---|---|---|
+| Poder regional (Primera Cadena) | 8.5 | 6.0 | A2/AD madura; ventaja china real y creciente |
+| Proyección global sostenida | 4.5 | 9.0 | Sin red de basing equivalente; habilitadores deficitarios |
+| Capacidad nuclear | 7.0 | 8.5 | Convergencia hacia segundo golpe sobreviviente |
+| Base industrial / reposición | 8.5 | 5.5 | Ventaja china estructural en construcción y reparación naval |
+| Multidominio (ciber, espacio) | 7.0 | 8.0 | Asimetría más estrecha del expediente |
+| Aliados ponderados por fiabilidad | 3.5 | 8.0 | Descontado por condicionalidad de basing [EI] |
+| Validación en combate / experiencia | 3.0 | 8.0 | EPL sin combate desde 1979 [DO] |
+
+**Puntuación IPNI R9 — Poder Militar (15%):**
+
+| Actor | Puntos (0-10) |
+|---|---|
+| China | 6.3 |
+| EE.UU. | 7.8 |
+
+**Justificación:** Mantengo la conclusión técnica neutral de R4: **China como potencia regional dominante con alcance global limitado; EE.UU. como única potencia con capacidad expedicionaria global pero ya sin capacidad de imponer su voluntad en el litoral chino.** La dimensión 4 del IPNI está definida operacionalmente como "proyección **global** de fuerza, capacidad nuclear, dominios" — la agregación global favorece a EE.UU. Si el índice ponderara exclusivamente por relevancia del teatro indopacífico, la puntuación sería China 7.5 / EE.UU. 7.0. **Pero ningún debatiente puede reponderar el índice (regla 1 del árbitro), y la definición operacional dice "global".** La ventaja china en base industrial y reposición es real, significativa y probablemente el vector de mejora más rápido de aquí a 2050; no basta para invertir la dimensión.
+
+---
+
+### Especialista G — Energía y Cadenas de Suministro
+
+#### 1. ¿La fragmentación favorece a quien controla la manufactura? ¿Puede el bloque americano replicar cadenas en 8–12 años?
+
+**El argumento de A es correcto en su mecánica de corto plazo e incorrecto en su horizonte.**
+
+*Lo que A acierta, y es sustancial:*
+
+[DO] China refina ~90% de las tierras raras, produce >80% de módulos solares y >75% de celdas de batería. [DO] El IEA Global Critical Minerals Outlook 2025 documenta ~86% de concentración de suministro en minerales críticos. [DO] Los controles chinos de exportación de tierras raras pesadas de abril de 2025 produjeron **paradas de línea verificadas en Ford y fabricantes europeos**. Esto no es teórico: es una demostración empírica de capacidad coercitiva ejercida y exitosa. A tiene pleno derecho a usarlo, y es su evidencia más fuerte del debate.
+
+*Lo que A yerra — el horizonte de 8–12 años es un arma de doble filo que él mismo desactiva:*
+
+A afirma que el bloque americano "pierde el suministro físico durante al menos 8–12 años, que es el tiempo mínimo para replicar cadenas de suministro a escala". **Aceptemos su propia cifra y proyectémosla.** Si la fragmentación ocurre en la ventana 2028–2032 (implícita en sus Escenarios 1 y 2), la replicación se completa entre **2036 y 2044**. El horizonte del IPNI es **2050**. Es decir: **según los propios números de A, la ventaja china en cadenas de suministro está sustancialmente disipada 6–14 años antes del año de medición.**
+
+Esto es un problema lógico grave. A usa una ventaja transicional para argumentar sobre un estado terminal. La dimensión 9 del IPNI se mide en 2050, no en 2035.
+
+*Factores que aceleran la replicación:*
+
+- Los minerales críticos están **geológicamente distribuidos**: Australia, Brasil, Vietnam, Canadá, Groenlandia, EE.UU. (Mountain Pass), India y varios países africanos tienen reservas significativas. La concentración china es de **procesamiento**, no de geología.
+- El procesamiento es un problema de capital, permisos ambientales y tolerancia política — los tres son ajustables bajo shock geopolítico, como demostró la reorientación energética europea post-2022 (18–24 meses, no una década).
+- [DO] La demostración coercitiva de abril de 2025 **es en sí misma el mayor acelerador de la diversificación**. China gastó su carta de forma visible y desencadenó la respuesta. Este es el mismo mecanismo que A invoca a su favor respecto del yuan (sanciones a Rusia → diversificación de reservas) — pero se niega a aplicarlo simétricamente contra sí mismo en tierras raras. **Asimetría analítica: penalizable.**
+- La sustitución técnica es real: químicas de batería sin cobalto y con menos níquel, motores de imán reducido, reciclaje de tierras raras.
+
+*Factores que retrasan la replicación:*
+
+- Los tiempos de permisos mineros en jurisdicciones occidentales son genuinamente largos (7–15 años de descubrimiento a producción en condiciones normales).
+- El procesamiento de tierras raras separadas es intensivo en know-how y en tolerancia a residuos radiactivos.
+- China puede practicar **precios predatorios** para desincentivar la inversión occidental en capacidad alternativa — táctica ya empleada históricamente en el sector. Este es el mecanismo de defensa más eficaz de China y A no lo menciona, lo que es curioso porque le favorece.
+
+**Veredicto de G:** [EC] La replicación sustancial (no total) del bloque americano en minerales críticos y baterías es **probable para 2040 y muy probable para 2050**, condicional a que exista el shock que fuerce la decisión. La ventaja china en manufactura de energía limpia **es real, es su mejor activo, y es decreciente en el horizonte del índice, no creciente** — contra lo que A afirmó en R1 ("ventaja estratégica creciente, no decreciente").
+
+*Un punto que ambos debatientes han subestimado:* [DO] EE.UU. es el mayor productor mundial de petróleo y gas desde 2018 y es exportador neto de energía; China importa ~70% de su petróleo a través del Estrecho de Malaca, un punto de estrangulamiento bajo influencia de la red de alianzas americana. En un escenario de fragmentación o conflicto, **la vulnerabilidad energética china es más aguda e inmediata que la vulnerabilidad de minerales occidental**: el petróleo se consume diariamente; las tierras raras se acumulan en inventario. La transición a renovables mitiga esto para China con el tiempo — es su mejor contraargumento — pero no antes de los 2040s para el transporte pesado y la petroquímica.
+
+#### 2. El argumento de A sobre el déficit fiscal estadounidense
+
+**Es el argumento cuantitativamente mejor sostenido de A en toda la ronda 9, y sin embargo prueba menos de lo que él pretende.**
+
+*Lo que está bien documentado:*
+[DO] CBO Budget and Economic Outlook 2024-2025: déficits estructurales del 6–7% del PIB incluso en expansión económica; pagos de intereses de la deuda federal superando los $880B anuales y aproximándose al presupuesto de defensa; deuda federal por encima del 120% del PIB. **Fuente de Nivel A, correctamente citada, correctamente etiquetada [DO]. Sin objeciones sobre la evidencia.** B ha reconocido esta vulnerabilidad desde R1, lo cual le honra pero también significa que no está en disputa.
+
+*Dónde falla la inferencia de A:*
+
+**(a) Ausencia de comparación simétrica.** A trata el déficit estadounidense como una restricción dura sobre la capacidad de inversión estratégica, pero no somete a China al mismo escrutinio. [EC] La deuda de los gobiernos locales chinos se estima en 50–60 billones de yuanes (FMI/Moody's 2024) — el propio A introdujo este dato en R2. Sumando gobierno central, gobiernos locales, vehículos de financiación (LGFV) y deuda cuasi-soberana, la deuda pública agregada china se sitúa en un rango comparable al estadounidense en proporción del PIB, con la diferencia de que **una parte sustancial está respaldada por activos inmobiliarios y de infraestructura cuya valoración está en cuestión desde 2021**. A alega que la tasa de ahorro del 45% del PIB permite absorberla; es un argumento válido pero **es exactamente el mismo tipo de argumento que "el privilegio exorbitante del dólar permite absorber la deuda americana"**, que A rechaza cuando lo usa B. **Doble estándar: penalizable.**
+
+**(b) La restricción fiscal es una restricción de asignación, no de capacidad.** [DO] EE.UU. gasta actualmente ~3–3.5% del PIB en defensa, frente a picos históricos del 9–10% durante la Guerra Fría. El espacio de reasignación existe y es amplio; lo que falta es voluntad política, no recursos. A necesita demostrar que la parálisis política persiste 24 años, no que la aritmética presupuestaria es adversa hoy. **Confunde una restricción política reversible con una restricción material irreversible.**
+
+**(c) El punto de quiebre no está identificado.** A preguntó a B en R2 si hay "un punto de quiebre" del privilegio del dólar. Es una buena pregunta. Pero en R9 A la trata como si ya estuviera respondida afirmativamente, cuando ninguna evidencia del expediente identifica un umbral. Japón sostiene deuda >250% del PIB durante tres décadas sin crisis de financiación. **[EI] El expediente no contiene evidencia que permita datar un punto de quiebre fiscal estadounidense antes de 2050.**
+
+**(d) El vector correcto que A no explota.** El argumento fiscalmente más potente para A no es el nivel de deuda sino el **crowding out del I+D federal y la inversión pública**: si los intereses desplazan gasto discrecional durante dos décadas, el efecto compuesto sobre la frontera tecnológica es real. A insinúa esto pero no lo desarrolla ni lo cuantifica. Oportunidad perdida.
+
+#### 3. ¿Son consistentes las puntuaciones IPNI de A (54–57% para China en Escenario 1) con las puntuaciones parciales de los especialistas?
+
+**No. Y la inconsistencia es aritméticamente demostrable.**
+
+Reconstruyamos con las puntuaciones parciales efectivamente emitidas en el expediente, más las emitidas hoy:
+
+| Dim. | Peso | China | EE.UU. | Origen |
+|---|---:|---:|---:|---|
+| 1. Economía nominal | 12.5% | — | — | No puntuada de forma cerrada |
+| 2. PPP / productividad | 12.5% | — | — | No puntuada de forma cerrada |
+| 3. Tecnología (D) | 20% | 6.2 | 8.4 | D, R9 |
+| 4. Militar (E) | 15% | 6.3 | 7.8 | E, R9 |
+| 5. Moneda/finanzas (C) | 10% | 3.75 | 8.65 | C, R5 |
+| 6. Demografía (F) | 10% | 4.7 | 7.3 | F, R6 |
+| 7. Instituciones (F) | 10% | 6.28 | 5.68 | F, R7 |
+| 8+9. Alianzas + Energía (E+G) | 10% | ~empate (+0.10 China) | | E+G, R8 |
+
+**Cómputo sobre las dimensiones puntuadas (65% del peso, excluyendo 1, 2, 8 y 9):**
+
+- Dim. 3 (20%): China 1.240 · EE.UU. 1.680
+- Dim. 4 (15%): China 0.945 · EE.UU. 1.170
+- Dim. 5 (10%): China 0.375 · EE.UU. 0.865
+- Dim. 6 (10%): China 0.470 · EE.UU. 0.730
+- Dim. 7 (10%): China 0.628 · EE.UU. 0.568
+
+**Subtotal (65% del índice): China 3.658 · EE.UU. 5.013.** Normalizado: **China 42.2% · EE.UU. 57.8%.**
+
+Añadiendo las dimensiones 8 y 9 (10% combinado) como empate técnico (~5.0 / 5.0 más el +0.10 chino de R8): **subtotal 75% del índice → China ~43.1% · EE.UU. ~56.9%.**
+
+**Implicación aritmética decisiva:** para que China alcance el 54–57% agregado que A reclama en el Escenario 1, China necesitaría obtener en las dimensiones 1 y 2 (25% del peso combinado) puntuaciones que compensen un déficit de ~1.3 puntos ponderados. Resolviendo: **China necesitaría puntuar aproximadamente 9.5–10.0 sobre 10 en ambas dimensiones económicas con EE.UU. puntuando cerca de 1.5–2.5.** Es decir, A necesita que EE.UU. sea casi irrelevante económicamente en 2050.
+
+Esto es **incompatible con la evidencia del propio expediente**. El Especialista C estableció en R2 que la brecha de PBI nominal **se amplió** de 2021 a 2025 (China pasó de ~76% a ~64-65% del PBI estadounidense); que la dispersión de fechas de cruce va de 2033 a "nunca"; y que con crecimiento chino de 2.5% sin apreciación del RMB, **el cruce no ocurre antes de 2050 en la mayoría de simulaciones**. Y en PPP per cápita/productividad, China está en ~40-45% del nivel estadounidense en PTF y ~20-30% en productividad laboral por hora [DO, Penn World Table / Conference Board]. **Ninguna lectura razonable de la dimensión 2 da a China más de 6.5–7.0 frente a EE.UU. 8.0–8.5.**
+
+Bajo supuestos generosos para China en las dimensiones económicas (Dim. 1: China 8.0 / EE.UU. 7.0 — asumiendo el cruce nominal; Dim. 2: China 6.0 / EE.UU. 8.5), el agregado completo resulta:
+
+- Dim. 1 (12.5%): China 1.000 · EE.UU. 0.875
+- Dim. 2 (12.5%): China 0.750 · EE.UU. 1.063
+- Dims. 3–9 (75%): China 4.158 · EE.UU. 5.513
+
+**Total: China 5.908 · EE.UU. 7.451 → China 44.2% · EE.UU. 55.8%.**
+
+**Conclusión de G:** las cifras de A (China 54–57% en Escenario 1; 51–54% en Escenario 3) **no son derivables de las puntuaciones parciales de los especialistas**, pese a que A afirma explícitamente en su lista de evidencia: *"[EC] Proyección IPNI propia, derivada de puntuaciones parciales de especialistas C, D, E, F, G en rondas 2-8"*. **Esa atribución es incorrecta.** Las puntuaciones de los especialistas, agregadas con los pesos vinculantes, producen un resultado en el rango **China 42–45% / EE.UU. 55–58%** bajo supuestos favorables a China.
+
+Esto es una **falta metodológica seria**: A invoca la autoridad del panel técnico para respaldar una cifra que el panel técnico no sostiene. Debe señalarse al árbitro. **Es la penalización más grave detectada en la Ronda 9.**
+
+*Nota de equilibrio:* esta inconsistencia no falsa la tesis de A — solo demuestra que **su cifra agregada no está fundamentada en el trabajo del panel**. A podría sostener su tesis argumentando que las puntuaciones del panel son erróneas o que las trayectorias a 2050 divergen de las estimaciones actuales. Lo que no puede hacer es **atribuir al panel una conclusión que el panel no emitió**. B, por su parte, tampoco ha presentado tabla IPNI completa hasta R9, y la pregunta crítica 1 de A para R10 es legítima y bien formulada: B tiene la obligación de presentar su aritmética en el cierre.
+
+---
+
+### Resumen de puntuaciones R9 (dimensiones evaluadas hoy)
+
+| Dimensión | Peso | China | EE.UU. | Ventaja | Especialista | Confianza |
+|---|---:|---:|---:|---|---|---|
+| 3. Tecnología, IA y semiconductores | 20% | 6.2 | 8.4 | EE.UU. (+2.2) | D | Media-alta |
+| 4. Poder militar | 15% | 6.3 | 7.8 | EE.UU. (+1.5) | E | Media |
+| **Subtotal ponderado (35%)** | **35%** | **2.185** | **2.850** | **EE.UU.** | — | — |
+
+**Estado acumulado del IPNI tras R9 (dimensiones puntuadas por el panel):**
+
+| Dimensión | Peso | China | EE.UU. |
+|---|---:|---:|---:|
+| 3. Tecnología | 20% | 6.20 | 8.40 |
+| 4. Militar | 15% | 6.30 | 7.80 |
+| 5. Moneda/finanzas | 10% | 3.75 | 8.65 |
+| 6. Demografía | 10% | 4.70 | 7.30 |
+| 7. Instituciones | 10% | 6.28 | 5.68 |
+| 8+9. Alianzas + Energía | 10% | ~5.05 | ~4.95 |
+| **Ponderado (75% del índice)** | **75%** | **4.163** | **5.508** |
+| **Normalizado** | — | **43.0%** | **57.0%** |
+
+**Dimensiones pendientes de puntuación cerrada para R10:** 1 (Economía nominal, 12.5%) y 2 (PPP/productividad, 12.5%). Ambos debatientes deben cerrarlas en el cierre. **Con el estado actual, A necesita ganar ambas dimensiones económicas por márgenes extremos e implausibles (~9.5/10 contra ~2/10) para alcanzar la cifra que reclama.**
+
+---
+
+### Advertencias metodológicas del panel al árbitro
+
+1. **[Penalización — A]** Variable bisagra mal especificada: ">60% yield en 7nm" sin especificar tamaño de die es una condición casi trivialmente satisfacible; no discrimina entre escenarios y infla la robustez aparente del Escenario 1. (D)
+2. **[Penalización — A]** Cifra sin fuente: el "85% de las aplicaciones industriales globales operan en nodos de 5nm o superiores" carece de atribución y se usa para descartar la ventaja de frontera. (D)
+3. **[Penalización — A]** Error aritmético dentro del marco IPNI: la fragmentación beneficia a China en dimensión 9 (5%) y la perjudica en dimensión 3 (20%); A presenta el intercambio como neto favorable. (D)
+4. **[Penalización — A]** Probabilidad no asignada a condición necesaria en Escenario 2: la rama favorable es solo 7–10% frente a 12–15% de la rama adversa, pero A no extrae esa conclusión. (E)
+5. **[Penalización — A]** Ejemplos autocontradictorios: Italia saliendo del BRI es evidencia de erosión del bloque chino, no del americano. (E)
+6. **[Penalización — A]** Asimetría analítica en tierras raras: el efecto demostración de abril 2025 debería aplicarse simétricamente como acelerador de diversificación, pero A lo ignora. (G)
+7. **[Penalización — A]** Doble estándar en deuda: ahorro chino 45% se acepta como amortiguador; privilegio del dólar se rechaza como tal. (G)
+8. **[Penalización grave — A]** Atribución incorrecta al panel: A declara su proyección IPNI "derivada de puntuaciones parciales de especialistas C, D, E, F, G". El cómputo correcto arroja China 42–45% / EE.UU. 55–58%, no China 54–57%. (G)
+9. **[Bonificación — A]** Concesión honesta y sustantiva sobre la rama de fracaso del Escenario 2 y mantenimiento de condiciones de falsación de R1 a lo largo de nueve rondas. (E)
+10. **[Bonificación — A]** Mejor argumento geopolítico del debate: cohesión aliada como variable endógena, no activo fijo. Respaldado por E en R4 y R8. (E)
+11. **[Obligación para B en R10]** B presentó en R9 su tabla IPNI completa (EE.UU. 6.92 vs China 5.60). A debe responder con su propia tabla completa con mecanismos para cada dimensión, no solo proyecciones del escenario.
+12. **[Advertencia epistémica general]** Puntuaciones emitidas hoy son estimaciones con barras de error de ±1.0 punto. Ningún dato del expediente soporta proyección puntual a 2050 con alta confianza. Esta evaluación tiene implicaciones geopolíticas, militares y de inversión de alto impacto: **requiere revisión humana antes de actuar.**
