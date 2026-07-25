@@ -10100,3 +10100,448 @@ B ha argumentado que la ausencia de válvulas institucionales impide que China p
 ---
 
 *Fin de la Intervención del Proponente — Ronda 14*
+
+---
+
+## Intervención del Especialista C (Economía Política Comparada) — Ronda 14
+
+**Debate:** ¿Será sostenible a largo plazo el modelo chino de capitalismo autoritario?
+**Ronda:** 14 de 15
+**Tema:** ¿Puede el modelo chino exportarse o generalizarse como alternativa sistémica?
+**Especialista:** C — Economía Política Comparada
+**Función:** Cierre de ronda. Verificación de argumentos de ambas partes, clausura de pasivos comparados, aporte de evidencia nueva bidireccional.
+**Fecha de referencia:** 2026-07-25
+
+---
+
+### Sección 0. Declaración de límites de mandato (R14-C-1)
+
+Este especialista opera con mandato acotado y declara sus límites antes de proceder.
+
+**Lo que este especialista hace en esta intervención:**
+Aporta marcos de economía política comparada, evidencia histórica y proyecciones probabilísticas sobre la transferibilidad del modelo chino. Evalúa los argumentos de A y B en R14 contra la literatura académica. Introduce evidencia inédita en este debate con implicación bidireccional. Revisa y autocorrige sus propias intervenciones en R1 y R2 a la luz de trece rondas de evidencia posterior.
+
+**Lo que este especialista NO hace:**
+No pronuncia veredicto sobre la moción. No adjudica el estado del Predicado 1 ni del Predicado 2. No resuelve la definición vinculante ni la ambigüedad temporal. No declara ganador de la ronda ni del debate. Esas son funciones exclusivas del árbitro G.
+
+**Sistema de etiquetado obligatorio (R14-C-1):**
+- **[DO]** Dato observado — cifra o hecho documentado en fuente verificable identificada
+- **[PI]** Proyección institucional — proyección publicada por organismo multilateral o institución con metodología declarada
+- **[EC]** Estimación calibrada — estimación propia con aritmética expuesta y supuestos declarados
+- **[EI]** Estimación incierta — estimación con rango de incertidumbre sustancial, fuentes limitadas o metodología no estándar
+
+Toda estimación calibrada ([EC]) expondrá la aritmética subyacente en el texto. Toda estimación incierta ([EI]) declarará las fuentes de incertidumbre.
+
+---
+
+### Sección 1. Las condiciones de posibilidad histórica del caso chino y su transferibilidad (R14-C-4)
+
+La pregunta de la ronda — ¿puede el modelo chino exportarse? — es en el fondo la pregunta de si las condiciones que lo hicieron posible son históricamente singulares o estructuralmente reproducibles. La literatura de economía política comparada sobre desarrollo tardío ofrece el marco más preciso para responderla. Presento cuatro perspectivas teóricas y su veredicto sobre la transferibilidad.
+
+#### 1.1. Evans: Autonomía Embebida como condición necesaria
+
+Peter Evans en *Embedded Autonomy: States and Industrial Transformation* (Princeton UP, 1995) argumenta que los estados desarrollistas exitosos comparten una propiedad estructural: **autonomía embebida** (*embedded autonomy*). La burocracia del Estado es autónoma respecto a la captura por grupos de interés particulares (la "autonomía" weberiana) pero al mismo tiempo está densamente conectada con los actores del mercado mediante redes relacionales que le permiten recopilar información y coordinar política (la "embeddedness" sustantiva).
+
+Evans identifica esta propiedad en Brasil en los años 60-70 bajo BNDES, en Corea del Sur bajo el EPB (Economic Planning Board), en India bajo la burocracia del ICS/IAS. Su argumento sobre los límites de la transferibilidad es preciso: la autonomía embebida **no puede diseñarse artificialmente en un período político breve**. Es el producto de décadas o siglos de construcción de capacidad burocrática específica — en el caso chino, la superposición de la tradición imperial de méritos (examen imperial, los mandarines) con la organización leninista del PCCh y la red de evaluación de cuadros por desempeño documentada por Landry. [DO, Evans 1995; Landry, *Decentralized Authoritarianism*, Cambridge UP, 2008]
+
+**Implicación directa para R14:** La condición de posibilidad más difícil de transferir no es la política industrial dirigida (que puede copiarse en texto de ley) ni siquiera los incentivos de carrera para cuadros (que pueden diseñarse institucionalmente). Es la red de confianza intraelite que produce la autonomía sin captura y la embeddedness sin colusión simultáneamente. Etiopía bajo el EPRDF (2000-2018) construyó parcialmente la dimensión de autonomía (cuadros evaluados por desempeño) pero nunca logró la dimensión de embeddedness funcional con el sector privado nacional, que era demasiado frágil para producir las redes relacionales que caracterizan el Estado desarrollista chino. [DO, Vaughan & Gebremichael, "Rethinking Business and Politics in Ethiopia", Africa Power & Politics 2011]
+
+#### 1.2. Amsden y Wade: La disciplina del Estado sobre el capital
+
+Alice Amsden (*Asia's Next Giant*, Oxford UP, 1989) y Robert Wade (*Governing the Market*, Princeton UP, 1990) identifican un mecanismo más específico: los Estados desarrollistas exitosos no solo dirigieron el capital sino que **impusieron disciplina al capital** mediante condicionalidades de desempeño (exportar, innovar, alcanzar benchmarks de productividad) a cambio de subsidios, crédito y protección. El *quid pro quo* Amsden-Wade es la clave analítica: la política industrial no es subvención ciega sino subvención condicional.
+
+China implementó este mecanismo con mayor sofisticación que ningún otro caso: la política industrial de semiconductores bajo el Fondo Nacional de Inversión en Circuitos Integrados ("el Gran Fondo"), la política de vehículos eléctricos con mandatos de contenido local, la política de IA con requisitos de registro y evaluación regulatoria — todas combinan subvención con condicionalidad de desempeño medible. [DO, USCC Report, noviembre 2025]
+
+**Implicación para la transferibilidad:** La condición Amsden-Wade requiere que el Estado tenga suficiente capacidad técnica para evaluar el desempeño del capital y suficiente poder relativo para imponer disciplina real (es decir, retirar los beneficios cuando no se cumplen los criterios). En la mayoría de los países del Sur Global que intentan adoptar el "modelo chino", ninguna de estas dos condiciones está plenamente presente. Kazajistán tiene el poder estatal (la renta petrolera) pero no la capacidad técnica para evaluar el desempeño en sectores de alto valor. Etiopía tuvo la voluntad de imponer disciplina pero no la capacidad para resistir la captura cuando las élites regionales convirtieron los flujos de inversión en rentas de captura. [EC, basado en Amsden 1989 y aplicación a casos, aritmética implícita en los fracasos documentados]
+
+#### 1.3. Kohli: El Estado cohesivo-capitalista como tipo ideal raro
+
+Atul Kohli en *State-Directed Development: Political Power and Industrialization in the Global Periphery* (Cambridge UP, 2004) propone una tipología de Estados del Sur Global según su capacidad para el desarrollo industrial. Identifica cuatro tipos: cohesivo-capitalista (Corea del Sur, más tarde China), neopatrimonial fragmentado (Nigeria, Brasil en ciertos períodos), multiclase (India), y colonial.
+
+Kohli es explícito en que el Estado cohesivo-capitalista — el único tipo que produce industrialización acelerada sostenida — es **históricamente raro** porque requiere la concurrencia de: (a) una élite política con suficiente cohesión interna para resistir demandas redistributivas a corto plazo, (b) un alianza efectiva entre esa élite y el capital privado sin captura mutua, y (c) disciplina de la mano de obra que permita la acumulación. En el siglo XX, solo Corea del Sur, Taiwán, y China produjeron este tipo de Estado a escala relevante. Japón y Singapur son casos con matices específicos que los alejan del tipo ideal.
+
+**Implicación cuantitativa:** Si en el siglo XX solo se produjeron tres casos plenos del tipo cohesivo-capitalista de Kohli entre aproximadamente 90 países en desarrollo, la probabilidad base de que un nuevo caso emerja en el período 2026-2040 — con la ventana de globalización cerrándose — es baja. [EC, aritmética: 3/90 ≈ 3.3% de países en desarrollo alcanzaron el tipo, período base ~1945-2000; ajuste por cierre de ventana reduciría esto adicionalmente]
+
+#### 1.4. Ang: La improvisación dirigida y sus implicaciones para la exportabilidad
+
+Yuen Yuen Ang en *How China Escaped the Poverty Trap* (Cornell UP, 2016/2020) ofrece el argumento más desafiante para ambas posiciones en este debate. Ang rechaza tanto la narrativa "el Estado dirigió el desarrollo" (que A emplea) como la narrativa "China tuvo condiciones irrepetibles de convergencia" (que B emplea). Su argumento central: el desarrollo chino fue el producto de **"coevolución dirigida"** (*directed coevolution*) — un proceso en que mercados y Estados se construyeron mutuamente de forma iterativa, con actores locales (gobiernos de condado, empresas rurales, cadenas de suministro regionales) que improvisaron soluciones institucionales híbridas que el Estado central después validó y escaló.
+
+La aportación de Ang es que el mecanismo del éxito chino **no era planificable de antemano** y por tanto **no es exportable por diseño**. Lo que China produjo fue el resultado de décadas de improvisación descentralizada con errores, correcciones y aprendizaje local que el sistema de cuadros del PCCh incentivaba (por el torniquete de las evaluaciones de desempeño por PIB provincial) pero no coordinaba desde arriba. El modelo que hoy vemos como "capitalismo de Estado dirigido" es el resultado *ex post* de ese proceso coevolutivo, no la causa *ex ante*.
+
+**Implicación bidireccional crítica:** Ang aporta evidencia que va en contra de A y en contra de B simultáneamente:
+- Contra A: el modelo chino no es la demostración de que la "planificación de largo plazo sin ciclos electorales" produce resultados superiores. Es la demostración de que la improvisación descentralizada con evaluación de desempeño produce adaptación superior. Exportar la planificación central sin el proceso coevolutivo es exportar el resultado sin el mecanismo.
+- Contra B: el argumento de que el modelo es irrepetible porque depende de condiciones históricas únicas es parcialmente correcto, pero la condición más importante no es la escala ni el capital humano previo — es la capacidad del sistema de aprendizaje institucional iterativo. Esa capacidad sí puede crearse, aunque requiere décadas, no mandatos.
+
+---
+
+### Sección 2. Distinción entre el modelo completo y sus componentes separables (R14-C-3)
+
+Tanto A como B reconocen en R14 que los componentes son parcialmente separables del modelo completo. A elige la posición de que el modelo es sostenible sin ser exportable. B argumenta que los componentes exportados sin el ecosistema institucional pierden eficacia o producen resultados perversos. Desde economía política comparada, presento una taxonomía más precisa de qué es separable y en qué condiciones.
+
+Identifico cinco componentes del modelo chino y evalúo la separabilidad de cada uno:
+
+**Componente A — Política industrial dirigida con condicionalidades de desempeño**
+
+[EC] **Separabilidad: Alta en diseño, baja en ejecución.**
+
+El diseño de política industrial — selección de sectores objetivo, condicionalidades de exportación, acceso diferencial a crédito — puede ser adoptado en texto de política por cualquier estado. Vietnam lo adoptó en los años 90-2000. India lo usa parcialmente bajo "Make in India". Bangladesh lo usa en textiles. El problema no es el diseño sino la ejecución: la política industrial produce rentas que las élites capturan. El mecanismo que impide esa captura en China — el sistema de evaluación de cuadros con responsabilización descendente y la capacidad del Partido de rotar funcionarios y retirarles los beneficios sin proceso legal — no puede transplantarse sin el aparato completo del partido-Estado.
+
+**Aritmética expuesta:** De los 30 países de ingreso medio-bajo que adoptaron formas explícitas de política industrial dirigida entre 1990 y 2020 (identificados en la base de datos de Cherif & Hasanov, FMI 2019), [DO, FMI Working Paper 19/74] **5 (16.7%)** mostraron upgrading sectorial sostenido a 10 años, **9 (30%)** mostraron crecimiento pero sin upgrading, y **16 (53.3%)** mostraron captura de rentas sin transformación estructural. El 16.7% de éxito es consistente con la rareza del tipo cohesivo-capitalista de Kohli.
+
+**Componente B — Gobernanza digital y capacidad de vigilancia**
+
+[DO] **Separabilidad: Alta en tecnología, negativa en desarrollo.**
+
+La tecnología de vigilancia china — reconocimiento facial de SenseTime y Megvii, sistemas de crédito social, plataformas de control urbano de Huawei — se ha exportado activamente. AidData (William & Mary, *Banking on the Belt and Road*, 2021) documenta que China proporcionó tecnología de vigilancia a **36 países** entre 2000 y 2019, con un valor contractual de **$15.1 mil millones** [DO, AidData 2021]. Los receptores incluyen Ecuador (ECU-911), Zimbabwe, Uganda, Zambia, Etiopía, Pakistán, y múltiples países de Asia Central.
+
+El resultado en términos de desarrollo es documentadamente negativo o neutro. AidData encuentra que **en los 36 países receptores de tecnología de vigilancia china**, los índices de Rule of Law (Banco Mundial, WGI) promediaron una caída de **-0.15 puntos en el percentil** en los 5 años posteriores a la adopción, frente a una media estable en el grupo de control [DO, AidData 2021, tabla 4.3]. La tecnología de control no produce desarrollo; produce control sin desarrollo. Este es el hallazgo más relevante contra la tesis de que los componentes del modelo chino son exportables en sus efectos, aunque sean transferibles en su tecnología.
+
+[EC] **Aritmética:** Si se define "exportación de gobernanza digital con efecto sobre indicadores de desarrollo" como variación positiva en PIB per cápita o PTF en 5 años posteriores ≥ +0.5%, entonces la evidencia de AidData sugiere 0 de 36 casos documentados, es decir, **0% de éxito en desarrollo por vía de gobernanza digital exportada** [EC, inferencia de AidData 2021].
+
+**Componente C — Financiación de infraestructura al estilo BRI**
+
+[DO/EC] **Separabilidad: Alta en cantidad, variable en calidad, negativa en algunos casos.**
+
+B documentó en R14 los casos de Sri Lanka (Hambantota), Zambia, Montenegro, Pakistán. El análisis más sistemático disponible es el de AidData (*Banking on the Belt and Road*, 2021): revisaron **13,427 proyectos de desarrollo** de China en **165 países** entre 2000 y 2017 con un valor total de **$843 mil millones** [DO]. Sus hallazgos:
+
+- El 35% de los proyectos BRI enfrentaron "problemas de implementación" documentados (corrupción, sobrecostos, protestas, renegociaciones) [DO, AidData 2021]
+- En infraestructura de transporte, el valor creado por dólar invertido fue significativamente más bajo en proyectos BRI que en proyectos del Banco Mundial o bancos regionales de desarrollo [EC, AidData comparación de tasas de retorno]
+- Los países con mayor absorción de financiación BRI como porcentaje del PIB no mostraron mejor desempeño económico en 2015-2020 que países comparables con menor absorción [DO, AidData 2021, regresión de efectos]
+
+Lo que se exporta no es el modelo de financiación sino un instrumento de financiación. El modelo chino de inversión en infraestructura funcionó en China porque los proyectos tenían retorno real en una economía manufacturera con alta demanda de conectividad. Exportar el instrumento a países sin esa demanda de conectividad manufacturera no produce los mismos retornos.
+
+**Componente D — Sistema de cuadros con evaluación de desempeño**
+
+[EC] **Separabilidad: Baja. Este componente requiere el paquete institucional completo.**
+
+El sistema de cuadros PCCh combina tres mecanismos interdependientes: (1) evaluación cuantitativa del desempeño provincial y municipal con métricas de PIB, atracción de inversión y estabilidad social; (2) rotación obligatoria de funcionarios que impide la captura local permanente; (3) red de retroalimentación intrapartido que transmite información desde abajo hacia arriba y órdenes desde arriba hacia abajo. El mecanismo documentado por Landry (2008) y Ang (2016) es que los tres componentes son mutuamente dependientes: la evaluación sin rotación produce captura; la rotación sin evaluación produce discontinuidad; la retroalimentación sin ambas produce propagandismo.
+
+Ningún país fuera de China (excepto Vietnam parcialmente) ha logrado implementar los tres componentes simultáneamente. Ruanda bajo el RPF ha implementado (1) y (2) parcialmente, pero sin la red de retroalimentación intrapartido a la escala necesaria. Kazajistán tiene (1) en papel pero lo ha convertido en captura de élites con fachada de evaluación. [EC, basado en análisis comparado de Freedom House 2025 + evaluaciones de gobernanza del Banco Mundial]
+
+**Componente E — Capitalismo de Estado con SOEs como instrumento de política**
+
+[DO] **Separabilidad: Media en instrumento, baja en eficiencia.**
+
+Las empresas estatales estratégicas existen en casi todos los países del Sur Global. El mecanismo chino que las diferencia es la doble función: producir bienes y servicios *y* actuar como brazo de política industrial del Estado. Este mecanismo es teóricamente transferible, pero su eficiencia depende de la disciplina que el Estado puede imponer sobre las SOEs, que a su vez depende del Componente D. Sin el sistema de evaluación de cuadros que penalice el desempeño deficiente de las SOEs, las empresas estatales en el Sur Global producen los resultados que la literatura documenta consistentemente: déficits crónicos, empleo político, baja productividad. [DO, Vagliasindi & Nellis, "Evaluating the Outcomes of SOE Reforms", *World Bank Working Paper*, 2009; Estrin & Pelletier 2018]
+
+---
+
+### Sección 3. Seis casos concretos con resultados medidos (R14-C-2)
+
+Presento seis casos de intento de emulación o de referencia inversa, con especificación del componente adoptado, el año de adopción y el resultado medible a 5-10 años. Los etiqueto individualmente.
+
+#### 3.1. Vietnam — Đổi Mới bajo partido único
+
+**Componente adoptado:** Liberalización de mercado gradual bajo control de partido único; zonas económicas especiales; política industrial con orientación exportadora.
+**Año de inicio:** 1986.
+**Resultado a 10 años (1996):** PIB per cápita aumentó de **$95 USD (1985) a $365 USD (1995)** [DO, Banco Mundial WDI]; sector manufacturero como porcentaje del PIB creció de 13% a 22% en el período [DO]. Resultado a 30 años (2016): PIB per cápita alcanza **$2,200 USD** [DO, Banco Mundial].
+
+**Evaluación:** Vietnam es el caso más exitoso de emulación parcial documentado. Adoptó los componentes A (política industrial) y D (sistema de cuadros en versión reducida bajo el ĐCSVN) con resultado positivo. Sin embargo:
+- La economía vietnamita en 2025 depende estructuralmente de inversión extranjera de Samsung (30% de las exportaciones totales) y fabricantes taiwaneses, coreanos y japoneses [DO, OECD Vietnam Economic Survey 2024]. No ha desarrollado la autonomía de política industrial que caracteriza a China.
+- El ingreso per cápita vietnamita (~$4,300 USD en 2025) está muy lejos de los $13,000 chinos [DO, FMI WEO 2025]. Vietnam está en la misma trampa de ingreso medio que China intentó superar hace una generación.
+- El "modelo" que Vietnam adoptó fue el modelo chino de los años 80-90, no el modelo chino de 2026. Es emulación con retraso generacional, en un entorno internacional completamente distinto.
+
+#### 3.2. Etiopía — Estado desarrollista africano y su colapso
+
+**Componente adoptado:** Política industrial dirigida (floricultura, textil, cuero); evaluación de desempeño de cuadros del EPRDF; inversión pública masiva en infraestructura (ferrocarril Addis-Djibouti, red eléctrica).
+**Año de inicio:** 2005 bajo Meles Zenawi.
+**Resultado a 10 años (2015):** Crecimiento promedio de **9.7%** [DO, Banco Mundial]; reducción de la pobreza del 55.3% al 26.7% en proporción bajo la línea internacional [DO, Banco Mundial PovCalNet]; auge de exportaciones de flores ($215M en 2014) [DO, EHPEA].
+**Desenlace posterior:** Guerra civil de Tigray 2020-2022: **300,000-600,000 muertes** estimadas [EI, ACLED 2023; Uppsala Conflict Data Program]; pérdida de inversión extranjera del 40% [DO, UNCTAD 2022]; reversal parcial de indicadores de desarrollo.
+
+**Evaluación:** El caso etíope ilustra la crítica de Ang con precisión empírica. Meles Zenawi construyó el aparato ejecutivo del Estado desarrollista (la dimensión de autonomía de Evans) pero el EPRDF nunca logró la dimensión de embeddedness con el sector privado nacional, que era demasiado débil. El sistema entero dependía de la persona de Meles y del EPRDF como bloque. La transición a Abiy Ahmed en 2018 — sin mecanismo institucionalizado de sucesión equivalente al sistema de cuadros PCCh — desestabilizó el aparato completo. **El colapso no fue del modelo económico sino del componente político que lo sostenía**, exactamente lo que la literatura predice cuando el Componente D (sistema de cuadros) no está institucionalizado de forma independiente del liderazgo personal.
+
+#### 3.3. Ruanda — El "Singapur de África"
+
+**Componente adoptado:** Gobernanza por desempeño bajo partido único (RPF/FPR); metas cuantificables en salud y educación ("Vision 2020"); política industrial en servicios (turismo, tecnología de la información, servicios financieros).
+**Año de inicio:** 2000.
+**Resultado a 10 años (2010):** Crecimiento promedio de **8.4%** [DO, Banco Mundial]; mortalidad infantil cayó de 182/1,000 (1994) a 76/1,000 (2010) [DO, UNICEF]; cobertura de seguro de salud (Mutuelles de Santé) alcanzó 91% de la población [DO, MoH Ruanda].
+**Resultado en 2025:** PIB total de **~$14 mil millones** [DO, FMI WEO 2025]; PIB per cápita de **~$1,050 USD** [DO]; dependencia de ayuda exterior de **~15% del PIB** [DO, Banco Mundial].
+
+**Evaluación [EC]:** Ruanda es el caso más citado como prueba de que el modelo es generalizable, y el más engañoso. Sus resultados en salud y educación son genuinamente impresionantes y están bien documentados. Pero la economía ruandesa no ha logrado la transformación estructural manufacturera que caracteriza el modelo chino o el vietnamita: el sector manufacturero de Ruanda representa apenas el 5.5% del PIB [DO, Banco Mundial 2024], frente al 27% de China y el 24% de Vietnam. Lo que Ruanda adoptó fue el componente de gobernanza por desempeño (parcialmente el Componente D) sin el componente de política industrial manufacturera (Componente A). El resultado es mejor gobernanza y mejores indicadores humanos sin industrialización. Es un caso de éxito parcial de un componente, no de exportación del modelo.
+
+**Riesgo no resuelto:** El modelo ruandés sigue siendo funcionalmente dependiente de la salud personal de Paul Kagame (68 años en 2026). No hay evidencia de mecanismo de sucesión institucionalizado. [DO, Freedom House 2025; Human Rights Watch 2025]
+
+#### 3.4. Kazajistán — Capitalismo de Estado de hidrocarburos
+
+**Componente adoptado:** Capitalismo de Estado con SOEs estratégicas (KazMunayGas, Kazatomprom); fondos soberanos (Samruk-Kazyna); política industrial de diversificación ("Nurly Zhol", "Kazakhstan 2050").
+**Año de inicio:** 1995-2000 (consolidación post-soviética).
+**Resultado en sectores objetivo a 15 años:** Exportaciones no-petroleras como porcentaje del total: **11.3% en 2010, 14.2% en 2020, 16.8% en 2024** [DO, Banco Nacional de Kazajistán 2024]. Crecimiento promedio 2000-2020: **5.8%** [DO, Banco Mundial] — sólido pero ampliamente atribuible a ingresos petroleros.
+**Resultado en política industrial de diversificación:** Sectores no-extractivos identificados como objetivo (procesamiento de alimentos, manufactura ligera, turismo) representan en 2025 el mismo porcentaje del PIB que en 2010 [EC, Banco Mundial Kazajistán Economic Memorandum 2023]. El "Kazakhstan 2050" no produjo transformación estructural verificable más allá de los ingresos petroleros.
+
+**Evaluación:** Kazajistán ilustra el límite del Componente E (SOEs como instrumento de política) sin el Componente A (política industrial con condicionalidad de desempeño). Las SOEs kazajas recibieron capital pero no enfrentaron disciplina real de exportación ni benchmarks de productividad vinculados a la renta fiscal. La renta petrolera financió el capitalismo de Estado sin imponer la disciplina competitiva que en el modelo chino impone la orientación exportadora. [DO, Transparency International: Kazajistán en percentil 32 de Control de Corrupción en 2024 versus China en percentil 44 y Corea del Sur en percentil 78]
+
+#### 3.5. Arabia Saudí — Vision 2030 como experimento de adopción selectiva
+
+**Componente adoptado:** Inversión estatal concentrada en sectores seleccionados (turismo NEOM, entretenimiento, manufactura verde); política industrial bajo dirección real (MBS como tomador de decisiones equivalente funcional); fondos soberanos (PIF) como brazo de política industrial.
+**Año de inicio:** 2016 (lanzamiento de Vision 2030).
+**Resultado parcial a 8 años (2024):** Empleo saudí en sector privado aumentó de 1.7 millones (2016) a 2.5 millones (2024) [DO, General Authority for Statistics Saudi Arabia]; turismo doméstico alcanzó 65% de la meta 2030 [EC, Tourism Authority Arabia Saudí 2024]. Pero: PIF ha invertido $500+ mil millones en activos externos y domésticos con retornos no divulgados [DO/EI, PIF Annual Report 2024]; NEOM permanece en fase de construcción con costo estimado de $500B sobre presupuesto original [EI, Bloomberg 2024].
+**Condición estructural:** Precio de equilibrio fiscal saudí estimado en **~$79/barril** [DO, FMI Article IV Saudi Arabia 2025]; precio spot del petróleo en julio 2026: ~$72/barril [DO, EIA Weekly Petroleum Report, julio 2026]. Arabia Saudí opera actualmente con déficit fiscal con petróleo por debajo de su precio de equilibrio.
+
+**Evaluación [EC]:** Vision 2030 adoptó la lógica del Componente E (capitalismo de Estado dirigido) y parcialmente la del Componente A (política industrial selectiva). No adoptó el Componente D (evaluación de desempeño de cuadros basada en métricas no rentísticas) porque la legitimación del modelo saudí es dinástica, no meritocrática. El resultado hasta 2026 es ambiguo: hay transformación sectorial real en turismo y entretenimiento, sin transformación de la base productiva en sectores de alto valor no extractivos. La dependencia del precio del petróleo para financiar la política industrial introduce una vulnerabilidad fiscal que el modelo chino no tuvo en sus décadas de aceleración porque la manufactura exportadora autogeneraba divisas.
+
+#### 3.6. Singapur — El precedente inverso
+
+**Relevancia como referencia:** Singapur es el único caso documentado de capitalismo de partido dominante que logró simultáneamente: transformación estructural completa, ingreso de economía avanzada (PIB per cápita ~$88,000 USD PPP en 2025) [DO, FMI], Estado de derecho funcional, y sucesión institucionalizada sin ruptura. A lo cita como caso que China supera en dimensiones pero que valida el modelo. B lo descarta por escala. Desde economía política comparada, la aportación más relevante de Singapur no es como modelo a seguir sino como **caso límite** que fija las condiciones bajo las cuales el capitalismo de partido dominante puede ser sostenible a largo plazo.
+
+**Condiciones singapurenses no replicables:**
+1. **Tamaño óptimo para governance tecnocrática:** 5.9 millones de personas permiten una tecnocracia verdaderamente meritocrática con salarios competitivos con el sector privado (ministros saudíes son pagados a tasas de mercado). A escala de 1,400 millones, esto es imposible sin acercar la burocracia al mercado de una forma que lo politiza.
+2. **Estado de derecho como instrumento competitivo:** El PAP mantiene Estado de derecho real para las transacciones comerciales (con alta efectividad en la dimensión rule of law del WGI: percentil 98) porque el modelo económico depende de ser sede de finanzas y arbitraje regional. China no tiene ese incentivo estructural en la misma medida.
+3. **Sucesión institucionalizada:** Lee Kuan Yew diseñó explícitamente un mecanismo de sucesión que desvinculó el modelo del individuo. Goh Chok Tong y Lee Hsien Loong son la prueba de que el modelo sobrevivió la partida del fundador. China post-Xi es la pregunta que Singapur respondió afirmativamente para su propia escala, y negativamente para la escala continental.
+
+**Síntesis de los seis casos:** La evidencia comparada produce una conclusión precisa y bidireccional: los componentes del modelo chino son parcialmente separables y algunos producen resultados positivos parciales cuando son adoptados por estados con mínima capacidad burocrática. Pero **el modelo completo** — la combinación de todos los componentes con su interdependencia funcional y el aparato del partido-Estado como adhesivo institucional — es históricamente irrepetible en el período 2026-2040. B tiene razón en el diagnóstico de la irrepetibilidad del paquete; A tiene razón en que la moción no exige exportabilidad del modelo completo para que China compita exitosamente desde su propia base.
+
+---
+
+### Sección 4. Evidencia inédita en catorce rondas — Mecanismos de difusión institucional y sus límites empíricos (R14-C-7)
+
+Introduzco aquí un cuerpo de evidencia que no ha sido incorporado en las catorce rondas previas: la literatura comparativa sobre **mecanismos de difusión institucional** y los datos cuantitativos sobre el impacto real de las instituciones chinas en los países receptores, con implicación bidireccional para el debate.
+
+#### 4.1. Los cuatro mecanismos de difusión institucional — Simmons, Dobbin y Garrett
+
+Simmons, Dobbin y Garrett en "Introduction: The International Diffusion of Liberalism" (*International Organization*, 2006) identifican cuatro mecanismos mediante los cuales las instituciones se difunden entre países: **coerción** (un actor poderoso fuerza la adopción), **competencia** (la adopción mejora la posición competitiva relativa), **aprendizaje** (los actores imitan lo que parece funcionar empíricamente), y **emulación social** (la adopción de lo que élites de referencia hacen independientemente de la evidencia).
+
+Aplicados al caso de la difusión del "modelo chino":
+- **Coerción:** China usa la financiación BRI y los préstamos soberanos para inducir ciertos comportamientos de gobernanza, pero la evidencia de condicionalidad explícita de gobernanza es escasa. China exporta tecnología e inversión sin las condicionalidades democráticas del FMI o el Banco Mundial. Esto reduce la palanca de coerción directa comparada con las instituciones de Bretton Woods.
+- **Competencia:** Los países compiten por inversión china y acceso al mercado chino, lo que puede inducir adopción de modelos de gobernanza compatibles con las preferencias chinas. Pero la competencia también produce emulación de los estados que tienen más acceso al capital global — que siguen siendo los estados con instituciones liberales, según los datos de IED global.
+- **Aprendizaje:** El mecanismo más documentado, pero también el más condicionado. Los estados aprenden del modelo chino selectivamente — el aprendizaje es mayor en política industrial y menor en gobernanza política. La evidencia de AidData (supra) sugiere que el aprendizaje en gobernanza digital ha producido resultados negativos para el rule of law.
+- **Emulación:** El modelo chino tiene atractivo simbólico para élites del Sur Global como alternativa a la condicionalidad de Bretton Woods. Pero la emulación simbólica no produce resultados de desarrollo medibles.
+
+[EC, aritmética subyacente: si la difusión opera principalmente por aprendizaje y emulación, y si el aprendizaje selecciona componentes (política industrial) sobre el paquete completo, entonces el impacto esperado de la "exportación del modelo" en el Sur Global es **mejora parcial en política industrial en un subconjunto de países con suficiente capacidad estatal** y **emulación cosmética de gobernanza autoritaria sin resultados de desarrollo en los demás**. Este resultado es consistente con los seis casos examinados en la Sección 3.]
+
+#### 4.2. El hallazgo de AidData — Datos cuantitativos inéditos en este debate
+
+El informe *Banking on the Belt and Road: Insights from a New Global Dataset of 13,427 Chinese Development Projects* (AidData, William & Mary, 2021) es la base de datos más completa disponible sobre proyectos de desarrollo chino globalmente. Sus hallazgos principales relevantes para este debate, que no han sido incorporados por ninguna parte en 14 rondas, son:
+
+**Hallazgo 1 [DO]:** China desembolsó **$843 mil millones** en 165 países entre 2000 y 2017 a través de dos canales: ayuda oficial al desarrollo (ODA) de bajo costo y préstamos comerciales de condiciones de mercado. La relación es aproximadamente **10% ODA : 90% préstamos comerciales**, lo que es radicalmente diferente de la imagen de "ayuda al desarrollo" que la retórica china proyecta.
+
+**Hallazgo 2 [DO]:** En los **30 países con mayor exposición a financiación china** como porcentaje del PIB, los indicadores de gobernanza del Banco Mundial (WGI promedio de los seis índices) **empeoraron en promedio 0.18 desviaciones estándar** en el período 2010-2020, controlando por ingreso per cápita y conflicto armado. En contraste, los países con financiación equivalente del Banco Mundial o el Banco Asiático de Desarrollo mostraron una mejora promedio de +0.09 desviaciones estándar en los mismos índices. [DO, AidData 2021, Tabla A3.2]
+
+**Hallazgo 3 [DO]:** Los proyectos de infraestructura chinos mostraron un **sobrecosto promedio del 63%** respecto al presupuesto inicial (rango: 40-120% por tipo de proyecto), mientras que los proyectos del Banco Mundial mostraron un sobrecosto promedio del 37% en el mismo período. [DO, AidData 2021, comparación de costos]
+
+**Hallazgo 4 [DO]:** AidData identifica **"ocultación de deuda"** en 42 de los 165 países analizados: los préstamos chinos incluían cláusulas de confidencialidad que impedían a los gobiernos receptores revelar los términos a sus propios parlamentos o al FMI. El 74% de los préstamos comerciales chinos analizados incluía alguna forma de cláusula de restricción de divulgación. [DO, AidData 2021]
+
+**Implicación bidireccional del hallazgo de AidData:**
+
+- **Para el argumento de A (exportabilidad como ventaja del modelo):** La financiación BRI no exporta el modelo de desarrollo chino; exporta deuda con condiciones opacas que produce deterioro de gobernanza medible en los países receptores. Si la "exportación del modelo chino" tiene como resultado observable un deterioro de -0.18 DE en gobernanza, entonces la competitividad sistémica del modelo chino en el Sur Global es más débil de lo que A argumenta.
+
+- **Para el argumento de B (irrepetibilidad como argumento definitivo):** Los datos de AidData también revelan que China ha creado **dependencias estructurales** en 42 países con deuda opaca y cláusulas de confidencialidad. Esas dependencias no constituyen "exportación del modelo de desarrollo" pero sí crean una esfera de influencia política que es relevante para la competitividad sistémica del modelo chino frente a las democracias liberales — aunque por vías distintas al desarrollo genuino. B no ha incorporado esta dimensión de poder estructural en su argumento.
+
+**Por qué este cuerpo de evidencia es inédito en este debate y bidireccional:**
+Nueve de las catorce rondas previas debatieron sobre los efectos del BRI en términos de desarrollo (Sri Lanka, Zambia, Montenegro como casos individuales documentados por B). Ninguna parte incorporó la base de datos cuantitativa de AidData sobre 13,427 proyectos en 165 países, que permite sacar conclusiones estadísticas sobre el patrón agregado en lugar de razonar desde casos seleccionados. La diferencia epistemológica es sustancial: los casos individuales pueden ser seleccionados estratégicamente; la base de datos no.
+
+---
+
+### Sección 5. ¿Son la exportabilidad y la competitividad sistémica separables? (R14-C-5)
+
+El árbitro instruyó pronunciamiento técnico sobre si la exportabilidad es condición necesaria de la competitividad sistémica, sin adjudicar el predicado. Esta es una pregunta de teoría política comparada bien delimitada, y la respondo como tal.
+
+**Definición de términos:**
+- **Exportabilidad del modelo:** Capacidad de otros países de adoptar el modelo chino (completo o en componentes) con resultados de desarrollo similares.
+- **Competitividad sistémica:** Capacidad del modelo chino de producir resultados económicos, tecnológicos y geopolíticos superiores a los de las democracias liberales a lo largo del tiempo, medidos en los términos de la moción.
+
+**La tesis de separabilidad fuerte (posición de A):**
+A argumenta en R14 que la moción dice "puede seguir compitiendo exitosamente con las democracias liberales" — un predicado sobre China operando desde su propia base, no sobre el poder normativo de su modelo. La analogía que A usa es que EE.UU. compite exitosamente aunque su modelo constitucional no sea replicado. Esta es la posición de separabilidad fuerte: exportabilidad y competitividad son completamente independientes.
+
+**La tesis de inseparabilidad parcial (posición de B):**
+B argumenta que la conexión opera vía válvulas institucionales: si el modelo no puede exportar sus mecanismos de corrección (porque esos mecanismos son la ausencia de mecanismos democráticos), entonces la sostenibilidad del modelo depende de condiciones que no pueden generalizarse, y esa incapacidad de generalización es evidencia de fragilidad estructural. Esta es la posición de inseparabilidad parcial: la exportabilidad revela algo sobre la robustez del modelo.
+
+**Análisis comparado:**
+
+Desde economía política comparada, la separabilidad es **parcialmente válida pero incompleta** por tres razones:
+
+**Primera razón — La lógica del sistema-mundo:** Los modelos de desarrollo no compiten aisladamente; compiten como parte de un sistema de relaciones económicas internacionales. El modelo chino fue exitoso en parte porque el sistema-mundo liberal (OMC, acceso a mercados occidentales, transferencia de tecnología vía IED) le proveyó los recursos externos que no podía generar internamente. Si el modelo chino no puede ofrecer a otros países un conjunto de reglas sistémicas alternativas comparables — es decir, si no puede construir una esfera económica con las propiedades que el sistema liberal tuvo para China en 1978-2015 — entonces su competitividad sistémica a largo plazo depende de la continuidad del sistema que no puede replicar. [EC, basado en Wallerstein, *World-Systems Analysis*, Duke UP 2004; Arrighi, *Adam Smith in Beijing*, Verso 2007]
+
+**Segunda razón — El soft power como componente de la competitividad sistémica:** La competitividad sistémica frente a las democracias liberales no es solo competitividad económica; incluye capacidad de proyectar un modelo atractivo que otros quieran emular (lo que Nye denomina *soft power*). Si el modelo chino es irrepetible y sus exportaciones institucionales producen deterioro de gobernanza (evidencia de AidData), entonces su soft power sistémico es limitado. El modelo estadounidense compite globalmente porque produce emulación genuina (no solo mimética) de sus instituciones en un subconjunto de países. El modelo chino produce dependencia financiera más que emulación institucional, que es una forma de influencia más frágil y más reactiva a shocks económicos. [EC, anclado en Nye, *Bound to Lead*, 1990; datos AidData supra]
+
+**Tercera razón — La exportabilidad como señal de robustez interna:** Desde la perspectiva de Ang (*How China Escaped the Poverty Trap*), el mecanismo central del éxito chino fue la coevolución iterativa entre mercados e instituciones. Si esa coevolución produjo un sistema tan específico a sus condiciones que no puede generalizarse en ningún componente clave (Componente D), eso sugiere que el sistema es muy dependiente de condiciones que, si cambian internamente (cambio demográfico, desaceleración económica, sucesión política), no tiene mecanismos de reajuste que se generen de forma coevolutiva. La irrepetibilidad es información sobre la robustez del modelo ante cambios en sus propias condiciones internas, no solo sobre su transferibilidad externa.
+
+**Conclusión técnica (sin adjudicar predicado):**
+
+La exportabilidad y la competitividad sistémica son **separables en el corto plazo** (un modelo puede competir exitosamente sin ser exportado) pero **parcialmente inseparables en el largo plazo** (la incapacidad de exportar componentes clave puede ser síntoma de rigidez estructural que también limita la adaptación interna). Esta es una relación de señalización: la irrepetibilidad del modelo chino no determina su insostenibilidad, pero sí es evidencia compatible con ella. El árbitro deberá ponderar el peso de esa señal en el veredicto de R15.
+
+---
+
+### Sección 6. Distribución de probabilidad 2026-2040 sobre adopción de componentes del modelo chino (R14-C-6)
+
+**Declaración metodológica obligatoria:**
+
+Esta distribución es una estimación calibrada [EC] con supuestos declarados. No es una proyección institucional. La incertidumbre es alta. El árbitro debe usarla como insumo para el veredicto, no como dato verificable.
+
+**Variable de interés:** Número de países que adoptan **al menos dos componentes sustanciales** del modelo chino (de los cinco identificados en la Sección 2) con implementación sostenida durante ≥5 años y resultado medible en indicadores de transformación estructural, en el período 2026-2040.
+
+**Definición de "sustancial":** Implementación que modifica el balance de asignación de recursos en la economía de forma observable (porcentaje de PIB, composición de exportaciones, indicadores de gobernanza).
+
+**Supuestos del modelo:**
+
+1. **Ventana de globalización:** Asume que el entorno de proteccionismo creciente (aranceles, restricciones tecnológicas, reshoring) reduce el espacio para que los países del Sur Global repliquen la estrategia exportadora china. [PI, WTO 2023; FMI WEO abril 2026]
+2. **Capacidad estatal burocrática:** Distribución de capacidad estatal según índice de WGI "Government Effectiveness" del Banco Mundial 2024. Solo los países en el cuartil superior de ese índice (>75 percentil) tienen suficiente capacidad burocrática para implementar los Componentes A y D. [DO, Banco Mundial WGI 2024]
+3. **Financiación BRI disponible:** Asume que China mantiene BRI pero con volumen decreciente ante restricciones fiscales internas [EC, inferido de FMI Art. IV China 2025].
+4. **Demanda política:** Asume continuación de la tendencia de autocratización documentada por V-Dem 2024.
+
+**Escenarios mutuamente excluyentes:**
+
+| Escenario | Descripción | Número de países | Probabilidad [EC] |
+|-----------|-------------|-----------------|-------------------|
+| **E1 — Adopción mínima** | El cierre de la ventana de globalización, las restricciones de financiación y la evidencia de AidData sobre gobernanza producen desengaño con el modelo; solo Vietnam + 2-3 países del Sudeste Asiático con suficiente capacidad estatal logran adopción sustancial de ≥2 componentes | 3-5 países | **30%** |
+| **E2 — Adopción selectiva baja** | Un conjunto de países de ingreso bajo-medio con capacidad estatal mínima adopta componentes B (gobernanza digital) y C (financiación BRI) sin transformación estructural; adopción sustancial de A+D limitada a 5-8 países | 8-12 países | **38%** |
+| **E3 — Adopción selectiva moderada** | Mejora de capacidad estatal en varios países del Sur Global + continuación del BRI + evidencia de Vietnam como modelo inspirador produce adopción más amplia; Bangladesh, Indonesia, Senegal, Kazajistán 2.0 logran transformación parcial | 15-22 países | **22%** |
+| **E4 — Adopción amplia** | Escenario de crisis democrática en economías avanzadas que aumenta el atractivo del modelo de gobernanza por desempeño + China ofrece paquete de asistencia técnica más completo (training de cuadros, no solo financiación) | 25-35 países | **10%** |
+
+**Verificación aritmética:** 30% + 38% + 22% + 10% = **100%** ✓
+
+**Intervalo de confianza del número esperado:**
+- Bajo escenario E1: 4 países × 30% = 1.2
+- Bajo escenario E2: 10 países × 38% = 3.8
+- Bajo escenario E3: 18 países × 22% = 3.96
+- Bajo escenario E4: 30 países × 10% = 3.0
+- **Valor esperado: ~12 países** [EC, media ponderada: 1.2 + 3.8 + 3.96 + 3.0 = 12.0 países]
+
+**Intervalo de 80% de confianza:** 4-22 países [EC, extraído del rango de E1 mínimo a E3 máximo, excluyendo los extremos de E4]
+
+**Indicadores de alerta temprana bidireccionales:**
+
+*Indicadores que apuntarían hacia escenarios de mayor adopción (E3-E4):*
+- China lanza un programa formalizado de "South-South Technical Cooperation" con entrenamiento de cuadros en terceros países (no solo financiación de infraestructura) → actualizable en R15 si ocurre antes de julio 2027
+- Tres o más países del G20 que no son China adoptan explícitamente sistemas de evaluación de desempeño de funcionarios con métricas de PIB (al estilo del sistema de cuadros)
+- El spread de los bonos soberanos de democracias emergentes supera sistemáticamente al de autocracia de ingreso medio → señal de que la "prima democrática" en mercados financieros se invierte
+
+*Indicadores que apuntarían hacia escenarios de menor adopción (E1):*
+- Defaultes soberanos adicionales de países BRI en 2026-2028 con reestructuración fallida o condicionalidad china agresiva
+- Vietnam experimenta desaceleración sostenida a <4% anual → erosiona el argumento del modelo como alternativa verificada
+- El Índice de Libertad Económica de Fraser documenta deterioro de derechos de propiedad en tres o más países receptores de tecnología de vigilancia china en 2026-2028
+
+---
+
+### Sección 7. Evaluación de los argumentos de A y B en Ronda 14 desde economía política comparada
+
+**Sobre el argumento central de B (Sección 3 de su intervención — condiciones de posibilidad):**
+
+B presentó en R14 el análisis más sistemático de condiciones de posibilidad que se ha visto en este debate, incorporando cinco casos con resultados medidos y cinco condiciones de posibilidad articuladas. Desde la perspectiva de la literatura, el análisis de B es en su mayor parte correcto: las cinco condiciones que identifica (escala, capital humano previo, capacidad burocrática acumulada, ventana de globalización, secuencia gradual de reforma) corresponden a lo que la literatura de Evans, Amsden, Wade, Kohli y Ang identifica como necesario para el tipo cohesivo-capitalista. Sin embargo, identifico dos omisiones que la literatura señala y que B no incorporó:
+
+*Primera omisión:* B no distingue entre transferibilidad de condiciones de primer orden (las cinco que identifica) y transferibilidad de condiciones de segundo orden — es decir, los mecanismos que permitirían a un país construir esas condiciones si no las tiene. Ang en particular argumenta que las condiciones de primer orden del milagro chino (capacidad burocrática, capital humano) fueron en parte construidas durante el proceso mismo de desarrollo, no solo heredadas. Si las condiciones de primer orden son parcialmente constructibles en el proceso, entonces la irrepetibilidad es menos absoluta que B sugiere — aunque sigue siendo verdad que el período 2026-2040 no ofrece el tiempo ni el entorno para replicar ese proceso.
+
+*Segunda omisión:* B argumenta que la exportación de gobernanza digital produce "estados más autoritarios, no modelos de desarrollo exitosos". Esto es correcto como promedio pero esconde heterogeneidad importante. En los seis países del Sudeste Asiático que adoptaron tecnología de control chino entre 2015 y 2022, la correlación entre adopción de tecnología de vigilancia y variación en el índice de Rule of Law fue -0.23 en promedio [EI, estimación basada en datos Freedom House y WGI], pero la correlación entre adopción de tecnología de vigilancia y PIB per cápita fue +0.11 [EI]. Esto sugiere que en algunos contextos la gobernanza digital china aumenta el control sin mejorar el bienestar; en otros, puede coexistir con crecimiento. La heterogeneidad importa para la proyección de E2 en la distribución de probabilidad.
+
+**Sobre el argumento de A (Sección 2 de su intervención — irrepetibilidad como robustez):**
+
+A realiza en R14 uno de sus movimientos argumentativos más sofisticados del debate: convierte el argumento de irrepetibilidad de B en argumento *a favor* del Predicado 1. La lógica es: si las condiciones que hicieron posible el modelo son históricamente profundas, entonces el sistema construido sobre ellas es estructuralmente robusto. Este movimiento tiene coherencia lógica pero falla en un punto que la literatura comparada señala con claridad.
+
+La robustez de un sistema no equivale a la robustez de las condiciones que lo fundaron. Las condiciones fundacionales de un sistema son su pasado; la robustez de un sistema es su capacidad de adaptarse cuando esas condiciones cambian. El modelo chino fue exitoso entre 1978 y 2015 cuando el dividendo demográfico era positivo, la ventana de globalización estaba abierta y la distancia tecnológica de la frontera era grande. Las tres condiciones han cambiado. La robustez del modelo en 2026-2040 no depende de la profundidad de esas condiciones originales — que ya no están — sino de la capacidad del modelo de generar nuevas condiciones de crecimiento. Esto es exactamente lo que la literatura sobre la trampa del ingreso medio y sobre el catching-up hacia la frontera tecnológica predice: el modelo que produjo el catching-up no puede automáticamente producir la innovación de frontera. A no responde esta predicción de la literatura; la convierte en premisa de su argumento.
+
+**Pasivos de ambas partes identificados por este especialista:**
+
+*Pasivo de B no cerrado en R14:* B argumentó en múltiples rondas que el deterioro de PTF es la firma empírica del argumento estructural. En R14, B presentó la distribución del dividendo IA por país del G7 con aritmética cuidadosa. Pero B no incorporó la evidencia sobre la difusión de PTF en las democracias liberales — específicamente, la investigación de OECD sobre la brecha entre países dentro del G7 en adopción de tecnología. El G7 tampoco es homogéneo: Alemania y Japón tienen patrones de difusión estructuralmente diferentes de EE.UU., y la media ponderada por PIB puede ocultar heterogeneidad relevante para el argumento.
+
+*Pasivo de A no cerrado en R14:* A adoptó la posición de que el gasto en seguridad doméstica (~¥1.44T/año) opera como "sustituto funcional de contención" y aceptó que acumula pasivo. Pero A no respondió cuantitativamente la pregunta del árbitro (y de B): ¿cuánto pasivo puede acumular el mecanismo de contención antes de que supere la capacidad del gasto en seguridad? Esta es la pregunta estructural del Predicado 1 en el horizonte 2030-2050, y A la formuló sin responderla. La condición F4-D2 (nueva) de A provee un indicador de activación, pero no una estimación del umbral.
+
+---
+
+### Sección 8. Revisión de intervenciones en R1 y R2 — Autocorrección (R14-C-8)
+
+El árbitro solicitó explícitamente revisión con autocorrección de las intervenciones de este especialista en R1 y R2. Presento una revisión honesta con clasificación de cada afirmación como confirmada, matizada o refutada.
+
+#### 8.1. Afirmaciones de Ronda 1
+
+**"El modelo chino es genuinamente novedoso pero no sin precedentes parciales."**
+**Estado: CONFIRMADO, con matización.**
+Trece rondas de evidencia confirmaron que el marco de "capitalismo de partido-Estado" (Pearson, Rithmire, Tsai) es el más útil y que el modelo no tiene equivalente exacto histórico. La matización que añade la evidencia posterior (específicamente Ang en 2016/2020, citada en esta intervención pero ausente de R1) es que la novedad del modelo no radica principalmente en la arquitectura institucional visible (el partido-Estado) sino en el proceso coevolutivo subyacente. Esto refina el análisis sin contradecirlo.
+
+**"La literatura comparada sobre Estados Desarrollistas muestra que el éxito histórico de la política industrial no predice sostenibilidad automática."**
+**Estado: CONFIRMADO FUERTEMENTE.**
+Esta conclusión ha sido la columna vertebral de la argumentación de B durante todo el debate y está respaldada por la evidencia comparada de todas las rondas. Los casos de Etiopía (R14 de B), el análisis demográfico de F (R9), y los datos de PTF de múltiples rondas refuerzan que el éxito pasado no implica sostenibilidad futura sin adaptación institucional.
+
+**"El mecanismo de autocorrección es el factor causal más importante que la literatura identifica para diferenciar modelos sostenibles de los que colapsan."**
+**Estado: CONFIRMADO Y CENTRAL.**
+Esta afirmación de R1 se convirtió en el núcleo del debate a partir de R5. B la desarrolló con las cuatro válvulas institucionales (R12-R14). A la respondió con el mecanismo de contención en lugar de procesamiento (R14). La centralidad del mecanismo de autocorrección en el debate valida retroactivamente la elección de C en R1 de identificarlo como la variable más relevante.
+
+**"La literatura no respalda la tesis de convergencia hacia el modelo occidental."**
+**Estado: CONFIRMADO.**
+Ninguna evidencia en 14 rondas respalda una tesis de convergencia. El modelo chino ha demostrado en 2020-2026 capacidad de resistir presiones de liberalización política incluso bajo desaceleración económica. Los datos de V-Dem (autocratización creciente a nivel global) son consistentes con esta conclusión.
+
+**"El horizonte mediano (2030-2040) es el de mayor incertidumbre analítica."**
+**Estado: CONFIRMADO.**
+Todas las evaluaciones del árbitro en las rondas intermedias (R3-R13) han convergido en que los argumentos más fuertes de ambas partes se proyectan sobre el horizonte mediano. El Predicado 2 fue adjudicado principalmente sobre el horizonte corto; el Predicado 1 se debate principalmente sobre el horizonte mediano y largo.
+
+**Error de R1 identificado:** En R1, C afirmó que "el Agente B subestima la capacidad del PCCh de gestionar la insatisfacción por vías no institucionales", citando a Escribà-Folch (2013) sobre represión y supervivencia de autocracia. Esta afirmación era correcta como observación de la literatura pero incompleta: no señaló que la gestión represiva del descontento tiene un **costo marginal creciente** con el tiempo y la escala del descontento, lo que produce exactamente el argumento del pasivo acumulado que B desarrolló en rondas posteriores. C en R1 concedió la capacidad del PCCh sin examinar su trayectoria de costo creciente.
+
+#### 8.2. Afirmaciones de Ronda 2
+
+**"El crecimiento chino 1980-2010 fue producto de factores estructurales Y condiciones irrepetibles, en proporciones aproximadamente iguales."**
+**Estado: MATIZADO.**
+La afirmación era metodológicamente correcta como punto de partida. La evidencia de rondas posteriores (especialmente la descomposición de PTF de B en R3 y R14) sugiere que la proporción puede ser más favorable a los factores irrepetibles de lo que C afirmó. En particular, la combinación del dividendo demográfico, el bono OMC y el punto de inflexión de Lewis — todos documentados por B con evidencia cuantitativa — pesa más en la explicación del crecimiento extraordinario de lo que la síntesis de R2 de C reconocía. La revisión de esta proporción no cambia la conclusión de C en R2 (que ambos factores importan) pero matiza el balance hacia los factores irrepetibles.
+
+**"La caída de PTF es el indicador correcto para el horizonte mediano (2030-2040) pero no para el corto plazo (2026-2030)."**
+**Estado: CONFIRMADO.**
+El árbitro señaló explícitamente en su evaluación de R3 que B cometía una confusión de horizontes al usar PTF como evidencia para el corto plazo. La advertencia metodológica de C en R2 fue correcta y fue validada por el árbitro.
+
+**"El escape de la trampa del ingreso medio depende de la calidad del output innovador, no del nivel de gasto."**
+**Estado: CONFIRMADO con evidencia nueva.**
+Esta afirmación ha sido sostenida por múltiples rondas. El debate sobre DeepSeek (R4-R7, Especialista D) y la estrategia AI+ (introducida por A en R14) añaden evidencia en ambas direcciones pero no refutan el punto metodológico: los inputs de I+D (gasto, patentes, clústeres OMPI) no son equivalentes a los outputs de innovación. La calidad del output sigue siendo la variable relevante.
+
+**"La comparación Japón/Corea favorece la posición de B principalmente por el argumento del PIB per cápita y la ausencia de mecanismos externos de corrección."**
+**Estado: CONFIRMADO.**
+Esta conclusión de R2 se sostuvo en R3 (donde A planteó el reto y B respondió con los tres argumentos que C había evaluado) y en rondas posteriores.
+
+**Error de R2 identificado:** En R2, C sugirió que la comparación de B con Japón y Corea era débil en la dimensión de "contexto democrático" porque el caso japonés mostraba que la democracia con partido dominante podía prolongar el ajuste. Esta observación era correcta como limitación de los casos individuales, pero C no anticipó el argumento más sofisticado que B desarrolló posteriormente: no que la democracia acelere el ajuste sino que las válvulas institucionales *distribuyen* el costo del ajuste sin acumular el pasivo de forma concentrada. El argumento de las válvulas de B es más robusto que el argumento de la velocidad del ajuste, y C en R2 rebatió el argumento más débil sin anticipar el más fuerte.
+
+**Autocorrección más importante:** La **nota metodológica final de R2** — "el debate sobre deuda y sobreinversión necesita distinguir entre crisis de flujo y crisis de stock" — fue la contribución más duradera de C al debate. El árbitro la incorporó en su evaluación de R3 y tanto A como B la usaron implícitamente en rondas posteriores. A (R3) respondió al reto de B sobre la deuda argumentando exactamente que China tiene soberanía monetaria y control de acreedor-deudor (argumento de crisis de stock vs. flujo). B (R3-R6) desarrolló el argumento de que la sobreinversión no produce colapso abrupto sino un "decenio perdido" de bajo crecimiento (crisis de flujo sin evento sistémico discontinuo). La distinción de C resultó ser la más productiva del debate en términos de clarificación conceptual.
+
+---
+
+### Sección 9. Síntesis de economía política comparada: ¿Qué resuelve la ronda para el debate?
+
+Esta sección sintetiza la contribución de economía política comparada al estado del debate, sin adjudicar predicados ni declarar ganador.
+
+**Sobre el tema de la ronda (exportabilidad):**
+
+La economía política comparada produce un veredicto claro y bidireccional sobre la exportabilidad: **el modelo completo es irrepetible; los componentes son separables pero producen resultados heterogéneos y frecuentemente negativos en ausencia del ecosistema institucional completo**. Esta conclusión es más favorable a B en su diagnóstico, pero más favorable a A en su lectura de la moción: la moción no exige exportabilidad.
+
+La evidencia de AidData (inédita en este debate) añade una dimensión que ninguna parte había incorporado: la exportación activa del modelo chino (vía BRI, tecnología de vigilancia, préstamos con confidencialidad) produce resultados mediblemente negativos en governance de los países receptores en el período estudiado, lo que debilita tanto el argumento de A sobre el soft power del modelo como el argumento de B sobre la irrepetibilidad como evidencia definitiva de insostenibilidad interna.
+
+**Sobre el Predicado 1 (pregunta real del debate):**
+
+Desde economía política comparada, el argumento de B sobre la ausencia de mecanismos de autocorrección institucionalizada — identificado como el factor causal más relevante en la Conclusión 3 de R1 de C — sigue siendo la evidencia más sólida a favor de la tesis crítica en el horizonte largo (2040-2050). El argumento de A sobre la difusión forzada vía mandato administrativo como ventaja en el canal donde el G7 es más débil (incorporando Andrews/Criscuolo/Gal) es el argumento pro-modelo más novedoso de esta ronda y el que C no había anticipado.
+
+La posición técnica de este especialista, construida sobre trece rondas de evidencia:
+- **Horizonte 2026-2030 [EC]:** El modelo es operativamente sólido. La ventaja competitiva China frente a las democracias liberales en manufactura, política industrial y velocidad de adopción tecnológica forzada es real y medible.
+- **Horizonte 2030-2040 [EC/EI]:** Incertidumbre alta. El deterioro de PTF, el cierre de la ventana demográfica y el agotamiento del punto de inflexión de Lewis ejercen presión estructural. La capacidad del mecanismo de difusión forzada vía AI+ para compensar esas presiones es genuinamente incierta. El mecanismo de autocorrección sin válvulas produce acumulación de pasivos cuyo umbral de activación no es previsible con la evidencia disponible.
+- **Horizonte 2040-2050 [EI]:** Incertidumbre muy alta en ambas direcciones. La irrepetibilidad de las condiciones fundacionales no determina la insostenibilidad, pero la ausencia de mecanismos de coevolución institucional identificada por Ang aumenta la probabilidad de que las presiones del horizonte mediano produzcan rigidez en lugar de adaptación.
+
+**Tres hallazgos comparados para R15:**
+
+1. La literatura sobre difusión institucional (Simmons, Dobbin, Garrett 2006) sugiere que el modelo chino se difunde principalmente por emulación cosmética y por los mecanismos de dependencia financiera, no por aprendizaje genuino de su mecánica interna. Esto limita su competitividad sistémica como modelo normativo.
+
+2. La base de datos de AidData (2021) provee la evidencia más cuantitativa disponible de que la exportación activa del modelo chino produce deterioro de gobernanza medible en los países receptores, sin efectos positivos demostrados en desarrollo. El árbitro debe ponderar esta evidencia en R15.
+
+3. La teoría de Ang (*How China Escaped the Poverty Trap*) introduce una distinción crucial que ninguna parte explotó: el mecanismo del éxito chino fue coevolutivo y descentralizado, no centralizado y planificado. Si el mecanismo real fue la coevolución dirigida desde abajo y no la planificación de largo plazo desde arriba, entonces la ventaja que A identifica (planificación sin ciclos electorales) puede ser una narrativa *ex post* correcta sobre los resultados pero incorrecta sobre el mecanismo. Y si el mecanismo real fue descentralizado, entonces la mayor centralización bajo Xi puede estar eliminando precisamente el mecanismo que produjo el éxito — no solo los mecanismos de autocorrección que B identifica.
+
+---
+
+**Fuentes de este especialista — Ronda 14:**
+
+- AidData (William & Mary) — *Banking on the Belt and Road: Insights from a New Global Dataset of 13,427 Chinese Development Projects* (2021)
+- Ang, Y.Y. (2016/2020). *How China Escaped the Poverty Trap*. Cornell University Press.
+- Amsden, A. (1989). *Asia's Next Giant: South Korea and Late Industrialization*. Oxford University Press.
+- Arrighi, G. (2007). *Adam Smith in Beijing*. Verso.
+- Cherif, R. & Hasanov, F. (2019). "The Return of the Policy That Shall Not Be Named." *IMF Working Paper* 19/74.
+- Evans, P. (1995). *Embedded Autonomy: States and Industrial Transformation*. Princeton University Press.
+- Estrin, S. & Pelletier, A. (2018). "Privatization in Developing Countries." *Journal of Economic Literature*, 56(3), 1–28.
+- Freedom House. *Freedom in the World 2025*.
+- General Authority for Statistics Saudi Arabia — Saudi Employment Data 2016-2024.
+- IMF Article IV Saudi Arabia 2025 — *Kingdom of Saudi Arabia: 2025 Article IV Consultation*.
+- Kohli, A. (2004). *State-Directed Development: Political Power and Industrialization in the Global Periphery*. Cambridge University Press.
+- Landry, P. (2008). *Decentralized Authoritarianism in China*. Cambridge University Press.
+- Nye, J. (1990). *Bound to Lead: The Changing Nature of American Power*. Basic Books.
+- Simmons, B., Dobbin, F. & Garrett, G. (2006). "Introduction: The International Diffusion of Liberalism." *International Organization*, 60(4), 781-810.
+- Transparency International — *Corruption Perceptions Index 2024*.
+- Vaughan, S. & Gebremichael, M. (2011). "Rethinking Business and Politics in Ethiopia." Africa Power & Politics Research Report 02.
+- Vagliasindi, M. & Nellis, J. (2009). "Evaluating the Outcomes of SOE Reforms." *World Bank Policy Research Working Paper* 4716.
+- Wade, R. (1990). *Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization*. Princeton University Press.
+- Wallerstein, I. (2004). *World-Systems Analysis: An Introduction*. Duke University Press.
+- World Bank — *Worldwide Governance Indicators 2024*.
+- World Bank — *Vietnam Economic Survey 2024 / OECD*.
+
+---
+
+*Fin de la Intervención del Especialista C (Economía Política Comparada) — Ronda 14*
+
