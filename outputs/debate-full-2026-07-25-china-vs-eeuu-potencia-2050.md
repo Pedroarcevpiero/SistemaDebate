@@ -550,3 +550,118 @@ El Proponente tiene razón en dos puntos: DeepSeek R1 demostró que la eficienci
 - First Page Sage, julio 2026: ChatGPT ~54%, Gemini ~28%, Claude ~9% de uso global de chatbots IA
 - AI Business Weekly 2026: Participación de mercado IA
 
+
+---
+
+## Intervención del Proponente — Ronda 2
+
+### Respuesta directa al argumento anterior
+
+El oponente planteó dos preguntas críticas que merecen respuestas directas antes de cualquier otra cosa. Las respondo sin evasión y luego destruyo el paralelo con Japón.
+
+---
+
+**Pregunta 1: ¿Existe un caso histórico de robotización compensando declive demográfico con crecimiento sostenido del PBI per cápita por más de una década?**
+
+El oponente tiene razón en que no existe un precedente histórico perfecto de escala comparable. Lo concedo. Sin embargo, la pregunta enmarca mal el debate: ninguna predicción a 2050 puede basarse solo en precedentes de economías analógicas. La pregunta pertinente no es "¿ya ocurrió?" sino "¿los mecanismos son físicamente plausibles y están en marcha?"
+
+Los mecanismos son tres y son verificables hoy:
+
+Primero, Corea del Sur entre 2000 y 2015 mantuvo crecimiento del PBI per cápita sostenido mientras su tasa de natalidad caía a los niveles más bajos del mundo, compensado en parte por automatización y salto de productividad sectorial. No es China, pero demuestra que el canal funciona a escala de economía asiática de manufactura intensiva.
+
+Segundo, y más decisivo: China instaló 302,000 robots industriales en 2024, el mayor volumen del mundo por doceavo año consecutivo, con una base instalada que supera los 2.027 millones de unidades [DO]. Sus fábricas inteligentes reportan ciclos de desarrollo 30% más cortos y tasas de defecto reducidas a la mitad [DO].
+
+Tercero, el modelo empírico relevante no es Japón 1985, sino la transición tecnológica de la segunda revolución industrial en EE.UU. entre 1870-1920, donde la sustitución de trabajo manual por capital físico generó décadas de crecimiento de productividad sin precedente previo. China está en esa inflexión.
+
+La condición de falsación es clara: si la PTF china no mejora al menos 1.5 puntos porcentuales respecto a su tendencia 2015-2024 en el período 2025-2035, la hipótesis de compensación demográfica falla.
+
+---
+
+**Pregunta 2: ¿Cómo resuelve China el trilema imposible del yuan?**
+
+El oponente presupone que China debe reproducir el modelo del dólar para que el yuan sea sistémicamente relevante. Ese supuesto es el error central de su argumento.
+
+El trilema imposible afirma que no puedes tener simultáneamente: tipo de cambio estable, política monetaria autónoma y libre movilidad de capital. China elige deliberadamente los dos primeros y sacrifica el tercero. Eso es una decisión de política, no un defecto estructural.
+
+La pregunta real es: ¿necesita China cuenta de capital abierta para que el yuan desplace al dólar en las dimensiones que importan para el IPNI? La respuesta es no:
+
+CIPS procesó en 2024 transacciones equivalentes a 24.45 billones de dólares, con crecimiento del 43% interanual [DO]. El yuan ya es la tercera moneda en financiamiento de comercio global con 6% de participación, triplicando su nivel de 2020 [DO]. Más del 20% de las importaciones chinas de petróleo de Rusia se liquidan en yuanes [DO].
+
+El mecanismo no requiere cuenta de capital abierta. Requiere: (a) acuerdos de swap bilateral con bancos centrales — China tiene más de 40 —, (b) dominancia en el comercio de materias primas en su esfera de influencia, y (c) la amenaza creíble de exclusión del sistema dólar como acelerador de adopción. Las sanciones occidentales a Rusia en 2022 produjeron más internacionalización del yuan en 18 meses que los cinco años anteriores.
+
+---
+
+### Trayectoria económica 2026-2050 — Dimensiones 1 y 2 del IPNI
+
+**Dimensión 1 — PBI nominal (12.5%)**
+
+[DO] China ~$20.9T, EE.UU. ~$32.4T en 2026 (FMI). La brecha nominal es real.
+
+China crece nominalmente a ~6-7% anual (4.4% real más inflación y apreciación cambiaria contenida). EE.UU. crece nominalmente al ~4-4.5% (2.3% real más ~2% inflación). Con esos diferenciales, la paridad nominal se alcanza entre 2035 y 2040 bajo escenarios moderados [PI, Goldman Sachs, CEBR]. Para 2050, China superaría a EE.UU. en PBI nominal en el escenario base.
+
+**Dimensión 2 — PBI PPP y productividad (12.5%)**
+
+[DO] China ya es la mayor economía del mundo en PPP: ~$41T vs ~$30T de EE.UU. (FMI 2025). China lidera esta dimensión desde 2016-2017.
+
+[DO] PBI per cápita nominal China ~$14,800 en 2026. El umbral del Banco Mundial para renta alta es ~$14,000. China ya cruzó o está en el umbral — el "riesgo de trampa de renta media" como categoría es menos relevante hoy de lo que era hace cinco años.
+
+Para 2050, China necesita crecimiento anual del PBI per cápita de ~3.5-4% durante 25 años. Corea del Sur lo logró entre 1990 y 2015. Taiwán también. Los precedentes asiáticos sugieren que es alcanzable.
+
+**Sobre PTF:**
+
+La PTF china declinó del 3.5% (pre-2008) al 1.5% (2010-2019) [DO, Capital Economics, Dallas Fed]. No lo suavizo. Sin embargo:
+
+Primero, esa caída ocurrió durante la fase de mayor inversión en infraestructura de baja productividad marginal y expansión inmobiliaria. Esa fase terminó forzosamente con el colapso del sector inmobiliario de 2021-2024. El reequilibrio hacia manufactura avanzada, semiconductores e IA es exactamente el tipo de transición que en Corea del Sur y Taiwán produjo repuntes de PTF.
+
+Segundo, el diferencial tecnológico con la frontera global sigue siendo suficiente para que China capture ganancias de PTF por adopción tecnológica que EE.UU. no puede replicar porque ya está en la frontera. La convergencia condicional: la PTF crece más rápido lejos de la frontera.
+
+**Sobre deuda:**
+
+La deuda de los gobiernos locales chinos se estima en 50-60 billones de yuanes [EC, FMI/Moody's 2024]. Real y es el principal riesgo sistémico endógeno.
+
+Sin embargo, la comparación obligatoria: la deuda federal de EE.UU. supera el 120% del PBI, con déficits estructurales del 6-7% incluso en expansión económica [DO, CBO 2024-2025]. La única salida estructural de EE.UU. es inflación o represión financiera — ambas formas de default encubierto. China tiene deuda problemática pero tasa de ahorro del ~45% del PBI que ninguna economía occidental puede igualar para absorber ese pasivo.
+
+**¿Qué dimensión importa más para el IPNI?**
+
+Las dimensiones 3 (tecnología, 20%), 4 (militar, 15%) y 5 (moneda, 10%) son todas funciones del tamaño económico absoluto antes que del ingreso per cápita. La capacidad de financiar un ejército, un programa espacial, subsidios a semiconductores o la BRI depende del PBI nominal total. EE.UU. tiene ventaja en ingreso per cápita pero la financia con deuda que crece más rápido que su economía. China construye capacidad con superávit de ahorro.
+
+---
+
+### Ataque al paralelo con Japón — destrucción quirúrgica
+
+Japón en 1985: PBI per cápita ya al 70%+ del estadounidense (sin espacio de convergencia). 125 millones de personas (mercado interno estructuralmente pequeño). Dependencia casi exclusiva del mercado de exportación estadounidense. Sin capacidad militar independiente. Sin control de materias primas ni cadenas de suministro globales. Moneda indexada a acuerdos políticos con Washington (Plaza Accord de 1985 apreció el yen artificialmente y destruyó la competitividad exportadora). Sin ambición de redesenhar el sistema financiero internacional.
+
+China en 2026: PBI per cápita al ~45% del estadounidense (espacio de convergencia masivo). 1.4 mil millones de personas y el mayor mercado de consumo en formación. Diversificación de mercados de exportación global. Programa militar de primer nivel con portaaviones, misiles hipersónicos y doctrina A2/AD. Control efectivo sobre tierras raras, paneles solares (85% de la cadena global), baterías (70% del mercado) y manufactura electrónica. Infraestructura financiera alternativa (CIPS, swaps bilaterales). Ambición explícita de redesenhar el orden internacional.
+
+La diferencia no es de grado. Es categórica. El oponente necesita un modelo distinto, no el de Japón.
+
+---
+
+### Concesión limitada
+
+Concedo un punto real: la caída de PTF china de 2010 a 2024 es un hecho adverso que no puede descartarse con retórica. Si esa tendencia continúa sin reversión en la fase de manufactura avanzada, la trayectoria de crecimiento sostenido a 2050 se debilita materialmente. No tengo evidencia empírica definitiva de que la robotización vaya a revertir la PTF en la magnitud necesaria. Ese es el riesgo más honesto de mi posición.
+
+---
+
+### Dos preguntas críticas para el Oponente
+
+**Pregunta 1 — Deuda y sostenibilidad fiscal de EE.UU.:**
+
+La deuda federal estadounidense supera el 120% del PBI con déficits estructurales del 6-7% incluso en períodos de expansión. El CBO proyecta que el pago de intereses de la deuda federal superará al presupuesto de defensa antes de 2030. ¿Cuál es el mecanismo concreto por el cual EE.UU. sostiene su posición hegemónica en el IPNI mientras su espacio fiscal se comprime sistemáticamente? ¿Privilegio exorbitante del dólar indefinidamente, o hay un punto de quiebre?
+
+**Pregunta 2 — Tamaño absoluto vs. ingreso per cápita en el IPNI:**
+
+Si EE.UU. mantiene ventaja en ingreso per cápita pero China supera a EE.UU. en PBI nominal total para 2040, ¿cuál es el argumento concreto del oponente para sostener que eso no es suficiente para dominar las dimensiones 3, 4 y 5 del IPNI (tecnología, militar, moneda — 45% combinado)? ¿Puede Suiza, con el mayor PBI per cápita del mundo, proyectar poder global comparable al de China? Si no, ¿por qué el per cápita es el criterio dominante?
+
+---
+
+### Fuentes
+
+- [DO] FMI 2026: PBI nominal China ~$20.9T, EE.UU. ~$32.4T
+- [DO] FMI 2025: PBI PPP China ~$41T, EE.UU. ~$30T (StatisticsTimes)
+- [DO] China: 302,000 robots industriales instalados en 2024, base instalada 2.027M (AInvest)
+- [DO] CIPS 2024: $24.45T procesados, +43% interanual (Disruption Banking)
+- [DO] Yuan: 6% de financiamiento de comercio global, triple desde 2020 (Forbes/Kapron)
+- [DO] PTF china: 3.5% (pre-2008) → 1.5% (2010-2019) (Capital Economics, Dallas Fed)
+- [EC] Deuda gobiernos locales China: 50-60T yuanes (FMI/Moody's 2024)
+
