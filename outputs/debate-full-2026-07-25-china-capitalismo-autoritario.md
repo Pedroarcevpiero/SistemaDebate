@@ -6621,3 +6621,448 @@ Tres calificaciones:
 
 *Agente E — Intervención completa. 30 datos etiquetados (DO/EC/PI/EI). Aritmética expuesta. Límites de mandato declarados. Sin declaración de ganador.*
 
+
+---
+
+## Evaluación del Árbitro G — Ronda 11
+
+**Tema:** Taiwán, Mar del Sur de China y riesgo de conflicto
+**Interventores:** A (Defensor), B (Crítico), E (Especialista Geopolítica)
+**Fecha:** 25 de julio de 2026 | Ronda 11 de 15
+
+---
+
+### 1. Apertura de Ronda 11 (ex-ante — registro de ejecución)
+
+La Ronda 11 se ejecutó sobre el tema convocado en la apertura emitida al cierre de R10: Taiwán, Mar del Sur de China y riesgo de conflicto, con la pregunta central sobre si el riesgo geopolítico **valida** el modelo autoritario (capacidad de sostener coerción multidécada sin ciclos electorales) o lo **desestabiliza estructuralmente** (prima de riesgo sobre IED, cadenas y costo de capital), y cómo se integra ese riesgo con el marco del Régimen 2.
+
+El orden de intervención convocado (A abre → B responde → E cierra) se respetó. Las tres intervenciones están presentes y completas en el archivo de debate, con secciones de fuentes verificables. Ambos debatientes abordaron explícitamente sus retos vinculantes numerados (R11-A-1 a A-6; R11-B-1 a B-6), y E cubrió los seis encargos R11-E-1 a E-6. **La ronda se ejecutó sobre el tema correcto y con la estructura procedimental exigida.** No hubo desvío de agenda ni omisión de bloques.
+
+Registro adicional: por primera vez en el debate, ambos debatientes produjeron **definiciones operativas expresas** de "competir exitosamente", que era el requisito nº 4 de "qué debe establecerse en R11". Ese objetivo se cumplió y habilita el pronunciamiento arbitral de la Sección 8.
+
+---
+
+### 2. Evaluación de A (Defensor) — Ronda 11
+
+#### 2.1 Cumplimiento de retos vinculantes
+
+| Reto | Estado | Observación |
+|---|---|---|
+| **R11-A-1** (aritmética PIB per cápita al umbral $22K, prioridad absoluta) | **Cumplido** | Produce aritmética expuesta y verificable; impugna el umbral de 4-4.5% de B y lo reduce a 3.2%. |
+| **R11-A-2** (elección de serie PTF, prioridad absoluta) | **Cumplido con costo** | Elige PWT v11.0 oficial y declara consecuencias. No usa ambas series. Pero el costo es mayor del que A admite (ver 2.3). |
+| **R11-A-3** (sostenibilidad vs. competitividad) | **Cumplido** | Declara expresamente que defiende la moción en **versión plena** y ofrece definición operativa. Revierte parcialmente la cesión de R10. |
+| **R11-A-4** (mecanismo de ventaja competitiva geopolítica) | **Cumplido** | "Compresión del horizonte de descuento político" como mecanismo nombrado; distingue disuasión de escalada. |
+| **R11-A-5** (prohibición de simetría fácil / ventaja neta) | **Cumplido parcialmente** | Cuantifica el costo (caída de IED) sin minimizarlo, pero el argumento de ventaja neta descansa en un contrafactual no documentado. |
+| **R11-A-6** (corrección PPP → nominal) | **Cumplido de forma ejemplar** | Declara ratio 1.7-1.85, deriva $15.4T nominal [EC], y **concede** que la métrica pertinente es nominal. Autocorrección contra su propio interés. |
+| Etiquetado de cuatro niveles / horizontes datados | **Cumplido** | Tabla de 8 entradas etiquetadas; horizontes 2030, 2040 explícitos. Menor cobertura que en R10 (22 entradas). |
+
+Cumplimiento procedimental completo: **seis de seis retos abordados sin evasión.** Es la segunda ronda consecutiva sin pasivo documental abierto y la cuarta consecutiva sin evasión de reto vinculante. La conducta procedimental de A permanece como la más disciplinada del debate.
+
+#### 2.2 Rigor empírico — **8.3/10**
+
+**Justificación.** La aritmética de R11-A-1 es el mejor trabajo cuantitativo que A ha producido en el debate: la derivación (22,000 / 13,300)^(1/16) − 1 ≈ 3.2% es correcta, verificable y refuta una cifra que B había afirmado repetidamente sin exponer su derivación. La conversión PPP→nominal ($27.8T / 1.80 ≈ $15.4T) está expuesta con el ratio declarado y correctamente etiquetada [EC]. La proyección $18,600 × (1.030)^10 = $24,998 es aritméticamente correcta.
+
+**Descuentos.** Tres, y uno es grave:
+
+1. **El agujero del tipo de cambio.** La aritmética de A opera enteramente en USD nominales sin declarar un supuesto de tipo de cambio. B lo detecta con precisión quirúrgica: si el RMB se deprecia 1% anual, el umbral sube de 3.2% a ~4.2%, restituyendo casi exactamente el rango 4-4.5% que A creía haber refutado. **Este es el fallo empírico más costoso de A en la ronda**, porque anula el rendimiento de su mejor pieza aritmética. A no declaró el supuesto ni lo defendió.
+2. **Inconsistencia en la cifra de IED.** A registra "FDI neto China 2024 (valle) = $18.6 mil millones" [EI], mientras B documenta $4.5B (balance of payments basis) [DO] con fuente MOFCOM, y E ratifica $4.5B en su tabla consolidada (E-12). A usó la cifra más favorable a su posición, la etiquetó [EI] —etiqueta más débil de lo que la disponibilidad de datos permitía— y no la reconcilió. El error es de dirección conveniente, lo cual agrava su peso.
+3. **Etiquetado degradado.** Varias entradas centrales están marcadas [EI] cuando corresponderían [DO]: el PIB per cápita 2024, la proyección IMF 2030 y los datos de IED de UNCTAD son datos observables publicados, no especulación informada. A ha usado el sistema de etiquetado con más rigor en rondas anteriores; en R11 hay dilución.
+
+Nota compensatoria: la fuente FRED serie RTFPNACNA632NRUG es exactamente la referencia primaria correcta para la elección de serie PTF y su cita es verificable.
+
+#### 2.3 Pertinencia temática — **8.0/10**
+
+**Justificación.** A dedica las secciones 1, 2, 3 y 6 (cuatro de diez) a retos metodológicos heredados de R10 —PTF, umbral $22K, definición, PPP— y solo las secciones 4, 5, 7 y 8 al tema convocado. La asignación es procedimentalmente correcta porque el árbitro declaró A-10-1 y A-10-2 de prioridad absoluta, y A obedeció. Pero el efecto sustantivo es que **el tratamiento propiamente geopolítico de A es el más delgado de las tres intervenciones de la ronda.**
+
+Dentro del material geopolítico, A no aporta un solo dato militar, ni una estimación de probabilidad de escenario, ni una magnitud de costo de zona gris más allá de la IED. Cuando E produce treinta datos etiquetados sobre capacidad anfibia, primas de seguro marítimo, gasto de defensa y fragmentación de cadenas, la comparación deja expuesto que A trató el tema de la ronda de forma principalmente conceptual. Sus dos citas geopolíticas propias (Global Taiwan Institute 2025 sobre tácticas de zona gris; Taipei Times 2026 sobre bloqueos de zona gris) son pertinentes pero se invocan de forma ilustrativa, no probatoria.
+
+#### 2.4 Calidad argumental — **8.6/10**
+
+**Justificación.** El mecanismo de **compresión del horizonte de descuento político** es un aporte conceptual genuino y es la mejor pieza de A en la ronda. Está bien construido: identifica una asimetría estructural verificable (costos inmediatos y electoralmente visibles frente a beneficios diferidos y difusos), la conecta con un efecto estratégico específico (credibilidad de compromiso, imposibilidad de que el adversario calcule un punto de capitulación por fatiga electoral), y respeta la distinción exigida entre disuasión sostenida y escalada. Es teoría de juegos aplicada correctamente y no una asertividad retórica.
+
+Igualmente fuerte es la **reformulación del riesgo como gradiente administrado y no como variable binaria.** Es una crítica válida a la forma en que B había tratado el riesgo Taiwán durante cuatro rondas, y B no la refuta frontalmente: se limita a decir que controlar la escalada no equivale a controlar el daño colateral, lo cual concede la premisa del gradiente y disputa solo su alcance.
+
+La **recuperación de la versión plena de la moción** (Sección 3) es tácticamente importante. En R10 A había cedido terreno definicional al conceder que el techo de la vía intermedia podía coincidir con el Régimen 2; en R11 declara expresamente que defiende la moción en sentido pleno bajo una definición operativa propia. Eso restaura consistencia de rol y responde al punto que el árbitro había marcado como el más erosivo de su posición.
+
+**Debilidades argumentales.** Cuatro:
+
+1. **El argumento de continuidad histórica 1990-2024 es débil y B lo desarma correctamente.** "China creció de $1.2T a $18T con la amenaza de Taiwán presente, luego no hay incompatibilidad estructural" es inferencia de continuidad en condiciones no comparables: en el período citado China era el mayor receptor de IED del mundo emergente bajo engagement estratégico occidental, y ambas condiciones se revirtieron. La refutación de B es correcta y A no tenía cobertura.
+2. **El argumento de ratings soberanos es un error táctico.** A pregunta por qué ninguna agencia degradó a China a especulativo en 75 años. B responde con dos golpes ambos correctos: confusión categórica (los ratings miden solvencia a 1-5 años, no convergencia a 25) y falsedad factual del implícito de estabilidad (Moody's degradó Aa3→A1 en 2017 y puso el outlook en negativo en diciembre de 2023). A ofreció un flanco que no necesitaba ofrecer.
+3. **La ventaja neta de R11-A-5 no está demostrada, está postulada.** Los tres componentes del contrafactual democrático —colapso de coalición de gobierno, límites parlamentarios al costo tolerable, captura regulatoria que impide relocalización industrial— no tienen una sola fuente, ni un caso comparativo, ni una cifra. El árbitro había prohibido expresamente la simetría fácil y exigido ventaja **neta con evidencia**; A produjo un argumento plausible sin soporte. **La compensación de IED occidental por inversión Sur-Sur se afirma sin magnitud**, cuando A tenía la obligación de cuantificarla precisamente porque su propia tabla documenta una caída de $325B.
+4. **La elección de serie PTF tiene un costo que A subestima.** A afirma que al elegir PWT v11.0 "la J-curve ya se verificó" y "no hay vulneración de mi marco". B responde con el argumento de circularidad: PWT v11.0 adoptó las estadísticas oficiales chinas por consistencia metodológica, no por validación epistemológica; si el input (PIB) está sobreestimado, el residuo (PTF) aparece inflado mecánicamente. A anticipó parcialmente esto con el contraataque de simetría ("la misma incertidumbre socava los argumentos de B construidos sobre GDP oficial"), que es un movimiento legítimo y no trivial, pero incompleto: no todos los argumentos de B dependen del GDP oficial en la misma dirección, y la circularidad afecta específicamente al residuo de PTF, que es donde A tiene la carga.
+
+#### 2.5 Manejo de retos previos de R10
+
+Los dos retos vinculantes abiertos del debate —A-10-1 (aritmética del umbral) y A-10-2 (elección de serie PTF)— quedaron **formalmente cerrados**. El árbitro había advertido que si A no los resolvía en R11 se computarían como concedidos en el veredicto final; esa amenaza queda desactivada. A no evadió ninguno de los dos.
+
+El resultado sustantivo, sin embargo, es mixto:
+- **A-10-1:** cerrado con ventaja inicial para A (el umbral real es 3.2%, no 4-4.5%), **revertida en la misma ronda** por el supuesto de tipo de cambio que B introduce. Saldo neto: prácticamente neutro, con un reto nuevo abierto contra A.
+- **A-10-2:** cerrado con costo. A eligió y sostuvo la elección; pero la elección lo deja dependiente de una serie cuya validez epistemológica B ataca con un argumento de circularidad que A no neutraliza del todo.
+
+Adicionalmente, A cerró voluntariamente el punto PPP que el árbitro había marcado en R10 como "requiere verificación adicional", y lo hizo **contra su propio interés** ($27.8T → $15.4T nominal). Este es el mejor acto de conducta epistémica de la ronda y merece reconocimiento explícito.
+
+#### 2.6 Puntos fuertes y débiles
+
+**Fuertes:** cierre de los dos únicos retos vinculantes abiertos del debate; la aritmética del 3.2% expuesta y correcta, que refuta una cifra que B usaba sin derivación; la conversión PPP→nominal concedida voluntariamente con la métrica pertinente declarada a favor de su rival; el mecanismo de compresión del horizonte de descuento político como aporte conceptual original; la reformulación gradiente vs. binario, que B no logra desmontar; la recuperación expresa de la versión plena de la moción con definición operativa verificable; la concesión táctica sobre el colapso de IED, sin maquillaje, acompañada de la formulación correcta de qué tendría que demostrar B para convertirla en argumento decisivo.
+
+**Débiles:** ausencia total del supuesto de tipo de cambio en su aritmética central, que es el agujero por el que B recupera su umbral; uso de $18.6B de IED cuando la cifra documentada es $4.5B, con etiqueta débil y en dirección conveniente; el argumento de continuidad histórica 1990-2024, desmontado; el argumento de ratings soberanos, que ofreció un flanco innecesario y fue respondido en dos frentes; la ventaja neta postulada sin evidencia pese a prohibición expresa de simetría fácil; delgadez del contenido propiamente geopolítico frente a la magnitud del tema; ninguna respuesta anticipada al problema del EPL como actor institucional, que B convierte en su ataque central.
+
+#### 2.7 Puntaje de A — Ronda 11
+
+| Criterio | Puntaje | Justificación |
+|---|---:|---|
+| Rigor empírico | 8.3 | Aritmética expuesta y correcta; pero omisión del tipo de cambio, cifra de IED en dirección conveniente y etiquetado diluido. |
+| Pertinencia temática | 8.0 | Cuatro de diez secciones al tema convocado; el tratamiento geopolítico es el más delgado de la ronda. |
+| Calidad argumental | 8.6 | Mecanismo de descuento político y gradiente administrado son originales y sólidos; continuidad histórica y ratings son débiles. |
+| Claridad de tesis | 9.0 | "Taiwán valida el modelo, no lo refuta" es nítida y sostenida en las diez secciones. |
+| Respuesta directa al rival | 8.8 | Los seis retos abordados en orden, sin evasión; responde los tres pilares que B le atribuye. |
+| Calidad de evidencia | 7.9 | Ocho entradas etiquetadas frente a 22 en R10; discrepancia de IED no reconciliada; contrafactual democrático sin fuente. |
+| Pertinencia de fuentes | 8.4 | AMRO, IMF WEO, FRED, Global Taiwan Institute son adecuadas; pero ninguna fuente militar o de seguridad para un tema militar. |
+| Fuerza lógica | 8.5 | El mecanismo de descuento es lógicamente robusto; la inferencia de continuidad histórica es el eslabón débil. |
+| Capacidad de refutación | 8.3 | El desmontaje del supuesto binario de B es efectivo; el contraataque de simetría sobre estadísticas oficiales es legítimo pero incompleto. |
+| Reconocimiento honesto de debilidades | 9.3 | Concede PPP→nominal contra su interés, concede el colapso de IED sin minimizarlo, declara las consecuencias de su elección de serie. |
+| Consistencia interna | 8.7 | Recupera la versión plena de la moción y resuelve la tensión de rol que arrastraba de R10. Mejora respecto a R10 (8.2). |
+| Foco en el tema | 8.0 | Justificado por la prioridad absoluta de los retos heredados, pero el efecto sustantivo es de dispersión. |
+| Relevancia práctica | 8.6 | La definición operativa con tres criterios verificables es directamente utilizable para el veredicto. |
+| Sostener la posición hasta el final | 8.9 | Recuperación notable: declara expresamente versión plena tras haber cedido terreno en R10. |
+
+**Puntaje total A — Ronda 11: 8.5/10**
+
+---
+
+### 3. Evaluación de B (Crítico) — Ronda 11
+
+#### 3.1 Cumplimiento de retos vinculantes
+
+| Reto | Estado | Observación |
+|---|---|---|
+| **R11-B-1** (dirección causal, prioridad absoluta) | **Cumplido de forma ejemplar** | Declara "concomitante y amplificador" al inicio, con tres canales operativos, y **concede voluntariamente** que aporta corroboración sintomática, no evidencia causal independiente. |
+| **R11-B-2** (cuantificar la prima de riesgo) | **Cumplido** | Produce la cadena: 50-100 pb → elasticidad 0.3-0.4 → 0.15-0.40 pp/año → 2.3-6.0 pp acumulados → $22.5K-$23.7K en 2040. Aritmética expuesta; admite que es estimación derivada. |
+| **R11-B-3** (documentar TSMC 3nm) | **Cumplido** | Seis clientes nominados con fuentes (TechNode, TrendForce, TSMC). Etiqueta [DO] aplicada retroactivamente con justificación. |
+| **R11-B-4** (incorporar corrección de D sobre HBM) | **Cumplido con calidad** | Acepta que la barrera es TSV/bonding y no EUV; reformula el argumento por ventana temporal en lugar de por barrera permanente. |
+| **R11-B-5** (compatibilidad zona gris ↔ meseta) | **Cumplido** | Mecanismo de "supresión gradual del potencial" en tres efectos, con la misma magnitud de 0.15-0.40 pp. Disciplina de marco mantenida. |
+| **R11-B-6** (sin lenguaje de colapso) | **Cumplido, con una tensión** | Cumplimiento activo declarado y verificado en el texto; pero ver 3.4 sobre el ataque del actor no unitario. |
+| Etiquetado / aritmética expuesta en todos los [EC] | **Cumplido** | Tabla de 10 entradas; el [EC] de la depreciación y el de la prima traen aritmética. No corrige, sin embargo, el [EC] de mBridge que quedó pendiente de R10. |
+
+Seis de seis retos cumplidos, más el reto de documentación. **B mantiene su pasivo documental en cero por segunda ronda consecutiva**, tras haberlo saldado en R10-3.
+
+#### 3.2 Rigor empírico — **8.9/10**
+
+**Justificación.** B produce la evidencia empírica más fuerte de los dos debatientes en R11:
+
+- **La corrección de la cifra de IED** es el hallazgo puntual más valioso: $4.5B (balance of payments basis, MOFCOM) frente a los $18.6B de A, con la observación de que es el nivel más bajo desde 1991. E lo ratifica de forma independiente en E-12. B tiene el dato correcto y A no.
+- **La documentación de TSMC 3nm** cierra el único pasivo abierto que el árbitro le había señalado en R10, con seis clientes nominados y tres fuentes.
+- **El movimiento sobre ratings** es doblemente correcto en lo factual: Moody's Aa3→A1 en 2017 y outlook negativo en diciembre de 2023, ambos [DO] con fuentes. Convierte un ataque de A en evidencia propia.
+- **La incorporación de la corrección de D** sobre HBM se hace con dato nuevo (CXMT/XMC apuntando a HBM3 a fines de 2026; los controles de 2024 no cubren el equipo de bonding híbrido), no con concesión vacía.
+- **El reconocimiento del punto técnico de A sobre PWT v11.0** —"eso es un hecho"— es honestidad probatoria genuina antes de introducir la objeción epistemológica.
+
+**Descuentos.** La cadena de cuantificación de R11-B-2, que es la pieza que el árbitro había exigido con más urgencia, encadena **tres estimaciones derivadas sin medición directa en ninguno de los eslabones**: la prima de 30-50 pb es [EC] "estimado a partir de diferenciales A1 vs Aa3"; el salto a "50-100 pb del sector privado" no está derivado del anterior y aparece sin puente; la elasticidad inversión-crecimiento de 0.3-0.4 se declara "estimación estándar para economías de ingreso medio-alto" sin una sola cita. El resultado —0.15 a 0.40 pp— tiene la forma de una cifra dura pero es un producto de tres supuestos, con un rango de resultado de 2.7× entre extremos. B lo admite ("estimación derivada, no medición directa"), lo cual lo salva de la penalización mayor, pero el árbitro había advertido que sin cifra con fuente y aritmética el argumento no podría tratarse como decisivo. **La aritmética está; la fuente de la elasticidad no.** El argumento se admite como sustantivo pero **no como decisivo**.
+
+Segundo descuento menor: el [EC] de mBridge (<3% del PIB mundial), que quedó sin derivación en R10 y fue reiterado en el reto de etiquetado de R11, no fue corregido.
+
+#### 3.3 Pertinencia temática — **9.0/10**
+
+**Justificación.** B mantiene el tema geopolítico como eje y lo integra sistemáticamente con su marco: los tres canales (prima de riesgo, aceleración del desacoplamiento por vía legislativa, fricción China+1/China+2) son mecanismos propiamente geopolíticos con efecto económico especificado, no reciclaje de argumentos de rondas anteriores. La sección R11-B-5 conecta explícitamente zona gris con meseta, que era la exigencia de disciplina de marco.
+
+Descuento leve: la sección R11-B-4 (HBM) es tecnológica más que geopolítica, y la respuesta a la aritmética de A (R11-A-1) es macroeconómica. Como en el caso de A, parte de la ronda se consume en herencia metodológica —pero B distribuye mejor: la mayor parte de su texto está en el tema convocado.
+
+#### 3.4 Calidad argumental — **9.2/10**
+
+**Justificación.** Tres movimientos de alta calidad:
+
+1. **La declaración causal "concomitante y amplificador".** Es la respuesta correcta a la trampa que el árbitro le tendió en R11-B-1. B evita repetir el patrón de R10 (donde su concesión de "consecuencia" vació de valor causal el capítulo financiero) sin caer en la sobreafirmación opuesta. La estructura es rigurosa: causas endógenas del Régimen 2 que no requieren a Taiwán, más Taiwán como multiplicador negativo sobre la probabilidad de escape por tres canales identificados. **Y luego concede espontáneamente que el capítulo sigue siendo corroboración sintomática y no evidencia causal independiente.** Esa concesión no le fue arrancada: la produjo él mismo, anticipando el reproche. Es la conducta epistémica más madura de la ronda.
+
+2. **El ataque del supuesto de racionalidad unitaria del PCCh.** Es el mejor movimiento ofensivo de la ronda y ataca exactamente la viga del argumento de A. A construyó su tesis de estabilidad sobre el incentivo racional del PCCh a no escalar; B muestra que ese incentivo solo opera si el PCCh es un actor con función de utilidad estable, y que la propia ventaja que A reivindica —capacidad de sostener 15-20 años de presión sin alternancia— es simultáneamente la condición que permite la deriva institucional del umbral de lo aceptable. El EPL como actor institucional con incentivos propios tras quince años de inversión masiva es un contraargumento estructural que A no anticipó y que queda sin respuesta en la ronda. La formulación final —"un modelo de China que ningún analista de seguridad acepta como completo"— es fuerte, aunque técnicamente sea una apelación a autoridad no nominada.
+
+3. **El desmontaje del pilar 3 de A (continuidad histórica).** "Argumento de continuidad en condiciones no comparables" con dos condiciones revertidas nominadas (mayor receptor de IED del mundo emergente; engagement estratégico occidental) es preciso, breve y suficiente.
+
+4. **El Reto 1 sobre tipo de cambio** merece mención aparte: es la refutación más eficiente de la ronda. B no disputa la aritmética de A —la concede expresamente como "un cálculo honesto"— y muestra que el supuesto omitido restituye el umbral. Un solo supuesto no declarado, y el resultado de A se desplaza de 3.2% a 4.2%. Economía argumental de primer orden.
+
+**Debilidades argumentales.** Tres:
+
+1. **Tensión entre el ataque del actor no unitario y R11-B-6.** B declara cumplimiento activo de la prohibición de lenguaje de colapso y en efecto no predice colapso. Pero el argumento del EPL como actor con incentivos autónomos que puede producir "escalada no racional" es funcionalmente un argumento de cola: si opera, el resultado no es meseta, es ruptura. B lo blinda ("esto no es retórica catastrofista; es señalar que el argumento de A descansa en un modelo incompleto"), y el blindaje es legítimo en tanto lo presenta como incertidumbre epistémica sobre el modelo de A y no como predicción propia. **No lo penalizo como incumplimiento, pero sí anoto que el argumento vive en el límite de su propio marco y B no lo reconcilió expresamente con la tesis de meseta.**
+2. **La contra-definición de "competir exitosamente" es vulnerable al reproche de construcción.** El criterio (i) —PTF por encima de la media G7 en al menos dos quinquenios— es exigente pero razonable. El criterio (iii) —cruzar $22K antes de 2040 con tipo de cambio estable— es un umbral que la propia evidencia de B en la ronda declara improbable, lo que convierte la definición en autocumplida. E lo señala expresamente como posible "sesgo de construcción". B no anticipa la objeción.
+3. **El Reto 2 a A (paper revisado por pares que valide las estadísticas chinas sin usar las propias estadísticas) está mal construido.** Tal como se formula, es una exigencia de prueba prácticamente insatisfacible: validar estadísticas nacionales sin usar datos correlacionados con ellas es un estándar que ninguna literatura macroeconómica cumple. Existe literatura de validación por proxies —luminosidad nocturna, consumo eléctrico, flujos comerciales de contrapartes— que B no menciona y que habría hecho el reto legítimo y contestable. Como está redactado, roza la inversión indebida de la carga de la prueba.
+
+#### 3.5 Nuevos retos planteados: ¿son válidos?
+
+| Reto | Validez | Evaluación |
+|---|---|---|
+| **Reto 1 — supuesto de tipo de cambio** | **Válido y de alta prioridad** | Ataca un hueco real y verificable en la pieza central de A. A debe declarar un supuesto de tipo de cambio o su aritmética del 3.2% no es utilizable para el veredicto. Se admite como reto vinculante. |
+| **Reto 2 — validación independiente de estadísticas chinas** | **Válido en su núcleo, mal construido en su forma** | El problema de circularidad del residuo de PTF es real. Pero la exigencia probatoria tal como se formula es insatisfacible. Se admite en versión reformulada por el árbitro (ver Sección 7). |
+| **Reto 3 — modelo del EPL como actor institucional** | **Válido y de alta prioridad** | Ataca directamente el fundamento del argumento de estabilidad de A y no fue respondido. Se admite como reto vinculante. |
+| **Reto al árbitro — resolución de la disputa definitorial** | **Procedente** | Es la solicitud correcta en el momento correcto. Se resuelve en la Sección 8. |
+
+#### 3.6 Puntos fuertes y débiles
+
+**Fuertes:** la declaración causal "concomitante y amplificador" con tres canales y concesión espontánea de su alcance probatorio; el ataque del actor no unitario, mejor movimiento ofensivo de la ronda y sin respuesta; el Reto 1 sobre tipo de cambio, que revierte la mejor pieza de A con un solo supuesto omitido; la corrección documentada de la cifra de IED ($4.5B frente a $18.6B), ratificada independientemente por E; el cierre del pasivo TSMC 3nm con seis clientes y tres fuentes; la incorporación sustantiva de la corrección de D sobre HBM, reformulando por ventana temporal en lugar de por barrera permanente; la doble respuesta sobre ratings, categórica y factual, ambas correctas; tres concesiones tácticas explícitas, incluyendo el reconocimiento de que la aritmética de A es honesta y de que los ratings reflejan solvencia real que no debería ignorarse.
+
+**Débiles:** la cadena de cuantificación de la prima encadena tres estimaciones derivadas y la elasticidad clave (0.3-0.4) no tiene cita, lo que impide tratar el resultado como decisivo pese a ser el reto que el árbitro había exigido con más urgencia; su contra-definición incluye un criterio autocumplido que E marca como posible sesgo de construcción; el Reto 2 exige un estándar de prueba insatisfacible; el argumento del EPL vive en tensión no reconciliada con la disciplina de meseta; el [EC] de mBridge sigue sin derivación tras dos requerimientos.
+
+#### 3.7 Puntaje de B — Ronda 11
+
+| Criterio | Puntaje | Justificación |
+|---|---:|---|
+| Rigor empírico | 8.9 | Corrige la cifra de IED con fuente primaria; documenta TSMC 3nm; ratings verificados. Pero la elasticidad clave carece de cita. |
+| Pertinencia temática | 9.0 | Tres canales propiamente geopolíticos con efecto económico especificado; integración explícita con la meseta. |
+| Calidad argumental | 9.2 | Declaración causal disciplinada, ataque del actor no unitario y refutación por tipo de cambio: tres movimientos de primer orden. |
+| Claridad de tesis | 9.2 | "Taiwán como multiplicador negativo, no como causa" es nítida y se sostiene sin desviación. |
+| Respuesta directa al rival | 9.3 | Responde los tres pilares de A uno por uno, más los cuatro retos metodológicos, más el ataque de ratings. |
+| Calidad de evidencia | 8.7 | Diez entradas etiquetadas con fuentes verificables; descuento por la cadena de estimaciones derivadas y el [EC] de mBridge sin derivar. |
+| Pertinencia de fuentes | 9.1 | MOFCOM, IMF GFSR Ch.2, St. Louis Fed Review, CNBC, Groningen, TrendForce: primarias y exactas para cada afirmación. |
+| Fuerza lógica | 9.2 | El argumento de circularidad del residuo de PTF y el del actor no unitario son estructuralmente sólidos. |
+| Capacidad de refutación | 9.4 | El supuesto de tipo de cambio neutraliza la pieza central de A sin disputar un solo número de su aritmética. |
+| Reconocimiento honesto de debilidades | 9.2 | Concede el punto técnico de PWT a A, concede la validez empírica del gradiente 1995-2024, concede los ratings, y limita espontáneamente su propio alcance causal. |
+| Consistencia interna | 8.6 | Tensión no reconciliada entre el argumento del EPL (escenario de cola) y la disciplina declarada de meseta. |
+| Foco en el tema | 8.9 | Mayoría del texto en el tema convocado; secciones de HBM y aritmética son herencia metodológica justificada. |
+| Relevancia práctica | 8.8 | La traducción a 0.15-0.40 pp/año y a $22.5K-$23.7K en 2040 es directamente utilizable, con la reserva de que es derivada. |
+| Sostener la posición hasta el final | 9.2 | El Régimen 2 sale intacto y con un canal geopolítico añadido sin haber importado un escenario de ruptura. |
+
+**Puntaje total B — Ronda 11: 9.0/10**
+
+---
+
+### 4. Evaluación del Especialista E (Geopolítica) — Ronda 11
+
+#### 4.1 Rigor empírico — **9.3/10**
+
+**Justificación.** E produce treinta datos etiquetados con fuentes verificables y aritmética expuesta en todos los cálculos propios. La calidad de las fuentes es la más alta que se ha visto en un aporte especializado en materia de seguridad: DoD Annual Report to Congress 2025, ODNI vía USNI News (19 marzo 2026), CNAS "Hellscape" (febrero 2026), CMSI Note 18 (enero 2026), RAND 2023, SIPRI 2025, IISS 2026, CSIS ChinaPower, St. Louis Fed Review (febrero 2025), IMF GFSR April 2025 Ch.2. No hay una sola afirmación estructural sin fuente.
+
+La **distinción capacidad / intención / probabilidad** exigida en R11-E-2 se ejecuta con rigor y es, por sí sola, la contribución metodológica más importante de la ronda: E documenta capacidad con orden de batalla verificable (8 Type-071, 4 Type-075 con fechas de comisión individuales, 1 Type-076 en construcción), intención con fuentes doctrinales (Constitución del PCCh, Libro Blanco 2019) separando intención de largo plazo, operativa de corto plazo y de invasión, y probabilidad con distribución datada. Los tres niveles no se confunden en ningún punto del texto.
+
+La **distribución de probabilidad de R11-E-3** cumple todos los requisitos: cuatro escenarios, rangos declarados, fundamento base por escenario, condiciones bidireccionales de movimiento, comprobación aritmética expuesta (62.5 + 17.5 + 7.5 + 7.5 = 95%, con 5% explícito para eventos no cubiertos), y cinco condiciones observables de alerta temprana verificables por terceros.
+
+**Descuentos.** Tres, todos menores:
+
+1. **El cálculo del 13.6% descansa en una regla de pulgar no fundamentada.** El ratio 5:1 atacante/defensor "en playa" se presenta como estimación sin cita; toda la cifra de 440.000 tropas y por tanto el 13.6% depende de ese multiplicador. Está correctamente etiquetado [EC] con la aritmética expuesta, lo que evita la penalización mayor, pero el 13.6% aparece luego tres veces con un peso retórico superior a su soporte. **Requiere verificación adicional.**
+2. **La prima de seguro marítimo del Estrecho (0.05-0.10%) es una analogía, no una medición.** E lo declara expresamente, lo cual es conducta correcta, pero el dato es de los más débiles de la tabla.
+3. **La síntesis de $100-150B/año está etiquetada [EC] pero sin aritmética de agregación expuesta.** E expone la aritmética de sus otros cálculos pero no muestra cómo suma IED, primas, fragmentación y sobrecosto defensivo para llegar al rango. Además, contabilizar $113B/año de "flujos de IED perdidos" como costo económico anual es metodológicamente discutible: un flujo de inversión no realizado no es equivalente a valor económico perdido, y parte de la caída es cíclica y no geopolítica.
+
+**La fuente BCG (marzo 2026) se cita con URL genérica (bcg.com) sin documento específico.** Es la única falla de trazabilidad de la lista y afecta al dato del sobrecosto de 25-35%. **Requiere verificación adicional.**
+
+#### 4.2 Aporte técnico marginal
+
+E aportó siete elementos que ningún debatiente poseía:
+
+1. **Orden de batalla anfibio verificable.** Convierte una discusión de cuatro rondas puramente cualitativa en un problema con magnitudes.
+2. **La evaluación ODNI de marzo de 2026** de que China no está comprometida con una invasión en 2027. Beneficia netamente a A.
+3. **Dos brechas operacionales estructurales:** escasez de LST/LCM y ausencia de modelo de entrenamiento conjunto integrado.
+4. **Uso dual de RO-RO** (CMSI Note 18) y **pontones móviles** (CNAS): las estimaciones conservadoras de capacidad están sistemáticamente subestimadas. E lo señala expresamente —autocorrección incorporada.
+5. **El cálculo comparativo de costos zona gris vs. conflicto abierto:** ~$3.17T en año 1 frente a $100-150B/año, factor 20-30×. Fundamenta empíricamente el pilar de A sobre el incentivo racional del PCCh.
+6. **El "Silicon Shield" como mecanismo bidireccional** y la paradoja del bloqueo.
+7. **La cuantificación de la redistribución del decoupling:** Corea del Sur +$21B, UE +$15B, Taiwán +$14B, Japón +$12B (ITIF nov 2025).
+
+**Balance de a quién favorece.** E favorece a **A** en la dimensión militar (conflicto abierto en 5-10%; brecha del 13.6%; ODNI descartando 2027; zona gris como óptimo de costo-beneficio). E favorece a **B** en la dimensión económica (impuesto estructural sobre la competitividad; $100-150B/año; sobrecosto de 25-35%). La posición de E es intermedia genuina, anclada en datos distintos para cada mitad.
+
+#### 4.3 Pronunciamiento sobre "competir exitosamente"
+
+**Sí, es válido y está fundamentado, dentro de los límites declarados por E.**
+
+El argumento textual es correcto: la moción dice "competir con las democracias liberales" y el referente son las democracias liberales avanzadas, no pares de ingreso medio. E declara sus reservas de mandato, señala el sesgo de construcción de la definición que respalda, y rescata el componente institucional de la Definición A como geopolíticamente relevante. Conducta especializada de primer orden.
+
+**Observación de forma:** confusión nominal de roles en el texto (B identificado como "árbitro"). No afecta el contenido sustantivo pero se anota como falla de higiene procedimental. Descuento de 0.1 en el puntaje final.
+
+#### 4.4 Puntaje del Especialista E — Ronda 11
+
+| Criterio | Puntaje | Justificación |
+|---|---:|---|
+| Rigor empírico | 9.3 | Treinta datos con fuentes primarias; aritmética expuesta; descuentos por ratio 5:1 sin cita y agregación de $100-150B sin derivar. |
+| Aporte técnico marginal | 9.6 | Siete elementos que ningún debatiente tenía; dos cuerpos de evidencia nuevos; el orden de batalla que faltaba desde R8. |
+| Neutralidad y conducta de rol | 9.5 | Informa sin arbitrar; favorece a A en probabilidad militar y a B en costo económico con anclajes distintos; cuatro límites de mandato específicos. |
+| Calidad del pronunciamiento definitorial | 9.2 | Argumento textual correcto, con reservas de mandato y reconocimiento del sesgo de construcción. Descuento por confusión nominal de roles. |
+| Falsabilidad y utilidad para el veredicto | 9.4 | Distribución datada con condiciones bidireccionales y cinco indicadores de alerta temprana verificables por terceros. |
+
+**Puntaje del Especialista E — Ronda 11: 9.4/10**
+
+---
+
+### 5. Ganador de Ronda 11
+
+**Ganador de Ronda 11: Agente B (Crítico)**
+**Puntajes: B 9.0 — A 8.5 · Margen: 0.5**
+**Nivel de confianza: Medio-Alto**
+
+**Justificación.** B gana por tres razones convergentes. Primero, el Reto 1 sobre tipo de cambio neutraliza la mejor pieza de A sin disputar un solo número de su aritmética: un solo supuesto omitido —depreciación de 1% anual del RMB— restituye el umbral de 4.2%, prácticamente el rango que A creía haber desmontado. Segundo, el ataque al supuesto de racionalidad unitaria del PCCh golpea la viga estructural del argumento de A —el incentivo racional a no escalar— y A no tiene respuesta porque no anticipó al EPL como actor con incentivos propios. Tercero, B mantuvo disciplina probatoria superior: corrigió la cifra de IED con fuente primaria, cerró su pasivo de TSMC 3nm, incorporó la corrección de D sobre HBM, y limitó espontáneamente su propio alcance causal.
+
+**Por qué el margen no es mayor.** A cerró los dos únicos retos vinculantes abiertos del debate, produjo la conversión PPP→nominal contra su propio interés, recuperó expresamente la versión plena de la moción, y aportó el mecanismo de compresión del horizonte de descuento político. Además, E favorece a A en la dimensión propiamente militar del tema: conflicto abierto en 5-10%, brecha de 13.6%, ODNI descartando 2027, zona gris como óptimo de costo-beneficio por factor 20-30×.
+
+---
+
+### 6. Marcador acumulado — Rondas 1 a 11
+
+#### 6.1 Resultados por ronda
+
+| Ronda | Tema | Especialista | Ganador | Puntajes (A — B) | Margen |
+|---|---|---|---|---|---|
+| 1 | Enmarcado y tesis centrales | — | Empate técnico | 8.0 — 8.0 | 0.0 |
+| 2 | Desempeño económico y crecimiento | — | B | 8.1 — 8.5 | 0.4 |
+| 3 | Estabilidad política y legitimidad | C | A | 8.6 — 8.2 | 0.4 |
+| 4 | Innovación y capacidad tecnológica | D | B | 8.3 — 8.8 | 0.5 |
+| 5 | Instituciones, corrupción y Estado de derecho | C | B | 8.2 — 8.9 | 0.7 |
+| 6 | Modelo social y desigualdad | — | A | 8.7 — 8.4 | 0.3 |
+| 7 | Semiconductores y control tecnológico | D | B | 8.4 — 9.0 | 0.6 |
+| 8 | Geopolítica de alianzas | E | B | 8.7 — 8.9 | 0.2 |
+| 9 | Demografía y trampa del ingreso medio | F | B | 8.6 — 9.1 | 0.5 |
+| 10 | Renminbi y desdolarización | D | B | 8.6 — 9.1 | 0.5 |
+| 11 | Taiwán, Mar del Sur y riesgo de conflicto | E | **B** | **8.5 — 9.0** | **0.5** |
+
+**Marcador de rondas: B 8 — A 2 — Empates 1**
+**Suma acumulada (R1-R11): A 92.7 — B 96.9**
+**Promedio acumulado: A 8.43 — B 8.81**
+**Ventaja media de B por ronda: 0.38**
+
+#### 6.2 Promedios por dimensión, Rondas 1-11
+
+| Dimensión | A | B | Diferencial | Tendencia |
+|---|---:|---:|---:|---|
+| Claridad de tesis | 8.6 | 9.0 | +0.4 B | Estable |
+| Respuesta directa al rival | 8.7 | 9.0 | +0.3 B | Convergente — A mejoró desde R10 |
+| Rigor / calidad de evidencia | 8.2 | 8.6 | +0.4 B | B consolidó tras cerrar pasivo en R10 |
+| Pertinencia de fuentes | 8.5 | 8.9 | +0.4 B | Estable |
+| Fuerza lógica | 8.3 | 9.0 | +0.7 B | **Brecha más amplia y persistente** |
+| Capacidad de refutación | 8.2 | 9.0 | +0.8 B | **Se ensancha en R11** |
+| Reconocimiento honesto de debilidades | 9.1 | 8.9 | +0.2 A | **Única dimensión con ventaja de A** |
+| Consistencia interna | 8.4 | 8.8 | +0.4 B | Convergente — A mejoró en R11 |
+| Foco en el tema | 8.4 | 8.7 | +0.3 B | Estable |
+| Relevancia práctica | 8.6 | 8.8 | +0.2 B | La más estrecha |
+| Sostener la posición hasta el final | 8.4 | 9.0 | +0.6 B | A recupera en R11 (7.8→8.9) |
+
+#### 6.3 Lectura del acumulado
+
+El liderazgo de B se consolida sin ensancharse. Ocho rondas de once, con ventaja media estable en 0.38. Siete de sus ocho victorias están en el rango 0.2-0.7. Las dos dimensiones decisivas son fuerza lógica (+0.7 B) y capacidad de refutación (+0.8 B). A conserva ventaja solo en reconocimiento honesto de debilidades (+0.2), y en R11 esa virtud fue gestionada estratégicamente por primera vez: concedió sin ceder la tesis.
+
+**La divergencia entre los dos componentes de la moción** —sostenibilidad vs. competir exitosamente— es el hecho más estable del debate y hace prácticamente inevitable un veredicto final que los trate por separado.
+
+---
+
+### 7. Estado de retos pendientes para R12+
+
+#### 7.1 Retos de B hacia A (activos)
+
+| Id | Reto | Prioridad | Estado |
+|---|---|---|---|
+| **A-11-1** | Declarar el supuesto de tipo de cambio RMB/USD para la aritmética del umbral $22K. Si el RMB se deprecia 1% anual, el umbral sube de 3.2% a ~4.2%. | **Absoluta** | Abierto |
+| **A-11-2** | Validación externa del crecimiento chino por métodos independientes del PIB oficial (proxies de luminosidad nocturna, consumo eléctrico, flujos comerciales de contrapartes), o acotación expresa del alcance de la inferencia de J-curve. [Reformulado por G desde el Reto 2 de B.] | **Alta** | Abierto |
+| **A-11-3** | Modelo del EPL como actor institucional no perfectamente unitario y mecanismo por el que la tesis de estabilidad sobrevive a ello. | **Alta** | Abierto |
+| **A-11-4** | Reconciliar la cifra de IED ($18.6B [EI] vs. $4.5B [DO, MOFCOM], ratificado por E). | **Media-Alta** | Abierto |
+| **A-11-5** | Cuantificar la compensación Sur-Sur o retirar la afirmación. | **Media** | Abierto |
+
+#### 7.2 Retos de A hacia B (activos)
+
+| Id | Reto | Prioridad | Estado |
+|---|---|---|---|
+| **B-11-1** | Conectar la prima de riesgo con la viabilidad de la inversión sectorial de frontera. | **Alta** | Parcialmente respondido |
+| **B-11-2** | Documentar la elasticidad inversión-crecimiento 0.3-0.4 con fuente. Sin ella, el árbitro no trata la cifra de 0.15-0.40 pp como decisiva. | **Alta** | Abierto |
+| **B-11-3** | Reconciliar el argumento del EPL (escenario de cola) con la disciplina de meseta. | **Media-Alta** | Abierto |
+| **B-11-4** | Sesgo de construcción de la Definición B: el criterio (iii) ya fue retirado como condición eliminatoria por el árbitro. B debe operar bajo la definición adoptada en la Sección 8. | **Alta** | Abierto |
+| **B-11-5** | Derivar el [EC] de mBridge (<3% del PIB mundial). Cuarto requerimiento. | **Media** | Abierto — reiterado |
+
+#### 7.3 Puntos abiertos del árbitro
+
+1. La divergencia entre los dos predicados de la moción será tratada por separado en el veredicto final.
+2. Afirmaciones que requieren verificación adicional: ratio 5:1 de E sin cita; síntesis $100-150B/año de E sin aritmética de agregación; fuente BCG marzo 2026 con URL genérica; prima de seguro marítimo del Estrecho por analogía.
+3. Los retos A-10-1 y A-10-2 quedan formalmente cerrados; sus sucesores directos son A-11-1 y A-11-2.
+4. Brecha de ocho rondas en legitimidad política y cohesión social — objeto de R12.
+5. El etiquetado de cuatro niveles se deterioró en R11 respecto de R10. El estándar de R10 se reitera con carácter vinculante.
+
+---
+
+### 8. Pronunciamiento sobre la disputa definitorial
+
+**El árbitro ratifica la Definición B en lo esencial y matiza en tres puntos operativos.**
+
+#### 8.1 Ratificación del núcleo
+
+El argumento textual de E es correcto: la moción dice "competir exitosamente con las democracias liberales", designando el conjunto de democracias liberales avanzadas: EE.UU., UE, Japón, Reino Unido, Canadá, Australia, Corea del Sur. Un modelo que supera a Brasil e India pero permanece por debajo del umbral de ingreso alto no ha demostrado lo que la moción afirma. **La Definición A desplaza el benchmark hacia un grupo que la moción no nomina.** El árbitro adopta el conjunto de democracias liberales avanzadas como referente de la moción.
+
+#### 8.2 Primera matización: la Definición B tal como la formuló B no se adopta íntegramente
+
+- **Criterio (i) — PTF por encima de la media G7 en al menos dos quinquenios: se adopta.** Exigente pero legítimo.
+- **Criterio (ii) — cuota de exportaciones de alta complejidad (SITC Rev.4 grupos 7+8, excl. re-exportaciones): se adopta.** Verificable y no sesgado en construcción.
+- **Criterio (iii) — cruzar $22K per cápita antes de 2040 con tipo de cambio estable: se adopta como indicador, NO como condición eliminatoria.** Convertir la convergencia de nivel en requisito de "competir" confunde competir con alcanzar. Se retiene como indicador de fuerza probatoria alta.
+
+#### 8.3 Segunda matización: el componente institucional de A se conserva
+
+El criterio (iii) de A —"capacidad de sostener su arquitectura institucional sin colapso fiscal ni reconfiguración sistémica forzada"— no es un desplazamiento de benchmark sino un componente del predicado "será sostenible a largo plazo". Se adopta para evaluar el Predicado 1 de la moción.
+
+#### 8.4 Tercera matización: el comparador de A se conserva con función probatoria subordinada
+
+El comparador de pares de ingreso medio informa sobre si el autoritarismo produce resultados superiores a alternativas democráticas en condiciones comparables. Se admite con función subordinada: puede sostener conclusiones sobre el rendimiento causal del componente autoritario, pero no puede por sí solo satisfacer el Predicado 2.
+
+#### 8.5 Definición operativa adoptada por el árbitro para el veredicto final
+
+> **Predicado 1 — "será sostenible a largo plazo":** el modelo mantiene su arquitectura institucional sin colapso fiscal, sin ruptura del orden político ni reconfiguración sistémica forzada, y sin caída del crecimiento a niveles que comprometan la legitimidad de desempeño del régimen.
+>
+> **Predicado 2 — "puede seguir compitiendo exitosamente con las democracias liberales":** el modelo satisface al menos dos de los tres indicadores siguientes, medidos contra el conjunto de democracias liberales avanzadas: **(a)** crecimiento de PTF superior a la media del G7 en al menos dos quinquenios del período; **(b)** incremento sostenido de la cuota de exportaciones de alta complejidad tecnológica (SITC Rev.4 grupos 7+8, excluidas re-exportaciones), en valor; **(c)** convergencia efectiva de PIB per cápita hacia el umbral de ingreso alto, medida como reducción del diferencial relativo frente a la media de las democracias liberales avanzadas — sin que el cruce de $22K antes de 2040 constituya condición eliminatoria.
+>
+> **Evidencia subordinada admitida:** el desempeño comparado frente a democracias de ingreso medio-alto se admite como evidencia del rendimiento causal del componente autoritario del modelo, no como satisfacción del Predicado 2.
+
+**Este pronunciamiento es desfavorable a A en su pretensión de benchmark y desfavorable a B en su construcción de umbral eliminatorio.** La disputa definitorial queda cerrada.
+
+---
+
+### 9. Apertura de Ronda 12
+
+**Tema:** Legitimidad política, cohesión social y estabilidad interna
+**Especialista:** Agente F (Demografía y Política)
+**Orden:** A abre → B responde → F cierra con aporte especializado
+**Pregunta central:** ¿La legitimidad del PCCh, basada en desempeño económico y nacionalismo, es frágil ante desaceleraciones prolongadas? ¿O ha desarrollado fuentes de legitimidad —institucionales, ideológicas, de capacidad estatal— que sobreviven a un período extendido de bajo crecimiento?
+
+**Nota de encuadre.** R12 es la ronda decisiva para el Predicado 1 de la definición adoptada. Once rondas han producido convergencia especializada en que no hay escenario de ruptura por vías económica, tecnológica, financiera o militar. Si la legitimidad tampoco es un vector de ruptura, el Predicado 1 quedará sustancialmente establecido a favor de A y el debate se concentrará en el Predicado 2 durante R13-R15. B tiene en R12 su última oportunidad estructural de disputar el componente de sostenibilidad; A tiene su mejor oportunidad de asegurarlo.
+
+**Instrucciones para A (Defensor):**
+1. **R12-A-1 (prioridad absoluta)** — Declarar el supuesto de tipo de cambio (A-11-1). Sin él, la aritmética del 3.2% no es utilizable en el veredicto.
+2. **R12-A-2 (prioridad absoluta)** — Responder A-11-3: modelo del EPL / PCCh como actor no unitario, directamente pertinente al tema de R12.
+3. **R12-A-3** — Responder A-11-2: validación externa del crecimiento chino o acotación del alcance.
+4. **R12-A-4** — Especificar qué fuentes de legitimidad no dependen del desempeño económico y con qué evidencia se miden. Distinguir legitimidad de desempeño, nacionalista, de capacidad estatal e ideológica.
+5. **R12-A-5** — Declarar umbral de falsación: a qué tasa de crecimiento, durante cuántos años, la legitimidad de desempeño dejaría de sostener el régimen.
+6. **R12-A-6** — Corregir A-11-4 ($18.6B vs. $4.5B) y responder A-11-5 (compensación Sur-Sur) o retirar la afirmación.
+7. **R12-A-7** — Prohibición de simetría fácil reiterada: demostrar ventaja neta con evidencia.
+8. Etiquetado de cuatro niveles con el estándar de R10. Horizontes datados 2027, 2030, 2035, 2040.
+
+**Instrucciones para B (Crítico):**
+1. **R12-B-1 (prioridad absoluta)** — Reconciliar el actor no unitario con la disciplina de meseta. Declarar si el argumento pertenece a su marco o es un escenario de cola.
+2. **R12-B-2 (prioridad absoluta)** — Operar bajo la definición adoptada en la Sección 8: demostrar ausencia de convergencia relativa, no incumplimiento de umbral absoluto.
+3. **R12-B-3** — Documentar la elasticidad 0.3-0.4 con fuente, o el árbitro no tratará la cifra como decisiva.
+4. **R12-B-4** — Producir el mecanismo de transmisión desde desaceleración económica hasta erosión de legitimidad, con etapas e indicadores observables. B lo debe desde R3.
+5. **R12-B-5** — Explicar cómo se sostiene políticamente la meseta que postula. La tesis de B implica un régimen que sobrevive con bajo crecimiento.
+6. **R12-B-6** — Derivar el [EC] de mBridge. Cuarto y último requerimiento; si no se atiende, se computará como retirado.
+7. **R12-B-7** — Conectar la prima de riesgo con la viabilidad de la inversión sectorial de frontera.
+8. Etiquetado de cuatro niveles con aritmética expuesta.
+
+**Instrucciones para el Especialista F (Demografía y Política):**
+1. **R12-F-1** — Estándar de referencia: F en R9 (9.5); E en R11 (9.4); D en R10 (9.4). Etiquetado de cuatro niveles, aritmética expuesta.
+2. **R12-F-2** — Estado material de la cohesión social china (2026): desempleo juvenil y metodología de medición, incidentes de protesta documentados, cobertura del sistema de pensiones, brecha hukou, movilidad intergeneracional. Distinguir descontento, acción colectiva y amenaza al régimen.
+3. **R12-F-3** — Distribución de probabilidad datada 2026-2040 sobre escenarios de estabilidad política: continuidad estable; continuidad con endurecimiento represivo; inestabilidad localizada contenida; crisis de sucesión o de coalición. Con condiciones bidireccionales, comprobación aritmética y residual declarado.
+4. **R12-F-4** — Interacción demografía ↔ legitimidad: impacto fiscal del envejecimiento sobre la capacidad del Estado de sostener legitimidad de desempeño. Cuantificar el déficit del sistema de pensiones en el horizonte 2035-2040 si la literatura lo permite.
+5. **R12-F-5** — Evidencia comparada: supervivencia de regímenes autoritarios de partido único en períodos prolongados de bajo crecimiento. Casos pertinentes y límites de comparabilidad.
+6. **R12-F-6** — Al menos un cuerpo de evidencia que ningún debatiente haya considerado, con límites de mandato declarados.
+7. **R12-F-7** — F no debe pronunciarse sobre la disputa definitorial: quedó resuelta en la Sección 8.
+
+**Retos pendientes a abordar prioritariamente en R12:**
+
+| Prioridad | Reto | Responsable |
+|---|---|---|
+| 1 | **A-11-1** — supuesto de tipo de cambio | A |
+| 2 | **A-11-3** — modelo del EPL / actor no unitario | A |
+| 3 | **B-11-3** — reconciliar actor no unitario con disciplina de meseta | B |
+| 4 | **B-11-4** — sesgo de construcción / operar bajo definición adoptada | B |
+| 5 | **B-11-2** — documentar elasticidad 0.3-0.4 | B |
+| 6 | **A-11-2** — validación externa del crecimiento chino | A |
+| 7 | **A-11-4 / A-11-5** — IED y compensación Sur-Sur | A |
+| 8 | **B-11-1** — prima de riesgo → inversión sectorial | B |
+| 9 | **B-11-5** — derivación del [EC] de mBridge | B |
+
+**Qué debe establecerse en R12:** (1) mecanismo de transmisión desaceleración → erosión de legitimidad, con etapas e indicadores; (2) umbral de falsación de la resiliencia del régimen; (3) la distinción descontento / acción colectiva / amenaza al régimen; (4) el estatuto del argumento del actor no unitario; (5) posición de ambas partes sobre el Predicado 1 bajo la definición adoptada.
+
+---
+
+**Nota de alcance:** evaluación parcial de Ronda 11, no veredicto. El árbitro no declara ganador del debate en este punto.
+
+**Afirmaciones que requieren verificación adicional (R11):** (1) ratio 5:1 de E sin cita; (2) síntesis $100-150B/año de E sin aritmética de agregación; (3) fuente BCG marzo 2026 con URL genérica; (4) prima de seguro marítimo del Estrecho por analogía; (5) elasticidad inversión-crecimiento 0.3-0.4 de B sin cita; (6) discrepancia IED $18.6B [A] vs. $4.5B [B, E].
+
+**Nota de revisión humana:** este debate versa sobre materia económica, geopolítica, tecnológica y regulatoria de alto impacto. El pronunciamiento definitorial de la Sección 8 y el veredicto final requieren revisión humana antes de ser utilizados como base de decisión.
+
+---
+
+*Fin de la evaluación del Árbitro G — Ronda 11*
