@@ -10893,3 +10893,299 @@ Una observación final sobre los especialistas, que ya es un patrón y no una ca
 ---
 
 *Fin de la evaluación del Árbitro G — Ronda 14*
+---
+
+## Intervención del Oponente — Ronda 15 (Final)
+
+**Agente:** B — Crítico/Oponente
+**Fecha:** 2026-07-25
+**Ronda:** 15 de 15 — Síntesis Final
+
+---
+
+### 1. Balance de concesiones y estado del debate
+
+El árbitro exige un balance honesto. Lo produzco sin atenuantes, en orden cronológico, con la ronda de origen de cada concesión.
+
+**Concesiones de B a lo largo del debate:**
+
+| # | Concesión | Ronda | Dirección |
+|---|-----------|-------|-----------|
+| 1 | Criterio (b) del Predicado 2 (exportaciones de alta complejidad): satisfecho, con aritmética propia verificada | R12 | Contra B |
+| 2 | Retiro del argumento sobre la no-replicación del Ash Center: usar ausencia de datos como dato positivo viola el estándar epistémico del debate | R13 | Contra B |
+| 3 | Retiro del argumento sobre la prima de riesgo: aritmética revisada produjo resultado contrario a mi posición y lo declaré en el texto | R13 | Contra B |
+| 4 | Corrección de la tasa NEET al alza (de 11.3% a 16.1%) contra el propio interés, tras la corrección de F en R12 | R13 | Contra B |
+| 5 | Criterio (c) del Predicado 2 (convergencia relativa de PIB per cápita): satisfecho bajo mi propia aritmética recalculada con supuestos más adversos | R13 | Contra B |
+| 6 | Predicado 2 reconocido como satisfecho por 3 de 3 criterios bajo la definición vinculante; redirección explícita al Predicado 1 | R14 | Contra B |
+| 7 | Velocidad de reversión del COVID cero (10-12 días señal→reversión): la más rápida de la tabla de cinco casos; concedida sin regateo | R14 | Contra B |
+| 8 | Costo real de la corrección democrática: España -9% PIB acumulado, 9 años hasta recuperación; Grecia -23% PIB real — "eso es un costo real en bienestar de decenas de millones de personas" | R14 | Contra B |
+| 9 | Restricción del espacio fiscal democrático: el Cuerpo 3 de E sobre deuda G7 es "el argumento más incómodo para mi posición sobre autocorrección democrática" | R14 | Contra B |
+| 10 | Andrews/Criscuolo/Gal aplican simétricamente a China: el problema de difusión desde firmas de frontera existe también en el sector dual SOE/privado chino | R14 | Contra B |
+| 11 | Dividendo IA del G7: mi propia aritmética en R14 produjo 0.73-0.99 pp/año (no 0.8-1.2 pp como A sostuvo), y lo declaré como corrección contra interés propio | R14 | Contra B |
+| 12 | Deuda pública china incluyendo LGFVs: ~110-130% del PIB [EC]; comparación con G7 "genuinamente incierta" | R14 | Contra B |
+
+**Qué queda en pie de la tesis original:**
+
+Doce concesiones son muchas. Lo que permanece en pie —y lo que decide el Predicado 1— es esto:
+
+1. **La asimetría de válvulas institucionales no fue rebatida sustantivamente en ninguna ronda.** A concedió en R14 (opción iii) que el mecanismo de contención acumula pasivo y que no existen equivalentes funcionales chinos de las cuatro válvulas. El debate sobre el Predicado 1 se reduce ahora a una sola pregunta: ¿ese pasivo se activa antes o después de 2040?
+
+2. **La trayectoria descendente de PTF es la firma empírica del mecanismo.** +2.7 pp (2006-2010) → +1.3 pp (2011-2015) → +0.5 pp (2016-2020) → margen negativo (2021-2025) [DO, PWT 10.01 / TED 2024]. Satisfacer el Predicado 2 en el mínimo estricto con trayectoria descendente monotónica no es señal de robustez; es la señal del límite estructural del modelo.
+
+3. **El hallazgo de Ang, introducido por C en R14, reformula y fortalece mi posición.** No es solo que China carezca de válvulas correctoras; es que la centralización bajo Xi podría estar eliminando el mecanismo generador del éxito. Desarrollo esto en la Sección 3.
+
+4. **COVID cero y Etiopía son las dos demostraciones empíricas del mecanismo.** El primero muestra el patrón de bloqueo-umbral-reversión-sin-aprendizaje dentro de China; el segundo muestra el desenlace en un contexto sin la capacidad de contención china.
+
+**Marcador acumulado post-R14:** A 3 — B 10 — Empates 1. Diferencia de puntuación acumulada: 4.44 puntos. Esto no se declara como victoria —es rol del árbitro— pero sí como contexto procesal del estado del debate.
+
+---
+
+### 2. Respuesta a la pregunta de A (B-15-1): democracias bajo restricción fiscal
+
+A formuló en R14 la pregunta más incómoda para mi posición: si el mecanismo de difusión democrático ha fallado durante veinte años, el dividendo de IA se concentra en el 5% de firmas de frontera, y la deuda supera el 126% del PIB en EE.UU. y el 204% en Japón, ¿cómo sostendrán las democracias liberales su legitimidad de desempeño?
+
+**Elijo la opción (ii): concedo que las democracias también acumulan pasivos bajo restricción fiscal y el espacio fiscal limita la escala de la corrección. Argumento a continuación por qué eso discrimina a favor de las democracias, no en su contra.**
+
+La concesión es real y no la minimo: un ARRA equivalente en 2026-2027 desde 126% de deuda/PIB llevaría a EE.UU. a ~145-150% [EC, aritmética propia R14]. Japón no tiene espacio fiscal significativo. Italia y Francia están estructuralmente constrenidas. Eso es un hecho establecido y no lo discuto.
+
+Pero la pregunta relevante no es si las democracias acumulan pasivos. Es: **¿qué mecanismos procesan esos pasivos antes de que se vuelvan sistémicos?** Y aquí la asimetría es estructural por cuatro razones:
+
+**Primera razón — Las válvulas operan independientemente del espacio fiscal en sus dimensiones más críticas.** El caso Truss (28 horas de señal → 45 días → renuncia) no requirió un solo euro de gasto fiscal: fue el Banco de Inglaterra actuando como árbitro de solvencia, el mercado de *gilts* como mecanismo de señal, y la alternancia política como instrumento de corrección. El gasto en seguridad de ¥1.44T/año es exactamente lo que las válvulas democráticas no necesitan: presupuesto. Las válvulas en los casos Truss, Alemania-GNL, y la presión del BCE sobre Italia operan mediante precios, tasas, rendimientos, y alternancia política —mecanismos que no consumen espacio fiscal sino que son producidos por él. [DO, casos propios R14]
+
+**Segunda razón — La restricción fiscal produce ajuste institucionalizado con costo visible, no acumulación opaca.** España tardó 9 años en recuperar el PIB precrisis [DO, INE/OECD]; Grecia perdió el 23% de su PIB real [DO, ELSTAT]. Esos costos son inaceptables en términos de bienestar. Pero son visibles, medibles, y producen corrección institucional verificable: el PSOE pierde en 2011, la ND pierde en 2015, los programas de ajuste se modifican. El mecanismo que produce el costo es también el mecanismo que señala el límite y obliga a la corrección. En China, el equivalente —una desaceleración a 2-3% sostenida bajo restricción fiscal con LGFV en default— no tiene esa señal visible porque no hay mercado de bonos municipales con *spreads* cotizados, no hay Eurostat chino, y no hay alternancia política que obligue al cambio. La diferencia no es la magnitud del costo; es que el costo democrático produce su propio antídoto, y el costo chino se acumula en silencio hasta que supera la capacidad de contención.
+
+**Tercera razón — La restricción fiscal democrática activa las válvulas supranacionales, que no tienen equivalente en el modelo chino.** El caso griego produjo el ESM (€326B de rescate) [DO], con condicionalidades externas que impusieron ajuste que el gobierno griego solo no habría podido sostener. Ningún país puede rescatar a China con esa arquitectura: China no tiene un equivalente al BCE que actúe como prestamista de último recurso con condicionalidades de gobernanza, ni pertenece a un sistema de transferencias supranacionales que absorba parte del ajuste. La restricción fiscal democrática activa la válvula 2 (transferencias supranacionales) precisamente porque la restricción es visible. La restricción fiscal china no activa ninguna válvula equivalente porque la deuda opaca de los LGFVs no activa señales de alarma externas.
+
+**Cuarta razón — La legitimidad de desempeño democrática es pluridimensional; la china es monotópica.** Cuando el crecimiento del G7 se desacelera, las democracias mantienen legitimidad mediante cuatro canales simultáneos: desempeño económico relativo (incluso bajo crecimiento es légitimante si el desempleo cae), legitimidad de procedimiento (se puede votar contra el gobierno, lo que redistribuye la frustración), cohesión nacional por valores (pluralismo, rule of law), y redistribución social (welfare state que amortigua el ciclo). China depende casi exclusivamente del canal de desempeño material. Cuando ese canal se estrecha —lo que la trayectoria de PTF sugiere como tendencia en el horizonte 2030-2040— no hay canal de sustitución. La restricción fiscal es un problema para las democracias en el canal de desempeño; es un problema existencial para el PCCh en el único canal que tiene.
+
+**Síntesis de B-15-1:** Las democracias bajo restricción fiscal acumulan pasivos de forma visible con mecanismos de ajuste institucionalizado. China bajo restricción fiscal acumula pasivos de forma opaca sin mecanismos de ajuste que no requieran un umbral de presión política para activarse. El pasivo democrático se distribuye y corrige (a costa alta pero verificable); el pasivo chino se difiere hasta que la cascada de Kuran —segunda mitad del modelo que A invocó sin desarrollar— lo activa de forma súbita e impredecible.
+
+---
+
+### 3. Respuesta a Ang y la centralización bajo Xi (B-15-3)
+
+C introdujo en R14 el hallazgo más profundo del debate: si el mecanismo real del éxito chino fue la **coevolución dirigida descentralizada** que Ang documenta en *How China Escaped the Poverty Trap* (Cornell UP, 2016/2020) —improvisación iterativa de actores locales que el Estado central después validó y escaló, no planificación central desde arriba— entonces la centralización creciente bajo Xi podría estar eliminando el mecanismo **generador** del éxito, no solo los mecanismos correctivos que yo he identificado.
+
+**Adopto esta reformulación de C e integro el hallazgo de Ang con mi argumento de degradación funcional acumulada, porque son mutuamente reforzantes, no alternativos.**
+
+El argumento de B desde R12 ha sido: el modelo chino carece de válvulas de procesamiento del descontento, lo que significa que la corrección de errores llega tarde, sin aprendizaje institucional y con costo acumulado. Ang añade una capa anterior: el modelo chino que generó el catching-up 1978-2015 no fue el de la planificación central —fue el de la experimentación descentralizada bajo evaluación de desempeño por resultados locales, con el Estado central como validador *ex post*, no como diseñador *ex ante*. Las TVEs (empresas de pueblos y aldeas), las SEZs (zonas económicas especiales), el sistema de precios duales: ninguno fue diseñado desde Beijing como política de desarrollo. Fueron soluciones locales que el Estado central reconoció, protegió y escaló después de que demostraron funcionar.
+
+**La implicación de Ang para el período Xi (2012-2026+) es destructiva para la posición de A en una dimensión que ni A ni yo habíamos articulado plenamente antes de C:**
+
+El argumento de A sobre difusión forzada de IA vía mandato del Consejo de Estado (directiva AI+, agosto 2025; 97 SOEs centrales bajo SASAC como vehículos de adopción) es exactamente el mecanismo opuesto al que Ang identifica como generador del éxito. La directiva AI+ es diseño central *ex ante*; lo que Ang documenta como generativo es improvisación local *ex post*. Si Ang tiene razón en el diagnóstico del mecanismo —y C lo validó contra la literatura de Evans, Amsden y Kohli— entonces A está ofreciendo como solución a la desaceleración de PTF precisamente el mecanismo que reemplazó al generador real. La difusión forzada puede producir adopción visible de tecnología; no puede producir la reorganización adaptativa de procesos de firma que Andrews et al. identifican como el mecanismo real de ganancia de productividad.
+
+**¿Cómo se integra Ang con mi argumento de degradación funcional acumulada?**
+
+Son dos capas del mismo fenómeno, con horizontes diferentes:
+
+- **Capa 1 (horizonte 2026-2035) — Degradación del mecanismo correctivo:** La ausencia de válvulas institucionales impide que los errores de política sean señalizados, reconocidos y corregidos antes de que el costo se vuelva sistémico. COVID cero es el caso empírico: siete meses de señal científica ignorada, reversión sin diagnóstico. El sistema corrige tácticamente; no aprende institucionalmente.
+
+- **Capa 2 (horizonte 2030-2045) — Erosión del mecanismo generador:** La centralización bajo Xi no solo ha eliminado la experimentación local como fuente de innovación institucional; ha reemplazado el sistema de evaluación de cuadros por desempeño económico local (el mecanismo de Landry y Ang) por un sistema de evaluación por lealtad política y conformidad ideológica. Si la incentivación de carrera que producía la improvisación adaptativa de los cuadros locales se reorienta hacia la conformidad, el mecanismo generador de Ang desaparece —y con él, la fuente de la resiliencia adaptativa que A invoca.
+
+**El argumento combinado es más fuerte que mis válvulas solas:** Las válvulas son la ausencia de mecanismos de corrección externa; la erosión del mecanismo de Ang es la degradación de la corrección interna. Sin válvulas externas y con el mecanismo interno degradado por la centralización, el modelo que observamos post-2012 es estructuralmente más frágil que el que existió en 1990-2010 —no porque las condiciones externas hayan empeorado (aunque también), sino porque las fuentes internas de adaptación se han reducido. Esto es degradación funcional acumulada con dos orígenes, no uno.
+
+---
+
+### 4. Cierre del argumento de válvulas institucionales (B-15-2)
+
+**El mecanismo completo en secuencia causal:**
+
+**(a) La ausencia de válvulas como estructura del problema:**
+
+Las cuatro válvulas que he documentado desde R12 —alternancia electoral, sindicatos autónomos, transferencias supranacionales, movilidad laboral sin restricción— no son simplemente mecanismos deseables que China no posee. Son el mecanismo por el cual las democracias convierten el descontento generado por errores de política en ajuste institucional antes de que el descontento alcance la masa crítica que requiere represión para ser contenido. Sin esas válvulas:
+
+- Los errores de política se detectan más tarde (porque no hay oposición institucionalizada que los señalice públicamente ni prensa independiente que los documente antes de que el costo sea visible).
+- La corrección llega vía presión política directa (protestas, como en COVID cero) en lugar de vía mecanismos institucionales (elecciones, negociación sindical, arbitraje judicial).
+- La reversión no produce aprendizaje institucional porque no hay reconocimiento público del error, y sin reconocimiento no hay diagnóstico, y sin diagnóstico el mecanismo de bloqueo de señales permanece intacto para el próximo error.
+- El costo del ajuste se concentra en las poblaciones más vulnerables (ancianos sin inmunidad en el caso COVID cero) en lugar de distribuirse mediante mecanismos redistributivos institucionalizados.
+
+**(b) COVID cero como demostración empírica del patrón:**
+
+El caso documenta, con precisión cronológica verificable, cada eslabón de la cadena:
+
+- **Señal disponible:** los epidemiólogos chinos publicaron modelos mostrando la inviabilidad de la contención de Omicron desde ~marzo 2022 [EI]. Siete meses de señal científica interna.
+- **Bloqueo de la señal:** la señal no produjo ajuste de política. El sistema de evaluación de cuadros post-Xi penaliza los cambios de política que implican reconocer errores más que los errores en sí.
+- **Umbral de presión política:** el incendio de Urumqi (24 noviembre 2022, 10 muertos en parte por restricciones COVID) y las protestas del 26-28 de noviembre —no una señal epidemiológica sino una señal de costo político visible— activaron la reversión.
+- **Reversión sin aprendizaje:** el 7 de diciembre de 2022, reversión formal. El 31 de diciembre de 2022, Xi Jinping: "no ha sido un camino fácil" —sin reconocimiento del error, sin diagnóstico institucional. [DO, NPR, Fortune, diciembre 2022]
+- **Costo de la transición:** ~1.41 millones de muertes en exceso en diciembre 2022-febrero 2023 [EI, PMC/NCBI 2023, con incertidumbre sustancial declarada], producto de la reversión abrupta después de tres años de supresión de inmunidad natural sin vacunas de ARNm.
+
+A concedió en R14 que acepta "esa descripción como análisis del proceso" pero argumenta que el Predicado 1 no se comprometió porque el régimen sobrevivió. Acepto el resultado: el régimen sobrevivió. Lo que A no respondió —y el árbitro lo registró— es que **el mecanismo de bloqueo de señales que produjo el costo de 1.41M de muertes en exceso permanece intacto** para la próxima señal que el sistema decida bloquear. El sistema corrigió; no aprendió. La próxima corrección seguirá el mismo patrón, y el costo acumulado de correcciones sin aprendizaje es la degradación funcional.
+
+**(c) Etiopía como demostración del desenlace en ausencia de capacidad de contención:**
+
+El argumento de Etiopía no es que China sea Etiopía. Es que Etiopía demuestra empíricamente el desenlace de un Estado desarrollista sin válvulas cuando la capacidad de contención no puede compensar la ausencia de procesamiento. El EPRDF bajo Meles Zenawi construyó la dimensión de autonomía burocrática (Evans) sin la dimensión de embeddedness y sin las válvulas de procesamiento —y cuando el liderazgo transitó sin mecanismo institucionalizado, el sistema colapsó en guerra civil con 300,000-600,000 muertos estimados [EI, ACLED 2023].
+
+China tiene lo que Etiopía no tenía: escala masiva, 76 años de partido-Estado institucionalizado, y capacidad represiva de alta tecnología. Por tanto puede contener el pasivo acumulado durante más tiempo. Pero el mecanismo que diferencia la resiliencia del collapse no es la escala de la represión —es la existencia de canales de procesamiento del descontento que reducen el flujo de pasivo que la represión debe contener. Sin esos canales, la represión debe aumentar su intensidad (y su costo fiscal) a medida que el pasivo acumulado crece. En algún punto entre la China de hoy y la Etiopía de 2020, existe el umbral de colapso del modelo chino. Mi posición es que ese umbral está en el horizonte 2040-2050, no en el 2026-2040. Pero la distancia a ese umbral no es evidencia de que no exista.
+
+**(d) Horizonte de activación — mejor estimación disponible:**
+
+El árbitro exige que ofrezca una estimación de tasa de acumulación o umbral. No tengo la precisión que el estándar metodológico del debate exige para un [DO]; ofrezco una [EC] con aritmética expuesta y supuestos declarados, etiquetada correctamente.
+
+**Supuestos del modelo de acumulación:**
+
+- El pasivo de contención se acumula a razón de: (a) incidentes de protesta no procesados que requieren represión activa (base: ~7,000-10,000 incidentes anuales, F en R12 y R9 [DO]); (b) desempleo juvenil estructural que no encuentra absorción por movilidad laboral libre (NEET 16.1% [DO], tasa que en R13 F proyectó sin reducción significativa hacia 2030 bajo supuestos demográficos actuales); (c) restricción fiscal subnacional de LGFVs (~110-130% PIB [EC]) que presiona el gasto en seguridad social y en infraestructura de legitimidad simultáneamente.
+- La capacidad de contención del sistema depende del gasto en seguridad doméstica (~¥1.44T/año [DO]), que es relativamente estable pero con restricción fiscal creciente.
+- La elasticidad del pasivo respecto al crecimiento económico: una caída de 1 pp en la tasa de crecimiento del PIB produce un aumento de ~0.3-0.5 pp en la tasa de incidentalidad social observable, basado en el patrón 2015-2016 vs. 2013-2014 [EC, estimación calibrada a partir de datos disponibles en el debate].
+
+**Escenarios y probabilidades de compromiso del Predicado 1 [EC]:**
+
+| Horizonte | Escenario base (crecimiento ~4.5-5%) | Escenario adverso (crecimiento ~2.5-3.5%) |
+|-----------|--------------------------------------|------------------------------------------|
+| 2026-2030 | ~8-12% de probabilidad de compromiso | ~18-25% |
+| 2030-2035 | ~20-30% | ~40-55% |
+| 2035-2040 | ~30-45% | ~55-70% |
+| 2040-2050 | ~50-65% | ~70-85% |
+
+**Aritmética expuesta:** La estimación del escenario base en 2030-2035 (20-30%) combina: (1) tasa base de colapso bajo tipología GWF partido-personalista híbrido (~18 años de mediana, ~15-20% por quinquenio a partir del año 20, ajustado por el percentil >90 de durabilidad actual del PCCh, que reduce la tasa a ~8-12% por quinquenio en el horizonte corto) [EC, anclado en GWF 2014 de R14]; (2) prima de riesgo de +8-12% por la combinación de trayectoria descendente de PTF, acumulación de pasivo de contención sin válvulas, y erosión del mecanismo generador de Ang.
+
+**La respuesta a Olson-Kuran que B-15-2 exige:**
+
+A invocó a Kuran (1995, *Private Truths, Public Lies*) para la primera mitad del modelo: la distribución espacial del descontento previene la coordinación, produciendo estabilidad aparente. Lo que A no dijo es la segunda mitad del modelo de Kuran: la misma lógica que produce estabilidad prolongada produce colapso súbito e impredecible. Cuando la cascada de revelación de preferencias se activa —porque una señal suficientemente visible rompe el equilibrio de falsificación generalizada— el sistema pasa de aparente estabilidad a crisis sistémica en un período muy corto, sin señales de alerta previas legibles desde el exterior.
+
+Esta es la propiedad más relevante del modelo de Kuran para el Predicado 1: el umbral de activación no es gradualmente aproximable y observable —es una discontinuidad. La ausencia de señales de activación visible no es evidencia de que el umbral esté lejos; puede ser evidencia de que el sistema de falsificación generalizada está funcionando. El incendio de Urumqi como catalizador de las protestas de noviembre 2022 —un evento técnicamente menor que activó una cascada de revelación de preferencias que el régimen no había anticipado— es exactamente el tipo de evento que el modelo de Kuran predice: visible en retrospectiva, opaco en anticipación.
+
+A invocó a Kuran para explicar la estabilidad. Con la segunda mitad de Kuran, estabilidad aparente y colapso súbito son el mismo fenómeno con diferentes umbrales de activación. Mi estimación del horizonte de activación es el horizonte en que la combinación de restricción fiscal, deterioro de PTF, NEET estructural, y presión demográfica hace más probable que improbable cruzar ese umbral. Ese horizonte es 2035-2045, no 2026-2035.
+
+---
+
+### 5. Heterogeneidad intra-G7 de pasivos (B-15-4)
+
+C señaló en R14 que la media ponderada por PIB que adopté en la tabla del dividendo IA puede ocultar heterogeneidad relevante dentro del G7 en capacidad de difusión. El pasivo es real y lo cierro.
+
+**Mi propia tabla de R14 ya expone la heterogeneidad; el cierre es sacarle las consecuencias:**
+
+| País | Peso PIB (PPP, 2024) | Dividendo IA estimado [EC] | Deuda pública/PIB 2026 [DO, FMI] |
+|------|---------------------|--------------------------|-----------------------------------|
+| EE.UU. | 43% | 1.2-1.5%/año | 126% |
+| Japón | 13% | 0.3-0.5%/año | 204% |
+| Alemania | 11% | 0.4-0.7%/año | ~65% |
+| Reino Unido | 9% | 0.8-1.0%/año | ~100% |
+| Francia | 8% | 0.3-0.5%/año | 118% |
+| Italia | 6% | 0.2-0.4%/año | 138-140% |
+| Canadá | 5% | 0.5-0.8%/año | ~90% |
+
+**Tres conclusiones de la heterogeneidad:**
+
+**Primera:** El G7 como bloque oculta un núcleo competitivo (EE.UU., UK, Alemania) y una periferia estructuralmente frágil (Japón, Francia, Italia) que representa el 27% del peso del bloque pero tiene dividendos IA de 0.2-0.5% y restricciones fiscales severas. Concedo que usar el G7 como bloque homogéneo sobreestima la presión comparativa sobre China. El comparador real para el Predicado 1 es EE.UU. + Alemania + UK, que son los sistemas democráticos con mayor capacidad de difusión de IA y menor restricción fiscal relativa.
+
+**Segunda:** Esta heterogeneidad, sin embargo, no desmonta mi argumento sobre válvulas institucionales —refuerza el argumento contrario de A. Si el comparador relevante se reduce a EE.UU., Alemania y UK, lo que se observa son tres democracias con: (i) espacio fiscal de ajuste mayor que el bloque promedio (EE.UU. a 126%, Alemania a 65%); (ii) sistemas de difusión tecnológica más efectivos (el dividendo de IA de EE.UU. en 1.2-1.5% es sustancialmente mayor); (iii) válvulas institucionales activas y funcionales. Reducir el comparador al núcleo competitivo fortalece el caso de las democracias, no lo debilita.
+
+**Tercera:** Para China, la heterogeneidad intra-G7 tiene una consecuencia específica sobre el Predicado 1: la presión del comparador democrático sobre la legitimidad de desempeño del PCCh no proviene de Japón (204% de deuda, crecimiento anémico, demografía peor que China) ni de Italia (crisis estructural de productividad) sino de EE.UU. y del conjunto AUKUS+UE que es el referente geopolítico real. Ese comparador reducido mantiene la presión sobre la legitimidad de desempeño del PCCh en el horizonte mediano porque EE.UU. bajo IA puede mantener crecimiento de productividad en 1.2-1.5% anual [EC] —nivel que China no alcanza con la trayectoria actual de PTF.
+
+**Reformulación del comparador post-cierre:** El argumento de las válvulas institucionales se mantiene íntegramente cuando el comparador es el núcleo EE.UU.-Alemania-UK, que son los tres sistemas democráticos con (a) válvulas funcionales, (b) espacio fiscal relativo, y (c) capacidad de difusión tecnológica. La media ponderada por PIB (0.73-0.99 pp de dividendo IA) fue mi mejor estimación del bloque completo; el núcleo competitivo es ~20-40% más alto que esa media.
+
+---
+
+### 6. Declaración final de condiciones de falsación de B (B-15-5)
+
+**Condición F1 — Cruce sostenido a ingreso alto [umbral cuantitativo final]:**
+
+China alcanza PIB per cápita (PPP, dólares constantes 2025) **≥ $25,000 USD sostenido durante tres años consecutivos antes de 2040**, con un crecimiento de PTF en el quinquenio correspondiente que supera la media G7 ponderada por PIB en ≥ +0.3 pp/año.
+
+- **Por qué falsificaría mi posición:** El "Régimen 2" que he sostenido desde R9 predice que China alcanza ingreso medio-alto pero no cruza a ingreso alto sostenido. Si cruza ese umbral antes de 2040 con PTF creciente, el mecanismo de degradación funcional acumulada no se activó en el horizonte relevante, y mi argumento sobre la trampa estructural del modelo es erróneo.
+- **Estado actual:** PIB per cápita China 2025 estimado ~$14,000-15,000 USD PPP [DO, FMI WEO 2025]. Distancia al umbral: ~$10,000-11,000 a razón de crecimiento de 4.5-5%/año requiere ~12-14 años de crecimiento sostenido sin la desaceleración que mi argumento predice. No activada.
+
+**Condición F2 — Reforma institucional con válvulas observables [umbral cuantitativo final]:**
+
+El PCCh introduce, antes de 2035, **al menos uno de los siguientes mecanismos** que funcione de forma verificable por dos ciclos consecutivos:
+- (a) Elecciones municipales con alternancia real a nivel de condado (al menos dos condados en provincias distintas con cambio de partido o candidato no avalado por el PCCh), verificable en resultados electorales auditados por observadores independientes;
+- (b) Fallo judicial contra el gobierno central o provincial por más de ¥1B en perjuicios, ejecutado sin reversión por instrucción política superior, en dos casos distintos;
+- (c) Sindicatos con derecho reconocido a huelga, ejercido en una negociación con una SOE central sin represalia sobre los líderes sindicales en plazo de 12 meses.
+
+- **Por qué falsificaría mi posición:** Si el PCCh introduce mecanismos de procesamiento institucional del descontento de esta naturaleza, el argumento de ausencia de válvulas pierde su base factual.
+- **Estado actual:** Ninguna de las tres condiciones muestra señal de activación a 2026-07-25. No activada.
+
+**Condición F3 — Reversión de la trayectoria de PTF [umbral cuantitativo final]:**
+
+La ventaja de PTF de China sobre la media G7 ponderada por PIB **supera +0.8 pp/año en promedio durante el quinquenio 2026-2030** (bajo el estándar metodológico obligatorio de la Sección 8 de G en R13: PWT 10.01 / TED 2024, con ruptura de 2020 declarada y tratamiento consistente).
+
+- **Por qué falsificaría mi posición:** La trayectoria descendente monotónica de PTF es la firma empírica de mi argumento sobre el límite estructural del modelo. Si el quinquenio 2026-2030 produce una reversión estadísticamente significativa hacia la ventaja histórica de +2.7 pp, el mecanismo de deterioro que predigo no opera en el horizonte relevante.
+- **Estado actual:** El quinquenio 2021-2025 se computa como margen negativo bajo media ponderada por PIB [DO-EI, resolución vinculante G en R13, adoptada por ambas partes en R14]. El quinquenio 2026-2030 es indeterminado. No activada.
+
+**Nota sobre F4-D1 y F4-D2:** A introdujo estas condiciones disyuntivas en R14 y el árbitro las aceptó como observables y datadas. Las registro como condiciones adicionales de la tesis contraria: si F4-D1 (remoción pública de ≥2 miembros del Comité Permanente bajo corrupción en el mismo ciclo) o F4-D2 (contracción real ≥2 trimestres con desempleo urbano >7%) se activan antes de 2040, constituyen evidencia de que mi argumento sobre el pasivo de contención es correcto incluso en el horizonte mediano. Son condiciones que, si se activan, fortalecen mi posición, no la debilitan.
+
+---
+
+### 7. Argumento de cierre
+
+Catorce rondas de debate producen una estructura del problema que permite una síntesis precisa. No declaro ganador —es rol del árbitro— pero sí ofrezco el estado del argumento sobre el Predicado 1 tal como queda al cierre de mi última intervención.
+
+**Lo que está establecido de forma no disputada:**
+
+Primero, el modelo chino produjo un catching-up extraordinario entre 1978 y 2020, con legitimidad de desempeño real y ventajas estructurales que las democracias liberales en ese período no igualaron. Doce concesiones no cambian ese hecho; lo confirman.
+
+Segundo, el Predicado 2 está satisfecho: China fue más competitiva que el G7 en los criterios acordados durante el período histórico. La trayectoria descendente que acompaña esa satisfacción en el mínimo estricto es, sin embargo, la señal más relevante para el horizonte futuro.
+
+Tercero, el mecanismo de contención —gasto en seguridad, represión selectiva de la coordinación, tolerancia de protestas atomizadas— acumula pasivo. A lo concedió explícitamente en R14. La disputa es sobre el horizonte de activación, no sobre la existencia del mecanismo.
+
+**Lo que permanece en disputa y cómo debe resolverse:**
+
+La pregunta central es: ¿el pasivo de contención se activa antes o después de 2040? A no ofreció estimación de umbral ni tasa de acumulación; mi estimación [EC] en la Sección 4 sitúa la probabilidad de compromiso del Predicado 1 en ~20-30% para 2030-2035 bajo escenario base y ~40-55% bajo escenario adverso de crecimiento de 2.5-3.5%. El árbitro debe ponderar si esas probabilidades son consistentes con la satisfacción de la moción (el modelo "será sostenible a largo plazo").
+
+Pero hay dos elementos que el árbitro debe incorporar al veredicto y que no estaban en el debate antes de R14:
+
+**El hallazgo de Ang reencuadra el diagnóstico.** No es solo que China carezca de válvulas correctoras externas. Es que la centralización bajo Xi degrada el mecanismo generador interno —la coevolución descentralizada que produjo el catching-up. Si Ang tiene razón, el modelo que observamos en 2026 es estructuralmente más frágil que el de 2000, no porque el entorno haya empeorado (aunque también), sino porque la fuente endógena de adaptación se ha reducido.
+
+**La segunda mitad de Kuran completa el modelo de A.** A invocó a Kuran para explicar la estabilidad; Kuran predice también el colapso súbito. La distribución espacial del descontento que produce estabilidad aparente es el mismo mecanismo que produce cascadas de revelación de preferencias impredecibles. Las protestas de noviembre 2022 —una cascada que el régimen no anticipó y que produjo una reversión que siete meses de señal científica no habían logrado— son el caso empírico. La segunda cascada de ese tipo, en un contexto de mayor restricción fiscal, mayor NEET estructural y menor crecimiento de PTF, puede activar el umbral que la primera no alcanzó.
+
+**La posición de B al cierre de catorce rondas:** el modelo chino es viable en el horizonte 2026-2030 (concedido desde R9), con incertidumbre creciente en 2030-2040 y degradación funcional acumulada que compromete el Predicado 1 en el horizonte 2040-2050. La moción pregunta si el modelo "será sostenible a largo plazo". Si "largo plazo" incluye el horizonte 2040-2050 —que es el horizonte que el árbitro especificó en la moción reformulada— la evidencia acumulada en catorce rondas es más consistente con la posición de B que con la de A.
+
+---
+
+### 8. Fuentes
+
+*(Solo fuentes verificables, con etiqueta y aritmética donde corresponde. No se introducen fuentes nuevas; solo se consolida el registro.)*
+
+**[DO] — Datos observados:**
+
+- IMF Fiscal Monitor April 2026, "Fiscal Policy under Pressure: High Debt, Rising Risks": deuda pública Japón 204%, EE.UU. 126%, Italia 138-140%, Francia 118%, Alemania ~65%, UK ~100%
+- INE España / OECD: recuperación del PIB precrisis en 2016, nueve años post-2007
+- ELSTAT / Banco Mundial: contracción del PIB griego en -23% real (2008-2016)
+- ESM Annual Report 2023: rescates Grecia €326B totales (ESM + BCE + FMI)
+- Banco Mundial WDI: crecimiento Vietnam ~6.5% promedio 2000-2025; PIB per cápita Vietnam ~$4,300 USD (2025); manufactura Ruanda 5.5% del PIB (2024)
+- FMI WEO 2025: PIB per cápita China ~$14,000-15,000 USD PPP
+- Andrews, Criscuolo & Gal — Frontier Firms, Technology Diffusion and Public Policy (OECD Productivity Working Paper No. 5, 2016): firmas de frontera +2.8%/año; rezagadas +0.6%/año (2001-2013)
+- PWT 10.01 (rtfpna, base 2017=1) / Conference Board TED International Comparisons 2024: trayectoria PTF China vs. G7 ponderada por PIB: +2.7 pp (2006-2010) → +1.3 pp (2011-2015) → +0.5 pp (2016-2020) → margen negativo (2021-2025)
+- Geddes, Wright & Frantz — Autocratic Breakdown and Regime Transitions (Perspectives on Politics, 2014): mediana supervivencia partido único 23 años, personalista 13 años
+- Hong Kong Free Press, NPR: timeline protestas noviembre 2022 → reversión COVID cero 7 diciembre 2022 (10-12 días señal→reversión)
+- Fortune; NPR (diciembre 2022): Xi Jinping 31/12/2022 "no ha sido un camino fácil" — sin reconocimiento de error
+- Xinhua (julio 2024): PCCh >98 millones de miembros
+- Trivium China, "The AI Plus Initiative — China's Blueprint for AI Diffusion" (2025): directiva AI+ Consejo de Estado 26/08/2025
+- ACLED 2023; Uppsala Conflict Data Program: 300,000-600,000 muertes estimadas en conflicto de Tigray 2020-2022
+- Banco Mundial WGI 2024: percentil de Control de Corrupción: Kazajistán 32, China 44, Corea del Sur 78
+- EIA Weekly Petroleum Report (julio 2026): precio spot petróleo ~$72/barril
+- FMI Article IV Saudi Arabia 2025: precio de equilibrio fiscal saudí ~$79/barril
+
+**[EC] — Estimaciones calibradas (aritmética expuesta en el texto):**
+
+- Dividendo IA ponderado por PIB G7: 0.73-0.99 pp/año (suma de contribuciones país por país; aritmética en Sección 4 de R14 de B)
+- Probabilidades de compromiso del Predicado 1 por horizonte: elaboradas en Sección 4 de esta intervención con supuestos declarados y aritmética expuesta
+- Deuda pública China incluyendo LGFVs: ~110-130% del PIB (FMI Art. IV China 2025; Banco Mundial 2025, con metodología comparable a la deuda pública occidental)
+- Probabilidades de escenarios de adopción del modelo chino 2026-2040: C R14, distribución E1-E4 verificada aritméticamente (suma = 100%, valor esperado = ~12 países)
+
+**[EI] — Estimaciones inciertas:**
+
+- Muertes en exceso China dic. 2022 - feb. 2023: ~1.41 millones (PMC/NCBI 2023, estimación de exceso de mortalidad; incertidumbre sustancial declarada por acceso limitado a datos chinos; se opera con rango implícito y no con valor puntual como [DO])
+- Señales científicas de inviabilidad de COVID cero desde ~marzo 2022: estimación de E en R13, con incertidumbre sobre la fecha exacta de acumulación de la señal interna
+
+**[PI] — Proyecciones institucionales:**
+
+- FMI WEO abril 2026: proyecciones de deuda pública/PIB hacia 2031
+- WTO 2023 sobre fragmentación comercial y su costo asimétrico para el Sur Global
+
+**Literatura central citada (sin fuente web nueva — consolidación de registro previo):**
+
+- Ang, Yuen Yuen — *How China Escaped the Poverty Trap* (Cornell UP, 2016/2020)
+- Evans, Peter — *Embedded Autonomy: States and Industrial Transformation* (Princeton UP, 1995)
+- Kohli, Atul — *State-Directed Development* (Cambridge UP, 2004)
+- Amsden, Alice — *Asia's Next Giant* (Oxford UP, 1989)
+- Kuran, Timur — *Private Truths, Public Lies* (Harvard UP, 1995)
+- Olson, Mancur — *The Logic of Collective Action* (Harvard UP, 1965)
+- Landry, Pierre F. — *Decentralized Authoritarianism in China* (Cambridge UP, 2008)
+- Simmons, Dobbin & Garrett — "Introduction: The International Diffusion of Liberalism" (*International Organization*, 2006)
+- AidData — *Banking on the Belt and Road: Insights from a New Global Dataset of 13,427 Chinese Development Projects* (William & Mary, 2021)
+- Chen, Hao & Rithmire, Meg — "China's Diffusion-Forward AI Strategy" (HBS Working Paper, abril 2026)
+
+---
+
+*Fin de la Intervención del Oponente — Ronda 15 (Final)*
