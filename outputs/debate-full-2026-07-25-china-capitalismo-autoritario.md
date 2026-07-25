@@ -5550,3 +5550,197 @@ El reto de G para D sobre chips para robots de tercera generación tiene una dim
 - [Hausmann-Hidalgo: The Atlas of Economic Complexity (OEC)](https://oec.world/pdf/AtlasOfEconomicComplexity_Part_I.pdf)
 - [ILO: Export sophistication, growth and the middle-income trap](https://www.ilo.org/media/447381/download)
 
+
+---
+
+## Intervención del Especialista D (Tecnología/IA) — Ronda 10
+
+**Rol:** Especialista técnico neutral — Tecnología & Economía Digital
+**Fecha:** 25 julio 2026 | Ronda 10/15 | Moción: Capitalismo autoritario chino — sostenibilidad a largo plazo
+
+*Etiquetas de evidencia: [DO] Dato observado con fuente · [PI] Proyección institucional · [EC] Estimación calibrada con aritmética · [EI] Estimación incierta*
+
+---
+
+Esta intervención responde directamente a los retos técnicos del Árbitro G (R9) y los argumentos de A y B en R10. Analizo dos dominios técnicos sin defensa a priori de ninguna posición: (1) la suficiencia de los nodos semiconductores de China para robots de tercera generación con IA adaptativa, y (2) la arquitectura real de CIPS respecto a su dependencia de mensajería SWIFT. Todos los datos están etiquetados con su nivel de certeza.
+
+---
+
+### Sección 1 — Chips para robots de tercera generación: análisis de suficiencia de nodos
+
+#### El estándar de referencia: ¿qué nodo requiere un robot gen-3?
+
+Para establecer el umbral técnico de forma verificable, parto del único producto comercialmente disponible de referencia para el ecosistema de robots de tercera generación: el **NVIDIA Jetson AGX Thor**, disponible desde agosto de 2025. [DO]
+
+| Parámetro | Valor |
+|---|---|
+| Proceso de fabricación | TSMC 4NP (nodo personalizado clase 5nm, EUV obligatorio) |
+| Rendimiento IA | 2,070 TOPS FP4 a 130W (Blackwell GPU) |
+| Memoria integrada | 128 GB |
+| Mejora vs. gen-2 (Orin) | 7.5× compute; 3.5× eficiencia energética |
+
+El Orin (gen-2 de referencia), fabricado en Samsung 8nm, entrega ~100 TOPS a 25W. [DO] La transición gen-2→gen-3 no es solo incremental: implica un cambio cualitativo de inferencia simple a IA generativa/adaptativa en tiempo real, lo que requiere más de 10× el compute. Esto sitúa el umbral real del controlador principal en el rango **4–5nm**.
+
+**Hallazgo clave — Nodo requerido:** Un robot de tercera generación con IA adaptativa (aprendizaje en tiempo real, modelos de lenguaje embebidos, visión multimodal) requiere un SoC principal en el rango 4–5nm para los controladores de alto rendimiento. Los MCUs periféricos (control de motores, sensores) siguen siendo 14–45nm y SMIC puede suministrarlos. La restricción es el cerebro AI, no los actuadores.
+
+#### ¿Qué puede fabricar SMIC hoy?
+
+**2020–2022:** SMIC en 14nm (FinFET estable). Rendimiento ~70–80%. Precio competitivo con GlobalFoundries. [DO]
+
+**2023–2026 (actual):** SMIC 7nm DUV multi-patterning operativo. 34 pasos litográficos vs. 9 en EUV. Yield estimado 20–40% (B confirmó; TrendForce y múltiples analistas concuerdan). Prima de precio +40–50% vs. TSMC. Capacidad ~50,000 wpm, con planes de doblar en 2026. [DO][EC]
+
+**2026–2028 (proyectado):** Reportes de ensayos SMIC en proceso 5nm DUV (no confirmado en volumen). Sin acceso EUV, técnicamente posible pero con yield aún inferior y costo mayor. [EI]
+
+**2028–2032:** Resultado depende de: (a) si China desarrolla litografía EUV doméstica; (b) si arquitecturas alternativas (chiplet, 3D stacking) compensan las limitaciones de nodo. Altamente incierto. [EI]
+
+#### Veredicto de suficiencia por horizonte temporal
+
+**Horizonte 2026–2030:** SMIC 7nm DUV es **insuficiente** para el controlador principal de un robot gen-3 clase Jetson Thor. La brecha de nodo (7nm DUV vs. 4NP EUV) implica ~3–5× menor densidad de transistores y >3× menor eficiencia energética por TOPS. Un robot gen-3 con SoC SMIC 7nm podría ejecutar modelos de inferencia simple (gen-2 equivalente), pero no IA generativa adaptativa en tiempo real.
+
+**Matiz crítico — Arquitectura híbrida:** China puede paliar parcialmente la brecha mediante chiplets: un SoC 7nm SMIC para control y comunicaciones, combinado con aceleradores especializados en 7nm apilados (como el enfoque de Huawei con el Kirin 9000s). Esto no elimina la brecha de rendimiento, pero puede acercar la eficiencia funcional al 60–70% del estándar internacional para aplicaciones de manufactura estructurada. [EC]
+
+Conclusión parcial: para 2026–2030, los robots chinos de tercera generación operarán con controladores que representan la generación anterior (gen-2.5) de capacidad IA. Para 2030–2035, el resultado depende de si China logra producir un nodo 5nm funcional en volumen, lo que a su vez depende del desarrollo de litografía EUV o de innovaciones en multi-patterning que son fundamentalmente inciertas.
+
+---
+
+### Sección 2 — HBM y robótica avanzada: ¿es la restricción real?
+
+#### ¿Qué es HBM y por qué importa en robótica adaptativa?
+
+La memoria HBM (High Bandwidth Memory) apila múltiples dies DRAM verticalmente, conectados mediante Through-Silicon Vias (TSV), sobre el SoC principal mediante un interposer. El ancho de banda resultante es de **3–5 TB/s** por paquete, versus ~100 GB/s del LPDDR5 convencional. [DO]
+
+En robótica adaptativa, HBM es relevante porque: (1) los modelos de visión multimodal requieren mover grandes tensores a alta velocidad entre memoria y compute; (2) el aprendizaje en tiempo real implica actualizaciones de parámetros que saturan el ancho de banda convencional; (3) la fusión de datos sensor en tiempo real (lidar, cámara, fuerza/par) crea latencias de memoria intolerables con LPDDR. Sin HBM o equivalente, un robot gen-3 puede ejecutar modelos preentrenados pequeños, pero no adaptación dinámica de parámetros.
+
+#### La pregunta de B: ¿SMIC produce HBM? No.
+
+B tiene razón en la premisa: **SMIC no produce HBM**. HBM es un producto DRAM, no un chip lógico. Los fabricantes de HBM son SK Hynix, Samsung y Micron, todos bajo restricción de exportación a China. [DO] Pero la pregunta más precisa es: ¿puede China producir HBM doméstico? Aquí la respuesta es matizada.
+
+#### El estado real de CXMT en HBM
+
+| Parámetro | Valor | Certeza |
+|---|---|---|
+| Objetivo CXMT | HBM3 masa producción | Target fin 2026 [PI] |
+| Capacidad proyectada fin 2026 | ~10,000 wpm | Morgan Stanley [PI] |
+| Capacidad proyectada fin 2028 | ~40,000 wpm | Proyección, alta incertidumbre [EI] |
+| Estado actual (mid-2026) | Sampling/validación | Q1–Q2 2026 [DO] |
+
+**Hallazgo crítico — HBM no depende de EUV en la misma medida que la lógica:** Esta es la distinción técnica central que resuelve el reto de B: **HBM no requiere EUV para sus nodos de proceso**. Los dies DRAM en HBM usan nodos de 10–16nm (típicamente una o dos generaciones por detrás del DRAM de última generación), que están dentro del rango DUV. La complejidad técnica de HBM está en el **TSV/bonding**, no en el nodo litográfico. CXMT está desarrollando HBM3 con DUV multi-patterning + TSV de alta precisión, con soporte de equipo doméstico (Naura para etching/deposición, Maxwell para hybrid bonding). [DO]
+
+#### ¿Puede China desarrollar HBM sin EUV? Evaluación técnica.
+
+La respuesta corta es **sí, técnicamente**, aunque con restricciones importantes:
+
+- **El nodo DRAM para HBM3:** ~12–16nm, factible con DUV para CXMT que ya opera a 17nm en DRAM convencional. [DO]
+- **El reto real:** TSV precisión (diámetro ~5µm, pitch ~8–10µm), bonding híbrido con tolerancias sub-micron, yield de stacking 8–12 dies. Este equipo es mayoritariamente doméstico, pero con precisión inferior al estado del arte coreano. [EI]
+- **Capacidad doméstica de herramientas:** Naura + Maxwell ofrecen alternativas, pero la curva de aprendizaje en yield de bonding puede tomar 18–36 meses adicionales. [EC]
+
+**Conclusión sobre HBM — Horizonte temporal:**
+
+- **2026:** CXMT en sampling/validación. HBM3 doméstico no disponible en volumen suficiente para ecosistema robótico.
+- **2027–2028:** Producción inicial posible a 10–15K wpm; calidad por debajo de HBM3 SK Hynix en latencia y ancho de banda.
+- **2029–2032:** Si la curva de yield mejora al ritmo esperado, China podría alcanzar el 40–60% del ancho de banda de HBM3 internacional con producción doméstica. No es una barrera insalvable, pero introduce un retraso de 3–5 años respecto a la frontera. [EC]
+
+En síntesis: B tiene razón al señalar que SMIC no produce HBM, pero erró al implicar que EUV es la barrera fundamental para HBM. La restricción real es el know-how de bonding y el yield de TSV, donde China está 2–4 años por detrás, no el nodo litográfico en sí. Esto hace la brecha HBM más superable que la brecha de nodo lógico (5nm), pero no trivial.
+
+---
+
+### Sección 3 — CIPS, ISO 20022 y la distinción formato/infraestructura
+
+#### ¿Es correcta la distinción de B? Sí, técnicamente.
+
+La distinción que B planteó es técnicamente correcta y merece ser anclada con precisión de protocolo:
+
+| | Naturaleza | Función |
+|---|---|---|
+| **ISO 20022** | Estándar de datos | Define formato, semántica y esquema de los mensajes. Comparable a XML como metalenguaje: es la estructura del mensaje, no su canal de transmisión. |
+| **SWIFT** | Red de transporte | Infraestructura de mensajería segura: autenticación, routing, entrega garantizada entre instituciones financieras. Opera por encima de ISO 20022 como capa de red. |
+
+**La analogía técnica precisa:** ISO 20022 es al mensaje financiero lo que HTML es al contenido web: define la estructura. SWIFT es la red de entrega, como un proveedor de CDN. Un banco puede enviar un mensaje ISO 20022 completamente bien formateado y aun así necesitar la red SWIFT para que llegue al destinatario. Adoptar ISO 20022 en CIPS no es lo mismo que independizarse de SWIFT. B tiene razón en este punto sin posibilidad de refutación técnica.
+
+#### ¿Qué hace la actualización de febrero 2026 de CIPS?
+
+La actualización de reglas de negocio de CIPS (primer update mayor en 8 años, efectiva febrero 2026) aborda primariamente **la arquitectura de liquidación y el alcance de divisas**, no la independencia de mensajería. [DO] Los cambios documentados:
+
+- Estructura de liquidación mixta formal: RTGS (real-time gross settlement) para pagos individuales transfronterizos, TNS (timed net settlement) para transacciones batch. [DO]
+- Extensión hacia plataforma multi-divisa: CIPS ya no es exclusivamente un riel de liquidación en RMB. [DO]
+- Tipos de negocio expandidos: de liquidación comercial hacia mercados financieros, gestión de liquidez, cash management. [DO]
+
+**Lo que la actualización NO hace:** La actualización de febrero 2026 no modifica la arquitectura de mensajería. CIPS sigue operando con dos canales: (a) participantes directos que usan el sistema de mensajería nativo de CIPS (CIPS-Direct), y (b) participantes indirectos que rutean sus mensajes vía SWIFT. Con >80% de transacciones dependientes de mensajería SWIFT [DO], la actualización no altera esta relación.
+
+#### ¿Cuándo podría CIPS operar >50% sin mensajería SWIFT?
+
+La matemática del umbral del 50% requiere estimar la tasa de conversión de participantes indirectos (SWIFT-dependientes) a directos (CIPS-native). Con 1,683 participantes totales en mayo 2025 [DO], creciendo al +10% interanual:
+
+**Aritmética EC — Ruta al 50% independencia:** Si ~80% de transacciones usan SWIFT (base 2024), y los participantes directos representan aproximadamente 20–25% del volumen, para alcanzar >50% sin SWIFT se requiere o bien duplicar la proporción de participantes directos por volumen, o crear infraestructura alternativa de mensajería (como mBridge o extensiones del sistema CIPS propio). A la tasa actual de crecimiento de participantes directos, la aritmética sugiere un horizonte **2030–2035** para superar el 50% sin SWIFT, pero solo si: (a) los participantes directos que se incorporen sean instituciones de alto volumen, y (b) los proyectos de mensajería alternativa (mBridge, BRICS Pay) escalen. Ambas condiciones son posibles pero no garantizadas. [EC]
+
+Un dato adicional que refuerza la complejidad: desde noviembre 2025, SWIFT exige ISO 20022 como estándar exclusivo para pagos transfronterizos. [DO] Esto significa que la red SWIFT está adoptando el mismo formato que CIPS, lo que en el corto plazo aumenta la interoperabilidad bilateral y *reduce el incentivo* para que los participantes indirectos migren a CIPS-Direct. La modernización de SWIFT puede paradójicamente retardar la independencia de mensajería de CIPS.
+
+---
+
+### Sección 4 — Tabla de evidencia
+
+| Dato | Valor | Certeza | Fuente / Método | Dominio |
+|---|---|---|---|---|
+| Proceso NVIDIA Jetson Thor (gen-3 referencia) | TSMC 4NP (~5nm EUV) | [DO] | NVIDIA Newsroom, agosto 2025 | Semiconductores |
+| Rendimiento Jetson Thor | 2,070 TOPS (FP4) | [DO] | NVIDIA Newsroom, agosto 2025 | Semiconductores |
+| Jetson Orin (gen-2 referencia) | ~100 TOPS, Samsung 8nm | [DO] | NVIDIA, AIMultiple | Semiconductores |
+| SMIC 7nm DUV — pasos litográficos | 34 vs. 9 (EUV) | [DO] | Tom's Hardware, TrendForce 2025 | Semiconductores |
+| SMIC 7nm DUV — yield estimado | 20–40% | [DO] | Múltiples analistas; confirmado por B en R10 | Semiconductores |
+| SMIC 7nm — prima de precio vs. TSMC | +40–50% | [DO] | TrendForce, SemiAnalysis | Semiconductores |
+| SMIC 7nm capacidad actual | ~50,000 wpm | [DO] | TrendForce, agosto 2025 | Semiconductores |
+| SMIC 7nm — plan duplicación capacidad | 2026 | [PI] | TrendForce, agosto 2025 | Semiconductores |
+| Nodo proceso HBM3 (dies DRAM internos) | 12–16nm (DUV-compatible) | [DO] | SemiAnalysis, TrendForce | Memoria |
+| CXMT — objetivo HBM3 masa producción | Fin 2026 | [PI] | Tom's Hardware, TechPowerUp, enero 2026 | Memoria |
+| CXMT — capacidad HBM proyectada, fin 2026 | ~10,000 wpm | [PI] | Morgan Stanley (vía Tom's Hardware) | Memoria |
+| CXMT — capacidad HBM proyectada, fin 2028 | ~40,000 wpm | [EI] | Morgan Stanley proyección (alta incertidumbre) | Memoria |
+| Retraso estimado China vs. frontera HBM | 3–5 años | [EC] | Aritmética sobre curvas de capacidad y yield | Memoria |
+| Dependencia SWIFT en CIPS | >80% transacciones | [DO] | CSIS 2023, confirmado por A en R10 | CIPS/Finanzas |
+| Volumen CIPS 2024 | ¥175.49tn (~$24.45tn) | [DO] | Datos A en R10 | CIPS/Finanzas |
+| Crecimiento CIPS 2024 | +43% vs. 2023 | [DO] | Datos A en R10 | CIPS/Finanzas |
+| Participantes CIPS, mayo 2025 | 1,683 (+10% YoY) | [DO] | Datos A en R10 | CIPS/Finanzas |
+| Update CIPS febrero 2026 — carácter | Reglas liquidación y multi-divisa | [DO] | Forbes/Kapron, feb 2026; Disruption Banking, abr 2026 | CIPS/Finanzas |
+| Horizonte CIPS >50% sin SWIFT | 2030–2035 | [EC] | Aritmética sobre tasa de participantes directos | CIPS/Finanzas |
+| ISO 20022 — adopción obligatoria en SWIFT cross-border | Nov 2025 (vigente) | [DO] | SWIFT.com, RedCompass Labs | CIPS/Finanzas |
+
+---
+
+### Sección 5 — Conclusión técnica: implicaciones para la moción
+
+El análisis técnico produce hallazgos diferenciados que no colapsan en "China puede" o "China no puede". Son asimétricos según el dominio y el horizonte temporal.
+
+**Evidencia que apoya la moción:**
+- SMIC 7nm es suficiente para MCUs periféricos y robots gen-2.5 de manufactura estructurada, que son el core del plan robótico chino 2025–2028.
+- China puede desarrollar HBM sin EUV — la barrera es bonding/yield, no litografía. CXMT tiene una ruta técnica plausible hacia 2027–2029.
+- CIPS crece en volumen y participantes a tasas sostenidas (+43% volumen, +10% participantes YoY), y la actualización feb. 2026 amplía su alcance operativo real.
+- Arquitecturas de chiplet pueden compensar parcialmente la brecha de nodo para cargas de trabajo específicas de manufactura.
+
+**Evidencia que desafía la moción:**
+- El controlador principal de robots gen-3 con IA adaptativa genuina requiere 4–5nm (TSMC 4NP), que China no puede producir en volumen hoy ni en horizonte 2026–2029 con certeza.
+- La brecha de rendimiento IA (100 TOPS Orin vs. 2,070 TOPS Thor) es >20× y no se puede cerrar con chiplets a nodo inferior.
+- CIPS sigue siendo operativamente dependiente de SWIFT en >80% de transacciones; la actualización feb. 2026 no cambia esta arquitectura de mensajería.
+- La convergencia de SWIFT hacia ISO 20022 reduce el incentivo diferenciador de CIPS y puede retardar la independencia de mensajería.
+- El horizonte para independencia real de mensajería SWIFT (>50%) es 2030–2035 en el escenario optimista.
+
+**Posición técnica global — Sin declarar ganador:**
+
+La evidencia técnica respalda más robustamente la posición de **B y los argumentos de limitación** en el horizonte 2026–2030, específicamente en la brecha de nodo para IA adaptativa y la dependencia de infraestructura SWIFT. Sin embargo, **A tiene razón** en que estas brechas no son necesariamente permanentes: el HBM es superable en el horizonte 2028–2030, y el modelo robótico chino para manufactura estructurada (no humanoides de frontera) no requiere Jetson Thor. La distinción relevante para la moción es si "competir exitosamente" requiere igualar la frontera tecnológica internacional o simplemente alcanzar suficiencia funcional para los mercados objetivo chinos. Los datos técnicos no resuelven esa pregunta de valor — pero sí muestran que la brecha existe, que es mayor de lo que sugiere A, y que es más superable de lo que sugiere B.
+
+---
+
+### Fuentes
+
+1. NVIDIA Newsroom — "NVIDIA Blackwell-Powered Jetson Thor Now Available", agosto 2025: https://nvidianews.nvidia.com/news/nvidia-blackwell-powered-jetson-thor-now-available-accelerating-the-age-of-general-robotics
+2. NVIDIA — Jetson Thor especificaciones técnicas: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-thor/
+3. TrendForce — "SMIC 1H25 Net Profit Rises 35.6%, 7nm Capacity Reportedly to Double in 2026", agosto 2025: https://www.trendforce.com/news/2025/08/29/news-smic-1h25-net-profit-rises-35-6-7nm-capacity-reportedly-to-double-in-2026/
+4. Tom's Hardware — "Chinese semiconductor industry gears up for domestic HBM3 production by the end of 2026": https://www.tomshardware.com/pc-components/dram/chinese-semiconductor-industry-gears-up-for-domestic-hbm3-production-by-the-end-of-2026-cxmt-to-produce-chips-while-naura-maxwell-and-u-preseason-design-tools-for-assembly
+5. TechPowerUp — "CXMT Reportedly Plans to Dedicate 20% of Mass Production Capacity to HBM3 Line in 2026": https://www.techpowerup.com/346207/cxmt-reportedly-plans-to-dedicate-20-of-mass-production-capacity-to-hbm3-line-in-2026
+6. SemiAnalysis — "China's CXMT Is Set to Challenge DRAM Incumbents": https://newsletter.semianalysis.com/p/chinas-cxmt-is-set-to-challenge-dram
+7. ChinaTalk — "Mapping China's HBM Advances": https://www.chinatalk.media/p/mapping-chinas-hbm-advancement
+8. CSIS — "Sanctions, SWIFT, and China's Cross-Border Interbank Payments System", 2023: https://www.csis.org/analysis/sanctions-swift-and-chinas-cross-border-interbank-payments-system
+9. Forbes/Kapron — "How Renminbi Internationalization Is Changing", febrero 2026: https://www.forbes.com/sites/zennonkapron/2026/02/22/how-renminbi-internationalization-is-changing/
+10. Disruption Banking — "China's SWIFT Challenger Breaks Records as the Collapse of the Petrodollar Looms", abril 2026: https://www.disruptionbanking.com/2026/04/14/chinas-swift-challenger-breaks-records-as-petrodollar-looms/
+11. SWIFT.com — ISO 20022 Messages: definición y arquitectura: https://www.swift.com/standards/iso-20022/iso-20022-faqs/iso-20022-messages
+12. RedCompass Labs — "What now? ISO 20022 deadlines in 2026 onward": https://www.redcompasslabs.com/insights/what-now-iso-20022-deadlines-in-2026-onwards/
+13. The Robot Report — "Closing the latency gap: Why physical AI requires edge-first architectures": https://www.therobotreport.com/closing-latency-gap-why-physical-ai-requires-edge-first-architectures/
+14. AIMultiple — "Top 15 Edge AI Chip Makers with Use Cases": https://aimultiple.com/edge-ai-chips
+
