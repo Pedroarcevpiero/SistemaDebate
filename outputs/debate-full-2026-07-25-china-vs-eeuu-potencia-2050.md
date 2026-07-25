@@ -1959,3 +1959,140 @@ El argumento de Xi como punto de fallo único es el más fuerte de B y merece re
 
 **Reto 2:** China controla aproximadamente el 60% de la capacidad de refinamiento de minerales críticos globales (litio, cobalto, tierras raras) según datos del USGS. Las cadenas de suministro de energía renovable —paneles solares, baterías, turbinas— están dominadas por China en fabricación. En un mundo donde la transición energética es el vector principal de crecimiento económico hasta 2050, ¿cómo argumenta B que EE.UU. puede mantener la primacía económica sin resolver su dependencia estructural en cadenas de suministro que China controla aguas arriba?
 
+
+## Análisis del Especialista F — Ronda 7 (Instituciones, gobernanza y autocorrección)
+
+Etiquetas: **[DO]** dato objetivo verificable · **[PI]** proyección/inferencia · **[EC]** evidencia contestada · **[EI]** evidencia insuficiente
+
+---
+
+### 1. Ejecución estatal: ¿cuán real es la ventaja china?
+
+**Velocidad: confirmada. Calidad-costo: parcialmente confirmada. Sostenibilidad financiera: en disputa.**
+
+- **[DO]** Red de alta velocidad china: ~45,000–48,000 km operativos (2024–25), la mayor del mundo por un factor >10. La cifra de A (38,000 km) corresponde aproximadamente a 2020 — **subestima** su propio caso. El contraste con EE.UU. (Acela ~735 km) es válido.
+- **[DO]** Despliegue 5G: China superó los 4 millones de estaciones base (MIIT, 2024–25). El orden de magnitud citado por A es correcto.
+- **[DO]** Construcción nuclear: China ha entregado reactores en ~5–7 años desde primer hormigón; Vogtle 3 y 4 (EE.UU.) tardaron ~10–11 años con sobrecoste de ~$17B.
+- **[EC] Contrapeso omitido por A:** la deuda de los vehículos de financiación de gobiernos locales (LGFV) se estima en el rango de 45–60% del PIB fuera de balance (FMI, estimaciones 2023–24). China State Railway Group acumula pasivos superiores a 6 billones de RMB. **La ejecución rápida no fue gratuita: fue financiada con una acumulación de pasivos cuya amortización recae precisamente sobre el período 2025–2050 del debate.**
+- **[DO]** El colapso de Evergrande/Country Garden y episodios de fallos de infraestructura local ("tofu-dreg") muestran que la ausencia de fricción procedimental también elimina filtros de control de calidad.
+
+**Veredicto parcial:** la ventaja de ejecución china es **real y bien documentada** en velocidad. A la sobrevende al no descontar el costo fiscal diferido. La ventaja de ejecución es un stock ya en gran parte cobrado, no un flujo garantizado hasta 2050. **[PI]**
+
+---
+
+### 2. Innovación disruptiva bajo autocracia
+
+**El argumento de A es el más débil de su intervención, por un error de escala y de fase tecnológica.**
+
+- **[DO] Error de fase:** Corea del Sur bajo Park, Taiwán bajo el KMT, Singapur y Japón bajo el PLD ejecutaron innovación de **catch-up** — adopción, ingeniería inversa, mejora incremental sobre paradigmas definidos externamente. Ninguno generó un paradigma tecnológico nuevo *durante* su fase autoritaria. Corea produce hoy innovación de frontera (Samsung, memoria HBM) **después** de democratizarse en 1987; el caso corta en contra de A tanto como a favor.
+- **[DO] Error de escala:** los cuatro casos son economías pequeñas o medianas operando *dentro* de un orden tecnológico provisto por EE.UU. China es la primera economía que intenta la transición catch-up → frontera siendo simultáneamente el rival sistémico del proveedor del orden.
+- **[EC] Evidencia a favor de A que existe y es seria:** China sí ha generado paradigmas en dominios concretos — UHV DC transmission, química y arquitectura de baterías LFP + celda-a-paquete (CATL/BYD), procesamiento y refino de tierras raras, y en 2024–25 eficiencia algorítmica de IA (arquitectura MoE de DeepSeek). Esto **falsifica la versión fuerte** de "las autocracias solo copian". A tenía a mano mejor evidencia que Park y Singapur y no la usó.
+
+**Veredicto parcial:** "la innovación disruptiva requiere pluralismo liberal" es **falsa como ley general** — A gana ese punto. Pero "un sistema de partido único puede sostener liderazgo simultáneo en múltiples paradigmas de frontera durante 25 años, bajo bloqueo tecnológico y con demografía adversa" es **[EI]**: sin precedente histórico en ninguna dirección.
+
+---
+
+### 3. Incoherencia estratégica americana: ¿defecto o resiliencia?
+
+- **[DO]** Los hechos que A cita son correctos: retirada del TPP (2017), salida-reingreso-salida del Acuerdo de París, cuestionamiento del Artículo 5. El daño reputacional es real.
+- **[DO]** Pero el registro histórico de horizonte largo favorece a las democracias en un aspecto: **evitar catástrofes de magnitud máxima**. Los regímenes autocráticos tienen mayor varianza de desempeño (Almond/Besley-Kudamatsu; Weeks). Las democracias raramente son las mejores ejecutoras, pero casi nunca producen un Gran Salto Adelante.
+- **[PI]** La distinción analítica clave: **volatilidad de política ≠ volatilidad institucional**. EE.UU. muestra alta varianza en política exterior y regulatoria, y baja varianza en instituciones portadoras de poder duradero (Fed, sistema universitario, mercados de capital, primacía del dólar). Esas instituciones sobrevivieron a 2017–2021 y 2025. China muestra baja volatilidad de política y alta varianza institucional *latente* (todo el sistema depende de la resolución no institucionalizada de la sucesión).
+
+---
+
+### 4. Autocorrección comparada: ¿son comparables Irak/2008 y Gran Salto/Revolución Cultural?
+
+**No lo son. La asimetría es la variable más informativa.**
+
+1. **Magnitud [DO]:** Gran Salto Adelante ≈ 30–45 millones de muertes por hambruna. Irak: ~4,500 muertes militares americanas. No es la misma clase de error.
+2. **Latencia [DO]:** la Revolución Cultural duró 10 años y terminó únicamente con la **muerte biológica** del líder (1976). Irak fue objeto de alternancia electoral en 2006–2008. La corrección democrática tiene un reloj **endógeno** (ciclo electoral); la autocrática dependió de un reloj **biológico**.
+3. **Estado actual del mecanismo [DO]:** la enmienda constitucional de 2018 eliminó el límite de dos mandatos. Esto revirtió el componente central del diseño anti-Mao de Deng. Los episodios posteriores — reversión abrupta de "cero COVID" en diciembre de 2022 sin transición, purgas en la Fuerza de Cohetes y el Ministerio de Defensa (2023–2025) — muestran corrección rápida pero sin procedimiento: operada por decisión discrecional del mismo actor que generó el error.
+
+**Nota de crédito a A:** su concesión sobre Xi como punto de fallo único es la concesión mejor calibrada del debate hasta ahora.
+
+---
+
+### 5. Puntuación IPNI provisional R7 — Instituciones, Gobernanza y Autocorrección (10%)
+
+| Subcomponente | Peso interno | China | EE.UU. | Nota |
+|---|---:|---:|---:|---|
+| Capacidad de ejecución / velocidad de implementación | 30% | 8.5 | 4.5 | Ventaja china grande y documentada; descuento por costo fiscal diferido |
+| Coherencia estratégica intertemporal | 25% | 8.0 | 4.0 | Ventaja china clara; volatilidad americana verificada |
+| Mecanismos de autocorrección institucionalizados | 30% | 3.5 | 7.5 | Reversión de 2018 es decisiva; corrección china discrecional no procedimental |
+| Resiliencia sistémica / robustez a cola izquierda | 15% | 4.0 | 7.5 | Varianza autocrática mayor; instituciones de EE.UU. sobrevivieron shocks recientes |
+
+**Puntaje ponderado provisional R7:**
+- **China: 6.28 / 10**
+- **EE.UU.: 5.68 / 10**
+
+Contribución al IPNI global (peso 10%): China 0.628 · EE.UU. 0.568. **Ventaja china de +0.06 puntos IPNI** — real pero marginal.
+
+**Condicionalidad crítica [PI]:** esta puntuación es la más inestable de todo el IPNI porque depende de la sucesión de Xi Jinping (nacido en 1953; la transición ocurre con certeza práctica dentro del horizonte del debate). Escenarios: sucesión ordenada → China ~7.0; sucesión disputada → China ~3.5. Ninguno de los dos debatientes puede resolver esta condicionalidad con evidencia disponible. Esta dimensión pesa 10% del IPNI pero tiene la varianza condicional más alta de las siete dimensiones.
+
+
+## Intervención del Oponente — Ronda 7
+
+### Respuesta directa al argumento anterior
+
+El Proponente A construyó una tesis elegante: la continuidad estratégica china es una ventaja estructural que la democracia americana no puede replicar. Pero esa tesis descansa sobre una confusión fundamental entre velocidad de ejecución y calidad de resultado. Llenar un territorio de reactores nucleares, kilómetros de vía férrea y antenas 5G en tiempo récord no es lo mismo que producir las instituciones capaces de generar la próxima revolución tecnológica global.
+
+Sobre los casos históricos de A: Corea del Sur bajo Park, Singapur bajo Lee Kuan Yew y Japón bajo el PLD son ejemplos de países que pasaron de pobres a ricos — casos de catch-up, no de frontier innovation. Una vez que esos países alcanzaron la frontera tecnológica, todos evolucionaron hacia mayor pluralismo: Corea democratizó en 1987, Japón siempre tuvo prensa libre y poder judicial independiente. El argumento de A prueba lo contrario de lo que pretende.
+
+---
+
+### Argumento central — Por qué las instituciones democráticas americanas son estructuralmente superiores para la primacía de largo plazo
+
+**Primero: el argumento de la velocidad de ejecución oculta sus propios costos.**
+
+A citó los 38,000 km de ferrocarril de alta velocidad chino como prueba de superioridad institucional. Pero el 23 de julio de 2011, dos trenes de alta velocidad colisionaron en Wenzhou, Zhejiang: 40 muertos, 177 heridos. [DO] La investigación posterior reveló que las autoridades chinas intentaron inicialmente enterrar los trenes accidentados para eliminar evidencia, y que el sistema de señalización tenía defectos de diseño conocidos que no habían sido reportados hacia arriba por temor a represalias. El Ministerio de Ferrocarriles fue disuelto en 2013 — una reforma que ocurrió porque el sistema suprimió el feedback negativo hasta que el error ya había costado vidas.
+
+En EE.UU., la NTSB opera con independencia del Ejecutivo y puede publicar hallazgos críticos sin filtro político. La corrección llega antes del accidente, no después.
+
+**Segundo: la "innovación disruptiva sin pluralismo" china es un mito documentado.**
+
+Las únicas empresas tecnológicas chinas que alcanzaron escala global — Alibaba y Tencent — fueron construidas en los años 2000-2015, durante el período de mayor apertura relativa de China. Cuando el PCCh decidió que habían acumulado demasiado poder, los destruyó metódicamente: [DO] entre 2020 y 2022, la regulación del partido borró **1.1 billones de dólares** de capitalización bursátil de las grandes tecnológicas chinas. Alibaba recibió una multa de 18,200 millones de yuanes en 2021. Jack Ma desapareció de la vida pública. El mensaje enviado al ecosistema emprendedor chino fue inequívoco: el éxito privado es provisional y depende de la gracia del partido.
+
+Ningún laboratorio que opere bajo esa amenaza estructural puede ser el origen de la próxima ruptura tecnológica.
+
+**Tercero: la incoherencia americana es un mecanismo de corrección, no una patología.**
+
+A tiene razón en que EE.UU. abandonó el TPP y el Acuerdo de París. Pero omite el siguiente paso: el Acuerdo de París fue reingresado en 2021. El TPP mutó en el CPTPP con 11 países que siguieron adelante. El IRA de 2022 desplegó 369,000 millones de dólares en manufactura verde. La "incoherencia" que A describe es la democracia procesando desacuerdos reales sobre política pública y produciendo correcciones.
+
+Contrástese con la autocracia: cuando Mao lanzó el Gran Salto Adelante, no había mecanismo institucional para detenerlo. El resultado fue entre 30 y 45 millones de muertos por hambre. La corrección llegó veinte años después, a cargo del mismo sistema que cometió el error.
+
+**Cuarto: la innovación de frontera en las tecnologías críticas de 2050 requiere flujo libre de información.**
+
+IA general, biología sintética, neurotecnología, computación cuántica — todos estos campos dependen de tres condiciones que China no cumple: publicación sin censura previa, colaboración internacional sin restricción de seguridad, y acumulación de datos sin control estatal total. ChatGPT, AlphaFold, CRISPR — todos emergieron de entornos donde los investigadores podían publicar sin censura previa. China puede replicar lo que ya existe. La pregunta para 2050 es quién genera lo que aún no existe.
+
+---
+
+### Evidencia usada
+
+- [DO] Accidente Wenzhou 2011: 40 muertos; investigación reveló supresión de defectos de diseño; Ministerio de Ferrocarriles disuelto en 2013. Fuente: BBC
+- [DO] Crackdown tecnológico chino 2020-2022: $1.1T de capitalización bursátil destruida; multa de 18,200M RMB a Alibaba. Fuente: Reuters / TIME
+- [DO] COVID-19 y supresión de información: CRS Report R46354 documenta que el 31 de diciembre de 2019, Wuhan detuvo a ocho personas por "difundir rumores". Li Wenliang obligado a firmar declaración reconociendo "perturbar el orden social". Inteligencia alemana estimó supresión de 4-6 semanas de información. Fuente: Library of Congress CRS
+
+---
+
+### Ataque al punto débil central
+
+COVID-19 es el experimento controlado que A no puede ignorar. El 30 de diciembre de 2019, los avisos internos de Wuhan ya circulaban. El 31 de diciembre, el gobierno municipal detuvo a ocho personas por "difundir rumores". Li Wenliang fue convocado por la policía y obligado a firmar una declaración. La inteligencia alemana BND estimó que China ocultó información durante cuatro a seis semanas críticas, durante las cuales el virus ya se diseminaba globalmente.
+
+Esto no es un accidente de ejecución — es la consecuencia directa y predecible de un sistema donde reportar malas noticias hacia arriba es peligroso para quien las reporta. La "eficiencia de ejecución" china tiene un costo oculto preciso: suprime el feedback negativo, y cuando ese feedback corresponde a un patógeno pandémico, el mundo entero paga el precio.
+
+El propio A concedió que la eliminación del límite de mandatos de Xi en 2018 "redujo la autocorrección genuinamente". Esa concesión significa que el sistema que A defiende como estructuralmente superior se ha vuelto menos capaz de corregirse en el momento exacto en que China tiene más poder.
+
+---
+
+### Concesión limitada
+
+A tiene razón en dos puntos específicos. Primero: la velocidad de despliegue de infraestructura física china es real y documentable. Segundo: la incoherencia estratégica americana entre administraciones tiene costos reales de credibilidad con aliados. Estos son puntos válidos que EE.UU. tiene que resolver. Sin embargo, ambos son problemas solucionables dentro del marco democrático — y ninguno toca la variable central: quién produce la innovación de frontera que define la primacía en 2050.
+
+---
+
+### Preguntas críticas para A — Ronda 8
+
+**Pregunta 1 — La trampa del líder singular:** A concedió que Xi Jinping es un punto de fallo único. Si China llega a 2035 con Xi todavía en el poder — o con un sucesor sin mecanismo de selección legitimado — y ocurre una crisis interna de primer orden (colapso inmobiliario acelerado, crisis en el Estrecho de Taiwán que no escala a guerra pero sí a sanciones globales), ¿qué mecanismo institucional específico tiene el PCCh para producir una corrección de política sin desestabilizar el propio régimen? No "el partido se ha corregido históricamente" — sino el mecanismo concreto, y por qué ese mecanismo no opera con la misma dinámica que suprimió las advertencias en Wuhan.
+
+**Pregunta 2 — El ecosistema de innovación de frontera:** Entre 2020 y 2026, ¿qué empresa tecnológica china fundada después de 2015 ha producido una ruptura de paradigma comparable a ChatGPT, AlphaFold o CRISPR-Cas9 — no una adaptación eficiente de tecnología existente, sino una ruptura genuina de frontera — y cómo explica A que eso haya ocurrido en el período de mayor represión del ecosistema privado chino?
+
