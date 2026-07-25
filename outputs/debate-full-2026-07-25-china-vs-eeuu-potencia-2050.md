@@ -1664,3 +1664,78 @@ El instrumento más poderoso no es financiero — es estratégico. Arabia Saudit
 
 **Pregunta 2:** El sistema universitario americano concentra **17 de las 20 mejores universidades del mundo** según los rankings QS y Shanghai 2024-2025, y EE.UU. atrae más del 20% de los estudiantes universitarios internacionales globales, incluyendo decenas de miles de los mejores estudiantes **chinos** que eligen estudiar en EE.UU. Si China está cerrando la brecha en capital humano de élite, ¿por qué los propios ciudadanos chinos más capaces continúan votando con los pies hacia el sistema educativo americano, y qué evidencia muestra que esta tendencia se revertirá antes de 2050?
 
+
+## Intervención del Proponente — Ronda 6
+
+### Respuesta directa al argumento anterior
+
+**Reto 1 — Declive demográfico y contracción laboral:** El oponente plantea el desafío demográfico chino como un argumento decisivo. Lo acepto en su magnitud, pero rechazo su conclusión. La premisa oculta es que población laboral y capacidad de innovación son directamente proporcionales. No lo son. Japón ha mantenido liderazgo tecnológico con población estancada desde los años 90. Alemania compite en manufactura avanzada con una de las tasas de fertilidad más bajas de Europa. La pregunta no es cuántos trabajadores tiene China, sino qué produce cada trabajador, y qué produce cada investigador multiplicado por automatización e IA.
+
+**Reto 2 — Universidades americanas superiores:** Las 17 de las 20 mejores universidades son americanas, según rankings actuales. Concedo ese punto. Pero el oponente usa rankings de reputación acumulada histórica, no de producción científica marginal 2025-2050. La pregunta relevante no es dónde están las mejores universidades hoy, sino dónde estarán los mejores científicos mañana, dado que EE.UU. está expulsándolos activamente con restricciones de visa.
+
+---
+
+### Argumento central R6 — Demografía, educación y talento
+
+**Punto 1: Volumen de STEM — la brecha cuantitativa es real y está creciendo**
+
+China ya superó a EE.UU. en doctorados STEM. Según el Center for Security and Emerging Technology (CSET) de Georgetown, China produjo más de 50,000 doctorados STEM en 2022, más del doble de su total en 2007, y proyecta 77,000 anuales para 2025, frente a aproximadamente 40,000 en EE.UU. La tasa de crecimiento anual china es del 9% versus 3% americana. Si se excluyen a los estudiantes chinos que obtienen sus PhDs en universidades americanas — y que cada vez más regresan — la brecha real es superior a 3 a 1.
+
+**Punto 2: EE.UU. está destruyendo activamente su propio modelo de captación de talento**
+
+Este es el argumento que el oponente no puede eludir con comodidad. El mismo sistema que convirtió a EE.UU. en potencia de innovación — absorber el mejor talento global, incluyendo chino — está siendo desmantelado por política interna. Datos concretos:
+
+- La tasa de aprobación de visas H-1B cayó del 46.1% en el año fiscal 2021 al 14.6% en el año fiscal 2024.
+- El Departamento de Estado anunció en 2025 planes de revocar visas de estudiantes chinos de forma agresiva.
+- El 60% de los 1,300 estudiantes chinos encuestados en 2024 reportaron discriminación o maltrato en EE.UU. (Multicultural Insights, 2024).
+
+EE.UU. está construyendo un embudo de repulsión. China no necesita construir un imán perfecto; basta con que EE.UU. destruya el suyo.
+
+**Punto 3: China respondió con captación propia**
+
+El 1 de octubre de 2025, China implementó la visa K para talento STEM global — graduados de universidades reconocidas y jóvenes profesionales — sin requerir patrocinio de empleador, que era la principal barrera de las visas de trabajo chinas anteriores. Esto es una respuesta directa, institucional y fechada a las restricciones americanas.
+
+**Punto 4: Automatización como sustituto demográfico — la evidencia es concreta**
+
+China instaló 295,000 robots industriales en 2024, representando el 54% de todos los robots desplegados globalmente ese año (IFR World Robotics Report 2024). [DO] La densidad robótica china alcanzó 470 robots por 10,000 empleados en 2023, superando a Alemania (429) y Japón (419), ubicándose tercera globalmente. Esto no es proyección; es instalación registrada. La fuerza laboral que se contrae está siendo parcialmente sustituida en sectores de manufactura por activos de capital productivo.
+
+**Punto 5: El precedente de productividad — cantidad no es destino**
+
+Corea del Sur tiene tasa de fertilidad de 0.72, la más baja del mundo, y sigue siendo líder en semiconductores, construcción naval y electrónica. Japón tiene fertilidad de 1.2, población que decrece desde 2010, y mantiene liderazgo en robótica y materiales avanzados. La correlación entre declive demográfico y declive de innovación no es automática. Lo que importa es la concentración de capital humano calificado y la productividad total de los factores.
+
+**Punto 6: Transición urbana como bono de calidad**
+
+China aun tiene márgenes de mejora en su estructura de fuerza laboral que EE.UU. ya no tiene. La tasa de urbanización china es aproximadamente 67% frente al 83% americano. Cada punto porcentual de urbanización adicional transfiere trabajadores de baja productividad agrícola a empleos urbanos de mayor valor agregado. Ese proceso estructural genera crecimiento de PIB por trabajador independientemente de la demografía total.
+
+---
+
+### Evidencia usada
+
+- [DO] CSET Georgetown — China produjo 50,000+ doctorados STEM en 2022; proyección de 77,000 para 2025 vs 40,000 americanos. Fuente: cset.georgetown.edu
+- [DO] IFR World Robotics Report 2024 — 470 robots por 10,000 empleados; 54% de instalaciones globales. Fuente: ifr.org / SCMP
+- [EI] Tasa de aprobación H-1B cayó de 46.1% (FY2021) a 14.6% (FY2024). Fuente: Brookings
+- [EI] China implementó visa K para talento STEM global, octubre 2025. Fuente: AOL/Reuters
+- [EI] Departamento de Estado anunció planes de revocar visas de estudiantes chinos en 2025. Fuente: FDD Analysis
+
+---
+
+### Ataque al punto débil del oponente
+
+El modelo americano de supremacía en innovación descansa sobre un supuesto frágil que el oponente no ha cuestionado: que EE.UU. puede seguir importando el talento que no produce internamente. Ese supuesto está siendo erosionado por el mismo proceso político americano, no por China.
+
+La tasa de aprobación H-1B cayó de 46% a 14.6% en tres años. Las universidades de élite americanas dependen masivamente de estudiantes de doctorado chinos e indios — si esa tubería se cierra, los laboratorios de investigación de MIT, Stanford y Caltech se vaciarían parcialmente. El oponente no puede defender simultáneamente que EE.UU. es superior en universidades y que EE.UU. está haciendo lo correcto expulsando a los estudiantes que llenan esas universidades. Es una contradicción estructural de la posición americana.
+
+---
+
+### Concesión limitada
+
+El problema demográfico chino es real, cuantificable y severo. Una tasa de fertilidad de 1.0-1.09 en 2023 — la más baja registrada para China — implica una contracción de población que, sin inversión masiva y sostenida en automatización y productividad, generaría presión fiscal insostenible sobre sistemas de pensión y salud. La fuerza laboral china ya se contrajo en 2022. El precedente de Japón y Corea del Sur es útil pero imperfecto: ambos países operan a escala mucho menor y con redes de seguridad social más desarrolladas. No tengo evidencia de que China haya resuelto el problema demográfico. Lo que argumento es que tiene instrumentos para mitigarlo suficientemente — no para eliminarlo.
+
+---
+
+### Preguntas o reto al oponente — para Ronda 7 (Instituciones, gobernanza y autocorrección)
+
+**Reto 1:** El argumento liberal clásico es que la democracia genera mejor gobernanza a largo plazo porque permite autocorrección mediante elecciones y separación de poderes. Pero EE.UU. ha pasado por cuatro administraciones en 16 años con políticas radicalmente distintas en comercio, alianzas, ciencia y migración — incluyendo retiradas del Acuerdo de París, cuestionamiento de alianzas de la OTAN, y ahora expulsión de talento científico. Si la autocorrección democrática produce esa volatilidad estratégica, ¿en qué sentido es superior a una planificación estatal de largo plazo que, con todos sus defectos, mantiene continuidad en inversión en IA, manufactura e infraestructura durante décadas?
+
+**Reto 2:** El argumento de que la autocracia china colapsará por falta de legitimidad o por error no corregible es una predicción empírica, no una certeza lógica. Ha sido hecha repetidamente desde 1989, desde 2001, desde 2008, y desde 2012 con Xi. En cada caso, el régimen sobrevivió y consolidó. ¿Qué mecanismo específico — no teórico sino institucional y temporal — producirá el colapso o la parálisis gubernamental china antes de 2050, y por qué ese mecanismo no fue activado en los últimos 35 años de predicciones de colapso chino?
+
