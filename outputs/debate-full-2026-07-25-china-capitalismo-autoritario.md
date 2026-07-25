@@ -822,3 +822,136 @@ Si la misasignación de capital es el mecanismo de fractura, el Agente B debe re
 - [CKGSB Knowledge — Can China Escape the Middle Income Trap?](https://english.ckgsb.edu.cn/knowledge/article/aiming-for-the-top-can-china-escape-the-middle-income-trap/)
 - [The Diplomat — Purges and Power: Is China Quietly Rebalancing Its Command Structure?](https://thediplomat.com/2025/11/purges-and-power-is-china-quietly-rebalancing-its-command-structure/)
 - [SCMP — What's Next for China's Economy in 2026](https://www.scmp.com/economy/china-economy/article/3334550/whats-next-chinas-economy-2026-and-how-it-plans-tackle-challenges)
+
+---
+
+## Agente B (Crítico) — Ronda 2
+
+---
+
+#### Respuesta directa al Agente A — Ronda 2
+
+El Agente A ha presentado en esta ronda una combinación de tres movimientos argumentativos que debo separar antes de refutarlos, porque mezclan niveles analíticos distintos.
+
+El **primer movimiento** es conceder el reto de Ronda 1 sobre los mecanismos de autocorrección y compensarlo inmediatamente con la evidencia del artículo de The Diplomat de noviembre de 2025 sobre "reequilibrio del mando". Este movimiento es el más débil de la ronda y será desarmado con evidencia del mismo medio que A cita.
+
+El **segundo movimiento** es argumentar que el crecimiento 1980-2025 no fue solo convergencia sino también ventaja estructural, usando la comparación con India, Brasil y África. Este es el argumento más serio de la ronda y merece respuesta empírica detallada.
+
+El **tercer movimiento** es proyectar tasas de 4-5% para 2026-2030 y un PIB nominal que supera a EE.UU. en 2035, usando consenso institucional (Goldman Sachs, FMI, Banco Mundial). Aquí A malinterpreta lo que esas proyecciones establecen realmente: las usa como endorsement del modelo cuando son proyecciones condicionales que incluyen advertencias severas que A omite selectivamente.
+
+Respondo a los tres por orden de importancia.
+
+---
+
+#### El crecimiento 1980-2025: la tesis de las condiciones irrepetibles
+
+El Agente A tiene razón en un punto: la convergencia simple no explica completamente el milagro chino. India también se abrió al comercio en 1991 y creció más lentamente. Concedo este punto. Pero el argumento de A construye sobre él una inferencia que los datos no respaldan: que lo que explica el diferencial por encima de la convergencia son las "ventajas estructurales del modelo". La evidencia empírica muestra que hay al menos tres fuentes de crecimiento extraordinario que son **irrepetibles por naturaleza** y que juntas explican la mayor parte de ese diferencial.
+
+**Primera condición irrepetible: el dividendo demográfico**
+
+La proporción de dependencia en China cayó desde el 68.38% en 1980 hasta un mínimo histórico de 36.49% en 2010, según datos de la ADB y NIUSSP. Esta caída de 32 puntos porcentuales durante exactamente el período de alto crecimiento no fue política económica: fue la cosecha demográfica de la política del hijo único combinada con la transformación de campesinos en trabajadores manufactureros. El economista Xin Meng (SSRN, 2023) documenta que el crecimiento de la fuerza laboral efectiva alcanzó su pico a finales de los 80 y principios de los 90 a un 3% anual. Ese viento de cola se ha revertido: la proporción de dependencia lleva subiendo desde 2010, la fuerza laboral en edad activa se contrajo desde 2013, y las proyecciones de AMRO Asia indican una proporción de dependencia de 61.3% para 2040. Lo que el Agente A presenta como "ventaja estructural" fue en buena parte viento de cola demográfico que ya se convirtió en viento de frente.
+
+**Segunda condición irrepetible: la entrada a la OMC en 2001**
+
+El Agente A no menciona la entrada a la OMC en toda su intervención, y esa omisión es reveladora. Un análisis de Cambridge University Press sobre el impacto de la adhesión china a la OMC documenta que China creció un 61% en los cinco años posteriores a la entrada versus un 41% en el contrafactual sintético, es decir, la OMC explica aproximadamente un tercio del crecimiento extraordinario de ese período. China tuvo acceso a mercados globales bajo reglas favorables negociadas en 2001, a precios de mano de obra que hacían inevitable la deslocalización manufacturera desde economías avanzadas, y a transferencia tecnológica embebida en cadenas de valor globales que hoy están siendo activamente desmanteladas por el desacoplamiento. Esa ventana histórica es estructuralmente irrepetible: la economía global en 2026 no puede volver a absorber otra China-escala de mano de obra barata, y el consenso político en EE.UU. y la UE que permitió esa integración no existe más.
+
+**Tercera condición irrepetible: la industrialización desde una base agraria baja**
+
+El mecanismo más poderoso del crecimiento chino fue la reasignación de trabajadores de baja productividad agrícola a manufactura de productividad media o alta. El "punto de inflexión de Lewis" —cuando el excedente de mano de obra agrícola se agota— fue alcanzado en China aproximadamente en 2010, según la literatura sobre demografía y crecimiento. Después de ese punto, los incrementos de productividad ya no vienen de reasignar trabajadores sino de mejorar la productividad dentro de los sectores. Eso requiere exactamente lo que el modelo tiene dificultad de producir: innovación endógena, no absorción de tecnología existente.
+
+**El resultado medible de estas tres condiciones agotadas es la caída de la PTF**
+
+Un artículo del Journal of Productivity Analysis (Springer, 2025) documenta que el crecimiento de la PTF en China promedió más del 4% anual entre 1978 y 2007, y cayó a aproximadamente 1% anual después de 2007, con el deterioro más pronunciado entre 2012 y 2014. Esto no es la "desaceleración natural de convergencia" que el Agente A y el Agente C mencionan: es un colapso de dos tercios de la productividad multifactorial en quince años. Las economías que convergen de forma sana muestran desaceleración gradual, no este tipo de ruptura de pendiente. La diferencia entre Corea del Sur —que desaceleró de 8-10% a 3-5% manteniendo crecimiento de PTF positivo— y China 2010-2025 es exactamente esta: Corea desaceleró por convergencia; China desaceleró por agotamiento simultáneo del dividendo demográfico, el bono OMC y el Lewis turning point, combinado con misasignación masiva de capital post-2008.
+
+El Agente A construye infraestructura y robots industriales como evidencia de "ventaja estructural del modelo". Pero esos datos de capacidad instalada no controlan la variable decisiva: el retorno sobre el capital. Un sistema que instala el 54% de los robots industriales globales pero genera PTF creciendo al 1% anual no está demostrando eficiencia de asignación —está demostrando escala de gasto sin retorno proporcional.
+
+---
+
+#### Atacando las proyecciones optimistas
+
+El Agente A cita a Goldman Sachs (4.8%), FMI (4.6%), Banco Mundial (4.4%) y EIU (4.6%) para 2026 como evidencia de "consenso institucional inequívoco". Hay tres problemas metodológicos graves con este uso de las fuentes.
+
+**Problema 1: A cita las proyecciones pero omite los condicionales que las acompañan**
+
+El IMF Country Report No. 26/44 (enero 2026) —el documento principal del FMI sobre China— proyecta crecimiento del 4.5% para 2026 pero establece explícitamente: "en ausencia de reformas concertadas, el crecimiento de mediano plazo se desacelerará progresivamente hasta aproximadamente 3.5% para 2030, debido a la disminución de la fuerza laboral, la caída de los retornos a la inversión y el crecimiento más lento de la productividad." El mismo documento advierte que "un shock negativo severo, comparable a los observados durante la Crisis Financiera Global, podría desencadenar un período prolongado de deflación, reduciendo el nivel del PIB en 5.4% respecto a la línea base durante cinco años." Citar el 4.6% del FMI para 2026 sin citar el 3.5% del FMI para 2030 y la advertencia de deflación sistémica es selección de evidencia, no argumento.
+
+**Problema 2: El deflactor del PIB está en territorio negativo**
+
+El mismo informe del FMI proyecta que el deflactor del PIB chino permanecerá negativo en -0.7% en 2026, con presiones deflacionarias persistentes. Los precios de viviendas nuevas todavía caen al 3.4% anual en marzo de 2026, según datos citados por CEPR y CEOWORLD Magazine. Esto significa que la deuda en términos reales está aumentando, y que China crece nominalmente más lentamente de lo que sugieren las cifras reales. El "crecimiento del 4.6%" es crecimiento real en un entorno de deflación activa —exactamente la combinación que caracterizó los primeros años del "decenio perdido" japonés.
+
+**Problema 3: Las proyecciones de "China supera a EE.UU. en 2035" están siendo revisadas a la baja**
+
+La proyección de Goldman Sachs de superación del PIB nominal de EE.UU. alrededor de 2035 que A cita es de 2022 y ha sido revisada. Con deflación del PIB chino negativo (-0.7% en 2026), tariffs comerciales crecientes y crecimiento convergiendo hacia 3.5% en 2030, la brecha puede no cerrarse en el horizonte proyectado.
+
+---
+
+#### El diferenciador chino vs. Japón y Corea: por qué el reto de A falla
+
+**Razón 1: Japón tardó 20 años en recuperarse con PIB per cápita de 30,000 dólares**
+
+China entra en su crisis inmobiliaria con un PIB per cápita de aproximadamente 13,000 dólares. Como documentó el Agente C en Ronda 1 citando a Eichengreen y Gill & Kharas: ese es exactamente el umbral de la trampa del ingreso medio. Japón llegó rico a su crisis. China llega a su crisis antes de ser rica.
+
+**Razón 2: Japón y Corea tenían mecanismos externos de corrección que China no tiene**
+
+Corea sobrevivió 1997 mediante el programa del FMI —90,000 millones de dólares con condicionalidad estructural que forzó la reestructuración corporativa. China no puede recurrir al FMI en los mismos términos: su escala y arquitectura política excluyen la condicionalidad externa. Y la corrección interna enfrenta la "paradoja del control productivo": los actores que podrían imponerla son los mismos que se benefician de posponer el ajuste.
+
+**Razón 3: Japón sufrió su crisis bajo democracia**
+
+En Japón, la crisis inmobiliaria produjo alternancia política y presión parlamentaria sobre el sistema bancario. En China, el costo político de reconocer las pérdidas del sector inmobiliario cae sobre el PCCh como institución —creando el incentivo opuesto: posponer el reconocimiento y socializar las pérdidas mediante expansión crediticia. Los precios de viviendas nuevas todavía cayendo al 3.4% en marzo de 2026 —seis años después del inicio de la crisis— sugieren que el ajuste se está posponiendo.
+
+---
+
+#### Desarmando el argumento del "reequilibrio institucional"
+
+El Agente A cita The Diplomat (noviembre 2025) para argumentar "reequilibrio institucional". Pero ese mismo medio publicó en diciembre de 2025 el artículo "Xi Jinping's Grip on the Military Is Getting Stronger, Not Weaker". El Small Wars Journal (febrero 2026) documenta que las purgas del otoño de 2025 —incluyendo la expulsión de Wang Chunning, comandante de la Policía Armada Popular y leal de Xi— representan consolidación adicional, no reequilibrio.
+
+Más aún: los "Reglamentos de Coordinación" del 30 de junio de 2025 que A cita establecen que los grupos de liderazgo "reporten al Comité Central" —es decir, a Xi como Secretario General. La "mejora del liderazgo centralizado y unificado" que los reglamentos establecen es precisamente consolidación del poder central, no distribución. El "liderazgo colectivo" que A infiere de estos reglamentos es literalmente formalización de la centralización.
+
+---
+
+#### Evidencia empírica (con fuentes)
+
+| Dato | Valor | Fuente |
+|---|---|---|
+| Crecimiento PTF China 1978-2007 | +4% anual promedio | [Springer/Journal of Productivity Analysis, 2025](https://link.springer.com/article/10.1007/s11123-025-00793-z) |
+| Crecimiento PTF China post-2007 | ~1% anual | [Springer/Journal of Productivity Analysis, 2025](https://link.springer.com/article/10.1007/s11123-025-00793-z) |
+| Proporción dependencia 1980 | 68.38% | [ADB — PRC Demographic Dividend](https://www.adb.org/sites/default/files/publication/917331/adr-vol40no2-4-prc-demographic-dividend-labor-supply.pdf) |
+| Proporción dependencia mínima 2010 | 36.49% | [ADB](https://www.adb.org/sites/default/files/publication/917331/adr-vol40no2-4-prc-demographic-dividend-labor-supply.pdf) |
+| Proporción dependencia proyectada 2040 | 61.3% | [AMRO Asia](https://amro-asia.org/demography-presents-both-challenges-and-opportunities/) |
+| Impacto OMC en crecimiento 2001-2006 | +20pp vs. contrafactual | [Cambridge UP — China and the WTO](https://www.cambridge.org/core/books/china-and-the-wto/assessing-the-impact-of-wto-accession-on-chinas-economic-growth/CE94681FFC98E0C2D07ECF426221E01F) |
+| Crecimiento FMI proyectado 2030 (sin reformas) | 3.5% | [IMF Country Report No. 26/44](https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf) |
+| Deflactor del PIB 2026 | -0.7% | [IMF Country Report No. 26/44](https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf) |
+| Shock severo: pérdida PIB | -5.4% vs. línea base (5 años) | [IMF Country Report No. 26/44](https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf) |
+| Precios viviendas nuevas (marzo 2026) | -3.4% interanual | [CEPR VoxEU](https://cepr.org/voxeu/columns/chinas-real-estate-reckoning-lessons-japans-lost-decade) |
+
+---
+
+#### Horizonte temporal: acumulación de riesgos
+
+**Corto plazo (2026-2030):** Tasas de 4-4.8% reales, pero con deflactor negativo (-0.7%), deuda real creciendo, inmobiliario todavía en deflación (-3.4% interanual). El patrón es el inicio del ciclo deflación-deuda japonés, no una base sólida.
+
+**Mediano plazo (2030-2040):** FMI proyecta convergencia a 3.5% sin reformas. Cuatro vientos de frente simultáneos: demografía adversa (dependencia subiendo a 61.3%), inmobiliario absorbiendo pérdidas no reconocidas, desacoplamiento tecnológico, y pregunta de sucesión de Xi que no puede diferirse indefinidamente. La convergencia de cuatro factores es cualitativamente distinta de la gestión de un factor aislado.
+
+**Largo plazo (2040-2050+):** Ningún Estado Desarrollista exitoso sostuvo el mismo modelo de dirección estatal intensa a través de la transición a la frontera tecnológica. Corea y Taiwán liberalizaron políticamente. China en 2040 llega sin ese ajuste, con tres décadas adicionales de concentración de poder y demografía estructuralmente adversa.
+
+---
+
+#### Reto al Agente A para Ronda 3
+
+El FMI proyecta 3.5% para 2030 en ausencia de "reformas concertadas". ¿Cuáles son esas reformas específicas que el modelo chino puede implementar, dado que (a) la decisión final está concentrada en Xi sin restricción institucional y (b) la Ley de Economía Privada de mayo 2025 ya fue precedida por la represión 2021-2023 sin mecanismo que garantice no se repita? Si las "reformas" dependen de la voluntad de un actor sin restricción institucional, ¿en qué se diferencian estructuralmente de la improvisación que el propio Agente A identificó como debilidad fatal de la URSS?
+
+---
+
+### Fuentes — Agente B, Ronda 2
+
+- [Springer — Journal of Productivity Analysis: TFP slowdown China, 2025](https://link.springer.com/article/10.1007/s11123-025-00793-z)
+- [ADB — PRC 40-Year Demographic Dividend](https://www.adb.org/sites/default/files/publication/917331/adr-vol40no2-4-prc-demographic-dividend-labor-supply.pdf)
+- [AMRO Asia — Demography Challenges and Opportunities](https://amro-asia.org/demography-presents-both-challenges-and-opportunities/)
+- [Cambridge UP — China and the WTO: Impact on Economic Growth](https://www.cambridge.org/core/books/china-and-the-wto/assessing-the-impact-of-wto-accession-on-chinas-economic-growth/CE94681FFC98E0C2D07ECF426221E01F)
+- [IMF Country Report No. 26/44 — PRC 2025 Article IV Consultation](https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf)
+- [CEPR VoxEU — China's Real Estate Reckoning: Lessons from Japan's Lost Decade](https://cepr.org/voxeu/columns/chinas-real-estate-reckoning-lessons-japans-lost-decade)
+- [CEOWORLD Magazine — China's Property Crisis Starting to Look Like Japan's Lost Decade, marzo 2026](https://ceoworld.biz/2026/03/29/chinas-property-crisis-is-starting-to-look-a-lot-like-japans-lost-decade/)
+- [The Diplomat — Purges and Power, noviembre 2025](https://thediplomat.com/2025/11/purges-and-power-is-china-quietly-rebalancing-its-command-structure/)
+- [The Diplomat — Xi's Grip Getting Stronger, Not Weaker, diciembre 2025](https://thediplomat.com/2025/12/xi-jinpings-grip-on-the-military-is-getting-stronger-not-weaker/)
+- [Small Wars Journal — PLA Military Purges, febrero 2026](https://smallwarsjournal.com/2026/02/26/pla-military-purges-xi-jinping/)
+- [World Bank — China's Productivity Slowdown, 2020](https://documents1.worldbank.org/curated/en/839401593007627879/pdf/Chinas-Productivity-Slowdown-and-Future-Growth-Potential.pdf)
