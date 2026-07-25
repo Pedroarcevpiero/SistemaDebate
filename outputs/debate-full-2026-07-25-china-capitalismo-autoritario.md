@@ -6172,3 +6172,184 @@ El árbitro tiene pendiente declarar si acepta la definición operativa propuest
 - [CCP Gray Zone Tactics — Global Taiwan Institute 2025](https://globaltaiwan.org/wp-content/uploads/2025/03/OR_CCP-Gray-Zone-Tactics-Against-TW.pdf)
 - [China Tests Gray-Zone Blockades — Taipei Times 2026](https://www.taipeitimes.com/News/editorials/archives/2026/05/03/2003856652)
 
+
+---
+
+## Intervención del Oponente (B) — Ronda 11
+
+### 1. Respuesta directa al argumento anterior de A
+
+A construyó su defensa de Taiwán sobre tres pilares: (1) la zona gris es un gradiente que China controla unilateralmente; (2) el PCCh tiene incentivo racional para no escalar; (3) la "amenaza de Taiwán" coexistió con el crecimiento de $1.2T a $18T entre 1990 y 2024, luego no puede ser incompatible con el crecimiento futuro.
+
+Los tres pilares son parcialmente válidos pero todos fallan al aplicarse al horizonte 2025-2040 bajo las condiciones estructurales que definen el Régimen 2. La respuesta directa a cada uno es la siguiente:
+
+**Pilar 1 (gradiente controlado):** que China controle la escalada unilateralmente no implica que los costos de la zona gris sean neutros para el crecimiento. Los costos de la zona gris son reales, acumulativos y asimétricos respecto a su efecto sobre el capital de frontera. Control de la escalada no equivale a control del daño colateral sobre la estructura financiera.
+
+**Pilar 2 (incentivo racional del PCCh):** A asume que el PCCh es un actor unitario con función de utilidad estable. Eso es el supuesto más débil de toda la posición de A — atacado en la sección de punto débil.
+
+**Pilar 3 (crecimiento con Taiwán 1990-2024):** argumento de continuidad histórica en condiciones no comparables. Entre 1990 y 2020, China era el mayor receptor de IED del mundo emergente y operaba bajo engagement estratégico con Occidente. Ambas condiciones se han revertido. El pasado no predice el futuro porque el entorno estructural es discontinuo.
+
+---
+
+### 2. Argumento principal — R11-B-1 a B-6 integrados
+
+#### R11-B-1 (PRIORIDAD ABSOLUTA): Dirección causal del riesgo Taiwán → Régimen 2
+
+Declaro con precisión: el riesgo de conflicto en Taiwán es **concomitante y amplificador**, no causa primaria ni consecuencia del Régimen 2. El mecanismo es el siguiente:
+
+El Régimen 2 tiene causas endógenas documentadas en rondas anteriores: agotamiento de la convergencia tecnológica, trampa de productividad factorial, demografía contractiva, represión financiera del sector privado. Esas causas no requieren a Taiwán para operar. Sin embargo, el riesgo Taiwán actúa como **multiplicador negativo** sobre la probabilidad de escapar la meseta mediante tres canales operativos:
+
+- **Canal 1 (prima de riesgo):** Eleva el costo de capital para inversión de frontera justo en el segmento donde China más lo necesita (I+D intensivo en capital, semiconductores avanzados, biotecnología).
+- **Canal 2 (desacoplamiento tecnológico):** Cada episodio de tensión en el Estrecho proporciona justificación política al Congreso de EE.UU. para ampliar controles de exportación de chips. El desacoplamiento no lo causan las tensiones de Taiwán, pero las tensiones aceleran su ritmo legislativo.
+- **Canal 3 (fricción en integración de cadenas de valor):** Las empresas multinacionales del bloque intermedio incorporan el riesgo Taiwán explícitamente en decisiones de diversificación de proveedores (China+1, China+2). No hay colapso, hay erosión gradual de la posición de China en eslabones de mayor valor — exactamente la dinámica que hace la meseta permanente.
+
+Concedo explícitamente: como en R10 con el RMB, este argumento aporta **corroboración sintomática** del Régimen 2, no evidencia causal independiente. La causa primaria del Régimen 2 es endógena. Taiwán eleva la probabilidad de que la meseta sea permanente; no la crea.
+
+---
+
+#### R11-B-2 (PRIORIDAD ALTA): Cuantificación de la prima de riesgo Taiwán
+
+**Dato base — IED neta [DO]:** La IED neta entrante a China cayó de $344.1B (2021) a $4.5B (2024) — el nivel más bajo desde 1991 [MOFCOM vía Global Finance Magazine]. La cifra más exacta de IED neta (balance of payments basis) es $4.5B en 2024 [DO].
+
+**Descomposición del colapso [EC]:** El FMI (Staff Country Report 2024/276) atribuye la caída a tres factores: (i) mayor incertidumbre de política económica, (ii) riesgo geopolítico incluyendo Taiwán, (iii) débiles perspectivas de crecimiento. El riesgo geopolítico es identificado como factor estructural, no cíclico.
+
+**Prima de riesgo vía CDS soberanos [EC]:** El IMF GFSR April 2025 (Ch.2) documenta que los eventos de riesgo geopolítico generan aumentos "notables" en los spreads CDS soberanos de economías emergentes, con efecto persistente. Para China: Moody's degradó el outlook a negativo en diciembre 2023, citando fragilidad estructural. La calificación actual A1 cuesta a China aproximadamente 30-50 pb adicionales respecto a su nivel pre-2020 en mercado de deuda soberana offshore [EC, estimado a partir de diferenciales A1 vs Aa3].
+
+**Traducción al crecimiento potencial [EC]:** Si la prima de riesgo adicional atribuible al conjunto del riesgo geopolítico eleva el costo de capital del sector privado chino en 50-100 pb, y si la elasticidad inversión-crecimiento está en el rango 0.3-0.4 (estimación estándar para economías de ingreso medio-alto), el impacto sobre el crecimiento potencial es de 0.15 a 0.40 pp anuales. Acumulado sobre 2025-2040, eso equivale a 2.3 a 6.0 pp de PIB per cápita. En el escenario central de A ($25K en 2040), esa diferencia puede situar el resultado final en $22.5K-$23.7K — dentro de la meseta del Régimen 2, no por encima.
+
+Admito que esta cuantificación es estimación derivada, no medición directa. Pero señalo que A tampoco ha cuantificado por qué la zona gris tiene costo cero sobre el costo de capital.
+
+---
+
+#### R11-B-3: Documentación de la afirmación TSMC 3nm
+
+La afirmación de R10 — "el bloque intermedio seguirá comprando chips TSMC de 3nm para aplicaciones críticas" — puede documentarse con fuente.
+
+**Evidencia [DO]:** Los clientes de TSMC en proceso 3nm incluyen Apple (A18 Pro, M4), NVIDIA (Blackwell), AMD (Zen 5), Qualcomm (Snapdragon 8 Gen 4), MediaTek (Dimensity 9400) e Intel (Lunar Lake). Las aplicaciones críticas son HPC, IA generativa, procesadores móviles de alta gama y automoción [TechNode 2024, TrendForce 2024, TSMC 3nm Technology Page]. La afirmación es verificable. Etiqueta [DO] aplicada retroactivamente con justificación.
+
+La implicación para el Régimen 2 persiste: mientras el bloque intermedio use chips TSMC para las aplicaciones de mayor valor, China no captura la renta tecnológica en esa capa, independientemente de lo que SMIC produzca en nodos maduros.
+
+---
+
+#### R11-B-4: Corrección de D sobre HBM — TSV/bonding híbrido
+
+Incorporo la corrección de D: la barrera fundamental en HBM no es EUV sino TSV/bonding híbrido.
+
+**Evidencia actualizada [DO]:** China (CXMT, XMC) apunta a producción doméstica de HBM3 para finales de 2026 [Tom's Hardware 2025]. Los controles de exportación de 2024 no cubren el equipo necesario para bonding híbrido — lo que implica que China tiene vía de desarrollo, pero con fricción considerable.
+
+**Mi reformulación ajustada:** Si China alcanza HBM3 en 2026-2027 y HBM4 con retraso de 3-5 años, la brecha en IA de alto rendimiento persiste hasta 2030-2032. Ese período coincide exactamente con la ventana crítica de inversión en IA que determinará la posición de China en la frontera tecnológica hacia 2035-2040. Un retraso de 3-5 años en la plataforma de entrenamiento de modelos de IA en el período 2025-2030 no es trivial: es el período donde la PTF debería acelerarse para cruzar la meseta. Si la infraestructura de cómputo de frontera llega tarde, la J-curve de PTF que A invocó se aplana antes de alcanzar el umbral de escape.
+
+---
+
+#### R11-B-5: Compatibilidad entre zona gris prolongada y meseta (no ruptura)
+
+La zona gris prolongada es perfectamente compatible con una meseta — de hecho, es uno de sus mecanismos de mantenimiento. En el escenario de meseta bajo zona gris prolongada el mecanismo no es colapso sino **supresión gradual del potencial**: la zona gris suprime la inversión de frontera (capital externo), acelera el desacoplamiento tecnológico (chips, IA) y aumenta el gasto de defensa (opportunity cost fiscal). Esos tres efectos reducen el crecimiento potencial entre 0.15 y 0.40 pp anuales — suficiente para hacer permanente la meseta sin producir ruptura. La disciplina del marco se mantiene.
+
+---
+
+#### R11-B-6: Sin lenguaje de colapso — cumplimiento activo
+
+Esta intervención no contiene ninguna predicción de colapso del PCCh, desintegración del modelo ni ruptura sistémica. El marco es meseta sostenida en $18-22K per cápita con presión alcista insuficiente para cruzar a ingreso alto sostenido. Todo el argumento de Taiwán opera dentro de ese marco como amplificador, no como destructor.
+
+---
+
+### 3. Respuesta a los argumentos de A sobre ratings soberanos
+
+**Parte 1 — Confusión de métricas:** Los ratings soberanos miden capacidad de pago de deuda en el horizonte de 1-5 años, no la sostenibilidad del modelo de desarrollo en 25 años. Citar los ratings como evidencia de sostenibilidad del modelo es una confusión categórica entre solvencia de corto plazo y capacidad de convergencia de largo plazo.
+
+**Parte 2 — Los ratings sí se movieron [DO]:** Moody's degradó el rating soberano de China de Aa3 a A1 en 2017 y en diciembre 2023 cambió el outlook de estable a negativo, citando "creciente deuda, crisis inmobiliaria y perspectivas de crecimiento débiles" [CNBC diciembre 2023]. Los ratings se han deteriorado consistentemente desde 2017, aunque sin llegar a especulativo. El argumento de A implica estabilidad de los ratings — eso es incorrecto.
+
+---
+
+### 4. Respuesta a los retos metodológicos de A
+
+#### R11-A-1: Aritmética PIB per cápita — tres supuestos sin justificación
+
+La aritmética de A es correcta bajo sus supuestos. Los supuestos son los que impugno:
+
+- **Supuesto 1 — tipo de cambio [PI]:** Los $13,300 per cápita de 2024 son en USD nominales actuales. Si el RMB se deprecia 1% anual respecto al USD entre 2024 y 2040 —depreciación conservadora dado el historial reciente— la tasa necesaria sube de 3.2% a ~4.2% [EC: 3.18% + 1% depreciación = 4.18%].
+- **Supuesto 2 — base 2030:** A usa $18,600 en 2030, lo que implica 5.7% nominal en USD entre 2024-2030 [EC: ($18,600/$13,300)^(1/6)-1 ≈ 5.7%]. Ese número incorpora el período más favorable del ciclo y no descuenta la presión demográfica que se acelera post-2030.
+- **Supuesto 3 — tasas post-2030:** Con el agotamiento demográfico acelerándose, mantener 3.0% real en 2031-2040 requiere compensación por productividad que aún no está documentada.
+
+#### R11-A-2: Serie PTF — reconocimiento técnico con reserva epistemológica
+
+A tiene razón en un punto técnico verificable: PWT v11.0 abandonó la serie Wu-ajustada y adoptó las estadísticas oficiales chinas, generando mecánicamente la estimación de PTF de +2.3%/año [DO, Asia Society Policy Institute, University of Groningen]. Eso es un hecho.
+
+**Sin embargo:** PWT v11.0 adoptó las cifras oficiales "para alinearse con las bases de datos estándar" — no porque resolvió el debate sobre confiabilidad de las estadísticas chinas. El propio Asia Society Policy Institute señala que el cambio es una decisión de conveniencia metodológica, no una validación epistemológica. La serie Wu-ajustada no quedó invalidada; fue eliminada por conveniencia de consistencia. Usar PWT v11.0 para afirmar que la J-curve de PTF "ya se verificó" es circular: si el input (crecimiento del PIB) está sobreestimado, el residuo (PTF) aparece inflado mecánicamente.
+
+#### R11-A-3: Definición operativa de "competir exitosamente"
+
+**Acepto con modificación crítica:** La definición de A es válida como benchmark de segundo orden, pero es la definición incorrecta para la moción. La moción dice "competir exitosamente **con las democracias liberales**" — no con los pares de ingreso medio. Competir con EE.UU., la UE y Japón en la frontera tecnológica es el estándar relevante.
+
+**Mi contra-propuesta:** "Competir exitosamente" = (i) mantener crecimiento de PTF por encima de la media G7 en al menos dos quinquenios del período 2025-2040; (ii) incrementar la cuota de exportaciones de alta complejidad tecnológica (SITC Rev.4 grupos 7+8 excluyendo re-exportaciones) en términos de valor; (iii) cruzar el umbral de ingreso alto ($22K per cápita en USD 2024) antes de 2040 con tipo de cambio estable.
+
+---
+
+### 5. Tabla de evidencia
+
+| Dato | Etiqueta | Fuente | Año |
+|---|---|---|---|
+| IED neta China cayó de $344.1B a $4.5B | DO | MOFCOM / Global Finance Magazine | 2021-2024 |
+| Moody's cambió outlook China a negativo, fragilidad estructural | DO | CNBC, diciembre 2023 | 2023 |
+| Moody's degradó China de Aa3 a A1 | DO | BondBlox / Business Standard | 2017 |
+| PWT v11.0 adoptó estadísticas oficiales chinas, generando PTF +2.3%/año | DO | Asia Society Policy Institute, Groningen | 2024 |
+| Clientes TSMC 3nm: Apple, NVIDIA, AMD, Qualcomm, Intel | DO | TechNode, TrendForce, TSMC | 2024-2025 |
+| China (CXMT) apunta a HBM3 doméstico para finales de 2026 | DO | Tom's Hardware | 2025 |
+| Bonding híbrido excluido de controles de exportación 2024 | DO | AI Frontiers / ChinaTalk | 2024-2025 |
+| Conflicto abierto sobre Taiwán costaría ~16.7% PIB a China en año 1 | DO | St. Louis Fed Review, febrero 2025 | 2025 |
+| IMF GFSR April 2025 Ch.2: geopolítica eleva CDS spreads en EM de forma persistente | DO | IMF GFSR April 2025 Ch.2 | 2025 |
+| Prima de riesgo estimada 50-100 pb → impacto PTF -0.15 a -0.40 pp/año | EC | Aritmética expuesta (estimación derivada) | 2025 |
+| Tasa necesaria para $22K con depreciación RMB 1%/año | EC | 3.18% + 1% = ~4.18% | 2025 |
+
+---
+
+### 6. Ataque al punto débil de A
+
+El punto débil central de A en R11 es el **supuesto de racionalidad unitaria del PCCh**.
+
+A afirma que el PCCh tiene incentivo racional para no escalar porque un conflicto destruiría el modelo de crecimiento que legitima al partido. Eso es correcto como análisis de preferencias del liderazgo en condiciones normales. Pero el argumento asume que el PCCh es un actor con función de utilidad estable, cuando en realidad es una coalición donde la presión interna puede superar el incentivo de crecimiento.
+
+La "compresión del horizonte de descuento político" que A cita como ventaja — la capacidad de sostener 15-20 años de presión en zona gris — es simultáneamente la condición que hace **más probable** la escalada no racional: si el PCCh puede sostener décadas de presión sin alternancia, también puede sostener décadas de señalización de fuerza interna que gradualmente eleva el umbral de lo que se considera "control de gradiente". Las fuerzas armadas del EPL, que han recibido inversión masiva durante los últimos 15 años, son un actor institucional con incentivos propios que no necesariamente coinciden con los del liderazgo civil.
+
+Esto no es retórica catastrofista. Es señalar que el argumento de A sobre control del gradiente descansa en un modelo de China que ningún analista de seguridad acepta como completo.
+
+---
+
+### 7. Concesión táctica
+
+**Concesión 1:** La aritmética de $22K en 2040 con 3.2% anual es correcta bajo supuesto de tipo de cambio estable. Es un cálculo honesto.
+
+**Concesión 2:** El argumento de la zona gris como gradiente controlado tiene validez empírica en el período 1995-2024.
+
+**Concesión 3:** Los ratings soberanos no han llegado a especulativo — y eso refleja solvencia de corto-mediano plazo real que no debería ser ignorada.
+
+---
+
+### 8. Retos para A y para el Árbitro (E)
+
+**Reto 1 para A (tipo de cambio):** Si el RMB se deprecia 1% anual respecto al USD entre 2025 y 2040, la tasa necesaria para cruzar $22K nominal en USD sube de 3.2% a ~4.2%. ¿Dónde en tus proyecciones aparece el supuesto de tipo de cambio? Si no está explícito, tu aritmética tiene un agujero.
+
+**Reto 2 para A (PTF y estadísticas oficiales):** ¿Puedes citar un paper revisado por pares post-2020 que valide las estadísticas de crecimiento chinas como no sobreestimadas, sin usar las propias estadísticas como evidencia? Sin esa validación independiente, tu J-curve de PTF es circularmente dependiente de los datos en disputa.
+
+**Reto 3 para A (actor unitario):** ¿Cuál es tu modelo del EPL como actor institucional dentro del PCCh? ¿Cuál es el mecanismo que subordina permanentemente los incentivos institucionales del EPL a la función de utilidad del liderazgo civil?
+
+**Reto para el Árbitro (E):** La definición de "competir exitosamente" sigue sin resolverse. A propone pares de ingreso medio; B propone la frontera G7. Este es el punto sobre el que pivota todo el veredicto final. Solicito que E declare en su evaluación cuál definición es más consistente con el texto de la moción — "competir con las democracias liberales" — antes de emitir el veredicto.
+
+---
+
+### Fuentes
+
+- [Global Finance Magazine — China FDI hits 30-year low](https://gfmag.com/economics-policy-regulation/china-foreign-direct-investment-hits-30-year-low/)
+- [CNBC — Moody's cuts China credit outlook to negative, diciembre 2023](https://www.cnbc.com/2023/12/05/moodys-cut-chinas-credit-outlook-to-negative-on-rising-debt-risks.html)
+- [BondBlox — Moody's downgrades China to A1 from Aa3](https://bondblox.com/news/moodys-downgrades-china-sovereign-debt-a1-aa3)
+- [Asia Society Policy Institute — China's TFP: Extremely Low or Surging?](https://asiasociety.org/policy-institute/chinas-total-factor-productivity-either-extremely-low-or-surging-past-united-states)
+- [University of Groningen — PWT v11.0 published](https://www.rug.nl/ggdc/blog/penn-world-table-version-11-0-is-published?lang=en)
+- [TechNode — TSMC 3nm demand from Apple, Intel, AMD](https://technode.com/2024/03/27/tsmc-sees-strong-demand-for-3nm-chips-with-orders-from-apple-intel-and-amd-report/)
+- [TrendForce — TSMC 3nm customers surge 2024](https://www.trendforce.com/news/2024/01/04/news-tsmc-reportedly-attracts-influx-of-3nm-customers-predicts-production-capacity-utilization-to-surge-to-80-by-year-end/)
+- [Tom's Hardware — China gears up for HBM3 by end 2026](https://www.tomshardware.com/pc-components/dram/chinese-semiconductor-industry-gears-up-for-domestic-hbm3-production-by-the-end-of-2026-cxmt-to-produce-chips-while-naura-maxwell-and-u-preseason-design-tools-for-assembly)
+- [ChinaTalk — How far can Chinese HBM go?](https://www.chinatalk.media/p/will-china-hit-the-hbm-wall)
+- [AI Frontiers — HBM export control gaps](https://ai-frontiers.org/articles/high-bandwidth-memory-critical-gaps-us-export-controls)
+- [IMF GFSR April 2025 — Geopolitical risks: implications for asset prices](https://www.imf.org/en/publications/gfsr/issues/2025/04/22/global-financial-stability-report-april-2025)
+- [St. Louis Fed — Economic Effects of Potential Armed Conflict Over Taiwan, febrero 2025](https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/publications/review/pdfs/2025/feb/economic-effects-of-potential-armed-conflict-over-taiwan.pdf)
+- [ScienceDirect — Fear of war: Geopolitical risks and FDI in China](https://www.sciencedirect.com/science/article/abs/pii/S0165176525001661)
+
