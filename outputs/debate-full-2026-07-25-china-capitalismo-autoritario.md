@@ -955,3 +955,114 @@ El FMI proyecta 3.5% para 2030 en ausencia de "reformas concertadas". ¿Cuáles 
 - [The Diplomat — Xi's Grip Getting Stronger, Not Weaker, diciembre 2025](https://thediplomat.com/2025/12/xi-jinpings-grip-on-the-military-is-getting-stronger-not-weaker/)
 - [Small Wars Journal — PLA Military Purges, febrero 2026](https://smallwarsjournal.com/2026/02/26/pla-military-purges-xi-jinping/)
 - [World Bank — China's Productivity Slowdown, 2020](https://documents1.worldbank.org/curated/en/839401593007627879/pdf/Chinas-Productivity-Slowdown-and-Future-Growth-Potential.pdf)
+
+---
+
+## Agente C (Especialista en Economía Política Comparada) — Ronda 2
+
+---
+
+#### La literatura sobre los factores del milagro chino
+
+El debate entre Agente A ("ventaja estructural del modelo") y Agente B ("condiciones irrepetibles") reproduce con fidelidad una controversia central en la literatura de crecimiento comparado que ha producido una respuesta más matizada que la que ambos agentes presentan. Ambos construyen sus posiciones de forma más binaria de lo que la evidencia permite.
+
+La literatura canónica sobre los milagros asiáticos — Johnson (1982), Amsden (1989), Wade (1990), Rodrik (1995), Young (1992, 1995) — identifica consistentemente que el crecimiento extraordinario de economías como Japón, Corea del Sur y Taiwán en sus fases de alto crecimiento fue producto de una combinación específica e irrepetible de factores: (a) acumulación de capital desde bases muy bajas, (b) reasignación de trabajo desde agricultura de baja productividad hacia manufactura de productividad media-alta, (c) absorción tecnológica de la frontera existente mediante imitación y adaptación dirigida por el Estado, y (d) acceso privilegiado a mercados exportadores en el contexto del orden comercial de posguerra.
+
+La contribución clásica de Alwyn Young (1992, 1995) sobre los milagros asiáticos estableció que la mayor parte del crecimiento extraordinario de Hong Kong, Singapur, Corea del Sur y Taiwán era explicable por acumulación de factores (capital físico, capital humano, trabajo), con una contribución de PTF sorprendentemente modesta en los casos más dirigidos. Young estimó que el crecimiento de PTF en Corea del Sur entre 1966 y 1990 promedió apenas 1.7% anual. El trabajo de Paul Krugman que siguió — "The Myth of Asia's Miracle" (1994) — generalizó provocadoramente que el crecimiento asiático era "extensivo" (por acumulación) no "intensivo" (por productividad), y que tenía por tanto límites estructurales inherentes.
+
+El consenso académico más reciente sobre los determinantes del crecimiento chino 1980-2010 — sintetizado en el volumen de Brandt y Rawski (Cambridge UP, 2008) y el influyente artículo de Hsieh y Klenow (2009) sobre misasignación — identifica que los determinantes son al menos cuatro: (i) reducción de misasignación inicial por liberalización parcial, (ii) acumulación acelerada de capital físico y humano, (iii) reasignación entre sectores (Lewis mechanism), y (iv) mejoras de PTF dentro de sectores. Hsieh y Klenow estiman que mejoras en la asignación de capital y trabajo dentro del sector manufacturero contribuyeron entre 30 y 50 puntos porcentuales del crecimiento del valor agregado manufacturero entre 1998 y 2005. Esto significa que la narrativa del Agente A tiene base parcial — la política de mercado parcial produjo ganancias reales de asignación. Pero también que la narrativa del Agente B tiene base parcial — la mayor parte de las ganancias fue por factores de convergencia que se agotan.
+
+La síntesis correcta, que ningún agente articula con suficiente precisión, es la siguiente: el crecimiento chino 1980-2010 fue en parte ventaja estructural del modelo, en parte condiciones de convergencia agotables, y en parte factores de contexto específicos irrepetibles. El debate entre A y B sobre cuál de estos conjuntos pesa más es legítimo. Pero pretender que uno de los tres conjuntos explica todo el fenómeno es simplificación analítica.
+
+---
+
+#### El dividendo demográfico como factor: ¿cuánto pesa?
+
+El Agente B presenta el dividendo demográfico con evidencia cuantitativa precisa. Este es el argumento más sólido de su intervención en Ronda 2, pero comete un error de presentación: lo posiciona como si fuera el factor dominante sin cuantificar su contribución relativa con precisión.
+
+Bloom y Williamson (1998, *World Bank Economic Review*) estimaron que el dividendo demográfico puede explicar entre un cuarto y un tercio del crecimiento acelerado en el Este Asiático. Wang y Mason (2008) para el caso chino específico estiman que el dividendo demográfico explicó entre 1.6 y 2.3 puntos porcentuales anuales en el período de mayor impacto — sobre un crecimiento promedio del 9.7%, eso representa entre el 16% y el 24% del total. El dividendo demográfico fue significativo pero no dominante: explica entre un sexto y un cuarto del crecimiento, no la totalidad.
+
+Además, Lee y Mason (2006, *Finance & Development*, FMI) distinguen entre el primer dividendo demográfico (más trabajadores por dependiente, que B describe) y el segundo dividendo demográfico (mayor ahorro para la vejez que puede convertirse en capital). China tiene ahorro interno excepcionalmente alto (34% del PIB en hogares), en parte síntoma del envejecimiento anticipado. El efecto no es simétrico al inverso del dividendo original.
+
+---
+
+#### PTF como indicador: precisiones metodológicas
+
+El argumento de B sobre la caída de PTF post-2007 (de +4% a ~1% anual) está bien documentado, pero hay cuatro precisiones metodológicas que ningún agente señala:
+
+**Primera:** El nivel de PTF inicial era extraordinariamente bajo, haciendo mecánicamente disponibles tasas altas por pura adopción tecnológica. La caída de +4% a +1% es en parte artefacto del nivel de convergencia alcanzado. B no controla por este factor.
+
+**Segunda:** Los problemas de medición de PTF en China son documentados y severos. Wei, Xie y Zhang (2017, *Journal of Economic Perspectives*) documentan que la sobreinversión en capital inmobiliario infla el denominador del cálculo, deprimiendo artificialmente las estimaciones de PTF. La tendencia negativa es real; su magnitud exacta tiene incertidumbre metodológica que B no reconoce.
+
+**Tercera:** La caída de PTF no es uniforme entre sectores. Zhu (2012, *Journal of Economic Perspectives*) documenta que la PTF en el sector privado manufacturero siguió creciendo a tasas relativamente altas; la caída se concentra en el sector estatal e inmobiliario. Usar la PTF agregada sin desagregar esta heterogeneidad sectorial es una simplificación con consecuencias analíticas.
+
+**Cuarta:** La PTF es el indicador correcto para el horizonte mediano (2030-2040) pero no para el corto plazo (2026-2030), donde la inercia de la acumulación de capital puede sostener 4-4.8% de crecimiento con baja PTF. B usa la PTF como evidencia de problema en el corto plazo cuando es específicamente un indicador de vulnerabilidad para el mediano y largo plazo. Esta es una confusión de horizontes que viola la Regla 4 del debate.
+
+---
+
+#### La trampa del ingreso medio: ¿qué dice la evidencia comparada?
+
+La literatura distingue dos condiciones para el escape: (a) alcanzar el umbral de ingreso per cápita, y (b) desarrollar capacidad de innovación endógena que permita crecer más allá de la imitación. El Agente A mezcla ambas condiciones de forma que infla la solidez del argumento.
+
+Sobre la condición (a): la posible clasificación como economía de ingreso alto en 2025 es un umbral administrativo del Banco Mundial (~13,845 dólares INB per cápita), no estructural. Cruzarlo con deflación de precios activa y bajo crecimiento real es cualitativamente muy diferente a cruzarlo con demanda interna robusta y PTF creciente. La clasificación puede fluctuar.
+
+Sobre la condición (b), la realmente relevante: Doner y Schneider (2016, *World Politics*) documentan que numerosos países han incrementado gasto en I+D sin producir innovación de frontera porque sus sistemas de innovación carecen de condiciones institucionales clave: protección de propiedad intelectual efectiva, movilidad de investigadores, mercados de capitales de riesgo, universidades con autonomía. Lanjouw y Schankerman (2004) y Hu y Jefferson (2009) establecen que las patentes chinas tienen en promedio menor citación y menor valor de mercado que las de economías de frontera. Usar el número de clústeres OMPI como proxy de capacidad de innovación de frontera sin controlar la calidad del output innovador confunde inputs con resultados.
+
+Dicho esto, el caso de DeepSeek y el desempeño de empresas chinas de IA en benchmarks internacionales en 2025-2026 constituye evidencia preliminar de innovación de frontera genuina en algunos sectores. La pregunta es si esto es sistémico o puntual — punto que queda sin resolución y es el más relevante para Ronda 4 (Agente D).
+
+---
+
+#### China vs. Japón y Corea: evaluación comparada del reto de A
+
+El Agente B responde con tres razones. La evaluación comparada es la siguiente:
+
+**Razón 1 de B (PIB per cápita):** La más sólida. Aiyar et al. (2013, *IMF Working Paper* 13/71) documentan que las desaceleraciones son más costosas a bajos niveles de ingreso. Matización: Corea del Sur en 1997 tenía aproximadamente 11,000 dólares per cápita en términos reales actualizados — el contraste con China (13,000) es menor de lo que B implica. El contraste con Japón (30,000) es más válido.
+
+**Razón 2 de B (mecanismos externos de corrección):** Analíticamente sólida. Corea tuvo condicionalidad del FMI; China no puede ser objeto de ese tipo de condicionalidad. El equivalente funcional puede ser la disciplina de los mercados de exportación — pero la velocidad de ese mecanismo para producir ajuste antes de que la deuda se vuelva sistémica es la variable clave no resuelta.
+
+**Razón 3 de B (contexto democrático):** La más débil comparativamente. El caso japonés muestra que la democracia con partido dominante (PLD) y clientelismo sectorial puede prolongar el ajuste tanto como el autoritarismo. Japón tardó más de una década en absorber sus pérdidas bancarias precisamente porque el PLD con sus vínculos a bancos y construcción no podía políticamente forzar el reconocimiento de pérdidas. El argumento de B sobre el contexto democrático como facilitador de la corrección es discutible.
+
+El punto más importante que ambos omiten: ni Japón ni Corea tuvieron sectores de economía real tan concentrados y dependientes del crédito estatal como el inmobiliario chino (25-30% del PIB). El precedente histórico más análogo en escala no es ni Japón ni Corea — es la burbuja japonesa más la crisis S&L de EE.UU., amplificada cuatro o cinco veces. Ninguna economía ha gestionado ese nivel de reconocimiento de pérdidas sin un período sostenido de bajo crecimiento. Este punto es más favorable a la posición de B que sus tres argumentos explícitos.
+
+---
+
+#### Conclusión comparada — Ronda 2
+
+La evidencia comparada respalda cuatro proposiciones para el debate en Ronda 3:
+
+**Primera:** El crecimiento chino 1980-2010 fue producto de factores estructurales Y condiciones irrepetibles, en proporciones aproximadamente iguales según la literatura. No hay base para la afirmación de A ("principalmente ventaja estructural") ni para la de B ("principalmente condiciones irrepetibles").
+
+**Segunda:** La caída de PTF es el indicador correcto para el horizonte mediano (2030-2040) pero no para el corto plazo (2026-2030). B confunde horizontes; A no lo corrige.
+
+**Tercera:** El escape de la trampa del ingreso medio depende de la calidad del output innovador, no del nivel de gasto. La evidencia actual es insuficiente para pronunciarse sobre el horizonte mediano; los primeros indicadores son más alentadores de lo que B reconoce y más condicionales de lo que A presenta.
+
+**Cuarta:** La comparación Japón/Corea favorece la posición de B principalmente por el argumento del PIB per cápita y la ausencia de mecanismos externos de corrección. La razón democrática es más débil comparativamente.
+
+**Nota metodológica para Ronda 3:** el debate sobre deuda y sobreinversión necesita distinguir entre crisis de flujo (caída de crecimiento sostenida) y crisis de stock (acumulación de deuda no productiva que produce evento sistémico discontinuo). Son crisis de naturaleza diferente con dinámicas distintas. Identificar el mecanismo específico — no solo el diagnóstico genérico de "misasignación" — es la tarea central de la siguiente ronda.
+
+---
+
+**Fuentes principales — Agente C, Ronda 2:**
+
+- Aiyar, S. et al. (2013). "Growth Slowdowns and the Middle-Income Trap." *IMF Working Paper* 13/71.
+- Bloom, D. & Williamson, J. (1998). "Demographic Transitions and Economic Miracles in Emerging Asia." *World Bank Economic Review*, 12(3), 419-455.
+- Brandt, L. & Rawski, T. eds. (2008). *China's Great Economic Transformation*. Cambridge University Press.
+- Doner, R. & Schneider, B. (2016). "The Middle-Income Trap: More Politics Than Economics." *World Politics*, 68(4), 608-644.
+- Eichengreen, B., Park, D., & Shin, K. (2012). "When Fast-Growing Economies Slow Down." *Asian Economic Papers*, 11(1), 42-87.
+- Gill, I. & Kharas, H. (2007). *An East Asian Renaissance*. World Bank Publications.
+- Hsieh, C.T. & Klenow, P. (2009). "Misallocation and Manufacturing TFP in China and India." *Quarterly Journal of Economics*, 124(4), 1403-1448.
+- Hu, A. & Jefferson, G. (2009). "A Great Wall of Patents." *Journal of Development Economics*, 90(1), 57-68.
+- Krugman, P. (1994). "The Myth of Asia's Miracle." *Foreign Affairs*, 73(6), 62-78.
+- Lanjouw, J. & Schankerman, M. (2004). "Patent Quality and Research Productivity." *Economic Journal*, 114(495), 441-465.
+- Lee, R. & Mason, A. (2006). "What Is the Demographic Dividend?" *Finance & Development*, 43(3). IMF.
+- Reinhart, C. & Rogoff, K. (2009). *This Time Is Different*. Princeton University Press.
+- Wang, F. & Mason, A. (2008). "The Demographic Factor in China's Transition." En Brandt & Rawski eds.
+- Wei, S.J., Xie, Z., & Zhang, X. (2017). "From 'Made in China' to 'Innovated in China'." *Journal of Economic Perspectives*, 31(1), 49-70.
+- Young, A. (1995). "The Tyranny of Numbers." *Quarterly Journal of Economics*, 110(3), 641-680.
+- Zhu, X. (2012). "Understanding China's Growth: Past, Present, and Future." *Journal of Economic Perspectives*, 26(4), 103-124.
+
+---
+
+## Evaluación Parcial del Árbitro (G) — Ronda 2
+
+El Agente B presentó el argumento más sólido de esta ronda: su descomposición del crecimiento 1980-2025 en tres condiciones irrepetibles (dividendo demográfico con la caída de dependencia de 68.38% a 36.49%, el bono de adhesión a la OMC y el agotamiento del punto de Lewis hacia 2010), anclada en la ruptura de pendiente de la PTF (+4% a ~1% post-2007), convierte la evidencia de capacidad instalada de A en un problema de retorno sobre el capital, y su señalamiento de selección de evidencia —citar el 4.6% del FMI para 2026 omitiendo el 3.5% para 2030 y el deflactor de -0.7% del mismo IMF Country Report 26/44— es una refutación metodológica que A no anticipó. El punto más fuerte de A fue mostrar que la convergencia simple no explica el diferencial frente a India, Brasil y África, y su reto comparado Japón/Corea es legítimo; su punto más débil, reconocido por el propio B, fue el argumento de "reequilibrio institucional", donde A infiere liderazgo colectivo de unos Reglamentos de junio de 2025 cuyo texto citado establece precisamente "liderazgo centralizado y unificado", apoyándose además en Vision Times, fuente de baja fiabilidad, mientras B contrapone el mismo medio (The Diplomat, diciembre 2025) en sentido opuesto. Como evidencia débil o metodológicamente cuestionable señalo, en A: el uso de Worldometers y Global Times como intermediarios de datos primarios del FMI y del Banco Mundial, la cita de una proyección de Goldman Sachs de 2022 (superación en 2035) sin verificar revisiones, y la afirmación de "primera señal de escape" de la trampa del ingreso medio basada en una columna de opinión del SCMP; en B: la conversión del "+61% vs. 41% contrafactual" del estudio de Cambridge en "+20pp" tabulado sin explicitar el método sintético ni su intervalo de incertidumbre, y la afirmación de que la proyección de Goldman "ha sido revisada" sin aportar la fuente de la revisión.
