@@ -4827,3 +4827,341 @@ La competencia demográfica BRICS presiona a China desde abajo, haciendo más ur
 ---
 
 *Fin de intervención Agente F — Ronda 9*
+
+## Evaluación del Árbitro (Agente G) — Ronda 9
+
+**Tema de la ronda:** Demografía y trampa del ingreso medio.
+**Especialista:** Agente F (Demografía y Desarrollo).
+**Orden ejecutado:** A abre → B responde → F cierra con aporte especializado. Estructura cumplida.
+
+**Nota de alcance:** esta es una evaluación PARCIAL de Ronda 9, no un veredicto. El veredicto final se emite tras completar las 15 rondas.
+
+---
+
+## 1. Evaluación del Agente A (Defensor) — Ronda 9
+
+### 1.1 Cumplimiento de retos vinculantes
+
+**R9-1 (prioridad absoluta) — CERRADO CON CALIDAD ALTA, PERO NO GANADO.**
+A hizo lo que muy pocos debatientes hacen bajo un reto bifurcado: respondió **ambas ramas** en lugar de elegir la más cómoda, y en ambas etiquetó explícitamente el límite de su propia evidencia.
+
+En la rama (a), A no disputó el caso NDB ni la desagregación de la desdolarización — los concedió sin resistencia — y construyó en su lugar una tesis más modesta y por eso más defendible: la arquitectura CIPS + mBridge + swaps del PBoC + red de pagos BRICS no es sustitución del dólar sino **redundancia que reduce la vulnerabilidad**. Y aportó él mismo el dato que más daña esa tesis: CIPS depende de mensajería SWIFT para más del 80% de sus transacciones (CSIS). Que un debatiente introduzca contra sí mismo la cifra que mejor refuta su propio argumento es conducta epistémica de alto valor y la registro como tal.
+
+En la rama (b), A desagregó los tres insumos que B había especificado y los trató con estándares distintos según la evidencia disponible: progreso documentado en equipos (25%→35% de autosuficiencia), progreso documentado en fotorresistentes (KrF en producción de masa, ArF en curso), y **brecha reconocida sin eufemismo en EDA**. La frase "la brecha en EDA es el punto donde la opción (b) de B está más documentada y donde la tesis de la dependencia estructural tiene mayor sustento empírico" es una concesión estructural, no táctica.
+
+**El reto queda formalmente cerrado.** Pero cerrar un reto no es ganarlo: A demostró que la dependencia no es estática y que la dirección del movimiento es hacia menor dependencia; no demostró que el diferencial no se vuelva insalvable. A lo etiquetó como zona de incertidumbre genuina, lo cual es honesto pero también es el reconocimiento de que la rama (b) no fue satisfecha en los términos exigidos.
+
+*Observación de calidad de fuente:* la cifra del 35% de autosuficiencia proviene de TokenRing Markets (medio financiero secundario de baja trazabilidad institucional), no de SEMI, IC Insights, TrendForce ni de un organismo con metodología pública. Es la fuente más débil de una intervención por lo demás bien documentada, y sostiene una de las dos cifras centrales del argumento de sustitución. Descuento moderado.
+
+**Pendiente severo de cuarta ronda (financiamiento 2026-2032) — CERRADO.**
+Tras cuatro rondas de acumulación, A finalmente lo respondió con estructura: inversión total 40.4% del PIB, consumo de hogares 38-39%, déficit fiscal ampliado proyectado en 9.2% del PIB para 2026, tasa de ahorro bruto 43-45%, e IED como fracción menor. Y — decisivo para el foco de la ronda — **conectó la estructura de financiamiento con la demografía por dos canales explícitos**: contracción de base contributiva y desahorro de jubilados. Eso convierte un cierre de deuda en contribución sustantiva al tema de R9 en lugar de un apéndice administrativo. La deuda se extingue. Se levanta la penalización acumulada.
+
+**R9-3 (mecanismo de credibilidad BRI) — CERRADO CON CONCESIÓN MAYOR.**
+A respondió los tres episodios uno por uno y luego hizo lo que el reto exigía: **concedió que no existe mecanismo institucional formal, vinculante y con enforcement**. En su lugar ofreció el "deterrence endógeno" (destrucción del activo de credibilidad, competencia del G7/PGII, correspondencia por dependencia de insumos). El movimiento tiene mérito analítico: reformula el estándar de "China nunca weaponiza" a "la weaponización sistemática es suficientemente costosa para ser excepción".
+
+Dos objeciones que registro contra A. Primera: en Zambia, A admite que lo que disciplinó a China no fue norma interna sino el marco multilateral del G20 — es decir, **una institución occidental-multilateral, no un mecanismo del modelo chino**. Esa admisión debilita el argumento en la dimensión exacta que el reto interrogaba. Segunda: la lectura de Australia como caso que "refuerza la tesis de A" es un movimiento de alto riesgo retórico. Convertir un episodio de coerción económica de 20,000 millones anuales en evidencia de la durabilidad del modelo es defendible analíticamente (el deterrence endógeno operó) pero roza la reinterpretación conveniente.
+
+**R9-6 (los 130 acuerdos de estándares) — CERRADO POR RETIRO PARCIAL HONESTO.**
+A buscó la desagregación, no la encontró, lo declaró, y **retiró parcialmente el dato** sustituyéndolo por un indicador más verificable (despliegue 5G de Huawei en más de 70 países como estándar de facto). Este es el manejo correcto de un dato que no resiste. El sustituto es más robusto pero también más estrecho: infraestructura desplegada no equivale a penetración regulatoria, y A no debe reintroducir el dato original en rondas posteriores. Queda vedado.
+
+**R9-7 (función de BRICS) — CERRADO CON DECLARACIÓN LIMPIA.**
+A declaró: BRICS como **plataforma de multipolaridad que reduce el costo del aislamiento normativo**, no como instrumento de política exterior china. Y enumeró las consecuencias autolimitantes de esa elección. A queda vinculado a esa función por el resto del debate.
+
+**Tres afirmaciones de seguimiento de R8 — RESUELTAS.** Dos retiradas/reformuladas, una acotada. El pasivo documental de A vuelve a cero por segunda ronda consecutiva.
+
+### 1.2 Argumento central
+
+Los datos demográficos fueron presentados con **etiquetado ejemplar** y A abrió con la frase que le da credibilidad al resto: "Cualquier defensa del modelo chino que minimice este cuadro factual no es sostenible." Reencuadró correctamente la pregunta: no si el desafío es severo, sino si existen mecanismos de ajuste.
+
+Los tres diferenciales frente a Brasil/México/Sudáfrica (I+D al 2.65% vs. 0.6-1.2%; automatización; escala de mercado doméstico) están bien construidos. El argumento de política industrial con **disciplina exportadora** frente a la ISI latinoamericana sin disciplina es el mejor argumento comparativo que A ha producido en el debate.
+
+**El punto débil deliberado.** A construyó su ataque sobre una función de producción hipotética: K^0.7 × L^0.3 en lugar de K^0.4 × L^0.6, derivando que una contracción del 10% de la fuerza laboral produce apenas 3% de caída del crecimiento potencial. **A no documentó esas elasticidades.** F estimó empíricamente α en 0.45-0.55 (no 0.70) para manufactura robotizada, y 0.35-0.40 ajustado por rendimientos decrecientes. **La elasticidad real está más cerca de la mitad de la que A postuló.** El resultado numérico de A queda invalidado como cálculo, aunque la dirección cualitativa sobrevive.
+
+**La concesión anticipada de la circularidad** — "escape de trampa → automatización → chips de frontera → EDA que China no tiene, el punto débil más real de mi argumento" — es conducta epistémica superior y merece crédito alto. Como estrategia debilita: A entregó a B el argumento y B lo convirtió en la Dimensión 3 de su trampa cuádruple sin costo de construcción.
+
+### 1.3 Puntaje del Agente A — Ronda 9
+
+| Criterio | Puntaje | Justificación |
+|---|---:|---|
+| Claridad de tesis | 9.0 | Reencuadre correcto: no si el desafío es severo sino si hay mecanismos de ajuste. |
+| Respuesta directa al rival | 9.2 | Respondió las dos ramas de R9-1, los tres episodios de R9-3, y las tres afirmaciones de seguimiento. |
+| Calidad de evidencia | 8.2 | Fuerte en demografía (UNFPA, ONU WPP, MERICS, IFR). Débil en TokenRing y nula en la calibración K/L. |
+| Pertinencia de fuentes | 8.4 | IFR, IMF Article IV, MERICS, UNFPA son las fuentes correctas. Wikipedia y TokenRing bajan el promedio. |
+| Fuerza lógica | 8.3 | Cadena de sustitución capital-trabajo coherente, pero apoyada en parámetros no calibrados. |
+| Capacidad de refutación | 8.0 | El reto paramétrico a B era el correcto; se lo devolvieron demostrando que los parámetros eran inventados. |
+| Reconocimiento de debilidades | 9.8 | Tres concesiones más el retiro de dos afirmaciones y la anticipación de su propia circularidad. Lo mejor de la ronda. |
+| Consistencia interna | 7.8 | B detectó tensión real entre Tesis A-1 (automatización de alta complejidad) y Tesis A-2 (Sur Global como mercado). |
+| Foco en el tema | 8.8 | Cerró seis deudas sin perder el eje demográfico; conectó financiamiento con demografía explícitamente. |
+| Relevancia práctica | 8.6 | Mecanismos datables y verificables (reforma de 2025, 15o Plan, densidad robótica). |
+| Sostener la posición | 8.5 | Sostuvo sin retirarse, pero cediendo terreno en EDA, pensiones y credibilidad BRI. |
+
+**Promedio A — Ronda 9: 8.6**
+
+---
+
+## 2. Evaluación del Agente B (Crítico) — Ronda 9
+
+### 2.1 Cumplimiento de retos vinculantes
+
+**R9-8 (ADVERTENCIA FORMAL) — CERRADA COMPLETAMENTE. Se levanta la advertencia.**
+B documentó el Mecanismo D con las tres fuentes exactas que exigí: Atlas of Economic Complexity 10.0 (China 18°, contra Japón 1°, Alemania 3°, Corea 4°, Singapur 6°), OECD TiVA (domestic value-added share de ~25% en 2022), y evidencia econométrica de firma sobre robots y EXPY. El movimiento analítico superior: B **cambió el comparador**. No China contra los casos de trampa, sino China contra el nivel de complejidad que los exitosos tenían **al momento de cruzar**. Japón, Corea y Alemania estaban entre los cinco primeros del ECI cuando alcanzaron los 30,000-40,000 PPP; China está en el puesto 18 con 13,000-14,000. Cumplimiento con cambio de comparador.
+
+**R9-2 (mecanismo causal ausencia de autocorrección → Régimen 2) — CERRADO. Este es el mejor trabajo de B en la ronda.**
+Cadena de cinco eslabones: ausencia de autocorrección exógena → regulación discrecional sin evaluación institucional ex ante → destrucción de 1-1.5 billones de dólares en capitalización y eliminación del sector de educación privada (9.6M empleos) → **colapso del venture capital de 130,000 a 33,000 millones de dólares entre 2021 y 2024 (-75%)** → contracción de la inversión privada en I+D de frontera → consolidación del modelo de inversión pública en manufactura → Régimen 2.
+
+El dato del venture capital es la **pieza de evidencia decisiva de toda la Ronda 9**. Convierte la ausencia de autocorrección de propiedad institucional descriptiva en variable con efecto financiero medido sobre exactamente el canal que financia el escape de la trampa.
+
+*Advertencia de fuente:* B respalda el dato con "Preqin/PitchBook vía FT, enero 2025" sin enlace verificable. **Instrucción vinculante: B debe aportar el enlace verificable en R10.** Si no lo hace, el dato del -75% se descuenta en el veredicto final.
+
+**R9-4 (insulation → desalineamiento) — CERRADO.** Arquitectura de tres fases: 2026-2030 insulation como gestión de riesgo (concediendo que A tenía razón); 2030-2040 incompatibilidad técnica de ecosistemas; 2040-2050 fragmentation premium que fuerza elecciones estratégicas no deseadas. Conectó el mecanismo con el Régimen 2: la fragmentación no amplía el mercado de alta complejidad de China, lo divide.
+
+**R9-7 (función de BRICS) — CERRADO CON LA MEJOR DECLARACIÓN DE LA RONDA.** B distinguió tres funciones con estatus probatorio diferenciado. La conclusión — "BRICS amplía el mercado de destino de China; no amplía el acceso de China a los insumos de producción de frontera" — es la formulación más económica y precisa del debate hasta aquí.
+
+**Prohibición de lenguaje de colapso — RESPETADA.** Régimen 2 sostenido y cuantificado probabilísticamente (25-30% de que China lo supere).
+
+### 2.2 Respuesta al reto de automatización
+
+**Punto 1 (calibración de A es hipótesis, no dato): CORRECTO y decisivo.** A no documentó K^0.7 × L^0.3; F lo confirmó con estimación empírica de 0.45-0.55 (0.35-0.40 ajustada). El cálculo del "3% de caída" de A queda sin base.
+
+**Punto 3 (PTF sistémica vs. manufactura): el mejor punto de B en la ronda.** "Que China instale más robots mientras su PTF declina es evidencia de que la automatización no está resolviendo el problema de productividad sistémica." Manufactura es ~27% del PIB; servicios ~55%. Un argumento de sustitución capital-trabajo en manufactura no puede, por sí solo, sostener convergencia hacia ingreso alto. **A no tiene respuesta a esto en R9.**
+
+**Punto 4 (Corea del Sur no comparable bajo restricción tecnológica): sólido.** El contrafáctico sobre restricciones a Samsung en 1990 fue validado parcialmente por F.
+
+**Punto 5 (efecto cuantitativamente insuficiente): PARCIALMENTE VICIADO.** B toma el coeficiente de Fu et al. (+0.020% de EXPY por 1% de adopción robótica) y lo proyecta contra un requerimiento de "incremento del EXPY de 30-40%" **sin documentar ese umbral**. Un coeficiente publicado comparado contra un umbral inventado no produce una demostración de insuficiencia. **Penalización moderada.**
+
+**Punto 2 (robots de componentes importados): plausible pero NO DOCUMENTADO.** Afirmación empírica verificable sin fuente. Queda pendiente en R10.
+
+### 2.3 Puntaje del Agente B (Crítico) — Ronda 9
+
+| Criterio | Puntaje | Justificación |
+|---|---:|---|
+| Claridad de tesis | 9.3 | Trampa cuádruple (demográfica, PTF, tecnológica, valor añadido) con retroalimentación entre dimensiones. |
+| Respuesta directa al rival | 9.2 | Cinco puntos contra el reto de automatización; el dilema A-1/A-2 va al centro de la posición de A. |
+| Calidad de evidencia | 8.8 | Atlas ECI, OECD TiVA, World Bank PTF, Fu et al. Restado por umbral EXPY sin fuente y Punto 2 sin documentar. |
+| Pertinencia de fuentes | 9.2 | Exactamente las fuentes que R9-8 exigía. Fuentes primarias institucionales y econométricas revisadas. |
+| Fuerza lógica | 9.4 | Punto 3 (PTF sistémica vs. manufactura) es un desplazamiento de nivel de análisis que A no puede responder en R9. |
+| Capacidad de refutación | 9.3 | Desmontó la calibración K/L, el precedente coreano y la lógica de mercado de destino. |
+| Reconocimiento de debilidades | 8.6 | Tres concesiones reales más cuantificación de su incertidumbre en 25-30%. |
+| Consistencia interna | 9.1 | Régimen 2 respetado; sin lenguaje de colapso; las tres funciones de BRICS coherentes. |
+| Foco en el tema | 8.9 | Cerró cuatro deudas y las reintegró todas al eje de la trampa del ingreso medio. |
+| Relevancia práctica | 9.0 | El dato del venture capital y el domestic value-added share son indicadores accionables y verificables. |
+| Sostener la posición | 9.2 | Sostuvo el Régimen 2 sin endurecerlo ni suavizarlo, y lo hizo falsable con probabilidad explícita. |
+
+**Promedio B — Ronda 9: 9.1**
+
+---
+
+## 3. Resultado de la Ronda 9
+
+**Ganador de ronda: Agente B (Crítico)**
+**Puntajes: B 9.1 — A 8.6**
+**Margen: 0.5 puntos (moderado; más amplio que R8, más estrecho que R7).**
+
+### Justificación
+
+**Por qué A tuvo la mejor intervención del debate en términos de conducta epistémica y aun así perdió.** A cerró seis deudas simultáneas sin evadir ninguna, retirando dos afirmaciones, reformulando una tercera, concediendo tres debilidades estructurales y anticipando el argumento más letal contra sí mismo. En cualquier debate donde el criterio dominante fuera la honestidad intelectual, A gana esta ronda con holgura.
+
+Pero el debate se decide sobre la moción, y **la honestidad de A tuvo un costo sustantivo**: cada concesión transfirió terreno probatorio a B, y B lo ocupó íntegramente.
+
+**Por qué B gana — cuatro razones en orden de peso:**
+
+1. **El Punto 3 (PTF sistémica, no PTF manufacturera).** A construyó todo su mecanismo de ajuste sobre el 27% del PIB. B demostró que la trampa opera sobre la PTF de la economía completa, donde los servicios (~55%) dominan. El argumento entero de A está formulado en el nivel de análisis equivocado. F lo confirmó independientemente con su Hipótesis 4.
+
+2. **El dato del venture capital (-75%).** Cierra R9-2 con el eslabón causal que faltaba desde R7 y con efecto financiero medido sobre el canal exacto que financia el escape.
+
+3. **El desmontaje de la calibración K^0.7 × L^0.3.** A apostó su ataque a una elasticidad no documentada. B lo señaló; F la estimó empíricamente en aproximadamente la mitad.
+
+4. **La documentación de R9-8 con cambio de comparador.** China 18° en ECI con 13,000-14,000 PPP frente a Japón/Corea/Alemania entre los cinco primeros con 30,000-40,000, más un domestic value-added share de ~25% contra el >50-60% de los que cruzaron.
+
+**Por qué el margen es 0.5 y no mayor:** B introdujo el umbral de "incremento del EXPY del 30-40%" sin fuente; afirmó sin documentar que el stock robótico chino es mayoritariamente de componentes importados; su Fase 3 (fragmentation premium) es especulativa; y no reetiquetó explícitamente el Mecanismo C. Además, **F validó parcialmente a A**: los tres mecanismos de ajuste suman +0.85-1.34% anual en 2030-2035 y F afirmó que "eso no es la trampa del ingreso medio clásica — es crecimiento sostenido en el 3.5-4.5% que ningún caso histórico de trampa muestra."
+
+---
+
+## 4. Evaluación de la intervención del Agente F (Especialista en Demografía y Desarrollo)
+
+**Valoración global: la mejor intervención de especialista del debate hasta ahora. Supera el estándar que E fijó en R8.**
+
+### 4.1 Rigor metodológico
+
+F introdujo un sistema de etiquetado de cuatro niveles — [DO] dato observado, [PI] proyección institucional, [EC] estimación calibrada con supuestos explicitados, [EI] estimación incierta con rango amplio — y **lo aplicó consistentemente en cada cifra de la intervención, incluyendo las tablas**. F además **mostró su aritmética** completa: cadenas del tipo "6% × 0.38 × 0.27 ≈ +0.6% por año", auditables paso por paso. **Instruyo su adopción obligatoria por A y B a partir de R10.**
+
+### 4.2 Contribución técnica decisiva
+
+**La distinción capital deepening vs. PTF es el aporte conceptual más importante de la Ronda 9, y posiblemente del debate.** F estableció que A y B tenían ambos razón porque estaban midiendo cosas distintas: la densidad robótica mide intensificación de capital por trabajador, no productividad total de factores. Esta distinción disuelve una discusión de dos rondas. La descomposición en tres efectos de la robotización (sustitución / escala / aprendizaje-complementariedad) identifica que **A necesita específicamente el efecto escala y el efecto aprendizaje**, no el efecto sustitución que ha estado documentando.
+
+### 4.3 Cumplimiento de los mandatos
+
+**Cuantificación por sub-horizontes: CUMPLIDO ÍNTEGRAMENTE.** Tabla de tres mecanismos por dos sub-horizontes con condicionalidad crítica. Totales: +0.85-1.34% anual en 2030-2035; +0.55-1.60% anual en 2035-2045. Crecimiento potencial resultante: 4.35-4.84% y 3.05-4.10% respectivamente.
+
+**Validez metodológica del precedente Japón/Corea/Taiwán: CUMPLIDO CON PRECISIÓN NOTABLE.** F dictaminó que la comparación es "metodológicamente imperfecta en dos dimensiones independientes" (nivel de ingreso al envejecer, y acceso a insumos), ambas en desfavor de China — pero **no inválida**. La formulación de cierre es ejemplar: **"el precedente demuestra la existencia del mecanismo de ajuste, no su operatividad automática en las condiciones específicas de China 2025-2045."**
+
+**Reequilibrio demográfico BRICS 2040-2050: CUMPLIDO.** Hallazgo integrador: la presión demográfica de India, Nigeria y Etiopía opera **desde abajo** y **refuerza el imperativo de upgrade tecnológico chino sin proveer los medios para ejecutarlo**.
+
+**Evidencia que ningún debatiente consideró:**
+- **Nam, Park y Kim (Technovation, 2023):** panel de 71 países encuentra que la adopción de robots **reduce** la probabilidad de caer en la trampa. Es la mejor evidencia externa a favor de A en toda la ronda, y la aportó el especialista, no A.
+- **J-curve de Acemoglu y Restrepo (2019-2020):** período de reorganización post-adopción de 5-10 años que deprime la PTF antes de que los beneficios se materialicen. Directamente relevante contra la premisa de B.
+- **Rodrik (2016), desindustrialización prematura:** corta contra A.
+
+### 4.4 La resolución de la paradoja robots-PTF
+
+F dictaminó cuáles hipótesis tienen mayor respaldo empírico: las Hipótesis 3 (65-70% del stock robótico chino es de 1ª-2ª generación, sin sensores adaptativos; sustituye trabajo sin desplazar la frontera de producción) y 4 (la robotización se concentra en manufactura, ~27% del PIB, mientras los servicios, ~55%, arrastran la PTF agregada). El hallazgo integrador: **"para que ese salto ocurra se necesita la segunda generación de automatización — dependiente de tecnología de chips bajo restricción. Ese es el eslabón que conecta la restricción tecnológica de B con el argumento demográfico de A."**
+
+### 4.5 Los escenarios probabilísticos
+
+Tres escenarios con probabilidades: escape gradual 30-40%; trampa de meseta en ingreso medio-alto 45-55% (el Régimen 2 de B); desaceleración severa 10-20%. El escenario modal de F es el Régimen 2 de B, con una calibración ligeramente más optimista que B (30-40% vs. 25-30% de superar el Régimen 2). **Instruyo a A a declarar su distribución de probabilidad en R10.**
+
+### 4.6 Debilidades menores de F
+
+1. Las estimaciones [EC] descansan en elasticidades tomadas de Bai, Hsieh y Song (2016) e IMF WP 2024 sin mostrar cómo derivó los rangos específicos de 0.45-0.55 y 0.35-0.40.
+2. La aritmética de urbanización mezcla magnitudes nominales y de PPP (potencialmente sobreestimando la contribución).
+3. La cifra de "65-70% del stock robótico chino es de 1ª-2ª generación" está etiquetada [EC] pero sostiene la hipótesis declarada con mayor respaldo empírico — cierta tensión entre la firmeza del dictamen y el estatus estimativo del dato.
+
+**Puntaje de contribución técnica de F: 9.5/10.** El más alto otorgado a un especialista en el debate.
+
+---
+
+## 5. Cierre formal de deudas y estado del pasivo
+
+### Deudas cerradas tras R9
+
+| Reto | Agente | Estado | Observación |
+|---|---|---|---|
+| **R9-1** (arquitectura financiera / insumos de frontera) | A | **CERRADO** | Respondió ambas ramas. Rama (a) reformulada a redundancia; rama (b) con concesión en EDA. Cerrado, no ganado. |
+| **Pendiente severo cuarta ronda** (financiamiento 2026-2032) | A | **CERRADO** | Cuatro rondas de deuda extinguidas. Conectado con demografía por dos canales. Penalización levantada. |
+| **R9-3** (credibilidad de no-weaponización BRI) | A | **CERRADO CON CONCESIÓN MAYOR** | No existe mecanismo institucional formal; sustituido por deterrence endógeno. |
+| **R9-6** (desagregación de los 130 acuerdos) | A | **CERRADO POR RETIRO** | Dato retirado parcialmente y sustituido por 5G de Huawei. El dato original queda vedado. |
+| **R9-7** (función de BRICS) | A y B | **CERRADO PARA AMBOS** | A: plataforma de multipolaridad. B: tres funciones con estatus diferenciado. Ambos vinculados. |
+| **Tres afirmaciones de seguimiento R8** | A | **CERRADAS** | Dos retiradas/reformuladas, una acotada. Pasivo documental de A en cero. |
+| **R9-2** (mecanismo ausencia de autocorrección → Régimen 2) | B | **CERRADO** | Cadena de cinco eslabones con el dato de venture capital como evidencia central. Mejor cierre de la ronda. |
+| **R9-4** (insulation → desalineamiento) | B | **CERRADO** | Arquitectura de tres fases datadas. Fase 3 especulativa pero admisible como proyección. |
+| **R9-8** (ADVERTENCIA FORMAL, Mecanismo D) | B | **CERRADA — ADVERTENCIA LEVANTADA** | Atlas ECI + OECD TiVA + econometría de firma. Cumplimiento con cambio de comparador. |
+| **Prohibición de lenguaje de colapso** | B | **RESPETADA** | Régimen 2 sostenido y cuantificado probabilísticamente. |
+| **Prohibición de "Occidente hace lo mismo"** | A | **RESPETADA** | A no recurrió a la comparación exculpatoria en ningún punto de R9. |
+
+### Deudas pendientes que se arrastran a R10
+
+- **R9-5 (condición de umbral hedging → alineamiento):** NO RESPONDIDO. **Transferido a R10 como vinculante para ambos — sin más prórrogas.** R10 (renminbi y desdolarización) es el contexto natural.
+- **Bifurcación arquitectónica, componente institucional:** sigue parcialmente abierto para A. Se difiere a R10 u R11.
+- **Mecanismo C de B:** no reetiquetado. Debe documentarse o declararse hipótesis no probada en R10.
+
+---
+
+## 6. Nuevos retos vinculantes para la Ronda 10
+
+**R10-1 — Reto de B a A, ratificado y endurecido por el arbitraje (VINCULANTE, PRIORIDAD ABSOLUTA).**
+A debe articular el mecanismo por el cual **la PTF china revertirá su tendencia declinante en el horizonte 2026-2035, cuando no lo hizo durante la primera ola de robotización masiva de 2015-2025**. Con tres exigencias adicionales:
+
+(a) En el nivel de análisis correcto: **PTF de la economía completa, no productividad de la manufactura**. Repetir el argumento de sustitución capital-trabajo en manufactura se computará como evasión.
+
+(b) Pronunciamiento obligatorio sobre las Hipótesis 3 (65-70% del stock robótico es de 1ª-2ª generación) y 4 (arrastre del sector servicios) de F. Si no las disputa, se aceptan.
+
+(c) A puede invocar la **Hipótesis 2 de F (problema de medición)** para acotar la premisa de B, pero si lo hace debe aceptar el "insuficiente" junto con el "positivo". **Sin ese mecanismo, el argumento de automatización de A queda establecido como demostración de sustitución capital-trabajo pero no de salto de productividad total.**
+
+**R10-2 — Reto del árbitro a B sobre la J-curve (VINCULANTE, PRIORIDAD ABSOLUTA).**
+F introdujo la Hipótesis 1: la J-curve de Acemoglu y Restrepo (2019-2020) establece un período de reorganización post-adopción de 5-10 años en que los costos de ajuste **deprimen la PTF observada antes de que los beneficios se materialicen**. China aceleró su robotización masiva desde 2013-2015 — el período de maduración se sitúa entre 2020 y 2025. **B debe responder por qué la J-curve no aplica a China, o aceptar que su inferencia "PTF declinante durante robotización ⇒ la automatización no resuelve el problema" está mal identificada temporalmente.** Vías admisibles: (i) demostrar que China ya está fuera de la ventana de maduración sin reversión; (ii) demostrar que la J-curve requiere condiciones habilitantes que China no reúne; (iii) demostrar que la Hipótesis 3 de F implica que no hay J-curve porque no hay desplazamiento de frontera que madurar. **Evasión o mera reiteración de la serie de PTF: penalización severa.**
+
+**R10-3 — Reto de documentación a B (VINCULANTE).** B debe:
+(a) Aportar **enlace verificable** al dato de venture capital 130,000 → 33,000 millones (Preqin/PitchBook vía FT). **Incumplimiento: el dato se descuenta en el veredicto final.**
+(b) Documentar o retirar la afirmación de que el stock robótico chino es mayoritariamente de componentes importados.
+(c) Documentar o retirar el umbral de "incremento del EXPY de 30-40%".
+(d) Reetiquetar el Mecanismo C como documentado o hipótesis no probada.
+
+**R10-4 — Reto del árbitro a A (VINCULANTE).** Resolver el **dilema A-1 / A-2**: elegir rama o **demostrar empíricamente la vía intermedia** de mercados de ingreso medio en ascenso (ASEAN, Golfo, México, Brasil, Turquía). Si elige la vía intermedia, debe cuantificar el tamaño de ese mercado y su capacidad de absorción de bienes de alta complejidad.
+
+**R10-5 — Reto del árbitro a ambos: probabilidades explícitas (VINCULANTE).** **A debe declarar en R10 su distribución de probabilidad sobre los tres escenarios de F** y qué evidencia observable entre 2026 y 2030 los movería de escenario. **A no puede sostener la moción sin asignar probabilidad al escenario en que la moción es falsa.**
+
+**R10-6 — R9-5 transferido (VINCULANTE PARA AMBOS, sin más prórrogas).** Ambos deben especificar la condición de umbral bajo la cual el hedging del Sur Global se convierte en alineamiento estratégico. R10, por tratar de renminbi y desdolarización, es el contexto natural: la adopción monetaria es el indicador más duro de alineamiento disponible.
+
+**R10-7 — Instrucción metodológica vinculante para ambos.** A partir de R10, A y B deben adoptar el **sistema de etiquetado de cuatro niveles de F**: [DO] dato observado, [PI] proyección institucional, [EC] estimación calibrada con supuestos explicitados, [EI] estimación incierta. Toda cifra debe llevar etiqueta. **Toda estimación derivada debe mostrar su aritmética.** Cifras sin etiqueta o cálculos sin aritmética expuesta se descontarán automáticamente en el veredicto final.
+
+**R10-8 — Advertencia a B sobre la PTF.** B no puede seguir invocando "PTF declinante" como dato univoco. Debe especificar metodología y fuente cada vez que lo haga, y distinguir entre "declinante" y "positiva pero insuficiente" — que son afirmaciones distintas con consecuencias distintas para el Régimen 2.
+
+**R10-9 — Reto del árbitro al especialista D.** Además de los mandatos temáticos de R10, D debe evaluar técnicamente: ¿qué nivel de capacidad de cómputo requieren los sistemas de control robótico de nueva generación y de manufactura flexible, y está ese nivel dentro o fuera del alcance de la capacidad doméstica china de semiconductores en el horizonte 2026-2035? Esta pregunta conecta R9 con R10.
+
+**Vetos y vinculaciones vigentes:**
+- A queda vinculado a BRICS como plataforma de multipolaridad; no puede argumentar coordinación estratégica bajo liderazgo chino.
+- B queda vinculado al Régimen 2; prohibición de lenguaje de colapso vigente.
+- El dato de "130 acuerdos de estándares" queda **vedado** como indicador del Canal 2.
+- La calibración K^0.7 × L^0.3 de A queda **descartada** salvo que A la documente empíricamente. La estimación de F (α = 0.45-0.55, ajustada a 0.35-0.40) es la referencia operativa del debate.
+- El dictamen de F sobre el precedente Japón/Corea **no puede ser citado selectivamente**. Quien lo invoque debe invocarlo completo.
+
+---
+
+## 7. Marcador acumulado — Rondas 1 a 9
+
+| Ronda | Tema | Especialista | Ganador | Puntajes (A — B) | Margen |
+|---|---|---|---|---|---|
+| 1 | Enmarcado y tesis centrales | — | Empate técnico | 8.0 — 8.0 | 0.0 |
+| 2 | Desempeño económico y crecimiento | — | B | 8.1 — 8.5 | 0.4 |
+| 3 | Estabilidad política y legitimidad | C | A | 8.6 — 8.2 | 0.4 |
+| 4 | Innovación y capacidad tecnológica | D | B | 8.3 — 8.8 | 0.5 |
+| 5 | Instituciones, corrupción y Estado de derecho | C | B | 8.2 — 8.9 | 0.7 |
+| 6 | Modelo social y desigualdad | — | A | 8.7 — 8.4 | 0.3 |
+| 7 | Semiconductores y control tecnológico | D | B | 8.4 — 9.0 | 0.6 |
+| 8 | Geopolítica de alianzas | E | B | 8.7 — 8.9 | 0.2 |
+| 9 | Demografía y trampa del ingreso medio | F | **B** | **8.6 — 9.1** | **0.5** |
+
+**Marcador de rondas: B 6 — A 2 — Empates 1**
+
+**Promedio acumulado tras nueve rondas: A 8.40 — B 8.64**
+
+### Lectura del acumulado
+
+**B lidera con solidez pero no de forma concluyente.** Seis rondas ganadas contra dos, con ventaja media de 0.24 puntos. El liderazgo es consistente pero los márgenes son estrechos: ninguna ronda se decidió por más de 0.7 puntos y tres se decidieron por 0.3 o menos.
+
+**Patrón de A:** gana las rondas de dimensión social e interna (R3 legitimidad, R6 desigualdad) y pierde las de dimensión tecnológica y estructural (R4, R5, R7, R9). Su trayectoria de calidad es **ascendente en conducta epistémica** — pasivo documental en cero por segunda ronda consecutiva — pero esa mejora **no se está traduciendo en victorias de ronda**, porque cada concesión honesta transfiere terreno probatorio a B. Es el problema estratégico central de A en la segunda mitad del debate: debe encontrar cómo ser riguroso sin ser cedente.
+
+**Patrón de B:** consistencia alta, especificidad creciente y disposición a hacer su posición falsable. Su debilidad recurrente y persistente es **la introducción de afirmaciones sin documentar en posiciones argumentales decisivas** — aparecida en cuatro rondas consecutivas. Es el factor que más podría erosionar su ventaja en el veredicto final si R10-3 no se cumple.
+
+**Estado de la moción tras nueve rondas:** la moción sostiene mejor su componente de **sostenibilidad** (el modelo no colapsa; F asigna solo 10-20% al escenario de desaceleración severa) que su componente de **competir exitosamente con las democracias liberales** (la convergencia hacia el nivel de ingreso del bloque avanzado es donde B y el escenario modal de F, con 45-55%, apuntan al Régimen 2). El veredicto final deberá tratar los dos componentes de la moción por separado, y anticipo desde ahora que podrían resolverse en direcciones distintas.
+
+---
+
+## 8. Tema y estructura de la Ronda 10 — CONFIRMADOS
+
+**Tema de Ronda 10:** Renminbi y desdolarización — ¿puede la arquitectura financiera alternativa china sostener el modelo frente a la weaponización del sistema financiero occidental, y qué implica la trayectoria del renminbi para la competencia con las democracias liberales?
+
+**Especialista de Ronda 10:** **Agente D (Tecnología e IA).**
+
+*Nota del árbitro:* el eje técnico de R10 no es la teoría monetaria sino la **infraestructura**: CIPS, mBridge, monedas digitales de banco central, mensajería de pagos, interoperabilidad de sistemas y la capa criptográfica y de cómputo que las sostiene. D es el especialista adecuado para evaluar si mBridge y el e-CNY son arquitecturas técnicamente capaces de operar a la escala requerida. **Si D determina que el análisis requiere competencia macrofinanciera que excede su mandato, debe declararlo explícitamente** en lugar de extralimitarse.
+
+**Orden de intervención:** A abre → B responde → D cierra con aporte especializado.
+
+**Instrucciones a A para R10:**
+1. **R10-1 (PTF) como prioridad absoluta.** Nivel de análisis correcto: economía completa. Pronunciamiento sobre Hipótesis 3 y 4 de F.
+2. **R10-4:** resolver el dilema A-1 / A-2.
+3. **R10-5:** declarar distribución de probabilidad sobre los tres escenarios de F.
+4. **R10-6:** condición de umbral hedging → alineamiento. Sin prórroga.
+5. **Sobre el tema:** A queda vinculado a la tesis de "redundancia, no sustitución". Debe especificar qué grado de redundancia financiera es necesario para que el modelo sea sostenible y demostrar que la arquitectura actual lo alcanza o alcanzará en horizonte datado. El dato de que CIPS depende de mensajería SWIFT para más del 80% de sus transacciones es parte del expediente.
+6. **R10-7:** etiquetado de cuatro niveles obligatorio; aritmética expuesta.
+
+**Instrucciones a B para R10:**
+1. **R10-2 (J-curve) como prioridad absoluta.** Es el reto más exigente que B ha recibido.
+2. **R10-3:** las cuatro tareas de documentación, en particular el enlace verificable al dato de venture capital.
+3. **R10-6:** condición de umbral hedging → desalineamiento. Sin prórroga.
+4. **R10-8:** especificar metodología cada vez que invoque la trayectoria de la PTF.
+5. **Sobre el tema:** B debe conectar la desdolarización con el Régimen 2 mediante mecanismo explícito. La pregunta que debe responder: ¿la limitación de la internacionalización del renminbi es *causa* del Régimen 2, *consecuencia* de él, o meramente concomitante?
+6. **R10-7:** etiquetado de cuatro niveles obligatorio.
+
+**Instrucciones a Agente D para R10:**
+1. Informar, no arbitrar. Estándar: F en R9 (etiquetado de cuatro niveles, aritmética expuesta).
+2. Evaluar técnicamente la arquitectura: CIPS (capacidad, dependencia de mensajería SWIFT, throughput real), mBridge (estado post-MVP, participantes, volumen procesado, gobernanza tras salida del BIS), e-CNY (adopción doméstica real, uso transfronterizo), y viabilidad de mensajería alternativa a SWIFT.
+3. **R10-9:** pronunciarse sobre el requisito de cómputo de la segunda generación de automatización y su alcance dentro de la capacidad doméstica china de semiconductores en 2026-2035.
+4. Identificar al menos un cuerpo de evidencia que ningún debatiente haya considerado.
+5. Declarar explícitamente cualquier límite de su mandato disciplinar.
+
+**Advertencias generales para R10:**
+- **Distinción obligatoria entre tres magnitudes**: participación del renminbi en pagos internacionales (SWIFT RMB tracker), participación en reservas oficiales (COFER del FMI), y participación en financiamiento comercial. Usar una por otra se computará como imprecisión.
+- **Prohibición de extrapolación de tasas de crecimiento.** Crecimientos porcentuales altos desde bases pequeñas no son evidencia de sustitución. Magnitudes en términos absolutos y cuota de mercado, no solo tasas de variación.
+- Horizontes datados obligatorios: 2030, 2040, 2050.
+- Foco: R10 debe conectarse con la moción. Se penalizará la acumulación de datos de infraestructura financiera sin mecanismo causal explícito hacia la sostenibilidad y competitividad del modelo.
+
+---
+
+**Nota de alcance:** esta es una evaluación parcial de Ronda 9, no un veredicto. El resultado de esta ronda es un insumo entre varios para el veredicto final de Fase 5.
+
+**Nota de revisión humana:** el debate versa sobre materia económica, geopolítica, demográfica y regulatoria de alto impacto. Tanto las evaluaciones parciales como el veredicto final **requieren revisión humana** antes de ser utilizados como base de decisión.
+
+---
+
+*Fin de la evaluación del Árbitro G — Ronda 9*
