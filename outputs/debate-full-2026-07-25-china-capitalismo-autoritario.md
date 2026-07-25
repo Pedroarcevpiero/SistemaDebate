@@ -1287,3 +1287,181 @@ La concesión de A sobre el riesgo de "japonización prolongada" abre la pregunt
 - [S&P Global — Same Game, Different Name: China LGFV Issues to Repay Debt of a Peer, feb. 2024](https://www.spglobal.com/ratings/en/research/articles/240229-same-game-different-name-china-lgfv-issues-to-repay-the-debt-of-a-peer-13019972)
 - [RBA Bulletin — The ABCs of LGFVs: China's Local Government Financing Vehicles, oct. 2024](https://www.rba.gov.au/publications/bulletin/2024/oct/the-abcs-of-lgfvs-chinas-local-government-financing-vehicles.html)
 
+
+### Agente C (Economía Política Comparada) — Ronda 3
+
+#### Perspectiva comparada: el "control simultáneo" en perspectiva histórica
+
+El argumento central del Agente A en esta ronda — que el Estado chino puede gestionar su deuda de forma relativamente benigna porque controla simultáneamente a los deudores (SOEs, LGFVs) y a los acreedores (bancos estatales) — es analíticamente el punto más sofisticado del debate hasta ahora. También es el argumento que más necesita ser sometido a la comparación histórica sistemática, porque tiene precedentes reales cuya trayectoria permite evaluar sus límites con rigor empírico.
+
+**Caso 1: Corea del Sur, 1997-1998 — gobierno controlaba Chaebols y bancos relacionales.**
+
+La reestructuración coreana post-1997 es el caso que el Agente A implícitamente usa como modelo de éxito ("Corea emergió con modelo más competitivo"). Pero la lectura de ese caso es más compleja de lo que A sugiere. El gobierno Park/Kim tenía antes de la crisis un control estatal denso sobre el sistema bancario coreano: crédito dirigido, bancos públicos y cuasipúblicos que operaban como brazos de la política industrial, y Chaebols con vínculos orgánicos al Estado a través de relaciones de clientelismo supervisado. El sistema tenía, en términos funcionales, la misma arquitectura que A describe para China: el Estado conocía a sus deudores y controlaba a los acreedores.
+
+Sin embargo, cuando el shock externo llegó — la reversión de flujos de capital en el contexto de la crisis asiática — ese "control simultáneo" no fue suficiente para evitar la crisis sistémica. El mecanismo de contagio no fue la denominación de la deuda doméstica: fue la deuda corporativa de corto plazo denominada en dólares, exactamente análoga a los bonos offshore de LGFVs que el Agente B identifica como vector de vulnerabilidad para China hoy. El gobierno Kim Dae-jung tuvo que aceptar un programa de 58,000 millones de dólares del FMI con condicionalidad estructural severa (Haggard y Kaufman, 2008), que incluyó liquidación forzada de empresas en sectores protegidos, reestructuración bancaria con reconocimiento de pérdidas, y apertura a inversión extranjera. El costo fiscal directo de la reestructuración bancaria fue estimado entre el 25% y el 35% del PIB por el propio FMI (Honohan y Laeven, 2005). Corea tuvo éxito no a pesar de la intervención externa sino gracias a ella: el FMI con su condicionalidad operó como el árbitro externo que forzó el reconocimiento de pérdidas que el sistema doméstico de "control simultáneo" había diferido durante una década. El punto de B sobre la ausencia de ese árbitro externo para China es el más sólido de su intervención.
+
+**Caso 2: Francia en los años 80 — nacionalización bancaria con dirección crediticia.**
+
+El gobierno Mitterrand implementó en 1981-1982 la mayor nacionalización bancaria en una democracia occidental del siglo XX: estatalizó los cinco bancos comerciales más grandes (Crédit Lyonnais, Société Générale, BNP entre ellos), más 36 bancos industriales. El resultado fue un sistema bancario en el que el Estado controlaba simultáneamente la política de crédito y los balances. Durante los años 80, este sistema financió activamente industrias en dificultades — acero, astilleros, textiles — comprimiendo artificialmente las pérdidas en los balances de los bancos públicos.
+
+El costo llegó en los años 90. El Crédit Lyonnais, el banco público más grande, acumuló pérdidas por aproximadamente 100,000 millones de francos en activos inmobiliarios y préstamos corporativos fallidos entre 1992 y 1995. El rescate estatal definitivo entre 1994 y 1999 costó al Tesoro francés entre 130,000 y 150,000 millones de francos (aproximadamente 2.5-3% del PIB acumulado), distribuidos a lo largo de cinco años (Calomiris y Haber, 2014). El caso francés confirma el mecanismo que B describe: el "control simultáneo" no eliminó las pérdidas, las disfrazó temporalmente y las transfirió al contribuyente. La diferencia con el caso chino es que la escala del problema francés era de uno o dos órdenes de magnitud menor que la estimación FMI de 51% del PIB en deuda LGFV para China.
+
+**Caso 3: India — bancos públicos con alta NPL gestionada gradualmente.**
+
+El caso indio es el más instructivo para el argumento de A, y el que ninguno de los dos agentes ha mencionado. India ha gestionado durante décadas un sistema bancario público con NPL ratio estructuralmente elevado — que alcanzó el 11.5% en 2018 según el Reserve Bank of India, siendo en términos absolutos el sistema bancario con peores préstamos del mundo en ese año — sin producir crisis sistémica. El mecanismo: represión financiera moderada (tasas de depósito controladas), recapitalización periódica de bancos públicos con fondos del Tesoro, y extensión de plazos a deudores corporativos en dificultades mediante esquemas de "evergreening". El costo acumulado de recapitalización bancaria en India entre 2015 y 2022 fue de aproximadamente 3.5 billones de rupias (aproximadamente 2.5% del PIB), según el Parliamentary Budget Office de India.
+
+¿Qué concluye la comparación histórica? Que el "control simultáneo" sí puede evitar crisis abruptas de liquidez (India lo demuestra por tres décadas) pero que tiene dos costos inevitables: (a) supresión del crecimiento de la PTF por zombie lending sostenido, y (b) transferencia fiscal real al contribuyente que reduce el espacio de política para reformas de otro tipo. El precedente indio es favorable al argumento de A en términos de evitar el colapso sistémico, pero es desfavorable en términos de costos de crecimiento: el PTF del sector bancario indio en el período 2015-2019 fue consistentemente negativo (RBI Annual Report, 2020). China no puede esperar que su modelo de "gestión gradual" produzca resultados de crecimiento mejores que el caso indio.
+
+---
+
+#### Sobre la paradoja represión financiera vs. expansión social
+
+El Agente B identifica en esta ronda una contradicción que considera fatal para las cuatro reformas de A: la represión financiera necesaria para absorber pérdidas bancarias contradice directamente la Reforma 2 (liberar ahorro precautorio mediante expansión de protección social). La pregunta que mi tarea requiere responder es si esa contradicción es estrictamente correcta o si puede ser matizada.
+
+La respuesta honesta es: B tiene razón sobre la tensión real pero exagera la incompatibilidad mecánica.
+
+La literatura teórica distingue entre "represión financiera de primer orden" (tasas nominales forzadas por debajo de la inflación, que penaliza al ahorrador en términos reales) y "regulación financiera funcional" en el sentido de McKinnon (1973) y Shaw (1973), que puede operar simultáneamente con políticas de expansión del consumo bajo condiciones específicas. Stiglitz y Weiss (1981) demostraron formalmente que en mercados con información asimétrica severa, el crédito dirigido puede mejorar la eficiencia agregada incluso cuando suprime tasas de mercado, porque los mercados de crédito no siempre producen equilibrios óptimos de Pareto con precios libres.
+
+Sin embargo, el argumento de Stiglitz-Weiss se aplica a una situación donde el crédito dirigido es selectivo y temporalmente acotado, no a una represión financiera sostenida a escala sistémica durante una o dos décadas. La condición que distingue la "represión funcional" del extractivismo financiero pleno es si la transferencia de rendimientos del ahorro hacia el sistema bancario logra producir inversión de mayor productividad que la que habría generado el mercado libre. En el caso de los LGFVs chinos que financiaron autopistas de peaje con tráfico insuficiente en provincias del interior, no hay evidencia de esa mejora de productividad. La "represión funcional" requiere que los bancos asignen mejor que el mercado; la evidencia de misasignación en el sector inmobiliario y LGFV (que el propio Agente A concede) sugiere que esa condición no se cumple en el caso chino.
+
+Lo que sí existe como posibilidad teórica — y es relevante para el debate — es una secuencia temporal: represión financiera para absorber pérdidas en el período 2026-2032, seguida de reducción gradual de la represión a medida que los balances bancarios se limpian, lo que permitiría eventualmente la expansión del consumo mediante la Reforma 2. La pregunta empírica es si esa secuencia es realizable en el horizonte de 2030-2040. El caso japonés sugiere que la secuencia tardó más de una década incluso bajo condiciones más favorables. El caso sueco de 1991-1994 sugiere que puede comprimirse a 3-4 años con intervención quirúrgica y reconocimiento pleno de pérdidas — pero Suecia tuvo lo que China no tiene: árbitro externo (UE), mecanismo de disciplina democrática, y un sector bancario relativamente simple. La paradoja de B es correcta en el corto y mediano plazo, pero no es lógicamente absoluta en el horizonte 2035-2040 si el gobierno logra comprimir el período de absorción de pérdidas mediante intervención directa.
+
+---
+
+#### Japanización comparada: evaluación de las 3 asimetrías de B
+
+El Agente B formula tres asimetrías estructurales que harían que una "japonización" china sea peor que la japonesa. Las evalúo con criterio analítico independiente.
+
+**Asimetría 1: Leverage inicial mayor (China 312-366% vs. Japón ~300% en 1990).**
+
+Esta es la asimetría más sólida de las tres, pero requiere matización metodológica. La comparación de niveles de deuda/PIB entre China y Japón en 1990 es legítima, pero hay dos factores que B no explora suficientemente. Primero, la composición importa: la deuda japonesa en 1990 incluía deuda corporativa (170% del PIB) concentrada en el sector inmobiliario y financiero con muy alta correlación entre activos colaterales y el ciclo inmobiliario — exactamente la misma estructura que China tiene hoy, lo que hace la comparación de nivel más relevante, no menos. Segundo, la deuda de hogares chinos (64% del PIB) es significativamente más alta que la japonesa en 1990 (aproximadamente 35% del PIB según múltiples fuentes), lo que restringe la capacidad de estimular consumo mediante crédito a hogares — un mecanismo que Japón usó parcialmente en sus intentos de reflación de los años 90. Esta asimetría es analíticamente sólida y agrava la posición de China respecto a Japón, no la mejora.
+
+**Asimetría 2: Demografía peor y sin válvula de inmigración.**
+
+Analíticamente sólida en su dirección, pero parcialmente sobreestimada en su magnitud. Japón en 1990 ya tenía una proporción de dependencia en aumento y una TFR de aproximadamente 1.54, comparable a la china actual. La diferencia relevante es de velocidad y profundidad de la transición: la caída demográfica china, amplificada por la política del hijo único durante tres décadas, es más abrupta. Sin embargo, B subestima un factor en sentido contrario: la automatización masiva en manufactura puede atenuar el impacto de la contracción laboral en la PTF sectorial, particularmente si la inversión en robótica que A documenta (295,000 unidades en 2024, 54% del total global) produce ganancias de productividad por trabajador suficientes para compensar la caída en el número de trabajadores. Japón también tuvo una de las primeras transiciones a la automatización industrial avanzada del mundo, y su caída demográfica no produjo la contracción de producción que los modelos simples habrían predicho. Esta asimetría es sólida, pero su impacto está condicionado a la velocidad de la transición a la automatización — una variable que el Agente D deberá desarrollar en Ronda 4.
+
+**Asimetría 3: Sin deflactor externo comparable al yen (Plaza Accord).**
+
+Esta es la asimetría más débil de las tres. El argumento de B es que Japón pudo ajustar externamente a través del tipo de cambio (depreciación del yen después de la apreciación forzada del Plaza Accord), y China no puede depreciar el renminbi sin desencadenar represalias comerciales y fuga de capitales. El problema es que el mecanismo de ajuste japonés fue precisamente la fuente de la burbuja (la apreciación del yen por Plaza Accord en 1985 forzó la política de dinero barato doméstico de 1986-1989 que infló la burbuja), no solo su alivio posterior. Además, la China de 2026 ya tiene un superávit comercial masivo y capacidad exportadora en manufactura que no depende del tipo de cambio de la misma forma que la economía japonesa de los años 80 dependía de la competitividad cambiaria. El argumento de B sobre el "deflactor externo" introduce una analogía histórica que no tiene la solidez mecanicista de las dos primeras asimetrías.
+
+**Factores que ninguno de los dos mencionó:**
+
+Hay al menos dos factores asimétricos que el debate A-B ha ignorado hasta ahora. El primero es favorable a China respecto a Japón: la escala del mercado doméstico como destino de transición. Japón en 1990 tenía 123 millones de personas con un mercado doméstico ya maduro. China tiene 1,400 millones con proporción significativa todavía en proceso de urbanización y con niveles de consumo per cápita muy por debajo de la frontera. El potencial de demanda doméstica real es cualitativamente distinto.
+
+El segundo es desfavorable a China y ausente del debate: la opacidad de las pérdidas reales en el balance del sistema financiero. En Japón, los valores de los activos inmobiliarios eran transparentes porque el mercado operaba con valoraciones públicas y supervisión bancaria con capacidad de obligar reconocimiento. En China, el FMI estima la deuda LGFV en 51% del PIB pero con incertidumbre metodológica severa — los balances consolidados de vehículos de inversión local no están disponibles públicamente con suficiente desagregación. La opacidad de las pérdidas reales hace que el punto de entrada del ajuste sea desconocido incluso para el gobierno central, lo que complica la planificación de las reformas que A describe.
+
+---
+
+#### Nota metodológica: calidad de la evidencia comparada
+
+Ambos agentes mejoraron su manejo de evidencia en esta ronda, con asimetrías significativas.
+
+**El Agente A** comete dos problemas metodológicos con la evidencia comparada. Primero, cita la reestructuración coreana y la reducción de capacidad en acero/carbón como evidencia de capacidad de ajuste, pero omite sistemáticamente los costos: en el caso coreano, el costo fiscal fue 25-35% del PIB con intervención del FMI; en el caso chino, la reducción de capacidad fue acompañada de subvenciones masivas no cuantificadas públicamente. Presentar el resultado sin el costo es selección de evidencia. Segundo, la comparación de China con Argentina 2001 y Grecia 2010 es metodológicamente correcta como descarte de analogía — pero es un straw man parcial porque B nunca argumentó que China enfrentará un colapso de ese tipo.
+
+**El Agente B** usa mejor la evidencia comparada en esta ronda: la identificación de tres actores institucionales con casos verificables (Zhongzhi, Henan-Anhui) es la mejor respuesta empírica de la ronda; la cuantificación de la contradicción represión financiera/consumo tiene la estructura correcta; las tres asimetrías frente a Japón son analíticamente el mejor argumento construido de la ronda 3. El sesgo de selección más evidente es de A.
+
+La ausencia del caso indio en todo el debate hasta esta ronda, cuando India ofrece el precedente más directo de gestión de NPL bajo banca pública a escala continental sin crisis sistémica, es la omisión comparada más significativa de ambos.
+
+---
+
+#### Síntesis para el debate
+
+Al cierre de esta ronda, el debate ha producido tres proposiciones establecidas y una pregunta central abierta.
+
+**Lo que ahora sabemos con mayor precisión:**
+
+Primero, el "control simultáneo" de deudores y acreedores es un mecanismo real con precedentes históricos de funcionamiento — India lo ha sostenido durante décadas — pero que no elimina costos: los transfiere al contribuyente mediante represión financiera y los distribuye en el tiempo.
+
+Segundo, la contradicción entre represión financiera y expansión del consumo que B identifica es analíticamente real pero no absolutamente mecánica: es una tensión gestionable con secuencia temporal, no una contradicción simultánea insoluble. Sin embargo, la evidencia comparada sugiere que la secuencia tiende a ser más larga de lo que los diseñadores de política estiman ex ante.
+
+Tercero, de las tres asimetrías de B respecto a Japón, la más sólida es la primera (leverage inicial con menor ingreso per cápita), la segunda es sólida con matiz de automatización, y la tercera (sin deflactor externo) es la más débil analíticamente.
+
+**La pregunta central que queda abierta:** ¿puede el gobierno chino comprimir el período de absorción de pérdidas financieras (estimado en 10-15 años si sigue el camino japonés) a 5-7 años mediante intervención más directa, sin depender del árbitro externo que Corea necesitó y Francia tuvo como consecuencia de la condicionalidad europea? La respuesta no está en la evidencia disponible para esta ronda, pero es el núcleo del debate sobre el horizonte mediano 2030-2040. El Agente A necesitará responder no solo que tiene las herramientas disponibles, sino con qué velocidad puede implementarlas y cuál es la evidencia comparada de que esa velocidad es alcanzable sin el tipo de disciplina institucional externa que los casos exitosos de reestructuración — Corea 1998, Suecia 1992 — invariablemente requirieron.
+
+
+### Agente G (Árbitro) — Evaluación Parcial Ronda 3
+
+#### Evaluación de Agente A — Ronda 3
+
+**Fortalezas.**
+
+1. **Responde el reto de Ronda 2 en el registro exigido.** B pidió distinguir "reformas" de improvisación al estilo soviético tardío. A no evade: enumera cuatro instrumentos con existencia verificable (línea de RMB 300.000M del BPoC desde mayo 2024; reestructuración LGFV en Guizhou/Yunnan; elevación del techo de deuda en marzo 2025 vía OMFIF; consolidación de acero/carbón 2015-2018) y sostiene el punto correcto de que ninguna exige cambio de régimen. Es la respuesta argumentativamente adecuada al reto: convierte "voluntad política" en "instrumentos ya usados".
+
+2. **La distinción flujo/stock está bien operada.** A no la usa como escudo retórico: la desagrega en dos mecanismos causales identificables — ausencia de *sudden stop* por denominación doméstica, y absorción gradual por control estatal del sistema bancario — y concede explícitamente el lado del flujo (PTF deteriorada, zombis del 5% al 16% de activos 2018-2024, NPL oficial de 1,5% subestimado). Conceder el flujo para blindar el stock es una jugada defendible y bien ejecutada. B se vio obligado a aceptar la taxonomía, lo que es un logro de A.
+
+3. **El reto de cierre está bien construido.** Exigir la identificación de un *actor institucional* concreto, no "los mercados", es la exigencia correcta para transformar una afirmación de crisis en un mecanismo causal, y es coherente con la regla 2 del enmarcado.
+
+4. **Concesión honesta y bien calibrada:** el zombie lending inmobiliario (40% de activos del sector) como riesgo más serio y la japonización como escenario no descartable. Puntúa alto en Manejo de la incertidumbre.
+
+**Debilidades.**
+
+1. **Error factual probable y consecuencial:** A afirma "deuda pública de Japón ~40% del PIB en 1990" atribuyéndolo a Bruegel; B cita la misma fuente Bruegel para 63-66%. Uno de los dos lee mal la fuente. La cifra de deuda bruta general de Japón en 1990 se ubica en el rango alto (60%+), y el ~40% corresponde a otra métrica (deuda neta o serie distinta), no explicitada por A. Como A usa esa cifra para argumentar que Japón tenía *más* espacio fiscal y aun así falló — invirtiendo el sentido comparativo —, el error no es ornamental. Penaliza Rigor empírico.
+
+2. **Las cuatro reformas son sólidas en *existencia del instrumento* pero débiles en *suficiencia de escala*.** A nunca cuantifica: no dice cuánto inventario absorben los RMB 300.000M frente al stock total, ni cuánta deuda LGFV cubre la reestructuración realizada. B explota exactamente ese hueco (cobertura máxima del 5% del stock; 25% de la deuda oculta según Fitch). Un instrumento existente no es un instrumento dimensionado; A infiere lo segundo de lo primero. Es la debilidad lógica central de su intervención.
+
+3. **Ausencia de examen de compatibilidad entre reformas.** A las presenta como un menú aditivo sin verificar que la Reforma 2 (elevar consumo) y el mecanismo de absorción de pérdidas (represión financiera, que él mismo menciona en el escenario de largo plazo) tiran en direcciones opuestas. A se autoexpone: es en su propio párrafo de largo plazo donde reconoce que la represión financiera "comprime consumo doméstico". B solo tuvo que leerlo.
+
+4. **Argumento circular en el mecanismo de voluntad política.** "Un PCCh que no implementa reformas disponibles pierde su único mecanismo de legitimación" presupone que la percepción del riesgo por parte del Partido es correcta y oportuna — que es precisamente lo que B ha disputado desde Ronda 1 (supresión de señales de error). A responde a la objeción de capacidad institucional con una premisa de racionalidad del actor, no con evidencia de detección de error.
+
+5. **Tercera diferencia estructural ("deuda respaldada por capital real") es la más frágil.** Confunde valor de uso con capacidad de servicio de deuda: un puente con tráfico insuficiente o una torre sin ocupar no desaparece, pero tampoco genera flujo de caja para pagar el préstamo. La solvencia depende del flujo, no de la existencia física del activo.
+
+6. **Fuentes de calidad desigual:** Global Markets Investor (Substack) usado como fuente primaria de tres datos tabulados; reservas de divisas atribuidas al BPoC sin enlace; las cifras de recorte de capacidad 2015-2018 (~150 Mt acero, ~800 Mt carbón) sin fuente alguna; el diferencial de "900.000 millones de dólares" entre reservas y deuda externa sin cita. Por la regla del enmarcado, los datos sin fuente se descartan del cómputo.
+
+#### Evaluación de Agente B — Ronda 3
+
+**Fortalezas.**
+
+1. **Respondió el reto de A de forma directa y estructurada — el mejor momento del debate hasta ahora en términos de forma dialéctica.** Nombró tres actores con perímetro institucional definido, cada uno con un mecanismo distinto de evasión del control estatal:
+   - *Shadow banking* con Zhongzhi como caso realizado (insolvencia declarada, liquidación judicial en Beijing desde abril 2026, brecha de ~36.000M USD, sin rescate estatal).
+   - Bonos offshore de LGFV en USD (52.700M en 2024) — el actor cuyo mecanismo escapa a la soberanía monetaria; ataca la premisa exacta de A.
+   - Depositantes minoristas, con el precedente verificado de los bancos rurales de Henan/Anhui (2022, ~40.000M yuanes congelados, protestas en Zhengzhou) — refuta la afirmación literal de A de que "no hay actor privado autónomo capaz de disparar una corrida".
+
+   El Actor 2 es analíticamente el más potente; el Actor 3 refuta una afirmación absoluta de A con un contraejemplo real.
+
+2. **La contradicción "represión financiera vs. Reforma 2" está bien argumentada y es el hallazgo más valioso de la ronda.** El mecanismo es explícito y direccional; añade un segundo orden no trivial — con tasas reales negativas el ahorro precautorio *sube*, no baja —, lo que invierte el resultado esperado por A.
+
+3. **La reformulación del "control simultáneo" como *incapacidad de liquidación* es un giro lógico legítimo y potente:** si el Estado no puede quebrar al deudor sin destruir el activo del acreedor que también posee, el control produce extensión, no resolución. Convierte la ventaja declarada de A en el mecanismo generador del escenario que A ya concedió (japonización).
+
+4. **Impugnación de la Reforma 3 con mecanismo político-fiscal concreto:** la distinción metodológica entre "71% de entidades reestructuradas" (Caixin) y "25% de deuda oculta resuelta" (Fitch) — número de entidades frente a monto de pérdidas absorbidas. Distinción metodológica correcta y decisiva.
+
+5. **Concesiones de calidad:** acepta la taxonomía de A, concede la impertinencia de la analogía con 2008 y reconoce que el *timing* de la recapitalización bancaria china es superior al japonés, delimitando con precisión que concede el instrumento y no el resultado.
+
+**Debilidades.**
+
+1. **Evidencia sin fuente identificable — el problema más serio de B en esta ronda.** Dos filas de su propia tabla declaran explícitamente su origen como búsqueda web sin cita: la deuda LGFV del 51% del PIB (~10,4 billones USD) atribuida al FMI, y los 52.700M USD de emisiones offshore de LGFV. Esta última es el dato que sostiene al **Actor 2, su mejor argumento**: el pilar más fuerte de B descansa sobre la cifra peor documentada. También sin fuente: el estudio del FMI de 2012 sobre represión financiera (3,9% del PIB anual), la documentación atribuida al BIS, y el episodio de Henan/Anhui (relatado con cifras precisas y ninguna cita). B fue en Ronda 2 quien impuso el estándar metodológico de selección de evidencia; incumplirlo aquí es costoso.
+
+2. **Las tres asimetrías de japanización son de calidad muy desigual.** La Asimetría 1 (leverage inicial mayor con menor PIB per cápita) es válida y bien fundada. La Asimetría 2 (demografía sin válvula migratoria): afirmar que "Japón compensó con inmigración temporal especializada" es empíricamente cuestionable — Japón fue notoriamente restrictivo con inmigración durante las décadas perdidas. La Asimetría 3 (ausencia de deflactor externo tipo yen): el yen continuó apreciándose fuertemente hasta 1995, por lo que si Japón tampoco tuvo esa válvula, no hay asimetría sino simetría. El argumento se autodestruye.
+
+3. **Cálculo agregado con falsa precisión.** Los "~4,2 billones USD de producción perdida" derivan de una aritmética sin descuento, sin banda de incertidumbre y sin fuente.
+
+4. **Los tres actores no están jerarquizados por magnitud.** B demuestra que existen vectores fuera del perímetro estatal, pero no establece que sean *sistémicamente* suficientes: Zhongzhi quebró sin contagio observable — hecho que juega parcialmente a favor de A — y Henan/Anhui fue contenido. B prueba posibilidad, no suficiencia.
+
+#### Estado del debate tras Ronda 3 (A y B)
+
+**Establecido por acuerdo de ambos:**
+- La taxonomía flujo/stock, aceptada expresamente por B.
+- China no enfrenta una crisis abrupta tipo Grecia 2010 o Argentina 2001 en el corto plazo; la analogía con la securitización de 2008 es improcedente.
+- El deterioro de la PTF, el zombie lending y la misasignación son reales.
+- La japonización — compresión prolongada del crecimiento sin colapso — es escenario plausible para ambos. **Este es el desplazamiento más importante de la ronda:** el debate ya no es "colapso vs. estabilidad", sino "cuán costosa es la trayectoria de estancamiento gestionado y qué le hace a la competitividad sistémica frente a las democracias liberales". A ganó la cuestión del colapso; B ganó la reformulación del terreno.
+
+**Disputado y abierto:**
+- Si el control simultáneo es capacidad de resolución (A) o incapacidad de liquidación (B). B tiene ventaja lógica; A no ha respondido.
+- Si la existencia de los instrumentos implica su suficiencia de escala. B lidera con datos de cobertura; A no ha cuantificado.
+- Si los tres actores de B son sistémicamente suficientes o solo localmente disruptivos.
+- Si la japonización china es peor que la japonesa: la Asimetría 1 se sostiene, la 2 está mal fundamentada, la 3 es defectuosa.
+- La cifra correcta de deuda pública japonesa en 1990. **Instruyo a ambos a resolver esta discrepancia en Ronda 4 con la métrica explícita (bruta o neta) y la fuente.**
+
+**Preguntas pendientes para A y B:**
+- Para A: la pregunta cuantificada de B sobre compatibilidad entre represión financiera y Reforma 2, y sobre el horizonte temporal para que la expansión de protección social produzca cambio observable en la tasa de ahorro.
+- Para B: dimensionar la suficiencia sistémica de sus tres actores y documentar con fuente las cifras que hoy no la tienen, especialmente la del Actor 2.
+- Latente y no explorado por ninguno: si la contención de todos estos vectores consume espacio fiscal, ¿qué queda para financiar la política industrial tecnológica que A presenta como su ventaja central? Es el puente natural hacia la Ronda 4.
+
+#### Puntaje provisional Ronda 3 (referencia interna)
+
+| Agente | Puntaje R3 | Razón |
+|---|---|---|
+| A | 7.3/10 | Respondió el reto de R2 con instrumentos verificables y ganó la cuestión de la crisis de stock; la taxonomía flujo/stock fue aceptada por el rival y su concesión sobre zombie lending es honesta. Penalizado por: probable error factual en la deuda japonesa de 1990, ausencia total de cuantificación de escala de las cuatro reformas, incompatibilidad no examinada entre Reforma 2 y represión financiera, argumento circular de voluntad política, tercera diferencia estructural que confunde valor de uso con capacidad de servicio de deuda, y tres datos sin fuente. |
+| B | 7.8/10 | Respondió el reto de A con perímetro institucional definido y contraejemplos realizados; la reformulación del control simultáneo como incapacidad de liquidación y la contradicción represión financiera/Reforma 2 son los dos mejores aportes de la ronda; la distinción entidades vs. monto (71% Caixin / 25% Fitch) es metodológicamente decisiva; concesiones bien delimitadas. Penalizado por: su mejor argumento (Actor 2) descansa en cifra sin fuente, cinco datos más sin cita en quien impuso el estándar metodológico en R2, Asimetría 2 con afirmación migratoria empíricamente cuestionable, Asimetría 3 analíticamente autodestructiva, cálculo de 4,2 billones USD con falsa precisión. |
+
+Ventaja marginal de B en la ronda, insuficiente para ser decisiva y sostenida sobre evidencia que, de no documentarse en Ronda 4, deberá descontarse del cómputo final.
+
