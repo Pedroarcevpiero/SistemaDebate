@@ -665,3 +665,93 @@ Si EE.UU. mantiene ventaja en ingreso per cápita pero China supera a EE.UU. en 
 - [DO] PTF china: 3.5% (pre-2008) → 1.5% (2010-2019) (Capital Economics, Dallas Fed)
 - [EC] Deuda gobiernos locales China: 50-60T yuanes (FMI/Moody's 2024)
 
+
+---
+
+## Análisis del Especialista C — Ronda 2 (Economía y Productividad)
+
+### 1. PBI nominal y convergencia
+
+[DO] En PPA China superó a EE.UU. alrededor de 2014-2017 (FMI WEO). En **nominal**, el PBI chino pasó de ~76% del estadounidense en 2021 a **~64-65% en 2024-2025** (China ~$18.7-19.5T; EE.UU. ~$29-30T). La brecha nominal **se amplió**, no se redujo, en los últimos cuatro años. Causas: apreciación del dólar, deflación del deflactor chino (negativo varios trimestres 2023-2025) y crecimiento nominal estadounidense elevado.
+
+[PI] Fechas de cruce proyectadas:
+- **Goldman Sachs ("The Path to 2075", 2022):** cruce ~**2035**, con China manteniendo el primer puesto hasta ~2075.
+- **CEBR:** en 2020 proyectaba **2028**; en ediciones 2023-2025 lo movió a **~2037-2040**, con algunas versiones sugiriendo liderazgo **temporal** con reversión hacia mitad de siglo por demografía.
+- **FMI:** no proyecta más allá de 5 años; extrapolando, no hay cruce antes de 2030.
+- **Banco Mundial:** no publica proyecciones de cruce; advierte sobre desaceleración estructural china.
+
+[EC] La dispersión (2033 a "nunca") refleja desacuerdo sobre tres supuestos: (a) crecimiento real chino 2030-2050 (rango: 2.0%-4.0%), (b) trayectoria del tipo de cambio RMB/USD, (c) diferencial de inflación.
+
+[PI] **Sensibilidad crítica:** con crecimiento real chino de 4% y estadounidense de 1.8%, más apreciación real del RMB de ~1%/año, el cruce ocurre a mediados de los 2030. Si el crecimiento chino cae a **2.5%** y el RMB no se aprecia, **el cruce nunca ocurre antes de 2050** en la mayoría de simulaciones. Una diferencia de 1.5 pp de crecimiento sostenida 25 años cambia el PBI terminal en ~45%. **Cualquier afirmación categórica sobre el cruce de PBI nominal en 2050 tiene barras de error que abarcan ambos resultados.**
+
+---
+
+### 2. Productividad Total de Factores (PTF)
+
+[DO] Según Penn World Table 10.x y Conference Board, la PTF china se sitúa en torno al **~40-45% del nivel estadounidense**. La productividad laboral por hora china es aproximadamente **20-30%** de la estadounidense.
+
+[DO] El crecimiento de la PTF china **se desaceleró marcadamente**: de ~3-4% anual en 1995-2008 a cerca de **0.5-1.5%** post-2012, con contribución cercana a cero o negativa en algunos años posteriores a 2015 (Bai & Zhang; Brandt et al.). Causa dominante: **mala asignación de capital** — el ICOR chino subió de ~3.5 a más de 7.
+
+[DO] La PTF estadounidense también creció lento (~0.5-1% anual post-2005), aunque hay señales de repunte 2023-2025 en productividad laboral.
+
+[EC] Efecto de la IA sobre la PTF: estimaciones van de **+0.1 pp/año** (Acemoglu, 2024) a **+1.5 pp/año** (Goldman Sachs, 2023). Esta discrepancia de un orden de magnitud hace que ningún lado pueda reclamar este canal como evidencia decisiva.
+
+---
+
+### 3. Trampa de renta media
+
+[DO] China está **cerca pero por debajo** del umbral de renta alta del Banco Mundial (~$14,000 INB per cápita, método Atlas; China ~$13,400-13,700 en 2024). El cruce formal es probable en los próximos 1-3 años.
+
+[DO] *World Development Report 2024: The Middle-Income Trap* (Banco Mundial): de 108 economías de renta media en 1990, solo **34** alcanzaron renta alta hasta 2023. Prescribe la secuencia "3i": inversión → infusión (adopción tecnológica externa) → innovación.
+
+[EC] China cumple parcialmente: fuerte en inversión e innovación de aplicación (EV, baterías, solar, patentes), débil en la fase de *infusión* por restricciones externas y en asignación eficiente por dominancia estatal. **Cruzar el umbral de renta alta no equivale a escapar la trampa** — implica sostener convergencia hacia ~60-70% del ingreso estadounidense.
+
+---
+
+### 4. Deuda comparada
+
+[DO] **EE.UU.:** deuda federal bruta ~**120-125% del PBI**; en manos del público ~**98-100%**. CBO proyecta ~**156% para 2055** bajo ley vigente. Déficits estructurales de 6-7% del PBI con pleno empleo.
+
+[DO] **China:** deuda del gobierno central baja (~25%), pero el FMI (Art. IV) estima deuda del gobierno general aumentada (incluyendo LGFVs) en torno a **~120% del PBI**, con LGFVs solos estimados en 45-55% del PBI. Deuda total de la economía china: **~290-300% del PBI**, superior a la estadounidense (~250-255%).
+
+[EC] Sostenibilidad comparada — argumentos simétricos:
+- *A favor de EE.UU.:* deuda en moneda propia de reserva, mercado del Tesoro profundo, "privilegio exorbitante".
+- *A favor de China:* deuda mayoritariamente interna, en moneda local, con acreedores bancos estatales; alta tasa de ahorro (~44%); control administrativo sobre reestructuración.
+- *En contra de China:* financió activos con retorno decreciente (inmobiliario/infraestructura), deflación que eleva la carga real.
+- *En contra de EE.UU.:* trayectoria explosiva del gasto en intereses (>$1T/año, superando defensa) y riesgo político de disfunción fiscal.
+
+[EI] No existe consenso técnico sobre cuál deuda es "más sostenible": son riesgos de naturaleza distinta. Cualquier debatiente que declare esto resuelto está sobreextendiendo la evidencia.
+
+---
+
+### 5. Distinción analítica clave (relevante para el IPNI)
+
+| Métrica | Qué mide | Estado |
+|---|---|---|
+| PBI nominal | Escala agregada, capacidad de gasto absoluto | EE.UU. lidera; cruce incierto |
+| PTF / prod. por hora | Eficiencia, sostenibilidad del crecimiento | EE.UU. lidera ~2-2.5x |
+| PBI per cápita | Bienestar, margen fiscal por ciudadano | EE.UU. ~5-6x (nominal) |
+| Centralidad financiera | Poder coercitivo, sanciones, financiación barata | EE.UU. domina: ~57-58% de reservas (COFER), ~50% de SWIFT; RMB ~2-3% |
+
+[PI] Para el IPNI: la **escala agregada** determina capacidad de movilización; la **centralidad financiera** determina poder coercitivo asimétrico; la **PTF** determina la trayectoria futura; el **per cápita** determina resiliencia social. La ponderación relativa es una **decisión normativa del índice, no un hecho empírico** — este es el punto de mayor apalancamiento del debate.
+
+[DO] Nota: China ya es el **mayor socio comercial de más de 120 países** y lidera en manufactura (~30% del valor agregado manufacturero mundial vs. ~15-16% de EE.UU.).
+
+---
+
+### 6. Consumo vs. inversión
+
+[DO] Consumo de hogares China: **~37-39% del PBI** vs. ~68% en EE.UU. Formación bruta de capital China: **~40-42%**, muy por encima de la norma (~25%).
+
+[PI] Implicaciones:
+- Retorno decreciente de la inversión requiere **cada vez más deuda por unidad de PBI** — mecánica central de la desaceleración observada.
+- Reequilibrio hacia consumo requiere reformas anunciadas desde 2013 (Tercer Pleno) con avance limitado. [EC]
+- El exceso de capacidad se exporta, generando fricciones comerciales crecientes (aranceles UE a EV, India, Brasil, México) — un **límite externo** al modelo.
+- Contrapunto: la baja participación del consumo implica **margen de maniobra** — si el reequilibrio se ejecuta, es una fuente de crecimiento aún no explotada.
+
+---
+
+**Advertencia metodológica:** Ninguna proyección a 2050 tiene poder predictivo demostrado. La evidencia sobre revisiones sucesivas del CEBR (que movió la fecha de cruce más de una década entre 2020-2025) sugiere que la carga de la prueba recae sobre cualquier afirmación categórica en ambas direcciones. El debate se decide mejor sobre **mecanismos y sensibilidades** que sobre fechas puntuales.
+
+*Este análisis tiene contenido económico y financiero: las conclusiones requieren revisión humana antes de usarse para decisiones de inversión o política.*
+
