@@ -8351,3 +8351,243 @@ Cuarta intervención de E. Estándar de referencia: F en R12 (9.6).
 ---
 
 *Fin de la evaluación del Árbitro G — Ronda 12*
+
+---
+
+## Intervención del Oponente — Ronda 13
+
+---
+
+### 1. Tesis central de esta ronda
+
+La pregunta de la ronda es si las democracias liberales son rivales en declive estructural o sistemas con capacidad de autocorrección. Mi tesis es la siguiente: **las democracias liberales poseen mecanismos de autocorrección estructural documentados y cuantificables que el capitalismo autoritario chino no tiene, y esa asimetría opera en ambas direcciones del Predicado 2**. No porque las democracias no tengan crisis — las tienen, y graves — sino porque pueden corregirlas institucionalmente sin poner en riesgo la supervivencia del régimen. Esto tiene tres consecuencias directas para el debate: (a) eleva la barra de lo que China debe demostrar para satisfacer el Predicado 2 en el horizonte 2030-2040, porque el comparador democrático no está en declive terminal; (b) desnuda una asimetría estructural clave que el comparador España/Grecia de A ilumina en sentido contrario al que A pretende; (c) obliga a reencuadrar la discusión del criterio (a) de PTF, que es ahora el campo de batalla decisivo para el Predicado 2 después de las correcciones que hago a continuación.
+
+Antes de desarrollar el argumento temático, atiendo los pasivos pendientes en el orden de prioridad exigido.
+
+---
+
+### 2. Las democracias liberales: mecanismos de autocorrección estructural (con evidencia empírica de efectividad, no de diseño)
+
+La prohibición de simetría fácil es vinculante: no basta afirmar que las democracias tienen instituciones correctoras. Debo demostrar que esas instituciones han operado, en qué plazo, y con qué resultado. Presento cuatro casos con magnitudes declaradas.
+
+**Caso 1 — Crisis bancaria de EE.UU. 2008-2012: corrección en 3-4 años**
+
+El sistema financiero estadounidense sufrió el peor shock desde 1929. La respuesta institucional fue medida y datada:
+- La Dodd-Frank Act se promulgó en julio de 2010, 22 meses después del colapso de Lehman [DO].
+- Los stress tests de la Fed (DFAST/CCAR) se institucionalizaron en 2011 y son públicos [DO].
+- El capital Tier 1 de los bancos de importancia sistémica pasó del 5.5% en 2009 al 12.3% en 2015 [DO — Fed Financial Stability Reports].
+- El mecanismo: señal de mercado → pérdida electoral (demócratas perdieron Cámara en 2010) → reforma regulatoria → resultado medible en 4 años.
+
+¿Puede China replicar esto? La represión regulatoria de 2020-2023 demuestra lo contrario: el mecanismo de señal opera en sentido inverso. La plataforma que se volvió políticamente incómoda fue suprimida (Ant Group), no regulada. El resultado: destrucción de valor sin reforma de supervisión financiera posterior documentada.
+
+**Caso 2 — España/Grecia 2010-2019: corrección en 5-7 años con válvulas institucionales múltiples**
+
+Reservo el análisis completo para la sección 5 (B-13-2). La magnitud: desempleo juvenil español cayó del 55% en 2013 al 32% en 2019 [DO — Eurostat].
+
+**Caso 3 — Reino Unido, crisis Truss, septiembre-octubre 2022: corrección en 44 días**
+
+Liz Truss aplicó un paquete fiscal que produjo crisis de deuda soberana y libre caída de la libra. El Banco de Inglaterra intervino en 28 horas; Truss presentó su renuncia en 45 días; Sunak revirtió la política fiscal en 72 horas de asumir [DO — Bank of England, 2022]. Tiempo de corrección total: **44 días desde el peak de la crisis hasta la rectificación política**. Ningún sistema autoritario puede producir corrección de política a esa velocidad porque hacerlo exige reconocimiento público de error, que en un sistema de partido único equivale a erosión de legitimidad.
+
+**Caso 4 — Alemania, transición energética post-Ucrania 2022-2023**
+
+Alemania dependía del gas ruso en un 55% de su consumo total en 2021 [DO — Bundesnetzagentur]. En 18 meses: construcción y conexión de cuatro terminales de GNL flotantes (diciembre 2022 — primera terminal operativa, Wilhelmshaven) [DO — Deutsche ReGas]; reducción de la dependencia de gas ruso a <10% para fin de 2023 [DO — Eurostat]. Alemania ejecutó política industrial de emergencia en 18 meses en respuesta democrática a un shock externo, sin acto del Partido, sin plan quinquenal, y con accountability público sobre cada decisión.
+
+**Implicación para el Predicado 2:** Si las democracias del G7 tienen capacidad de autocorrección documentada con tiempos de 44 días a 5 años, el comparador no está en declive estructural irreversible. China debe seguir compitiendo contra ese comparador activo, no contra una imagen de democracias paralizadas que la evidencia no sostiene.
+
+Concesión parcial: en EE.UU., la polarización ha extendido los tiempos de corrección legislativa en políticas que requieren mayorías supercalificadas. El mecanismo del "deuda-techo" ha producido crisis presupuestarias recurrentes desde 2011 [DO — Congressional Research Service, 2023]. Pero el sistema produjo corrección en cada episodio antes del default. La parálisis es costosa; no es irreversible.
+
+---
+
+### 3. Corrección del criterio (c): resolución de B-13-1
+
+El árbitro tiene razón. Debo resolver la inconsistencia y no puedo introducir un umbral del 35% sin anclarlo en la definición vinculante.
+
+**Aritmética corregida [EC — expuesta]:**
+
+- Ratio China/G7 en 2024: 24% ($13,200 / $55,000).
+- Supuesto: China crece 4.1% real en 2025-2030; G7 crece 1.8% real.
+- Ratio China/G7 en 2030: 13,200 × (1.041)^6 / (55,000 × (1.018)^6) = 16,810 / 61,720 = **27.2%**. [EC]
+- Supuesto FMI [PI]: China desacelera a 3.4% en 2031-2040; G7 mantiene 1.8%.
+- Ratio China/G7 en 2040: 16,810 × (1.034)^10 / (61,720 × (1.018)^10) = 23,550 / 73,460 = **32.1%**. [EC]
+
+El diferencial relativo cae de 76% (= 100% - 24%) en 2024 a 73% en 2030 y 68% en 2040. Eso ES reducción sostenida del diferencial relativo.
+
+**Corrección formal:** Retiro mi conclusión de R12 de que el criterio (c) no se satisface bajo la definición vinculante. Bajo la aritmética que yo mismo presenté, con los supuestos del FMI, el criterio (c) de convergencia relativa **se satisface en el horizonte 2024-2040** si China mantiene la trayectoria proyectada.
+
+Lo que sí puedo sostener: la convergencia relativa proyectada es lenta y depende de que China mantenga diferencial positivo de crecimiento vs. G7 durante dos décadas, condición que el Régimen 2 no garantiza si la PTF se deteriora.
+
+**Consecuencia para el Predicado 2:** Criterio (b) [ya concedido] + criterio (c) [ahora concedido bajo definición vinculante] = el Predicado 2 se decide exclusivamente sobre el criterio (a) de PTF. Es allí donde tengo el argumento estructural más fuerte.
+
+---
+
+### 4. PTF del G7 y China: criterio (a) documentado con serie identificada [B-13-3]
+
+**Fuente seleccionada:** Penn World Table versión 10.01 (Feenstra, Inklaar y Timmer, 2015, actualización 2023), serie **rtfpna** (TFP a precios nacionales, base 2017=1), complementada con Conference Board Total Economy Database (TED) 2024 para 2020-2024. Justificación: base de referencia estándar en economía comparada del crecimiento; pública y replicable. Asia Society Policy Institute ha utilizado PWT v11.0 para el caso chino — fuente ya verificada en este debate [DO — Asia Society, 2024].
+
+**Tabla de PTF por quinquenio: China vs. media G7**
+
+| Quinquenio | PTF China (prom. anual) | Tipo | PTF media G7 (prom. anual) | Tipo | China > G7 |
+|---|---|---|---|---|---|
+| 2006-2010 | +2.8%/año | [DO] | +0.1%/año (shock 2008-09) | [DO] | SÍ |
+| 2011-2015 | +1.7%/año | [DO] | +0.4%/año | [DO] | SÍ |
+| 2016-2020 | +1.1%/año | [DO] | +0.6%/año | [DO] | SÍ |
+| 2021-2024 | +0.4-0.7%/año | [DO-EI] | +0.7-1.0%/año (repunte post-COVID liderado por EE.UU.) | [DO] | INCIERTO / en límite |
+
+**Nota metodológica:** El PWT v11.0 muestra +2.3%/año para China bajo GDP oficial; bajo metodología alternativa la cifra puede diferir significativamente. Etiqueto la serie 2021-2024 como [DO-EI] por esta razón.
+
+**Análisis por quinquenio bajo el criterio (a):**
+
+- Quinquenio 1 (2006-2010): China +2.8% > G7 +0.1%. **Criterio (a) SATISFECHO.** [DO]
+- Quinquenio 2 (2011-2015): China +1.7% > G7 +0.4%. **Criterio (a) SATISFECHO.** [DO]
+- Quinquenio 3 (2016-2020): China +1.1% > G7 +0.6%. **Criterio (a) SATISFECHO.** [DO]
+- Quinquenio 4 (2021-2025): China +0.4-0.7% vs. G7 +0.7-1.0%. **Estado: EMPATE O MARGINALMENTE NEGATIVO.** [EI]
+
+**Consecuencia sobre el Predicado 2:** El criterio (a) está satisfecho en dos quinquenios anteriores (2011-2015 y 2016-2020), lo que técnicamente cumple el umbral de "≥2 quinquenios" si el período de referencia incluye el pasado reciente. Sin embargo, si el criterio se evalúa prospectivamente, la ventaja de PTF de China sobre la media G7 se ha erosionado continuamente desde 2006 y en el quinquenio 2021-2025 es cuestionable.
+
+**El argumento central sobre (a):** El deterioro de la PTF relativa no es cíclico; es estructural. El mecanismo causal: supresión de inversión de riesgo privada en I+D de frontera, colapso del venture capital tecnológico de $130,000M a $33,000M entre 2021 y 2024 [DO — Preqin/PitchBook vía Financial Times, enero 2025], y rigidez institucional sobre la asignación de talento. Ese deterioro no se resuelve con inversión estatal en manufactura, y la corrección requeriría exactamente el tipo de reforma institucional que el modelo autoritario no puede hacer sin amenazar el control del Partido.
+
+Paralelamente: si las democracias del G7 capturan el dividendo de productividad de la IA generativa, la media G7 de PTF podría acelerar a 0.8-1.2%/año en 2026-2030 [PI — Conference Board Digital Economy Report 2024]. Eso eleva el umbral que China debe superar para el criterio (a) en los próximos dos quinquenios.
+
+---
+
+### 5. El comparador España/Grecia y la asimetría de válvulas institucionales [B-13-2]
+
+Respuesta directa al reto de A: la misma lógica no aplica a China por una razón estructural, no cultural: **España y Grecia tenían cuatro válvulas institucionales activas que China no tiene, y esas válvulas convierten el descontento en rotación de gobierno sin cuestionar la existencia del régimen**.
+
+**Válvula 1 — Alternancia electoral:**
+
+España 2013-2019: el Partido Popular perdió el gobierno en 2018 ante una moción de censura; Syriza llegó al gobierno griego en enero de 2015 con el 36.3% de los votos sobre la base del descontento [DO — Ministerio del Interior griego]. El descontento se convirtió en cambio de gobierno sin cuestionar el régimen democrático. En China, el descontento no tiene salida electoral. No existe partido de oposición, candidatura alternativa, ni canalización institucional del descontento hacia cambio de política sin cuestionar al PCCh. El descontento en China tiene solo dos salidas institucionales: represión selectiva o emigración.
+
+**Válvula 2 — Transferencias fiscales supranacionales:**
+
+España recibió €41.3B del ESM en 2012-2014 [DO — ESM Annual Report 2014]. Grecia recibió tres paquetes de rescate: €110B (2010), €130B (2012), €86B (2015) — total €326B [DO — European Commission / ESM / IMF]. Esto financió la red de protección social que impidió que el desempleo juvenil se convirtiera en hambre y colapso de servicios básicos. El shortfall de pensiones chino de ¥8-10 billones en 2025-2030 [DO — CASS] no tiene mecanismo de transfer supranacional equivalente.
+
+**Válvula 3 — Libertad de movimiento laboral:**
+
+La emigración de jóvenes españoles a Alemania, Francia, Reino Unido y Países Bajos alcanzó 100,000-200,000 personas por año entre 2012 y 2015 [DO — INE España]. China tiene restricciones estructurales de movilidad laboral (hukou) para los 297 millones de trabajadores migrantes [DO — NBS 2024]. La válvula de movilidad existe pero está parcialmente bloqueada.
+
+**Válvula 4 — Sindicatos legales y negociación colectiva:**
+
+En España y Grecia, los sindicatos organizaron huelgas generales y negociaron los términos del ajuste con los gobiernos, convirtiendo el malestar difuso en demanda política procesable. China no tiene sindicatos independientes: la ACFTU es una extensión del PCCh, no un representante autónomo de trabajadores [DO — Human Rights Watch, 2019]. Las 1,794 protestas laborales de 2024 [DO — CLB] son exactamente eso: protestas no institucionalizadas, no demandas sindicales negociadas.
+
+**Síntesis del comparador:** El ejemplo España/Grecia no refuta mi argumento; lo confirma en sentido inverso. Esos países sobrevivieron crisis con el 55-60% de desempleo juvenil PORQUE tenían válvulas institucionales que China no tiene. Si A quiere usar ese comparador, debe explicar cuál de las cuatro válvulas existe en China. Y la corrección sí ocurrió: el desempleo juvenil español cayó del 55% en 2013 al 32% en 2019 [DO — Eurostat]. **El sistema democrático produjo la corrección.** El desempleo juvenil chino lleva tres años por encima del 17-18% sin corrección de política documentada — el régimen cambió la metodología de medición.
+
+---
+
+### 6. Mecanismo de cinco etapas: actualización con correcciones de F (NEET-CASS, Lorentzen) [B-13-7, B-13-8]
+
+#### Actualización de Etapa 2 con NEET-CASS [B-13-7]
+
+En R12 estimé la tasa NEET en 10-15% [EI]. F corrigió este dato con la cifra CASS: **16.1%** para jóvenes 16-24 años en 2025 [DO — CASS, Informe de Mercado Laboral 2025]. Incorporo la corrección.
+
+**Etapa 2 actualizada:**
+
+| Indicador | R12 | R13 (actualizado) | Fuente | Tipo |
+|---|---|---|---|---|
+| Desempleo juvenil 16-24 (excl. estudiantes) | 18.9% | 18.9% | NBS / Caixin, agosto 2025 | DO |
+| Tasa NEET 16-24 | 10-15% (estimación) | 16.1% | CASS, Informe ML 2025 | DO |
+| Graduados universitarios 2025 | 12.2M | 12.2M | MoE China | DO |
+
+**Aritmética de la Etapa 2 actualizada [EC — expuesta]:**
+
+- Cohorte 16-24 urbana: ~63 millones (bajo nueva metodología NBS) [DO]
+- Aplicando NEET del 16.1% (CASS): 63M × 0.161 = **10.1 millones de jóvenes fuera de educación, empleo y formación**
+- Para referencia: NEET de la UE-27 en el peor momento de la crisis (2013): 13.2% [DO — Eurostat]; actualmente <10%
+
+La UE respondió con la Garantía Juvenil (€6.4B inicialmente, luego €22B) y mecanismos de inserción laboral medibles. China no tiene un mecanismo equivalente con evaluación de impacto pública. La campaña del Ciberespacio de septiembre 2025 contra el "pesimismo excesivo" [DO — Caixin Global] es la respuesta observada: gestión de la narrativa, no corrección del mercado laboral.
+
+#### Respuesta a Lorentzen (2013) [B-13-8]
+
+El reto a través del árbitro es válido. Lorentzen (2013, *Quarterly Journal of Political Science*, 8(2)) demuestra que los regímenes autoritarios pueden permitir selectivamente protestas económicas focales como instrumento de gobernanza. Respondo con tres objeciones:
+
+**Objeción 1 — El mecanismo de Lorentzen opera con condiciones que están degradándose.** Para que las protestas focales sean instrumento de gobernanza, el centro necesita: (i) información independiente para distinguir protestas legítimas de manipulaciones locales; (ii) capacidad fiscal para ofrecer soluciones a los quejosos; (iii) disposición a sancionar burócratas responsables. Las tres condiciones se deterioran bajo el Régimen 2: el centralismo de Xi reduce la información independiente que llega al centro; el shortfall fiscal subnacional limita la capacidad de resolver disputas; la campaña anticorrupción ha producido burócratas locales paralizados por el riesgo de sanción [DO — Minxin Pei, *China's Crony Capitalism*, actualización 2024].
+
+**Objeción 2 — El volumen ya supera el umbral del mecanismo de gobernanza.** Lorentzen teoriza con protestas que son informativas porque son excepcionales. 1,794 acciones laborales en 2024 [DO — CLB], +60% sobre 2023, no son señales de gobernanza: son ruido sistémico. El mecanismo de información funciona con señales raras; se satura con señales frecuentes. Cuando el 38% de las protestas proviene del colapso inmobiliario [DO — CLB 2025], son menos "instrumento de gobernanza" que síntoma de un shock sectorial que el régimen no ha podido resolver.
+
+**Objeción 3 — Lorentzen se aplica a incidentes focales, no a convergencia de tres tensiones simultáneas.** La teoría no predice la capacidad del mecanismo cuando desempleo juvenil estructural + déficit de pensiones + colapso inmobiliario se activan simultáneamente en la misma cohorte demográfica: la generación de 12.2 millones de graduados de 2025, sin empleo, cuyos padres pierden valor en su activo inmobiliario principal y cuyas pensiones futuras están en riesgo fiscal. Ese descontento convergente no encaja en el modelo de protesta focal de Lorentzen.
+
+---
+
+### 7. Umbral de falsación propiamente dicho [B-13-4]
+
+**Umbral de falsación del Régimen 2 como estado estable (horizonte 2026-2040):**
+
+Declaro falsada la tesis de que el Régimen 2 es el estado modal si **cualquiera de las siguientes condiciones se observa** en el período 2026-2035:
+
+**Condición F1 (PTF):** El Conference Board TED o PWT (versión ≥11.0) documentan que la PTF China crece a ≥1.5% anual en promedio durante el quinquenio 2026-2030, con el diferencial sobre la media G7 ampliándose a ≥0.8 puntos porcentuales. Esto implicaría que la aceleración tecnológica china es sistémica, no sectorial, y refutaría el argumento estructural del criterio (a). [Horizonte de observación: 2031]
+
+**Condición F2 (venture capital / innovación privada):** El ecosistema de VC tecnológico chino recupera ≥$80,000M anuales de capital comprometido (metodología Preqin) en dos años consecutivos entre 2026 y 2030, con distribución diversificada fuera de sectores dirigidos por política industrial estatal. Esto invalidaría el mecanismo causal que conecta la supresión regulatoria con el colapso de I+D de frontera. [Horizonte: observable a partir de 2027]
+
+**Condición F3 (legitimidad con desaceleración):** Crecimiento real chino cae sostenidamente a ≤3.5% durante tres años consecutivos (2026-2028) y los indicadores de legitimidad disponibles muestran mantenimiento de la legitimidad de desempeño — encuestas con control metodológico, NEET <12% mediante corrección medible, reclutamiento juvenil al PCCh estable o creciente. Esto refutaría el mecanismo de transmisión de la Etapa 3. [Horizonte: 2029]
+
+**Diferencia con el criterio de verificación de R12:** Las condiciones F1-F3 declaran cuándo abandonaría la hipótesis estructuralmente — no degradación de probabilidad sino abandono de la hipótesis. Las condiciones son observables antes del colapso terminal, en la primera mitad del horizonte relevante.
+
+---
+
+### 8. Cierre de pasivos menores [B-13-5, B-13-6]
+
+#### B-13-5: Ausencia de replicación del Ash Center como "evidencia de opacidad"
+
+**Retiro este indicador como evidencia.** Las razones de no replicación pueden incluir restricciones de financiamiento, cambios metodológicos o prioridades investigativas. Usar la ausencia de datos como dato positivo viola el estándar epistémico del debate. Lo sustituyo por el índice de libertad académica V-Dem para China, en descenso continuo desde 2013 [DO — V-Dem Institute, 2024], y la encuesta Edelman Trust Barometer — que desde 2020 mantiene a China con alta confianza institucional declarada (~83% en 2024) pero con metodología de acceso limitado que el propio Edelman reconoce en sus notas técnicas. Etiqueto la evidencia de confianza institucional china como [EI] dado el problema de acceso metodológico.
+
+#### B-13-6: Prima de riesgo → inversión sectorial de frontera
+
+**Declaro retirado este argumento** como afirmación positiva independiente. El mecanismo subsiste integrado en el argumento del criterio (a): el colapso del VC tecnológico chino de $130,000M a $33,000M entre 2021 y 2024 [DO — Preqin/PitchBook vía FT, enero 2025] es el indicador de prima de riesgo más directo disponible. El argumento de prima de riesgo queda absorbido en el argumento de VC.
+
+---
+
+### 9. Retos a A para R13 [A-13-X]
+
+**A-13-1 (PRIORIDAD ABSOLUTA — PTF prospectiva):** El criterio (a) fue satisfecho en 2011-2015 y 2016-2020, pero el quinquenio 2021-2025 es empate o marginalmente negativo. Para que el Predicado 2 sea sostenible, China debe satisfacer el criterio (a) en al menos dos quinquenios futuros. ¿Cuál es el mecanismo institucional concreto por el que la PTF china superará la media G7 en 2026-2030, dado que: (i) el VC tecnológico se contrajo 75%; (ii) la J-curve de robots de nueva generación depende de chips bajo restricción; (iii) el sector servicios (55% del PIB) donde opera el mayor potencial de PTF no está siendo transformado por la política industrial dirigida?
+
+**A-13-2 (ALTA — Válvulas institucionales):** ¿Cuál de las cuatro válvulas institucionales que permitieron a España y Grecia sobrevivir el 55-60% de desempleo juvenil sin colapso de régimen existe en China? Si ninguna existe, ¿cuál es el mecanismo específico por el que China gestiona un descontento equivalente sin las válvulas democráticas, y cómo ese mecanismo no produce degradación de la capacidad estratégica del régimen?
+
+**A-13-3 (ALTA — G7 y IA):** Si el G7 captura el dividendo de productividad de la IA generativa (ecosistemas EE.UU. y Reino Unido) y su PTF acelera a 0.8-1.2%/año en 2026-2030, el umbral que China debe superar para el criterio (a) se eleva. ¿Cuál es la evidencia de que la PTF china puede acelerarse más rápido que la G7 dado que el acceso a la capa de chips de frontera está restringido?
+
+**A-13-4 (MEDIA — Corrección democrática en 44 días vs. corrección autoritaria):** ¿Puede A identificar un caso comparable en China post-2012 donde el PCCh revirtió una política económica dañina en menos de 6 meses con reconocimiento público explícito del error, sin requerir purgar al responsable para mantener la narrativa de infalibilidad del liderazgo?
+
+---
+
+### 10. Síntesis: ¿el declive de las democracias libera a China del Predicado 2 o eleva el listón?
+
+**Primera:** Las democracias liberales no están en declive estructural irreversible. Los cuatro casos documentados demuestran capacidad de autocorrección con tiempos de 44 días a 7 años. El comparador sigue siendo un blanco dinámico.
+
+**Segunda:** El declive relativo del G7, donde existe, favorece a China en el criterio (c) — ya concedido. Pero el Predicado 2 ya no depende del criterio (c). Depende del criterio (a) de PTF. Y la capacidad de las democracias de capturar el dividendo de productividad de la IA generativa — mediante ecosistemas de innovación privada con propiedad intelectual segura, libre acceso al capital de riesgo y movilidad internacional de talento — eleva el umbral que China debe cruzar, no lo baja.
+
+**Tercera:** La asimetría de válvulas no desaparece si las democracias están bajo estrés. Una democracia en crisis sigue teniendo alternancia; una con polarización sigue teniendo sindicatos; el deterioro es parcial. La ausencia de todas las válvulas en el modelo chino es total. La brecha de capacidad correctiva entre un G7 bajo estrés y China sin válvulas sigue siendo estructuralmente asimétrica en favor del G7.
+
+**Conclusión para el Predicado 2:** Con criterio (b) concedido y criterio (c) ahora concedido, el debate se reduce a: ¿puede China mantener PTF > media G7 en dos de los próximos cuatro quinquenios? Los datos de PWT y Conference Board muestran que esta ventaja, consistente en 2006-2020, se está erosionando precisamente cuando la capacidad innovadora de las democracias del G7 se acelera con la IA. La tendencia va en la dirección equivocada para la tesis de A, y el mecanismo institucional que la revertiría — liberar la inversión privada de riesgo en I+D de frontera — es exactamente lo que el modelo autoritario no puede hacer sin erosionar el control político que lo define.
+
+El listón no baja con el declive democrático. Sube con la aceleración democrática en IA. Ese es el argumento central de esta ronda.
+
+---
+
+### Tabla de evidencia
+
+| # | Afirmación | Tipo | Fuente | Fecha |
+|---|---|---|---|---|
+| 1 | Dodd-Frank Act promulgada 22 meses post-Lehman | DO | US Congress, Public Law 111-203 | Julio 2010 |
+| 2 | Capital Tier 1 bancos sistémicos EE.UU.: 5.5%→12.3% (2009-2015) | DO | Federal Reserve Financial Stability Reports | 2009-2015 |
+| 3 | Desempleo juvenil España 55% en 2013; 32% en 2019 | DO | Eurostat, Labour Force Survey | 2013, 2019 |
+| 4 | España: ESM bailout €41.3B en 2012-2014 | DO | ESM Annual Report 2014 | 2014 |
+| 5 | Grecia: tres rescates EU/IMF, total €326B | DO | European Commission / ESM / IMF | 2010-2015 |
+| 6 | Syriza: 36.3% votos enero 2015 | DO | Ministerio del Interior griego | Enero 2015 |
+| 7 | Truss: corrección en 44 días post-crisis fiscal | DO | UK Parliament / Bank of England | Octubre 2022 |
+| 8 | Alemania: primera terminal GNL flotante operativa Wilhelmshaven | DO | Deutsche ReGas | Diciembre 2022 |
+| 9 | Alemania: dependencia gas ruso <10% para fin 2023 | DO | Eurostat, Energy Statistics | 2023 |
+| 10 | PTF China 2006-2010: +2.8%/año | DO | PWT 10.01 rtfpna / Conference Board TED 2024 | 2023 |
+| 11 | PTF China 2011-2015: +1.7%/año | DO | PWT 10.01 rtfpna | 2023 |
+| 12 | PTF China 2016-2020: +1.1%/año | DO | PWT 10.01 / Springer JPA 2025 | 2023-2025 |
+| 13 | PTF G7 promedio 2011-2015: +0.4%/año | DO | Conference Board TED 2024 | 2024 |
+| 14 | PTF G7 promedio 2016-2020: +0.6%/año | DO | Conference Board TED 2024 | 2024 |
+| 15 | VC tecnológico China: $130B → $33B (2021-2024) | DO | Preqin/PitchBook vía Financial Times | Enero 2025 |
+| 16 | NEET China 16-24: 16.1% | DO | CASS, Informe Mercado Laboral 2025 | 2025 |
+| 17 | Emigración jóvenes España: 100,000-200,000/año 2012-2015 | DO | INE España, Estadística de Migraciones | 2012-2015 |
+| 18 | Participación electoral España 2015-2019: 66-70% | DO | Junta Electoral Central de España | 2015, 2019 |
+| 19 | CLB: 1,794 acciones laborales China en 2024; +60% vs. 2023 | DO | China Labour Bulletin Strike Map | 2025 |
+| 20 | V-Dem: libertad académica China en descenso continuo desde 2013 | DO | V-Dem Institute | 2024 |
+| 21 | Lorentzen, P. (2013): protestas focales como instrumento de gobernanza autoritaria | DO | Quarterly Journal of Political Science, 8(2) | 2013 |
+| 22 | Mingong China: 297M trabajadores con hukou rural en ciudad | DO | NBS China | 2024 |
+| 23 | ACFTU como extensión del PCCh, no sindicato autónomo | DO | Human Rights Watch | 2019 |
+| 24 | PTF G7 2021-2025: +0.7-1.0%/año (liderado por EE.UU. post-COVID) | DO | Conference Board TED 2024 | 2024 |
+| 25 | PI: PTF G7 con dividendo IA 2026-2030: 0.8-1.2%/año | PI | Conference Board Digital Economy Report 2024 | 2024 |
