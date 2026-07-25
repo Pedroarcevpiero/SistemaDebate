@@ -5165,3 +5165,247 @@ F introdujo la Hipótesis 1: la J-curve de Acemoglu y Restrepo (2019-2020) estab
 ---
 
 *Fin de la evaluación del Árbitro G — Ronda 9*
+
+## Ronda 10 — Renminbi y desdolarización
+
+## Intervención del Agente A (Defensor) — Ronda 10
+
+**Tema:** Renminbi y desdolarización — ¿puede la arquitectura financiera alternativa china sostener el modelo frente a la weaponización del sistema financiero occidental?
+
+---
+
+### 1. Respuesta directa al argumento anterior del oponente
+
+B ganó R9 por cuatro razones bien identificadas por G: el desplazamiento del nivel de análisis hacia la PTF de la economía completa (no manufactura), el dato del venture capital (-75%), el desmontaje de mi calibración K/L, y la documentación del Mecanismo D con comparador mejorado. Acepto ese resultado. No lo reciclaré como punto a "recuperar" con retórica; lo trabajaré con evidencia.
+
+El patrón de este debate se ha vuelto nítido: B produce los ataques más precisos cuando identifica el nivel de análisis incorrecto en mis argumentos. En R9, el nivel equivocado era manufactura vs. economía completa en PTF. En R10, el nivel de análisis correcto para la arquitectura financiera china no es la tasa de crecimiento de los instrumentos alternativos (siempre alta desde bases pequeñas), sino la pregunta estructural: ¿cuánta redundancia es necesaria, cuánta existe, y qué trayectoria la une? Eso requiere distinguir tres magnitudes distintas — participación en pagos internacionales, en reservas oficiales y en financiamiento comercial — con horizontes datados 2030, 2040, 2050. Esa es la estructura de este argumento.
+
+---
+
+### 2. R10-1 — Mecanismo de reversión de PTF (PRIORIDAD ABSOLUTA)
+
+Este es el reto más exigente que he recibido en el debate y lo abordo con disciplina, no con evasión.
+
+**2.1 Pronunciamiento obligatorio sobre las Hipótesis 3 y 4 de F**
+
+No disputo la Hipótesis 3 de F: el 65-70% del stock robótico chino es de primera y segunda generación, sin sensores adaptativos, y por tanto sustituye trabajo sin desplazar la frontera de producción. [EC - F, R9, con base en IFR 2023]. Esta hipótesis es metodológicamente plausible y la acepto como premisa operativa del debate hasta que evidencia contraria sea producida.
+
+No disputo la Hipótesis 4 de F: la robotización se concentra en manufactura (~27% del PIB) mientras servicios (~55%) arrastra la PTF agregada hacia abajo. [DO - IMF Staff Country Report 2024 sobre China, confirma que la PTF de servicios es el componente dominante de la PTF agregada]. El argumento de sustitución capital-trabajo en manufactura que desarrollé en R9 estaba formulado en el nivel de análisis equivocado para el efecto sobre PTF agregada. Lo reconozco sin reservas.
+
+**2.2 Invocación de la Hipótesis 2 de F con las consecuencias que exige G**
+
+Invoco la Hipótesis 2 de F (problema de medición): existe un consenso creciente — documentado en IMF Working Paper 2024 — de que la PTF china podría estar subestimada entre 0.5 y 1.5 puntos porcentuales anuales por deficiencias en el deflactor de servicios y por exclusión de activos intangibles (software, datos, capital organizacional). [PI - IMF WP 2024, referenciado por F en R9].
+
+Acepto las consecuencias obligatorias: el efecto de medición haría la PTF "positiva pero insuficiente" en el período 2015-2025, no negativa. Eso no resuelve el problema estructural que B señaló. Es un acotamiento de la premisa, no una refutación.
+
+**2.3 El mecanismo de reversión que R10-1 exige: en el nivel correcto**
+
+El argumento de A en R9 era mecanísticamente correcto en una sola dimensión (sustitución capital-trabajo en manufactura) pero insuficiente porque no incluía la PTF de servicios. El mecanismo de reversión que propongo opera en tres canales sobre la economía completa, con horizontes diferenciados:
+
+**Canal 1 — Digitalización de servicios (2026-2033):** El IMF Staff Country Report de agosto 2024 sobre China establece que la PTF de servicios de mercado ha crecido más rápidamente que la de manufactura en los últimos años, pero que existe una "sustancial y creciente mala asignación de capital y trabajo en el sector, enmascarada por alta innovación." [DO - IMF SCR 2024]. La segunda generación de automatización (IA generativa aplicada a servicios financieros, logística, salud, educación técnica) actúa exactamente sobre ese ~55% del PIB donde la Hipótesis 4 identifica el arrastre. China procesó [DO - CAICT 2024] más de 26 millones de modelos de IA entrenados y desplegados para aplicaciones sectoriales en 2023; el 14o Plan Quinquenal requiere que el sector servicios alcance el 55% del valor añadido digital para 2025.
+
+**Canal 2 — Reducción de mala asignación de factores:** F identificó que la mala asignación de capital y trabajo en servicios "enmascara" la alta innovación. Esto implica que el rendimiento potencial de la segunda generación de automatización en servicios es estructuralmente más alto que en manufactura: el punto de partida de ineficiencia es mayor. [EC - derivado de IMF SCR 2024, calibrado con estimaciones de Bai, Hsieh y Song (2016) sobre mala asignación]. La J-curve de Acemoglu y Restrepo (2019-2020) que F introdujo en R9 aplica: si la robotización masiva en manufactura comenzó en 2013-2015, el período de maduración de 5-10 años sitúa la reversión entre 2020-2025. Estamos en ese umbral o lo acabamos de cruzar.
+
+**Canal 3 — Productividad de servicios por migración interna residual:** China todavía tiene [DO - NBS 2024] una tasa de urbanización del 67%, con un diferencial de productividad campo/ciudad que contribuye estructuralmente a la PTF agregada por reasignación de trabajo hacia sectores de mayor productividad. El Banco Mundial estima [PI - World Bank China 2030 report] que cada punto porcentual de urbanización adicional contribuye ~0.3-0.4% a la PTF agregada vía reasignación sectorial. Potencial residual: 5-8 puntos porcentuales de urbanización adicional = [EC: 5 × 0.35 ≈ +1.75% acumulado sobre la PTF a lo largo de 2026-2035, es decir ~+0.175% por año, componente modesto pero positivo].
+
+**2.4 Concesión estructural obligatoria sobre el mecanismo**
+
+Los tres canales son necesarios pero no suficientemente seguros. El Canal 1 (digitalización de servicios) depende de la segunda generación de automatización, que a su vez depende de capacidad de cómputo de chips que China no produce en frontera. F lo identificó como "el eslabón que conecta la restricción tecnológica de B con el argumento demográfico de A." Esa dependencia circular sigo sin resolverla de forma definitiva. Lo que ofrezco es una trayectoria plausible con umbral falsable: si la PTF agregada china no muestra reversión observable en la serie del Penn World Tables o equivalente entre 2027 y 2030, el Canal 1 habrá fallado y concederé el punto estructuralmente.
+
+**Conclusión R10-1:** El mecanismo de reversión de PTF existe en el nivel correcto de análisis (economía completa, no solo manufactura). Su probabilidad de operatividad plena es moderada, no alta. No lo presento como certeza sino como trayectoria condicionada. La Hipótesis 3 y 4 de F no quedan refutadas; quedan como el principal obstáculo a la reversión.
+
+---
+
+### 3. R10-4 — Resolución del dilema A-1 / A-2
+
+El dilema tal como lo formuló B: si China requiere automatización avanzada para escapar la trampa del ingreso medio (A-1), necesita mercados de ingreso alto como destino (los que el desacoplamiento cierra). Si el Sur Global es mercado suficiente (A-2), entonces la automatización necesaria es de mediana complejidad, que no escapa el Régimen 2.
+
+**Elijo la vía intermedia y la documento empíricamente.**
+
+No elijo ninguna de las dos ramas puras porque la arquitectura real del mercado de destino chino no es binaria. La pregunta empírica es: ¿existe un tercer conjunto de mercados, de ingreso medio en ascenso, con suficiente tamaño y sofisticación para absorber bienes de alta complejidad y con suficiente velocidad de crecimiento para ser relevante en el horizonte 2030-2040?
+
+**Cuantificación del mercado de ingreso medio en ascenso:**
+
+| Bloque | GDP PPP 2025 (estimado) | Fuente | Etiqueta |
+|--------|------------------------|--------|---------|
+| ASEAN-10 | $12.3 billones | World Bank/Worldometers | [DO] |
+| Brasil + México + Colombia + Argentina | ~$6.5 billones | IMF WEO 2025 | [EC] |
+| Turquía + Egipto + Irán | ~$4.2 billones | IMF WEO 2025 | [EC] |
+| GCC (Arabia Saudí, EAU, Qatar, Kuwait, Omán, Bahrein) | ~$4.8 billones | IMF WEO 2025 | [EC] |
+| **Total bloque intermedio** | **~$27.8 billones** | Suma | [EC: suma de DO + tres EC] |
+
+Para contexto: el PIB PPP de la UE-27 es ~$26 billones [DO - IMF WEO 2025]. El bloque de ingreso medio en ascenso ya supera a la UE en tamaño agregado medido en PPP.
+
+**El argumento de la vía intermedia:**
+
+El bloque de ingreso medio en ascenso no requiere la misma densidad tecnológica que los mercados de ingreso alto, pero sí requiere complejidad superior al Régimen 2 para los segmentos de más rápido crecimiento: infraestructura inteligente (redes 5G, ciudades conectadas, logística portuaria automatizada), manufactura de valor medio-alto (automotriz eléctrico, maquinaria agroindustrial, equipos médicos), y servicios digitales. Esos segmentos no requieren los chips de frontera más avanzados — EUV de 2nm — sino la generación de 7-14nm que China produce. [EC - estimación basada en especificaciones técnicas de SoC para infraestructura embebida vs. computación de frontera de IA; SEMI 2024 para nodos de producción SMIC].
+
+La crítica legítima de B: que ese mercado absorbe complejidad media, no la que distingue a los que cruzaron la trampa del ingreso medio (Japón, Corea, Alemania). Acepto que la vía intermedia produce un techo de complejidad más bajo que la ruta A-1 pura, y que ese techo podría coincidir con el Régimen 2 de B (meseta en ingreso medio-alto). No afirmo que la vía intermedia sea el escape completo; afirmo que es suficiente para sostener el modelo durante el horizonte 2026-2035 sin ruptura, mientras la segunda generación de automatización madura.
+
+---
+
+### 4. R10-5 — Distribución de probabilidad sobre los escenarios de F
+
+G me instruyó declarar mi distribución de probabilidad y qué evidencia observable entre 2026-2030 me movería de escenario. Lo hago con aritmética explícita de los supuestos.
+
+**Mi distribución:**
+
+| Escenario | F (especialista) | Mi asignación | Diferencia | Justificación |
+|-----------|----------------|--------------|-----------|--------------|
+| Escape gradual (moción verdadera) | 30-40% | **35%** | 0 a -5 pp | Acepto el centro del rango de F. El mecanismo existe; su operatividad es condicionada. |
+| Trampa de meseta / Régimen 2 (moción parcialmente falsa) | 45-55% | **50%** | 0 pp | El escenario modal de F es correcto como el más probable. Lo acepto. |
+| Desaceleración severa (moción claramente falsa) | 10-20% | **15%** | 0 a +5 pp | Ligeramente por encima del centro de F; la restricción en chips crea un riesgo de cola mayor. |
+
+**Total: 35% + 50% + 15% = 100%.**
+
+**Implicación para la moción:** Asigno probabilidad al escenario en que la moción es falsa o parcialmente falsa del 65% (50% + 15%). Asigno 35% al escenario en que la moción es verdadera en su sentido pleno. Esto no colapsa mi posición, pero la hace honesta: defiendo la moción porque (a) el 35% de probabilidad de escape es una apuesta seria para un horizonte de 25 años, (b) incluso el Régimen 2 de meseta (50%) implica sostenibilidad del modelo como régimen político-económico sin colapso, y (c) la moción distingue entre sostenibilidad y convergencia plena — el Régimen 2 satisface la primera pero no la segunda.
+
+**Evidencia observable entre 2026 y 2030 que me movería de escenario:**
+
+- Me movería del 35% al 20% (hacia Régimen 2 más probable) si: la PTF agregada china permanece plana o negativa en las ediciones de Penn World Tables 2028-2030; el venture capital en tech no recupera $70,000 millones anuales antes de 2028; y la tasa de adopción de robots de tercera generación (con sensores adaptativos y IA embebida) no alcanza el 15% del stock total para 2029.
+- Me movería del 35% al 50% (hacia escape más probable) si: la PTF agregada muestra reversión positiva en 2027-2028; el volumen de CIPS excede $5 billones anuales en dólares equivalentes antes de 2030; y al menos dos economías del bloque de ingreso medio en ascenso (ASEAN, GCC) aumentan el RMB a más del 15% de sus reservas bilaterales con China.
+
+---
+
+### 5. R10-6 — Condición de umbral: hedging → alineamiento estratégico
+
+**El umbral tiene tres capas:**
+
+**Capa 1 — Umbral mínimo (hedging puro, modelo sostenido):** Un país del Sur Global alcanza umbral de hedging funcional cuando: (a) liquida más del 30% de su comercio bilateral con China en RMB; (b) tiene acceso a la línea de swap del PBoC activada y utilizada; y (c) ha incorporado algún instrumento de CIPS en su plomería bancaria. Este umbral no requiere alineamiento político. Es gestión de riesgo de concentración en dólares. [EC - derivado de datos PBoC sobre swaps activos y estadísticas CIPS 2024] entre 15 y 20 economías ya superan este umbral mínimo en al menos dos de las tres dimensiones.
+
+**Capa 2 — Umbral de alineamiento instrumental (modelo reforzado):** Se alcanza cuando: (a) el RMB representa más del 10% de las reservas oficiales del banco central del país; (b) el país es participante directo o indirecto de CIPS con transacciones regulares; y (c) el país ha denominado al menos una emisión soberana de deuda en RMB. [EC] entre 8 y 12 economías actualmente. Para que este umbral sostenga el modelo de forma sistémica, necesito al menos 25 economías en Capa 2 para 2035.
+
+**Capa 3 — Umbral de alineamiento estratégico suficiente (moción plena):** Se alcanza cuando la arquitectura financiera alternativa china puede gestionar sin interrupción el 25% del comercio mundial bajo un escenario de sanciones equivalentes a las impuestas a Rusia en 2022. El umbral que propongo: si el RMB + arquitectura alternativa puede gestionar sin interrupción el 25% del comercio mundial bajo condición de weaponización total. Actualmente estamos aproximadamente en el 10-12% de ese umbral. [EC - derivado del 2.88% de pagos SWIFT en RMB [DO] más estimación de flujos fuera de SWIFT en sistemas alternativos].
+
+---
+
+### 6. Argumento central — Renminbi y arquitectura financiera alternativa
+
+**6.1 La tesis de R9 queda vinculante: redundancia, no sustitución**
+
+No retiro la tesis de "redundancia, no sustitución". La sostengo con la condición de umbral que acabo de especificar. La pregunta es si la redundancia alcanzada es suficiente para el modelo, no si es equivalente al sistema dólar-SWIFT.
+
+**6.2 El expediente completo sobre CIPS**
+
+CIPS depende de mensajería SWIFT para más del 80% de sus transacciones. [DO - CSIS 2023, en expediente desde R9]. No argumento como si esto no existiera; es el punto de partida.
+
+El estado actual de CIPS:
+- [DO] En 2024, el volumen anual de CIPS alcanzó ¥175.49 billones (~$24.45 billones equivalentes), un incremento del 43% respecto a 2023, con 8.2 millones de transacciones. (FXC Intelligence, mayo 2025)
+- [DO] En mayo 2025, CIPS tenía 1,683 participantes, un aumento del 10% interanual. (FXC Intelligence)
+- [DO] En febrero de 2026, Beijing implementó la primera actualización mayor de las reglas de negocio de CIPS en ocho años, moviéndose hacia una plataforma multi-divisa capaz de gestionar canales de pago en monedas distintas al RMB. (Disruption Banking, abril 2026)
+- [EC] Si el 20% de las transacciones de CIPS ya utiliza mensajería propia (no SWIFT), el volumen autónomo CIPS = 0.20 × $24.45tn = $4.89tn anuales. Ese es el núcleo autónomo actual.
+- [EI] La hoja de ruta de CIPS hacia mensajería propia (ISO 20022) proyecta aumentar la fracción independiente de SWIFT al 40-50% para 2028-2030 — dirección [PI], porcentaje [EI].
+
+**Sobre la dependencia de SWIFT como vulnerabilidad gestionada:** los mecanismos de weaponización son conocidos y estudiados desde 2012 (Irán) y 2022 (Rusia). La respuesta no es eliminar la dependencia en el corto plazo, sino desarrollar suficiente capacidad alternativa para operar las transacciones más críticas de forma autónoma.
+
+**6.3 mBridge — el instrumento más prometedor y el más incierto**
+
+- [DO] mBridge alcanzó el estado de MVP en junio de 2024. (BIS Press Release, 5 junio 2024)
+- [DO] El BIS abandonó el proyecto en octubre de 2024, dejando la gobernanza a los bancos centrales participantes: PBoC, HKMA, Banco de Tailandia, CBUAE, y SAMA (Arabia Saudí). 31 miembros observadores adicionales.
+- [DO] El volumen acumulado de mBridge supera $55.5 billones en transacciones.
+- [DO] Aproximadamente el 95% de ese volumen se liquidó en yuan digital (e-CNY).
+- [EI] La salida del BIS reduce la credibilidad de gobernanza multilateral. Si mBridge es percibido como instrumento chino más que multilateral, su adopción por economías que quieren hedging sin dependencia explícita de China queda limitada.
+
+**6.4 Las tres magnitudes del RMB — distinguidas obligatoriamente**
+
+| Magnitud | Dato actual | Fuente | Etiqueta | Tendencia | Horizonte 2030 |
+|----------|------------|--------|---------|-----------|----------------|
+| Pagos internacionales SWIFT | 2.88% (julio 2025) | SWIFT RMB Tracker jul. 2025 | [DO] | Ascendente | [EI] ~4-6% si tendencia se sostiene |
+| Reservas oficiales (COFER) | ~1.95% (Q2 2025) | IMF COFER | [DO] | Lateral-declinante desde pico 2.8% en 2022 | [EI] 2-3% en 2030, sin cambio estructural visible |
+| Trade finance SWIFT | 7.70% (julio 2025) | SWIFT RMB Tracker jul. 2025 | [DO] | Ascendente, mayor momentum | [EC] 10-12% en 2030 si comercio bilateral CN-Sur Global continúa |
+
+**La distinción importa:** el RMB penetra primero por el comercio bilateral, luego por los swaps del PBoC, y finalmente por las reservas. El horizonte de reservas es el más lento y el más revelador de confianza institucional.
+
+**6.5 Swaps del PBoC como columna vertebral de la red bilateral**
+
+El PBoC mantiene acuerdos de swap bilateral con más de 40 bancos centrales por un valor agregado de más de ¥4 billones (~$560,000 millones equivalentes). [EC - basado en listados públicos del PBoC]. Esos swaps cumplen una función de liquidez de emergencia en RMB que opera completamente fuera de SWIFT y del sistema de reservas dólar.
+
+**6.6 El mecanismo causal hacia la sostenibilidad del modelo**
+
+Cadena causal:
+
+1. **Weaponización financiera occidental** → amenaza de exclusión del sistema SWIFT/dólar de socios comerciales chinos.
+2. **Arquitectura alternativa (CIPS + mBridge + swaps PBoC + e-CNY)** → provee redundancia suficiente para mantener los flujos comerciales más críticos en el escenario de weaponización parcial (no total).
+3. **Flujos comerciales sostenidos** → el modelo económico chino no colapsa por restricción financiera externa.
+4. **Crecimiento sostenido en 3.5-4.5%** → el PCCh mantiene su base de legitimidad por desempeño material.
+
+El eslabón más débil: el paso 2→3 requiere que la redundancia sea suficiente. En el escenario de weaponización total equivalente a Rusia 2022, la arquitectura actual es insuficiente. En el escenario de weaponización parcial (sanciones selectivas sin exclusión total de SWIFT), la arquitectura actual ofrece redundancia que funciona. Ese es el escenario más probable de materialización.
+
+---
+
+### 7. Tabla de datos con etiquetas DO/PI/EC/EI
+
+| # | Dato | Valor | Fuente | Etiqueta | Aritmética derivada si aplica |
+|---|------|-------|--------|---------|-------------------------------|
+| 1 | Volumen anual CIPS 2024 | ¥175.49tn (~$24.45tn) | FXC Intelligence, mayo 2025 | [DO] | — |
+| 2 | Crecimiento CIPS 2024 vs. 2023 | +43% volumen | FXC Intelligence, mayo 2025 | [DO] | — |
+| 3 | Participantes CIPS (mayo 2025) | 1,683 (+10% interanual) | FXC Intelligence, mayo 2025 | [DO] | — |
+| 4 | Dependencia SWIFT en mensajería CIPS | >80% de transacciones | CSIS 2023 | [DO] | Volumen autónomo CIPS = 0.20 × $24.45tn = $4.89tn [EC] |
+| 5 | RMB en pagos globales SWIFT (julio 2025) | 2.88% | SWIFT RMB Tracker, julio 2025 | [DO] | — |
+| 6 | RMB en trade finance SWIFT (julio 2025) | 7.70% | SWIFT RMB Tracker, julio 2025 | [DO] | — |
+| 7 | RMB en reservas oficiales COFER (Q2 2025) | ~1.95% | IMF COFER | [DO] | — |
+| 8 | mBridge volumen acumulado | ~$55.5bn | CryptoValleyJournal, mid-2025 | [DO] | — |
+| 9 | % volumen mBridge en e-CNY | ~95% | CryptoValleyJournal | [DO] | — |
+| 10 | Participantes mBridge plenos | 5 (PBoC, HKMA, BOT, CBUAE, SAMA) | BIS Press Release junio 2024 | [DO] | — |
+| 11 | Observadores mBridge | 31 | BIS/Digital Pound Foundation | [DO] | — |
+| 12 | GDP PPP ASEAN-10 (2025) | ~$12.3 billones | World Bank/Worldometers | [DO] | — |
+| 13 | GDP PPP Brasil + México + Colombia + Argentina | ~$6.5 billones | IMF WEO 2025 | [EC] | Suma estimada; rango ±0.5tn |
+| 14 | GDP PPP Turquía + Egipto + Irán | ~$4.2 billones | IMF WEO 2025 | [EC] | Rango ±0.4tn |
+| 15 | GDP PPP GCC | ~$4.8 billones | IMF WEO 2025 | [EC] | Rango ±0.3tn |
+| 16 | Total bloque intermedio | ~$27.8 billones | Suma 12+13+14+15 | [EC] | $12.3 + $6.5 + $4.2 + $4.8 = $27.8tn |
+| 17 | TFP market services China crece >TFP manufactura | Dirección positiva reciente | IMF Staff Country Report China, agosto 2024 | [DO] | — |
+| 18 | Subestimación PTF por medición | 0.5-1.5% anual | IMF Working Paper 2024 (vía F en R9) | [PI] | — |
+| 19 | Contribución urbanización residual a PTF | ~+0.175% anual 2026-2035 | Derivado: (5pp urbz restantes) × (0.35% PTF/pp) / 10 años | [EC] | 5 × 0.35 / 10 = 0.175% por año |
+| 20 | Escenario escape (probabilidad A) | 35% | Declaración propia calibrada con F | [EC] | — |
+| 21 | Escenario Régimen 2 meseta (probabilidad A) | 50% | Declaración propia | [EC] | — |
+| 22 | Escenario desaceleración severa (probabilidad A) | 15% | Declaración propia | [EC] | 35 + 50 + 15 = 100% |
+
+---
+
+### 8. Ataque al punto débil del oponente
+
+**El punto débil de B en R10 es la dirección causal entre desdolarización y el Régimen 2.**
+
+G instruyó a B que debe responder si la limitación del renminbi es *causa* del Régimen 2, *consecuencia* de él, o meramente concomitante. Si la internacionalización limitada del RMB es consecuencia del Régimen 2 (no causa), entonces la arquitectura financiera alternativa no necesita reemplazar al sistema dólar para que el modelo sea sostenible. El argumento de B en ese escenario es circular: el Régimen 2 produce baja internacionalización del RMB, que no ayuda a escapar el Régimen 2, que produce baja internacionalización... pero esa circularidad no implica que la weaponización financiera occidental sea el factor que precipita el colapso del modelo.
+
+**Segundo ataque: el volumen de mBridge no es el indicador correcto para mi tesis.**
+
+El indicador correcto para la tesis de redundancia no es el volumen total frente a SWIFT (donde la diferencia es de órdenes de magnitud), sino el volumen de las transacciones *que estarían bajo amenaza de weaponización* — el subconjunto del comercio bilateral China-BRICS+-GCC. Ese subconjunto es radicalmente más pequeño y mBridge + CIPS puede cubrirlo en mayor proporción.
+
+---
+
+### 9. Concesión táctica
+
+Concedo que la salida del BIS de mBridge en octubre de 2024 es una señal de credibilidad institucional negativa real. La narrativa de "plataforma multilateral neutral" queda dañada. El artículo de Forbes de mayo 2026 que declara muerta la interoperabilidad multilateral de CBDC es un síntoma de ese daño. En términos de Capa 3 de mi umbral de alineamiento, esa pérdida de credibilidad multilateral es un obstáculo real que reduce la probabilidad de alcanzar la Capa 3 antes de 2040.
+
+Concedo también que el estancamiento de la participación del RMB en reservas oficiales (COFER ~1.95-2.18%, lateral o declinante desde el pico del 2.8% en 2022) es evidencia de que la confianza institucional de los bancos centrales en el RMB como reserva de valor no ha aumentado, y no lo hará mientras persista la percepción de controles de capital chinos y de riesgo político.
+
+---
+
+### 10. Reto para B y para el Especialista D
+
+**Reto para B:**
+
+B debe responder si la limitación del RMB es causa, consecuencia o concomitante del Régimen 2. Si su respuesta es que es *causa*, debe cuantificar la magnitud del impacto de la restricción financiera sobre el crecimiento potencial chino — en qué rango de puntos porcentuales del PIB eleva el costo de capital o reduce el acceso a mercados. Sin esa cuantificación, la afirmación de que la limitación del RMB es causa del Régimen 2 es una afirmación de dirección sin efecto medido, y no puede ser tratada como argumento decisivo para el veredicto final.
+
+**Reto para el Especialista D:**
+
+D debe evaluar específicamente si la actualización de las reglas de negocio de CIPS de febrero 2026 (hacia una plataforma multi-divisa con canales de mensajería alternativos a SWIFT) es técnicamente viable como paso hacia la independencia de mensajería, y en qué horizonte de tiempo (2028, 2030, 2035). Específicamente: ¿el protocolo ISO 20022 implementado en CIPS permite la independencia operativa del canal de mensajería SWIFT sin pérdida de interoperabilidad con el sistema de pagos internacional existente? Y para R10-9: ¿los chips que China produce (nodos de 7-14nm en SMIC) son suficientes para los controladores embebidos de robots de tercera generación con IA adaptativa, o esos controladores requieren nodos por debajo de 5nm que China no puede fabricar en volumen?
+
+---
+
+### Sources
+
+- [Is China's cross-border payments network on the rise? — FXC Intelligence](https://www.fxcintel.com/research/analysis/cips-growth-may-2025)
+- [China's SWIFT Challenger Breaks Records — Disruption Banking](https://www.disruptionbanking.com/2026/04/14/chinas-swift-challenger-breaks-records-as-petrodollar-looms/)
+- [SWIFT RMB Tracker July 2025 — SWIFT](https://www.swift.com/sites/default/files/files/rmb-tracker_july-2025.pdf)
+- [January 2026 RMB Tracker — SWIFT](https://www.swift.com/sites/default/files/files/rmb-tracker_january-2026.pdf)
+- [Dollar's Share of Reserves — IMF Blog](https://www.imf.org/en/blogs/articles/2025/10/01/dollars-share-of-reserves-held-steady-in-second-quarter-when-adjusted-for-fx-moves)
+- [Project mBridge reaches MVP stage — BIS](https://www.bis.org/press/p240605.htm)
+- [BIS Departure from mBridge — Digital Pound Foundation](https://digitalpoundfoundation.com/bis-departure-from-mbridge-a-strategic-exit-or-a-political-move/)
+- [China-led CBDC platform mBridge surpasses $55 billion — CVJ](https://cryptovalleyjournal.com/focus/blockchain/china-led-cbdc-platform-mbridge-surpasses-55-billion-in-volume/)
+- [After mBridge and Agora, Multilateral CBDC Interoperability Is Dead — Forbes](https://www.forbes.com/sites/digital-assets/2026/05/12/after-mbridge-and-agora-multilateral-cbdc-interoperability-is-dead/)
+- [Service Sector Productivity in China — IMF Staff Country Report 2024](https://www.elibrary.imf.org/view/journals/002/2024/276/article-A002-en.xml)
+- [GDP (PPP) by Country 2025 — Worldometers/IMF](https://www.worldometers.info/gdp/gdp-by-country/?year=2025&metric=ppp&region=worldwide)
+- [Charting the Renminbi's rise — Deutsche Bank](https://www.db.com/news/detail/20250623-charting-the-renminbi-s-rise-as-a-global-currency?language_id=1)
+- [China's Use of Renminbi and CIPS Falls Short — Fair Observer](https://www.fairobserver.com/economics/chinas-use-of-renminbi-and-cips-challenges-us-dollar-but-falls-short/)
