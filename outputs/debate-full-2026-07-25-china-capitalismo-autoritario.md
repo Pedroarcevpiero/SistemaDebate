@@ -2866,3 +2866,118 @@ B argumenta que la brecha de hardware se transmite inexorablemente a la capa de 
 - Zhong et al. (2021). "Phase-Programmable Gaussian Boson Sampling." *Physical Review Letters* 127, 180502 [Jiuzhang 2.0]
 - Pei et al. (2019). "Towards artificial general intelligence with hybrid Tianjic chip architecture." *Nature* 572, 106-111
 
+
+### Agente G (Árbitro) — Evaluación Ronda 7
+
+#### Resumen de intervenciones
+
+**Agente A** dedicó la primera mitad de su intervención a saldar deuda acumulada: presentó el sector solar 2023-2025 como caso de reversión de política industrial (con concesión explícita de cumplimiento sólo parcial), respondió el reto de disciplina del capital de C con tres mecanismos (rendimiento exportador, evaluación de cuadros post-2013-2016, fusión SASAC 2023), respondió el reto de autonomía embebida vía clústeres locales (Shenzhen/Shanghai/Hefei) admitiendo el diagnóstico de Evans, respondió por fin el Efecto Bruselas (EU AI Act, bifurcación arquitectónica) y **cerró el H800 tras cuatro rondas admitiendo sin reservas que la ventana está cerrada y el stock es finito**. Su argumento sustantivo fue la distinción frontera de entrenamiento / frontera de aplicación, apoyada en DeepSeek-V3/R1, CloudMatrix384 sobre Ascend 910C, BYD y Huawei, con tres concesiones adversas explícitas.
+
+**Agente B** tomó el reto de A en serio y ofreció Grab/OpenAI en Singapur-ASEAN, pero reconoció de inmediato tres límites que erosionan el propio ejemplo (Singapur no es no alineado; Qwen/DeepSeek/MiniMax ganan terreno; los desarrolladores del SEA eligen alternativas chinas por precio). Rechazó el caso solar con un argumento causal preciso —poda de sobrecapacidad en un sector que el Estado considera ganado, no corrección de error estratégico—, y lo reforzó con la distinción disciplina prospectiva (Amsden/Corea/Daewoo) vs. gestión reactiva de consecuencias. Objetó la distinción de A con tres mecanismos de transmisión. Cerró cuatro deudas documentales, incluyendo la **autocorrección de su propia cifra de capitalización destruida**.
+
+**Agente D** introdujo el factor que ambos omitieron —*test-time compute scaling*—, mostró que la distinción de A colapsa precisamente en los nichos de mayor retorno por consulta, identificó el cuello de botella de interconexión entre expertos en MoE sobre Ascend, distinguió capas de bifurcación (silicio irreducible vs. modelos/datos manejable) y abrió el eje de paradigmas alternativos. Cumplió la instrucción de abstenerse de comparaciones ganador/perdedor.
+
+#### Evaluación de Agente A — Ronda 7
+
+**Puntuación: 8.5/10**
+
+**Fortalezas**
+- Mejor intervención de A en el debate. Convirtió una posición defensiva acumulada en cinco cierres sustantivos en una sola ronda.
+- La distinción entrenamiento/aplicación es una contribución analítica genuina, reconocida como válida tanto por B como por D.
+- Tres concesiones adversas explícitas y no forzadas, incluida la más costosa: que el gap absoluto con B200/GB200 "no se está cerrando a la misma velocidad a la que se abre".
+- Documentación tabulada con 13 entradas y fuentes verificables, incluyendo las cifras de política industrial occidental exigidas en la advertencia formal.
+
+**Debilidades**
+- El contraataque "B exige de China lo que no exige de Washington" (rescate automotriz 2008) es un *tu quoque* parcial: el reto de B no era comparativo sino sobre la capacidad de autocorrección del modelo chino específicamente.
+- La afirmación de que "el 90% del valor económico de la IA" está en la capa de despliegue aparece sin fuente y es la premisa cuantitativa central de su argumento.
+- "Hay razones teóricas para esperarlo" (mejora continua de eficiencia) es proyección sin respaldo usada como pilar del ataque a B.
+- El mecanismo (b) del reto de disciplina —evaluación de cuadros vinculada a métricas de productividad sectorial— se afirma sin fuente ni métrica exigible.
+- Persisten sin respuesta: hueco de financiamiento 2026-2032 y composición de fuentes de financiamiento.
+
+**Respuesta a los 5 retos pendientes**
+1. *Reversión de política industrial (B)* — **Parcial, honesta, rechazada con fundamento.** A concedió el incumplimiento del tercer criterio; B demostró que el fallo es más profundo. Crédito por el intento documentado. **Sigue abierto.**
+2. *Disciplina continua del capital (C)* — **Adecuada en (a) y (c), débil en (b).** El rendimiento exportador es el análogo de Amsden; la ausencia de métricas exigibles documentadas deja el reto parcialmente satisfecho. **Cierre parcial.**
+3. *Autonomía embebida post-2013 (C)* — **Respuesta correcta en forma, débil en evidencia.** A aceptó el diagnóstico de Evans y reformuló la disputa como colapso vs. equilibrio. Los ejemplos (BYD, DeepSeek) son ilustrativos, no probatorios de densidad informativa institucional. **Cierre parcial.**
+4. *Efecto Bruselas (E)* — **Cerrado.** Respuesta directa, documentada (EU AI Act, régimen regulatorio chino 2022-2023) con tesis propia falsable: bifurcación arquitectónica. Se levanta la penalización por evasión. B también queda cubierto al haber evaluado la respuesta.
+5. *H800 como ventana cerrada* — **Cerrado plenamente.** Cuarta ronda de pendencia resuelta con admisión sin reservas. El movimiento de integridad argumentativa más importante de A en siete rondas.
+
+**Calidad de documentación**
+De nueve afirmaciones sin documentar en R6 se pasa a cuatro en R7. La advertencia formal se considera **atendida sustancialmente**; el descuento anunciado para R8 se mantiene vigente pero no se aplica retroactivamente.
+
+#### Evaluación de Agente B — Ronda 7
+
+**Puntuación: 8.3/10**
+
+**Fortalezas**
+- La refutación del caso solar es la pieza analítica más fuerte de la ronda: no niega los hechos de A, sino que invierte su interpretación causal mostrando que "poda de sobrecapacidad en sector ganado" ≠ "corrección de error estratégico". El anclaje en Amsden (disciplina prospectiva, Corea no esperó al colapso de Daewoo) es uso correcto y no selectivo de literatura.
+- Los tres mecanismos de transmisión entrenamiento→aplicación son una respuesta estructurada, no una negación: concede la validez de la distinción y ataca su suficiencia.
+- El concepto de "ventaja compuesta" (Occidente absorbe las innovaciones de DeepSeek y las corre sobre 10-20x más cómputo) es la objeción más difícil de responder que se ha planteado a A en esta ronda.
+- Autocorrección voluntaria de cifra propia usada en rondas anteriores.
+- Concesión generosa y específica (tres puntos), incluyendo admitir que no había concedido suficiente antes.
+
+**Debilidades**
+- **El propio ejemplo se autodesarma.** B eligió Singapur y luego reconoció que no es no alineado, incumpliendo la condición explícita del reto de A.
+- El primer mecanismo de transmisión (dependencia de modelos base) se sostiene con afirmaciones cualitativas sobre GPT-4o/Gemini Ultra/Claude 3 sin benchmark citado en los dominios invocados (diagnóstico médico, diseño de fármacos, modelado financiero).
+- La descripción técnica de Blackwell (memoria unificada, costo por FLOP) va sin fuente; D tuvo que suplirla.
+- **No distinguió colapso sistémico vs. equilibrio de menor eficiencia sostenible**, pese a que A reabrió la cuestión y el reto de C llevaba una ronda pendiente.
+
+**Respuesta al reto de A (sector + tercer país no alineado)**
+**No satisfecho en sus términos, pero respondido con integridad.** B admitió el incumplimiento de la condición, extrajo la conclusión disponible (la ventaja de frontera sólo opera en el segmento empresarial de alta confiabilidad) y aportó evidencia que favorece a A. Puntúa alto en honestidad, medio en cumplimiento.
+
+**Evaluación del caso solar como respuesta al reto de B**
+El arbitraje acompaña a B en el fondo: el argumento decisivo es el mecanismo, no la condición faltante. **El reto permanece abierto y vinculante.** Se advierte a B que un reto cuyo umbral resulte inalcanzable por construcción pierde valor probatorio.
+
+**Cierre de deudas de datos**
+- **Cerradas en R7 (4):** arresto de Ding Wenwu (triple fuente); investigaciones del Fondo II (fuente doble); corrección de cifra de capitalización (autocorrección); dependencia militar china de chips de frontera (USCC "Two Loops").
+- **Siguen abiertas (2):** caso de bloqueo de estándares chinos por TLC con la UE (tercera ronda); distinción colapso vs. equilibrio de menor eficiencia (segunda ronda).
+- **Nuevas sin documentar en R7 (3):** tres afirmaciones cualitativas señaladas en Debilidades.
+
+#### Aporte de Agente D (Tecnología/IA)
+
+**(1) Test-time compute scaling.** El aporte de mayor valor de la ronda. D identifica que la distinción de A es **temporalmente desactualizada**: el paradigma o1/o3/R1 traslada consumo de GPU-horas de clase entrenamiento hacia la inferencia, de modo que la "capa de aplicación" deja de ser hardware-independiente precisamente donde el retorno por consulta es mayor. Documentado con Snell et al. (arXiv 2408.03314). D delimita con precisión dónde la distinción sí sostiene y dónde colapsa: el estándar de aporte especializado que este debate necesita.
+
+**(2) Límites de MoE para interconexión.** Reubica el cuello de botella del cómputo matricial a la latencia de comunicación entre expertos. La observación decisiva: los benchmarks publicados de CloudMatrix384 son predominantemente de inferencia autoregresiva, no de entrenamiento distribuido a alta escala. Obliga a A a matizar el uso de arXiv 2506.12708. La estimación de 2-3x en consumo energético SMIC N+2 vs. TSMC 4nm está correctamente etiquetada como estimación sin benchmark oficial: **transparencia epistémica ejemplar**.
+
+**(3) Bifurcación de ecosistemas.** La distinción por capas —Gran Muralla Cortafuegos bifurcó en aplicación sobre infraestructura estándar; HarmonyOS bifurcó en sistema operativo con costo sustancial; la IA bifurca simultáneamente en silicio (irreducible) y modelos/datos (manejable)— da razón parcial a A (viable en la capa de datos) y a B (costo compuesto real, precedente empírico en HarmonyOS).
+
+**(4) Paradigmas alternativos.** El aporte más especulativo y honestamente etiquetado. Las fuentes son de máxima pertinencia (Jiuzhang en *Science* y *PRL*; Tianjic en *Nature*). Se advierte que esta línea no puede usarse por A como evidencia de sostenibilidad, sólo como fuente de incertidumbre bidireccional. El reto derivado a B sobre incorporar opcionalidad al análisis de largo plazo queda vinculante para R8.
+
+**Cumplimiento de instrucciones:** D se abstuvo de comparaciones ganador/perdedor y conectó el análisis técnico con la sostenibilidad del modelo. Sin deriva técnica. Aporte de alto valor.
+
+#### Resultado de Ronda 7
+
+**Ganador de ronda:** A
+**Margen:** Estrecho
+
+**Justificación:** A cerró en una sola ronda cinco frentes pendientes (incluidos H800 tras cuatro rondas y Efecto Bruselas tras dos), redujo sus afirmaciones sin fuente de nueve a cuatro, y presentó la distinción analítica más productiva del debate hasta ahora —validada como real por B y parcialmente sostenible por D. B produjo la mejor refutación individual de la ronda (caso solar) y demostró la mayor integridad probatoria al autocorregir una cifra propia, pero incumplió la condición explícita del reto de A, aportó evidencia que favorece a su rival, y dejó por segunda ronda sin distinguir colapso sistémico de equilibrio de menor eficiencia. El margen es estrecho: la intervención de D debilita el núcleo del argumento de A y la ronda habría sido de B con una respuesta cumplida al reto.
+
+#### Instrucciones para Ronda 8
+
+**Tema de Ronda 8:** Geopolítica de alianzas — ¿puede China construir alianzas duraderas que le permitan sostener su modelo frente a la presión occidental?
+
+**Especialista Ronda 8:** Agente E (Geopolítica)
+
+**Retos pendientes para R8:**
+- **Reto de D a A (vinculante):** estrategia concreta de China para proveer compute de inferencia suficiente para modelos de razonamiento extendido en aplicaciones de alta precisión, dado que los clusters clase o3/R1 corren sobre B200; y aclarar el alcance de CloudMatrix384 tras la observación de D sobre sus benchmarks.
+- **Reto de D a B (vinculante):** evaluación explícita del riesgo de que fotónica, neuromórfico o cuántica aplicada quiebren la cadena causal TSMC+EUV→B200→modelos de frontera→ventaja económica sostenida, y cómo incorpora B esa opcionalidad al horizonte 2035-2050.
+- **Reto de B a A (bifurcación arquitectónica):** mecanismo institucional concreto que evite degradación diferencial bajo bifurcación en 2030-2040. A debe responder al precedente de HarmonyOS documentado por D.
+- **Reto de B a A (solar / reversión):** permanece abierto y vinculante.
+- **Reto de C a B:** distinguir colapso sistémico vs. equilibrio de menor eficiencia sostenible. Segunda ronda pendiente; evasión en R8 se computará.
+- **Pendiente de B:** caso documentado de bloqueo de estándares chinos por TLC con la UE. Tercera ronda; **penalización severa si no se aborda.**
+- **Pendientes de A:** hueco 2026-2032 y composición de fuentes de financiamiento.
+- **No-Alineamiento tecnológico:** sigue sin respuesta directa; R8 es la ronda natural para resolverlo.
+
+**Advertencias:**
+- **Advertencia formal a A: rebajada a seguimiento.** De nueve afirmaciones sin documentar en R6 a cuatro en R7. Las cuatro afirmaciones pendientes deben documentarse o retirarse en R8.
+- **Estado de B:** 4 de 6 deudas cerradas en R7, con autocorrección voluntaria. Sin advertencia formal, pero el margen se estrecha.
+- **Estándar epistémico:** el modelo de D de etiquetar estimaciones como estimaciones es exigible a A y B desde R8.
+- **A A:** el recurso "Occidente hace lo mismo" no sustituye la carga de prueba sobre el modelo chino. Su reiteración se computará como evasión.
+- **Nota de foco R8:** toda afirmación sobre BRICS, BRI, OCS o relaciones con Rusia debe conectarse con la **sostenibilidad del modelo político-económico chino**. Descripción diplomática sin vínculo causal con la moción se penalizará.
+- **Nota a E:** informar, no arbitrar. Abstenerse de comparaciones ganador/perdedor.
+
+**Nota de alcance:** esta es una evaluación parcial de ronda, no un veredicto.
+
+---
+
+## Ronda 8 — Geopolítica de alianzas
+
