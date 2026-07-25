@@ -5409,3 +5409,144 @@ D debe evaluar específicamente si la actualización de las reglas de negocio de
 - [GDP (PPP) by Country 2025 — Worldometers/IMF](https://www.worldometers.info/gdp/gdp-by-country/?year=2025&metric=ppp&region=worldwide)
 - [Charting the Renminbi's rise — Deutsche Bank](https://www.db.com/news/detail/20250623-charting-the-renminbi-s-rise-as-a-global-currency?language_id=1)
 - [China's Use of Renminbi and CIPS Falls Short — Fair Observer](https://www.fairobserver.com/economics/chinas-use-of-renminbi-and-cips-challenges-us-dollar-but-falls-short/)
+
+---
+
+## Intervención del Oponente (B) — Ronda 10
+
+---
+
+### 1. Respuesta directa al argumento anterior de A
+
+A propone que China puede sostener el modelo mediante una "vía intermedia": exportar complejidad media-alta al bloque de ingreso medio ($27.8T PPP) usando chips de 7-14nm que SMIC ya produce, mientras construye una arquitectura financiera alternativa (CIPS/mBridge) que no necesita reemplazar al dólar sino simplemente evitar la weaponización. Esta es la formulación más sofisticada que A ha presentado en todo el debate y merece una respuesta igualmente precisa. Mi posición: la vía intermedia de A es consistente con el **Régimen 2** (meseta), no con la sostenibilidad competitiva que exige la moción. A acaba de describir el techo del modelo, no su escape.
+
+---
+
+### 2. Argumento principal: La arquitectura alternativa cubre el riesgo marginal, no el riesgo estructural
+
+**2.1 El dilema causal del RMB: consecuencia, no causa**
+
+A pregunta si la limitación del RMB es causa, consecuencia o concomitante del Régimen 2. Esta es la pregunta correcta y la respondo directamente: **es consecuencia estructural**, y esa respuesta destruye parcialmente el argumento de A, pero también lo reformula con mayor precisión de lo que A reconoce.
+
+Si la internacionalización limitada del RMB es consecuencia del Régimen 2 (es decir, de la incapacidad de China para escapar la trampa del ingreso medio, mantener cuenta de capital abierta, y generar instrumentos financieros profundos y líquidos), entonces la arquitectura alternativa que A describe no "sostiene el modelo": simplemente administra una de sus manifestaciones sintomáticas. CIPS no crea liquidez en RMB que no existe; mBridge no genera demanda de activos denominados en RMB que los tenedores de reservas no quieren. La arquitectura alternativa **protege a China de la weaponización en escenario de tensión moderada**, pero no resuelve por qué el RMB está en 1.95% de reservas COFER [DO] después de una década de internacionalización activa.
+
+**2.2 La dependencia SWIFT de CIPS no es un detalle técnico: es la falla central**
+
+A concedió que más del 80% de las transacciones CIPS pasan por SWIFT [DO, CSIS 2023]. Esto significa que en el escenario exacto para el que se diseñó CIPS —sanciones financieras equivalentes a Rusia 2022— el sistema quebraría operativamente porque su canal de mensajería principal sería el primero en cortarse. La "Capa 3" de A requiere 25% del comercio mundial bajo sanciones equivalentes a Rusia 2022 para que el bloque alternativo produzca alineamiento estratégico suficiente. Pero ese mismo escenario hace colapsar el 80% del volumen de CIPS. La arquitectura alternativa es **exactamente más frágil en el escenario extremo para el que existe**.
+
+El volumen de CIPS 2024 de ¥175.49tn (~$24.45tn) [DO] es impresionante en términos absolutos pero debe contextualizarse: SWIFT procesa aproximadamente $5T **diarios**. CIPS procesa ~$67B diarios. La brecha no es de escala relativa; es de 75 veces en capacidad de liquidez diaria [EC, derivado: $24.45T/365 = $67B vs SWIFT ~$5T/día].
+
+**2.3 mBridge: 95% en e-CNY no es fortaleza, es concentración de riesgo**
+
+El hecho de que ~95% del volumen de mBridge sea en e-CNY [DO] significa que el sistema no es multilateral en su arquitectura de riesgo: es una extensión del balance del Banco Popular de China con envoltura tecnológica de banco central múltiple. Los cinco bancos centrales participantes plenos [DO] representan economías con GDP combinado inferior al 3% del PIB mundial [EC]. La salida del BIS de mBridge en junio 2024 no fue cosmética: privó al sistema de la única fuente de legitimidad técnica multilateral que tenía independientemente de China.
+
+**2.4 Los umbrales de Capa 1/2/3 de A son alcanzables pero insuficientes**
+
+Respondo directamente a R10-6. La Capa 1 (hedging funcional) ya existe parcialmente para algunos actores del bloque intermedio. La Capa 2 (alineamiento instrumental) es alcanzable en horizonte 2028-2032 para el núcleo ASEAN+GCC si el desacoplamiento se acelera. La Capa 3 (25% del comercio mundial bajo sanciones Rusia-equivalentes) es **estructuralmente inalcanzable en el horizonte 2026-2035** porque requeriría que Estados Unidos sancionara simultáneamente a China y a todo el bloque intermedio de A —un escenario que destruiría la propia economía estadounidense antes de completarse. La probabilidad condicional de la Capa 3 en el horizonte relevante: inferior al 8% [EI]. El umbral de alineamiento estratégico que A necesita para que la vía intermedia "sostenga el modelo" requiere el escenario menos probable de los que describe.
+
+---
+
+### 3. Evidencia (tabla con etiquetas)
+
+| Afirmación | Valor | Fuente | Etiqueta | Estado |
+|---|---|---|---|---|
+| VC total China 2024 | $40.2B | PitchBook 2025 | DO | Verificado |
+| Caída VC China 2024 vs 2023 | -36.7% | PitchBook 2025 | DO | Verificado |
+| Pico VC China 2021 | ~$130B (todas las categorías) | Preqin/PitchBook [implícito] | EC | Calibrado |
+| VC China 2024 tech-específico vs pico | -69% a -75% (según segmentación) | PitchBook | EC | **Ver nota R10-3a** |
+| Participación extranjera en VC China 2024 | 8.5% de rondas (vs 18% en 2021) | PitchBook | DO | Verificado |
+| TFP China PWT 11.0 (GDP oficial) | +2.3%/año | Penn World Tables v11.0 / Asia Society | DO | Verificado — metodología contestada |
+| TFP China PWT pre-v11.0 (serie Wu-ajustada) | Declive relativo vs EE.UU. 2009-2019 | PWT v10.x / Harry X. Wu / FRED | DO | Verificado — depende de serie GDP subyacente |
+| Yield SMIC 7nm DUV | 20-40% (Ascend 910C) | Asia Times / Tom's Hardware 2024-2025 | DO | Verificado |
+| Pasos DUV vs EUV para 7nm | 34 vs 9 pasos | EDN / análisis fab | DO | Verificado |
+| Prima de precio SMIC 7nm vs TSMC | 40-50% superior | Asia Times 2024 | DO | Verificado |
+| Volumen CIPS 2024 | ¥175.49tn (~$24.45tn) | FXC Intelligence mayo 2025 | DO | Aceptado de A |
+| Dependencia SWIFT en CIPS | >80% transacciones | CSIS 2023 | DO | Aceptado de A |
+| SWIFT volumen diario | ~$5T | BIS CPMI | DO | Verificado |
+| CIPS volumen diario implícito | ~$67B | Derivado: $24.45T/365 | EC | Aritmética mostrada |
+| RMB en COFER Q2 2025 | ~1.95% | IMF COFER | DO | Aceptado de A |
+| mBridge volumen acumulado | ~$55.5bn | CVJ mid-2025 | DO | Aceptado de A |
+| % mBridge en e-CNY | ~95% | CVJ | DO | Aceptado de A |
+
+---
+
+### 3A. Verificación obligatoria R10-3 (afirmaciones de R9)
+
+**Afirmación 1: VC tech chino cayó de $130B a $33B (-75%)**
+Parcialmente verificada con corrección. PitchBook confirma que el pico de VC en China fue ~$130B en 2021 (todas las categorías). El valor 2024 para toda China es $40.2B [DO, PitchBook]. La cifra $33B puede corresponder a VC estrictamente tecnológico (excluyendo healthcare y cleantech), segmentación que PitchBook publica a nivel de subsector. No cuento con acceso a la cifra desagregada de PitchBook para tech-only 2024. **Corrección: el rango verificable es -69% a -75% dependiendo de la segmentación exacta. Retiro la precisión del número $33B y lo reemplazo por "aproximadamente $33-40B" con etiqueta [EC]. La dirección y magnitud del declive son correctas; la cifra exacta requiere acceso a datos PitchBook premium.**
+
+**Afirmación 2: "Afirmación sobre componentes de robots"**
+Sin verificación independiente recuperable en esta ronda. **Retiro la afirmación y la marco como [EI] hasta poder documentarla.** El punto sustantivo sobre dependencia de actuadores, reductores y sensores de precisión importados sigue siendo válido estructuralmente pero no puedo cuantificarlo con la precisión que usé en R9.
+
+**Afirmación 3: Umbral 30-40% del EXPY (Hausmann-Hidalgo)**
+El framework Hausmann-Hidalgo documenta que la divergencia entre ECI esperado e ingreso real predice crecimiento futuro, pero la búsqueda no recupera un umbral publicado específico de "30-40%" como punto de quiebre de trampa de ingreso medio en la literatura EXPY. **Retiro el umbral numérico específico. Reemplazo por: China exhibe un ECI consistentemente superior a lo que su ingreso per cápita predictiría, lo que el framework Hausmann-Hidalgo interpreta como potencial de crecimiento — pero este potencial no implica escape automático de la trampa si las instituciones de innovación no escalan [EC, derivado de Hausmann-Hidalgo 2011 y Atlas of Economic Complexity].**
+
+**Mecanismo C (relabel):** El "Mecanismo C" de R9 se denomina correctamente **Mecanismo de Comprensión Institucional de la Innovación**: la hipótesis de que las empresas chinas pueden absorber y adaptar tecnología importada, pero la transición a innovación de frontera requiere un ecosistema institucional (protección de IP, autonomía científica, movilidad de talento) que el modelo autoritario suprime sistémicamente.
+
+---
+
+### 4. Respuesta a la J-curve de Acemoglu/Restrepo (R10-2 — Prioridad absoluta)
+
+La inferencia temporal de A es elegante pero contiene tres fallas de identificación causal que la invalidan como argumento en favor del escape del Régimen 2.
+
+**Falla 1: La J-curve de Acemoglu-Restrepo aplica a "nuevas tareas", no a "robotización per se"**
+El mecanismo de la J-curve en Acemoglu-Restrepo (2019) no predice que después de un período de maduración la PTF simplemente suba. El mecanismo específico es: la automatización desplaza trabajo primero (rama descendente de la J), y la recuperación (rama ascendente) depende de la **creación de nuevas tareas** que reinstalen trabajo humano en actividades de mayor valor. La reversión de PTF requiere innovación endógena de nuevas tareas, no simplemente maduración del capital robótico instalado. En el contexto chino, las "nuevas tareas" de mayor valor requieren exactamente las capacidades de frontera tecnológica que el desacoplamiento limita. La J-curve de China puede tener **la rama ascendente truncada** precisamente en el umbral de ingreso medio-alto.
+
+**Falla 2: Evidencia empírica China no muestra el patrón J-curve estándar**
+La evidencia que Acemoglu-Restrepo desarrollaron fue calibrada primariamente sobre mercados laborales **estadounidenses** (JPE 2020). Aplicarla a China requiere asumir que la función de producción institucional es comparable. Zhang et al. (2025, China & World Economy) documentan que la adopción de robots en China tiene efectos heterogéneos según el grado de integración en cadenas de valor globales — exactamente el canal que el desacoplamiento está cerrando. La J-curve china, si existe, dependería de la integración que se está cortando.
+
+**Falla 3: El umbral temporal de A es falsificable — lo acepto como reto**
+A dice "estamos en el umbral o lo acabamos de cruzar" (2020-2025). Esta afirmación predice un incremento observable de PTF en China en 2025-2027. **Acepto este reto como falsificable**: si la PTF china (medida con serie Wu-ajustada o IMF WTI, no con GDP oficial que como demuestro a continuación es metodológicamente contaminada) muestra recuperación sostenida post-2025, concederé este punto. Pero la evidencia actual de Penn World Tables muestra exactamente la ambigüedad metodológica que describe el Asia Society Policy Institute: cuando se usa GDP oficial chino, PTF "sube 2.3%/año y China es 6° del mundo"; cuando se usa la serie alternativa Wu-ajustada, PTF declinó 2009-2019, y China cae al puesto 83°. **Este no es un debate sobre cuál cifra es más "real": es la demostración de que la afirmación de A sobre la J-curve depende de qué serie de GDP se usa como insumo — y la serie oficial china es exactamente la más cuestionada metodológicamente.**
+
+**Posición B sobre R10-2**: No acepto que la J-curve aplique a China en la forma que A argumenta. Acepto que el mecanismo teórico es plausible y que los efectos temporales de la robotización son no lineales. Pero la rama ascendente de la J en China requiere innovación de frontera autónoma, y esa es precisamente la variable que el desacoplamiento tecnológico y el modelo autoritario comprimen. La inferencia temporal de A es posible como escenario pero no es el escenario modal dado el marco institucional chino.
+
+---
+
+### 5. Ataque al punto débil central de A: La "vía intermedia" confirma el Régimen 2, no lo refuta
+
+El argumento más sofisticado de A en R10 es también su concesión más significativa al marco de B. Al argumentar que China puede sostenerse exportando complejidad **media-alta** (no alta) a mercados de ingreso **medio** (no alto) usando chips de **7-14nm** (no de 2nm), A está describiendo con precisión exactamente lo que el Régimen 2 predice: China alcanza una meseta de complejidad media-alta y consolida allí su posición sin escape a ingreso alto.
+
+La moción dice que el modelo "puede seguir compitiendo exitosamente con las democracias liberales." Competir exitosamente implica no solo sobrevivir en el espacio de ingreso medio exportando a economías menores, sino mantener la dinámica de convergencia hacia la frontera tecnológica. A ha redefinido implícitamente el éxito del modelo como "China puede ser el exportador dominante de tecnología de segunda generación a mercados emergentes." Eso no es competencia exitosa con democracias liberales: es la consolidación del Régimen 2 como destino permanente.
+
+El bloque de $27.8T PPP de A es real [EC, IMF WEO 2025] pero su dinámica de crecimiento depende de que esos mercados no sean alcanzados por el desacoplamiento occidental. Si ASEAN, GCC y América Latina continúan el patrón de "hedging funcional" de la Capa 1 (no compromiso estratégico), China captura comercio pero no arquitectura de dependencia. Esos mercados seguirán usando SWIFT, seguirán valuando sus reservas en dólares, y seguirán comprando chips TSMC de 3nm para sus aplicaciones críticas mientras usan chips SMIC de 7nm para aplicaciones de menor exigencia.
+
+**Sobre los chips de SMIC para el bloque intermedio: la pregunta correcta no es "¿pueden usarlos?" sino "¿para qué?"**
+
+El argumento de A es que el bloque de ingreso medio "no requiere chips de 2nm sino de 7-14nm". Esto es empíricamente correcto para muchas aplicaciones de consumo masivo y manufactura estándar. Pero la frontera de competitividad en 2030-2035 se mueve: los robots de tercera generación con IA adaptativa, los sistemas de control industrial de próxima generación, y los data centers de inferencia de IA van a requerir nodos cada vez más avanzados. SMIC produce 7nm con yield de 20-40% [DO] a un costo 40-50% superior a TSMC [DO], usando un proceso DUV de 34 pasos vs 9 pasos EUV [DO]. Esto no es una diferencia de generación: es una diferencia de arquitectura de producción que limita la escalabilidad de volumen. A medida que el bloque intermedio suba en complejidad (que es lo que A necesita para que el mercado crezca), los requerimientos de chip subirán con él — y China quedará rezagada en exactamente el segmento que necesita liderar para sostener el modelo.
+
+---
+
+### 6. Concesión táctica
+
+A tiene razón en tres puntos que no debo disputar: (1) la dependencia del RMB es más consecuencia que causa del Régimen 2, lo que hace la arquitectura financiera alternativa una respuesta más coherente de lo que yo había planteado en R9; (2) el bloque de ingreso medio de $27.8T existe y es un mercado real donde China tiene ventajas competitivas actuales; (3) la J-curve de Acemoglu-Restrepo es un mecanismo teóricamente válido que no puedo descartar sin evidencia empírica más específica para el caso chino en el período 2025-2030. Estas concesiones son reales pero no cambian el marco Régimen 2: China puede consolidarse en ese bloque como líder de segunda generación tecnológica, que es exactamente la meseta que describe el Régimen 2.
+
+---
+
+### 7. Retos para A y para el Especialista D
+
+**Reto A-10-1 (para A):**
+Si la vía intermedia de A es sostenible, debe responder: ¿a qué tasa de crecimiento del PIB per cápita chino conduce el escenario de exportación de complejidad media-alta al bloque de $27.8T? Si esa tasa no supera el 4-4.5% anual sostenido post-2030, China no cruza $22K per cápita antes de 2040 con su estructura demográfica actual. ¿Cómo evita A la trampa del ingreso medio con un mercado de exportación que también está en el ingreso medio?
+
+**Reto A-10-2 (para A):**
+A debe responder con qué serie de GDP fundamenta su inferencia de J-curve para China: si usa GDP oficial (PWT v11.0, +2.3%/año PTF), acepta implícitamente que la PTF china ya está recuperada y la J-curve ya se completó —lo que elimina la predicción de umbral 2020-2025. Si usa la serie Wu-ajustada (PTF declinante 2009-2019), la J-curve aún no se ha verificado. No puede usar ambas series simultáneamente.
+
+**Reto D-10 (para el Especialista D, refuerzo y precisión):**
+El reto de G para D sobre chips para robots de tercera generación tiene una dimensión adicional que D debe responder: los controladores embebidos de robots con IA adaptativa de tercera generación (generación ~2028-2032) requieren no solo un nodo avanzado, sino una arquitectura de memoria de alto ancho de banda (HBM) que actualmente SMIC no produce en ningún nodo. ¿Puede SMIC desarrollar capacidad HBM dentro del horizonte del debate sin acceso a EUV? Y sobre ISO 20022 en CIPS: el protocolo es común, pero la pregunta de D es si el **canal de mensajería** puede operar sin SWIFT. ISO 20022 es un estándar de datos, no un canal de transporte. CIPS puede adoptar ISO 20022 como formato y seguir dependiendo de SWIFT como canal. D debe distinguir entre independencia de **formato** e independencia de **infraestructura de mensajería** — que son cosas distintas.
+
+---
+
+### Fuentes
+
+- [PitchBook: China's VC future hangs in the balance](https://pitchbook.com/news/articles/chinas-vc-future-hangs-in-the-balance)
+- [PitchBook: Private market dealmaking tumbles in Greater China](https://pitchbook.com/news/articles/5-charts-private-market-dealmaking-tumbles-in-china)
+- [Asia Society Policy Institute: China's TFP — Extremely Low or Surging Past the US?](https://asiasociety.org/policy-institute/chinas-total-factor-productivity-either-extremely-low-or-surging-past-united-states)
+- [FRED/St. Louis Fed: TFP China (Penn World Tables)](https://fred.stlouisfed.org/series/RTFPNACNA632NRUG)
+- [LessWrong/Harry X. Wu: Is Chinese TFP lower today than it was?](https://www.lesswrong.com/posts/4SsoZLYk6efXFWzY5/is-chinese-total-factor-productivity-lower-today-than-it-was)
+- [Asia Times: SMIC to sell Huawei costly, inefficient 5nm chips](https://asiatimes.com/2024/02/smic-to-sell-huawei-costly-inefficient-5nm-chips/)
+- [Tom's Hardware: US officials doubt SMIC's 7nm output](https://www.tomshardware.com/tech-industry/manufacturing/us-officials-doubt-chinas-smic-foundry-can-produce-enough-7nm-chips-to-satisfy-huaweis-demand)
+- [EDN: The truth about SMIC's 7nm chip fabrication ordeal](https://www.edn.com/the-truth-about-smics-7-nm-chip-fabrication-ordeal/)
+- [Acemoglu & Restrepo (2019): Automation and New Tasks — JEP](https://shapingwork.mit.edu/wp-content/uploads/2023/10/acemoglu-restrepo-2019-automation-and-new-tasks-how-technology-displaces-and-reinstates-labor.pdf)
+- [Zhang et al. (2025): Industrial Robot Adoption, Human Capital, and GVC Upgrading in China — China & World Economy](https://onlinelibrary.wiley.com/doi/10.1111/cwe.12575)
+- [Hausmann-Hidalgo: The Atlas of Economic Complexity (OEC)](https://oec.world/pdf/AtlasOfEconomicComplexity_Part_I.pdf)
+- [ILO: Export sophistication, growth and the middle-income trap](https://www.ilo.org/media/447381/download)
+
