@@ -9872,3 +9872,231 @@ A ha argumentado que el gasto en seguridad doméstica (~¥1.44T/año) opera como
 ---
 
 *Fin de la Intervención del Oponente — Ronda 14*
+
+---
+
+## Intervención del Proponente — Ronda 14
+
+**Debate:** ¿Será sostenible a largo plazo el modelo chino de capitalismo autoritario?
+**Ronda:** 14 de 15
+**Tema:** ¿Puede el modelo chino exportarse o generalizarse como alternativa sistémica?
+**Fecha de referencia:** 2026-07-25
+
+---
+
+### 1. Respuesta directa al argumento anterior del Oponente — y posición sobre el Predicado 2 (A-14-1)
+
+El árbitro declaró el Predicado 2 satisfecho. B eligió, procesalmente, la vía (iii): reconocimiento sin impugnación y redirección al Predicado 1. Esta es la decisión correcta y la acepto sin debate ulterior. Lo que no haré es tratar esa declaración como resolución de la moción, ni repetir la aritmética de R13 como si todavía hubiera algo que establecer allí. A-14-1 está entendido: el debate se decide sobre el Predicado 1, y a ese predicado dedicaré esta intervención.
+
+Una sola precisión sobre el criterio (a), cumpliendo estrictamente la Sección 8 del árbitro en R13 y el reto A-14-2:
+
+- **Serie:** PWT 10.01 (rtfpna, base 2017=1) para 2006-2019; Conference Board TED International Comparisons versión 2024 para 2020-2025.
+- **Método de ponderación del comparador G7:** ponderado por PIB (PPP, FMI WEO 2024), como estableció E en R13.
+- **Tratamiento de la ruptura de 2020:** declarado. Los tramos no son directamente comparables.
+- **Resultado conforme a la resolución vinculante:** 2011-2015 y 2016-2020 computados como satisfechos [DO]; 2021-2025 computado como NO satisfecho [DO-EI, bajo media ponderada por PIB]; 2026-2030 indeterminado, no computable [PI/EI].
+
+Asumo este resultado explícitamente. El criterio (a) está satisfecho en el mínimo estricto (2 de 4) con trayectoria descendente. No presentaré esa trayectoria como prospectivamente favorable, porque no hay base para hacerlo. Lo que sí argumentaré, en la Sección 4, es que el reencuadre de Andrews/Criscuolo/Gal introduce una dimensión que B no explotó a su favor y que yo sí puedo utilizar como evidencia estructural para el Predicado 1.
+
+---
+
+### 2. Posición explícita sobre exportabilidad — Elección de la opción (b) conforme a A-14-3
+
+El reto A-14-3 exige que elija explícitamente una de dos posiciones. Elijo la **(opción b): el modelo chino es sostenible sin ser exportable, y la moción no exige exportabilidad.**
+
+Esta elección no es evasión. Es la lectura correcta de la moción. La moción dice que el modelo "puede seguir compitiendo exitosamente con las democracias liberales". Competir no significa que otros adopten el modelo; significa que China, operando bajo su arquitectura institucional, mantiene ventajas comparativas reales frente a las democracias liberales en los horizontes relevantes.
+
+Esta elección tiene dos consecuencias analíticas que debo declarar con precisión:
+
+**Primera consecuencia:** Los cinco casos de emulación que B presentó en su Sección 3 —Vietnam, Etiopía, Ruanda, Kazajistán, Arabia Saudí— son **irrelevantes para el Predicado 1** tal como está formulado. Que Etiopía no pueda reproducir el modelo chino no dice nada sobre si China puede mantener su propio modelo. Que Arabia Saudí dependa del precio del petróleo no dice nada sobre la capacidad de China para navegar su propia estructura de deuda. B construyó en R14 un argumento brillante sobre por qué el modelo chino no se puede exportar, y ese argumento, en gran medida, no toca el Predicado 1. Lo que sí es relevante —y B lo plantea con más precisión en su Sección 8— es la conexión entre exportabilidad y sostenibilidad vía mecanismo de válvulas. A ese argumento respondo en la Sección 5.
+
+**Segunda consecuencia:** La irrepetibilidad del caso chino, si acaso, es un argumento a favor del Predicado 1, no en su contra. Si las cinco condiciones de posibilidad que B identifica —escala, capital humano previo, capacidad burocrática acumulada, ventana de globalización, secuencia gradual de reforma— son efectivamente irrepetibles en otros contextos, eso sugiere que el modelo chino posee condiciones estructurales robustas que otros estados no pueden imitar. Un sistema que no puede ser replicado porque sus condiciones fundacionales son profundas no es frágil; es singularmente robusto. La irrepetibilidad es el nombre equivocado para lo que B describe: lo que está describiendo son ventajas estructurales genuinas que confieren al PCCh una base de operación que ningún emulador tiene.
+
+---
+
+### 3. Respuesta directa a los cinco casos de emulación de B
+
+Acepto la taxonomía empírica de B en sus líneas generales. Pero la inferencia que B extrae de esos casos no se sigue de los hechos que él mismo presenta, y debo señalarlo con precisión caso por caso.
+
+**Vietnam [DO]:** B concede que Vietnam ha crecido al ~6.5% promedio 2000-2025 (Banco Mundial) bajo un régimen de partido único con reforma de mercado. Luego argumenta que Vietnam no es una alternativa sistémica independiente sino "una extensión funcional del modelo de producción asiático liderado por China". Pero esa descripción es evidencia a mi favor sobre el Predicado 1: demuestra que los componentes centrales del modelo —liberalización gradual bajo control de partido único, zonas económicas especiales, inversión estatal en infraestructura— funcionan incluso en contextos de menor escala, precisamente porque están respaldados por la arquitectura institucional que China hace disponible para su esfera de influencia. La sostenibilidad del modelo chino no depende de que Vietnam sea autónomo; depende de que el modelo produzca resultados sostenidos, lo cual Vietnam ilustra.
+
+**Etiopía [DO]:** El colapso del Estado desarrollista etíope en 2020-2022 es el argumento empírico más fuerte que B presenta en esta ronda. Lo tomo en serio y no lo evadiré. Pero nótese lo que el caso Etiopía demuestra: que un Estado que no tiene la capacidad burocrática acumulada de China, ni su escala, ni sus redes de lealtad institucional de partido-Estado, no puede sostener el modelo cuando el liderazgo transita. Eso es exactamente lo que B argumenta en sus Condiciones 2 y 3 (capital humano y capacidad burocrática). Pero China tiene esas condiciones. El mecanismo de colapso etíope —ruptura de la relación personal entre el liderazgo y las redes de lealtad— no opera en China porque el PCCh ha institucionalizado esas redes a lo largo de siete décadas de organización de partido-Estado con más de 98 millones de miembros [DO, Xinhua, 2024] y un sistema de cuadros que no depende de un líder individual sino de una pirámide burocrática con múltiples capas de incentivos por desempeño. La analogía con Etiopía es históricamente informativa pero institucionalmente inaplicable.
+
+**Ruanda [EC]:** B mismo concede que el PIB ruandés (~$14B) es comparable al de un municipio chino de segundo rango. No hay inferencia posible desde Ruanda sobre la sostenibilidad del modelo a escala de la segunda economía del mundo.
+
+**Kazajistán [EC]:** El argumento de B es que Kazajistán no ha diversificado su economía más allá de los hidrocarburos. Esto es correcto. Pero nuevamente, es irrelevante para el Predicado 1: demuestra que los países sin la base industrial de China no pueden ejecutar la misma secuencia de diversificación. China, que ya ejecutó esa secuencia, no enfrenta el problema de Kazajistán.
+
+**Arabia Saudí [DO/EC]:** El caso más interesante, como B reconoce. El IMF Article IV Saudi Arabia 2025 proyecta precio de equilibrio fiscal en ~$79/barril. Con el petróleo por debajo de ese nivel, el espacio fiscal para Vision 2030 se comprime. Esto es un desafío real para Arabia Saudí, pero demuestra la vulnerabilidad de un país que intenta adoptar la fase de inversión del modelo chino sin haber completado la base industrial previa. China no enfrenta esa dependencia de un precio de commodity para financiar su política industrial; ya tiene la base.
+
+**Síntesis sobre los cinco casos:** Los cinco casos son prueba de que el modelo chino en su totalidad no es transferible a contextos sin las condiciones fundacionales que China acumuló históricamente. Eso es precisamente la opción (b) que he elegido: la moción no requiere transferibilidad. China compite con su propio modelo desde sus propias condiciones. El debate sobre exportabilidad es el debate equivocado para el Predicado 1.
+
+---
+
+### 4. Andrews, Criscuolo y Gal — La ventaja estructural de China en difusión de productividad (A-14-2)
+
+B presentó Andrews/Criscuolo/Gal (OECD Productivity Working Paper No. 5, 2016) como evidencia contra mis proyecciones de PTF. Reconozco que el hallazgo es válido: en el G7, el problema de la desaceleración de la productividad no está en las firmas de frontera —que crecen al +2.8%/año— sino en la difusión desde esas firmas al resto de la economía —que crece solo al +0.6%/año [DO, Andrews/Criscuolo/Gal, 2016]. B aplicó esto contra A argumentando que el dividendo de IA podría no difundir más rápido que tecnologías anteriores. Concedo ese punto en su dirección.
+
+Pero B no explotó la segunda implicación de Andrews et al., que es la más relevante para el Predicado 1: **si el problema del G7 es la difusión, y China tiene un mecanismo institucional para forzar la difusión que las democracias de mercado no tienen, entonces China posee una ventaja comparativa estructural precisamente en el canal donde el G7 es más débil.**
+
+Presento aquí evidencia nueva que ninguna parte ha incorporado:
+
+**La estrategia "difusión hacia adelante" de China [EC, fuente nueva]:** Chen y Rithmire (Harvard Business School Working Paper, abril 2026, "China's Diffusion-Forward AI Strategy: Chatbots, Robots, and Political Economic Possibilities") documentan que la estrategia china en IA no está orientada primariamente a la frontera tecnológica (donde China enfrenta las restricciones de semiconductores), sino a la **difusión masiva de IA como insumo en la economía física**: manufactura, robótica industrial, logística, redes de infraestructura. La iniciativa AI+ anunciada en la Conferencia Central de Trabajo Económico de 2024 y formalizada por el Consejo de Estado el 26 de agosto de 2025 es el vehículo: directiva de nivel estatal que moviliza SOEs y firmas de capital estatal como vehículos de adopción forzada de IA en sectores industriales [EC, Trivium China, "The AI Plus Initiative — China's Blueprint for AI Diffusion", 2025].
+
+**¿Por qué esto responde el argumento de Andrews et al. a favor de A?** El mecanismo de difusión en las democracias de mercado es descentralizado: depende de la entrada y salida de firmas, del capital de riesgo que financia la adopción, y de la movilidad laboral que redistribuye talento. Andrews et al. documentan que ese mecanismo ha fallado durante dos décadas. El mecanismo de difusión en China es, por diseño, administrativamente forzado: el Estado puede instruir a las 97 empresas SOE centrales directamente bajo supervisión de la SASAC [DO, SASAC 2024] a adoptar tecnologías específicas en plazos definidos, con incentivos de carrera que penalizan a los cuadros que no cumplen. Esto no produce la innovación de frontera que produce el VC de Silicon Valley. Pero sí produce la **difusión acelerada** que el G7 ha sido incapaz de lograr mediante el mercado durante veinte años.
+
+El dato adverso que B señala —solo el 4.5% de los ejecutivos de SOEs consideraban que su transformación digital "cumplía expectativas" en 2022 [DO, ScienceDirect 2024]— es real y lo etiqueto [DO]. Pero ese dato corresponde a 2022, antes de la formalización de la directiva AI+ del Consejo de Estado (agosto 2025). El mismo patrón de adopción rezagada seguida de aceleración mandatada por el Estado se observó en la adopción de pagos móviles (2014-2016), infraestructura 5G (2019-2022), y vehículos eléctricos (2020-2025). En los tres casos, el mandato estatal produjo difusión masiva en 3-5 años, superando a las democracias de mercado en velocidad de adopción, aunque no necesariamente en eficiencia de frontera [EC, estimación calibrada basada en patrón observado].
+
+**Implicación para el criterio (a):** Andrews et al. desplazan el debate de PTF de "¿quién innova?" a "¿quién difunde?". En el canal de difusión, China tiene el único mecanismo institucional que ha demostrado velocidad de adopción a escala masiva: el mandato administrativo respaldado por incentivos de carrera. Las democracias de mercado tienen el mejor mecanismo de innovación de frontera, pero el mecanismo de difusión por competencia ha producido exactamente la divergencia entre firmas de frontera y rezagadas que Andrews et al. documentan. Esto no establece el criterio (a) prospectivamente —lo declaro incierto, conforme a la resolución del árbitro— pero sugiere que el margen puede estabilizarse en lugar de continuar su deterioro monotónico, si China ejecuta AI+ con la velocidad que ha demostrado en tecnologías previas.
+
+**Declaración metodológica:** Esta proyección sobre el canal de difusión se etiqueta [EC], basada en patrones observados de adopción tecnológica mandatada en China 2014-2025. No constituye satisfacción del criterio (a) prospectivo, que el árbitro ha declarado indeterminado.
+
+---
+
+### 5. Válvulas institucionales — Elección de la opción (iii) conforme a A-14-4
+
+El árbitro me ha advertido tres veces sobre las válvulas institucionales. B las ha articulado con rigor creciente en R12, R13 y R14. No voy a ofrecer una cuarta ronda de equivalencias forzadas que el árbitro ya ha señalado como parciales.
+
+**Elijo la opción (iii): el gasto en seguridad doméstica opera como sustituto funcional de contención, y acepto que la contención sin procesamiento acumula pasivo. Esto es lo que mi condición F4 ya reconoce, y lo asumo explícitamente.**
+
+Lo que sí argumento —y que B no ha respondido con la precisión necesaria— es que la elección entre válvulas de **procesamiento** y capacidad de **contención** no produce el mismo resultado en todos los horizontes temporales.
+
+**Argumento estructural sobre la distinción procesamiento/contención:**
+
+Las cuatro válvulas de B (alternancia electoral, transferencias supranacionales, movilidad laboral libre, sindicatos autónomos) son mecanismos de procesamiento del descontento que distribuyen el costo político de los errores a través del tiempo y entre actores. Son extraordinariamente eficientes en el mediano plazo para prevenir la acumulación de pasivos grandes.
+
+El mecanismo de contención del PCCh —gasto en seguridad doméstica de ~¥1.44T/año [DO-EI, China Quarterly]; 7,000+ incidentes de protesta de baja intensidad tolerados anualmente; represión selectiva concentrada en coordinación interregional— produce un efecto diferente: distribuye el descontento en el espacio en lugar de distribuirlo en el tiempo. El descontento existe, es observable (B tiene razón en esto), pero permanece atomizado y localizado. La diferencia entre el descontento que derroca regímenes y el descontento que coexiste con la estabilidad institucional no es la cantidad de descontento sino su capacidad de coordinación [EC, anclado en Olson, "The Logic of Collective Action", 1965; Kuran, "Private Truths, Public Lies", 1995].
+
+**Concesión explícita con límite explícito:** Acepto que este mecanismo acumula pasivo. B tiene razón: un sistema que contiene sin procesar no elimina el pasivo, lo difiere. La pregunta analíticamente relevante no es si el pasivo existe —existe— sino si se activa antes o después del horizonte del debate. En el horizonte 2026-2040, el umbral operativo de falsación del árbitro (≥3 de 5 condiciones en ventana de 5 años) sigue sin activarse bajo ninguna serie presentada por las partes. El pasivo acumulado es un riesgo del horizonte 2040-2050+, que es exactamente lo que mi posición sobre el largo plazo reconoce como incertidumbre creciente. No es una falsación del Predicado 1 en el horizonte de adjudicación del debate.
+
+**Una distinción crucial que B no ha respondido:** Las democracias también acumulan pasivos, solo que los hacen visibles. España tardó 9 años en recuperar el PIB pre-crisis [DO, INE / OECD]; Grecia perdió el 23% de su PIB real [DO, ELSTAT] y aún no ha completado la recuperación completa. Estos son costos de procesamiento, no evidencia de que las válvulas sean superiores en todos los horizontes. Las válvulas democráticas distribuyen el costo; el mecanismo de contención lo difiere. Ambos generan daño; la pregunta es cuál es tolerable para qué horizonte. Para el horizonte 2026-2040, con el umbral de falsación del árbitro sin activarse, la contención china ha operado con eficacia. B no ha demostrado que el umbral se active antes de 2040.
+
+---
+
+### 6. Umbral de falsación F4 — Revisión conforme a A-14-5
+
+El árbitro ha advertido en dos rondas consecutivas que mi condición F4 es conjuntiva de tres condiciones, lo que la hace estructuralmente difícil de activar. Atiendo el reto con dos movimientos.
+
+**Primero:** Justifico la conjunción. Las tres condiciones de F4 no son alternativas equivalentes que puedan operar independientemente; son componentes de un mecanismo de cascada donde cada condición es necesaria para la siguiente:
+
+- **Condición A:** servicio de deuda subnacional consume >8% del PIB por >3 años consecutivos → genera restricción fiscal que impide mantener simultáneamente gastos de seguridad + inversión productiva + transferencias de legitimidad.
+- **Condición B:** la restricción fiscal lleva a recortes en al menos dos de tres categorías de legitimidad → provoca erosión de las tres bases de apoyo que el régimen necesita para mantener la conformidad (nacional-simbólica, materialmente distributiva, y de seguridad selectiva).
+- **Condición C:** la erosión simultánea eleva el costo de coordinación del descontento por debajo del umbral de represión sostenible → produce presión sistémica que el gasto en seguridad no puede contener sin elevar su propio costo a niveles que retroalimentan la restricción fiscal.
+
+La conjunción es estructuralmente correcta porque la ruptura del Predicado 1 requiere exactamente esa cascada. Condición A sola (restricción fiscal) no basta: China ha operado bajo restricción fiscal local durante periodos prolongados sin colapso institucional. Condición B sola (erosión de legitimidad) tampoco basta: el NEET del 16.1% coexiste actualmente con continuidad institucional. Es la combinación la que produce el umbral de ruptura.
+
+**Segundo:** Añado una condición disyuntiva que satisface el reto A-14-5 sin abandonar la lógica conjuntiva:
+
+**Condición disyuntiva F4-D (nueva):** El Predicado 1 también se considerará comprometido si, en el período 2026-2040, se activa **cualquiera** de las siguientes dos condiciones independientes:
+
+- **(F4-D1):** Fractura visible del Comité Permanente del Politburó con remoción pública de ≥2 miembros bajo cargos de corrupción en el mismo ciclo del congreso del partido (indicador observable: anuncio de la CCDI), que señala ruptura de la coalición de élite subyacente al control político.
+- **(F4-D2):** Contracción del PIB real durante ≥2 trimestres consecutivos con desempleo urbano oficial >7% simultáneo (por encima del umbral que activó el programa de estímulo de 2015-2016), que señala que el canal fiscal y el canal de legitimidad de desempeño fallan simultáneamente sin que el régimen active el instrumento corrector.
+
+Estas dos condiciones disyuntivas son observables, datadas antes del horizonte de adjudicación, y no requieren la cascada completa de F4 para señalizar compromiso del Predicado 1. Sobre ninguna de las dos existe evidencia de activación activa a 2026-07-25.
+
+---
+
+### 7. Deriva personalista y Geddes et al. — Clasificación tipológica de China con evidencia (A-14-6)
+
+E introdujo en R13 el hallazgo de Geddes/Wright/Frantz (2014): mediana de supervivencia de 23 años para regímenes de partido único; PCCh en el percentil >95 de esa distribución; tasa de colapso de 3-8% por quinquenio. E señaló el límite crítico: si el período Xi acerca a China al tipo personalista (mediana: 13 años), la tasa de colapso relevante sería más alta. El árbitro me exige abordar esta clasificación con evidencia.
+
+**Posición:** China post-2012 exhibe características mixtas que no permiten la reclasificación automática al tipo personalista bajo los criterios de GWF. Presento cuatro piezas de evidencia estructural.
+
+**Evidencia 1 — Continuidad de los mecanismos de partido [DO]:** El sistema de cuadros del PCCh con evaluación por desempeño medible, rotación obligatoria de puestos y límites de mandato (excepto para el Secretario General) sigue operativo. Los 3,000 miembros del Comité Central y sus redes de retroalimentación burocrática no son una estructura de lealtad personal al estilo de los regímenes personalistas de Geddes et al. (Trujillo, Marcos, Gadafi), donde la lealtad al individuo suprime los procedimientos del partido. Los procedimientos del partido se mantienen: el 20.º Congreso (2022) y el 21.º Congreso (previsto para 2027) siguen siendo los mecanismos de renovación institucional formal [DO, estructura PCCh según estatutos vigentes].
+
+**Evidencia 2 — Mecanismo de sucesión vs. tipo personalista [DO/EC]:** Los regímenes personalistas de GWF se caracterizan operativamente por la ausencia de un mecanismo de sucesión institucionalizado. En China, el sistema de sucesión —incluso bajo Xi— sigue pasando por el Politburó y el Comité Permanente. La literatura más reciente que documenta la "deriva personalista" (Tsai, MacFarquhar, Shirk) señala concentración de poder, no supresión del partido como mecanismo. Existe una diferencia analítica relevante entre *líder dominante dentro de un partido-Estado* y *régimen personalista donde la organización del partido es fachada*. Los trabajos de Landry/Avery Goldstein sobre el aparato de cuadros chino documentan que incluso bajo Xi las promociones en el partido siguen correlacionando con métricas de desempeño económico local, no solo con lealtad personal [EC, Landry, "Decentralized Authoritarianism in China", Cambridge University Press].
+
+**Evidencia 3 — Indicadores de personalismo de la base de datos GWF [EI]:** Los criterios operativos de GWF para clasificar un régimen como personalista incluyen: control personal sobre las fuerzas armadas (Xi tiene el control del CMC, argumento en favor del personalismo), ausencia de árbitro institucional del partido (el Politburó sigue siendo árbitro formal, argumento en contra), y concentración de decisiones de seguridad en el líder individual sin proceso colegiado documentable. En los dos últimos criterios, la evidencia es genuinamente mixta, lo que respalda la clasificación GWF como "partido-personalista" (un tipo híbrido en su taxonomía) más que como personalista puro. Bajo ese tipo híbrido, la mediana de supervivencia en GWF es de ~18 años, no de 13. El PCCh lleva 76 años desde 1949, lo que lo mantiene en un percentil extremadamente alto de supervivencia incluso bajo la clasificación híbrida [EC, inferencia a partir del dataset GWF 2014 con extensión calibrada].
+
+**Evidencia 4 — Perspectiva de la literatura especializada [EC]:** Algunos académicos especializados en política comparada China (Andrew Nathan, "Authoritarian Resilience", *Journal of Democracy*, 2003; Ghosh/Scobell, *Japanese Journal of Political Science*, 2022) sostienen que el PCCh ha mantenido institucionalización suficiente para operar como partido-Estado incluso bajo concentración de liderazgo, a través de la separación entre la persona de Xi y el aparato de cuadros. Un análisis reciente en *Journal of Chinese Political Science* (2026) sobre las sesiones de estudio colectivo del Politburó 2002-2025 documenta que incluso bajo Xi la participación colegiada en las sesiones del Politburó sigue siendo formalmente activa —lo que lo distingue operativamente del tipo personalista puro.
+
+**Conclusión tipológica [EC]:** La clasificación más ajustada a la evidencia disponible es partido-personalista híbrido, con mediana de supervivencia entre 18-23 años bajo GWF. El PCCh en 2026 se mantiene en el percentil >90 incluso bajo esa clasificación. La advertencia de E sobre el riesgo de deriva hacia el tipo puro sigue siendo relevante para el horizonte 2035-2050 y la registro como incertidumbre ascendente. Pero no constituye evidencia de que el umbral de falsación del Predicado 1 esté activado o próximo a activarse antes de 2040.
+
+---
+
+### 8. Respuesta al argumento central de B sobre la asimetría de válvulas y el Predicado 1
+
+B sintetiza su posición en cinco puntos numerados en su Sección 10. Respondo los dos que tocan directamente el Predicado 1.
+
+**Sobre el punto (2) de B — "La ausencia de válvulas es la vulnerabilidad estructural del Predicado 1":**
+
+Acepto la premisa parcial: la ausencia de válvulas de procesamiento es una característica estructural del sistema chino. Lo que no acepto es la inferencia de que esa característica produce necesariamente compromiso del Predicado 1 en el horizonte 2026-2040. La inferencia requiere un paso que B no ha demostrado empíricamente: que el pasivo acumulado supera la capacidad de contención antes de 2040. B ha demostrado que el pasivo existe y que se acumula. No ha demostrado que el pasivo cruza el umbral de activación dentro del horizonte de adjudicación.
+
+El caso COVID cero —al que B dedica su Sección 5 con la tabla de cinco casos— ilustra este punto con precisión. B interpreta el COVID cero como evidencia del patrón "bloqueo de señales → umbral de presión política → reversión sin aprendizaje". Acepto esa descripción como análisis del proceso. Pero el resultado fue que el régimen revirtió la política, absorbió el costo transicional (~1.41 millones de muertes en exceso [EI, PMC 2023], el dato de B), y continuó operando sin ruptura institucional. Desde el ángulo del Predicado 1, ese es el resultado relevante: el umbral de colapso no se alcanzó. El proceso fue costoso y epistemológicamente opaco; el Predicado 1 no se comprometió. B argumenta que sin reconocimiento del error no hay aprendizaje institucional. Eso es plausible. Lo que es observable es que el sistema corrigió, aunque sin diagnosticar el error con transparencia. La capacidad de corrección táctica —con sus costos— es evidencia de que el umbral de falsación del árbitro no se activó. Concedo el costo; no concedo la inferencia de colapso.
+
+**Sobre el punto (5) de B — "La pregunta de exportabilidad es la pregunta de sostenibilidad reformulada":**
+
+Esta es la conexión más sofisticada del argumento de B, y merece una respuesta directa. B argumenta que si el modelo no puede reproducirse —porque sus condiciones son irrepetibles— entonces tampoco puede "competir exitosamente" en el sentido de ofrecer una alternativa sistémica. Lo que B está argumentando es que la competitividad sistémica tiene una dimensión de generalización: no es solo que China compita, sino que el modelo chino sea una alternativa viable para el orden global.
+
+Aquí es donde la lectura de la moción importa. La moción no dice que el modelo chino sea una alternativa para otros estados. Dice que China "puede seguir compitiendo exitosamente con las democracias liberales". Ese es un predicado sobre China, no sobre el poder normativo de su modelo. Estados Unidos compite exitosamente con las democracias europeas aunque ningún país del mundo haya adoptado el sistema constitucional americano en su totalidad. El modelo americano no es exportable en su plenitud (escala continental, federalismo específico, herencia institucional del common law), y eso no le impide competir como sistema desde su propia base. El mismo argumento aplica simétricamente al modelo chino.
+
+B está redefiniendo la moción para introducir un requisito de generalización que el texto no contiene. Este árbitro ha pedido coherencia con el texto de la moción. El texto no incluye ese requisito.
+
+---
+
+### 9. Sobre la deuda opaca y la simetría fiscal — Respuesta a B Sección 7
+
+B presenta la deuda pública china incluyendo LGFVs en ~110-130% del PIB [EC, FMI Art. IV China 2025] como argumento de simetría con las democracias: ambas acumulan deuda, solo que la china es opaca. Es un argumento honesto y lo valoro como tal. Pero tiene una asimetría que B no resuelve: **la opacidad de la deuda china no es un accidente de medición; es un rasgo funcional del sistema.**
+
+En un sistema donde el gobierno central puede reclasificar, restructurar o capitalizar deuda subnacional mediante instrucción administrativa sin negociación legislativa ni mercados de deuda que señalicen el riesgo, la opacidad es un instrumento de gestión, no solo una limitación de transparencia. El Consejo de Estado ha utilizado exactamente ese instrumento en los programas de restructuración de deuda local de 2015-2016 y 2023-2025: convirtiendo deuda de LGFV en bonos municipales explícitos, reprogramando vencimientos, y recapitalizando vehículos problemáticos con capital estatal [DO/EC, FMI Art. IV China 2025; Banco Mundial 2025].
+
+Que este mecanismo produce riesgo moral y acumulación de pasivos de segunda ronda es correcto —lo acepto dentro de la arquitectura de F4. Que produce necesariamente los mismos costos que las correcciones democráticas (recesión visible, desempleo medible, ajuste distributivo) es lo que B no ha demostrado. La corrección administrativa de deuda subnacional en China ha sido hasta la fecha invisible para los mercados de capitales domésticos en el sentido en que la crisis griega fue visible para los mercados europeos, precisamente porque no hay un mercado de bonos municipales chino con spreads cotizados públicamente que señalicen el riesgo acumulado. Eso genera el riesgo de alerta tardía que B señala; también impide que el riesgo se autocumple en cascada de bonistas, que es el mecanismo por el que la crisis griega se propagó a velocidad sistémica.
+
+---
+
+### 10. Tabla de evidencia completa — Ronda 14
+
+| # | Afirmación | Etiqueta | Fuente | Fecha |
+|---|-----------|---------|--------|-------|
+| 1 | PCCh: >98 millones de miembros en 2024 | [DO] | Xinhua, julio 2024 | 2024 |
+| 2 | AI+ directiva del Consejo de Estado publicada el 26/08/2025 | [DO] | Trivium China, "The AI Plus Initiative" | 2025 |
+| 3 | 191 de 769 registros de IA chinos (24.8%) corresponden a entidades estatales o con inversión estatal | [DO] | Datos de registro generativa IA China, 2025 | 2025 |
+| 4 | Chen & Rithmire: estrategia "difusión hacia adelante" de China en IA, con énfasis en manufactura y robótica industrial | [EC] | HBS Working Paper, abril 2026 | 2026 |
+| 5 | Solo 4.5% de ejecutivos de SOEs consideraba que la transformación digital "cumplía expectativas" en 2022 | [DO] | ScienceDirect / encuesta SOE digital transformation, 2022 | 2022 |
+| 6 | Andrews/Criscuolo/Gal: firmas de frontera +2.8%/año; rezagadas +0.6%/año; brecha creciente 2001-2013 | [DO] | OECD Productivity Working Paper No. 5, 2016 | 2016 |
+| 7 | GWF (2014): mediana de supervivencia partido único = 23 años; personalista = 13 años; partido-personalista híbrido ~18 años | [DO/EC] | Geddes, Wright & Frantz, "Autocratic Breakdown and Regime Transitions", 2014 | 2014 |
+| 8 | Landry: promociones en cuadros PCCh correlacionan con desempeño económico local incluso bajo Xi | [EC] | Landry, "Decentralized Authoritarianism in China", Cambridge UP | 2008/citación actualizada |
+| 9 | Politburó sesiones de estudio colectivo 2002-2025: participación colegiada formalmente activa incluso bajo Xi | [EC] | Journal of Chinese Political Science, 2026 | 2026 |
+| 10 | COVID cero: ~1.41 millones de muertes en exceso dic. 2022 - feb. 2023 | [EI] | PMC/NCBI, estimación exceso de mortalidad, 2023 | 2023 |
+| 11 | FMI Art. IV Saudi Arabia 2025: precio de equilibrio fiscal ~$79/barril | [DO] | FMI Article IV Arabia Saudí 2025 | 2025 |
+| 12 | Deuda subnacional china incl. LGFVs: ~110-130% del PIB | [EC] | FMI Art. IV China 2025; Banco Mundial 2025 | 2025 |
+| 13 | Restructuración deuda local China 2023-2025: conversión de LGFV a bonos municipales explícitos | [DO/EC] | FMI Art. IV China 2025; Banco Mundial 2025 | 2025 |
+| 14 | Vietnam crecimiento promedio 2000-2025: ~6.5% | [DO] | Banco Mundial, WDI | 2025 |
+| 15 | España: PIB recuperado pre-crisis en 2016 (9 años) | [DO] | INE España / OECD | 2016 |
+| 16 | Grecia: PIB 2008-2016 -23% real | [DO] | ELSTAT / Banco Mundial | 2016 |
+| 17 | Programa adopción forzada: patrón observado en pagos móviles (2014-2016), 5G (2019-2022), VE (2020-2025) | [EC] | Estimación calibrada basada en patrón histórico documentado | Esta intervención |
+
+---
+
+### 11. Síntesis: El modelo chino compite sin necesitar ser exportable — y el Predicado 1 sigue sin activarse
+
+**Sobre la exportabilidad (tema de R14):** La posición más defensible —y la que elijo explícitamente conforme a A-14-3— es que la moción no requiere exportabilidad. "Puede seguir compitiendo exitosamente con las democracias liberales" es un predicado sobre la capacidad de China operando desde su propia base, no sobre la capacidad del modelo de generalizarse. Los cinco casos de emulación de B son evidencia sobre los límites de la transferibilidad del modelo completo a contextos sin las condiciones fundacionales chinas. No son evidencia sobre la sostenibilidad del modelo dentro de China. La irrepetibilidad de las condiciones que hicieron posible el milagro chino es, en la lectura correcta, evidencia de la profundidad estructural de esas condiciones en China, no de la fragilidad del sistema que sobre ellas se construyó.
+
+**Sobre el Predicado 1 y las válvulas (argumento central de B):** Acepto la asimetría de válvulas como hecho estructural. Acepto que el mecanismo de contención —en lugar de procesamiento— acumula pasivo. Lo que no acepto es que ese pasivo se active dentro del horizonte de adjudicación del debate. El umbral operativo del árbitro (≥3 de 5 condiciones en ventana de 5 años, 2026-2040) no muestra señal de activación bajo ninguna serie presentada por las partes. F4 describe el riesgo en su dimensión conjuntiva; las nuevas condiciones F4-D1 y F4-D2 añaden condiciones disyuntivas observables que permiten detectar la activación antes del colapso terminal.
+
+**Sobre Andrews/Criscuolo/Gal:** B los usó para mostrar que el dividendo de IA puede no difundir en el G7. Yo los uso para mostrar que China tiene el único mecanismo institucional que puede producir difusión forzada a escala: el mandato administrativo respaldado en incentivos de carrera. Ese mecanismo no produce innovación de frontera, pero sí puede producir la difusión que el mercado ha fallado en generar en el G7 durante veinte años. La estrategia AI+ del Consejo de Estado (agosto 2025) y el trabajo de Chen y Rithmire en HBS (2026) son la evidencia más nueva y más relevante para el criterio (a) en el quinquenio 2026-2030 —sin que me permita proyectar ese criterio como satisfecho, que sería contrario a la resolución del árbitro.
+
+**Sobre Geddes et al. y la deriva personalista:** China 2026 no puede clasificarse como régimen personalista puro bajo los criterios operativos de GWF. La clasificación más ajustada a la evidencia es partido-personalista híbrido, con mediana de supervivencia de ~18 años, lo que mantiene al PCCh en el percentil >90 de durabilidad comparada. El riesgo de deriva hacia el tipo personalista puro es una incertidumbre creciente para el horizonte 2035-2050, registrada en F4-D1, pero no es evidencia de activación del umbral antes de 2040.
+
+**Pregunta o reto al Oponente para R15:**
+
+B ha argumentado que la ausencia de válvulas institucionales impide que China procese el error sin acumular pasivo sistémico. Acepto el diagnóstico del mecanismo. Pero el mismo argumento de Andrews et al. que B usa contra China aplica simétricamente a las democracias: si el mecanismo de difusión de productividad por competencia ha fallado durante veinte años, y si el dividendo de IA se concentra en el 5% de firmas de frontera sin difundir al resto de la economía, ¿cómo sostendrán las democracias liberales la legitimidad de desempeño de sus propios sistemas frente a ciudadanos cuya productividad real no mejora, cuya deuda pública supera el 126% del PIB (EE.UU.) y el 204% (Japón), y cuya corrección de errores depende de mecanismos fiscales que el FMI Fiscal Monitor de abril 2026 documenta como sustancialmente limitados? En R15, B debe explicar por qué las válvulas institucionales pueden seguir operando bajo esas restricciones, o conceder que las democracias también acumulan pasivos —solo que de forma visible y con nombres distintos.
+
+---
+
+### Fuentes citadas en esta intervención
+
+- Chen, Hao & Rithmire, Meg — "China's Diffusion-Forward AI Strategy: Chatbots, Robots, and Political Economic Possibilities" (Harvard Business School Working Paper, abril 2026)
+- Trivium China — "The AI Plus Initiative: China's Blueprint for AI Diffusion" (2025)
+- Lawfare — "The Political Limits of China's AI Diffusion Ambitions"
+- ScienceDirect — "Understanding mechanisms of digital transformation in state-owned enterprises in China" (2024)
+- Andrews, Criscuolo & Gal — "Frontier Firms, Technology Diffusion and Public Policy" (OECD Productivity Working Paper No. 5, 2016)
+- Geddes, Wright & Frantz — "Autocratic Breakdown and Regime Transitions" (Perspectives on Politics, 2014)
+- Landry, Pierre F. — "Decentralized Authoritarianism in China" (Cambridge University Press, 2008)
+- Journal of Chinese Political Science — "Personalizing Party Ideology: Institutional Change and Ideological Governance in China's Politburo Collective Study Sessions, 2002-2025" (2026)
+- IMF Article IV China 2025 / Banco Mundial 2025 — sobre deuda subnacional y LGFVs
+- IMF Article IV Saudi Arabia 2025 — precio de equilibrio fiscal
+- PMC/NCBI — estimación de muertes en exceso China dic. 2022 - feb. 2023
+- Banco Mundial WDI — crecimiento Vietnam 2000-2025
+
+---
+
+*Fin de la Intervención del Proponente — Ronda 14*
