@@ -9230,3 +9230,332 @@ Lo que sí es claro: el colapso del VC chino de $130B a $33B entre 2021-2024 [DO
 ---
 
 *Fin de la Intervención del Especialista E — Ronda 13*
+
+---
+
+## Evaluación del Árbitro — Ronda 13
+
+**Fecha:** 2026-07-25
+**Ronda:** 13 de 15
+**Especialista de ronda:** E — Geopolítica
+
+### 1. Resumen ejecutivo de la ronda
+
+La Ronda 13, temáticamente dedicada a si las democracias liberales son rivales en declive estructural o sistemas con capacidad de autocorrección, produjo el acontecimiento lógicamente más consecuente de las trece rondas transcurridas: **la doble concesión de B sobre los criterios (b) y (c) del Predicado 2**. B abrió la ronda cumpliendo con precisión y honestidad intelectual el reto B-13-1 que este árbitro había formulado en R12: rehizo la aritmética de convergencia relativa con supuestos declarados (China 4.1% 2025-2030 y 3.4% 2031-2040; G7 1.8%), obtuvo ratios China/G7 de 24% (2024) → 27.2% (2030) → 32.1% (2040), y retiró formalmente su conclusión de R12: "Retiro mi conclusión de R12... el criterio (c) de convergencia relativa se satisface en el horizonte 2024-2040". Dado que el criterio (b) sobre exportaciones de alta complejidad ya había sido concedido en ronda anterior, B mismo formuló la consecuencia: "el Predicado 2 se decide exclusivamente sobre el criterio (a) de PTF". Esa formulación es, bajo la definición vinculante de 2-de-3 adoptada por este árbitro en R11, técnicamente incorrecta: con (b) y (c) satisfechos, el Predicado 2 está satisfecho con independencia de (a).
+
+A detectó la consecuencia inmediatamente y la explotó con precisión quirúrgica en su Sección 2, citando verbatim la concesión, reproduciendo la aritmética de B para verificación, y añadiendo una verificación propia bajo escenario conservador (China 3.8%, G7 1.9%) que produce ratio de 26.7% en 2030 y 28.8% en 2035 — es decir, la convergencia relativa se mantiene monotónicamente positiva bajo cualquier supuesto que preserve un diferencial de crecimiento de 1.5-2.2 pp. A cerró correctamente el argumento señalando que B solo puede rescatar la situación impugnando formalmente la definición vinculante. Esta es la mejor pieza de explotación lógica que A ha producido en trece rondas, y el árbitro debe registrar que fue posible porque A finalmente ejecutó el reto A-13-5 que llevaba señalado desde R12.
+
+E cerró la ronda con la que es su intervención más sólida del debate: saldó los cuatro pasivos de verificación de R11 con dos correcciones a la baja de sus propias cifras (síntesis de $100-150B/año rebajada a $73-111B/año; prima de seguro marítimo corregida de 0.05-0.10% a 0.02-0.08%) y un retiro completo (la atribución a BCG marzo 2026, sustituida por McKinsey, ITIF y Kearney); verificó la tabla de PTF de B con dos objeciones metodológicas sustantivas (ruptura de serie PWT→TED en 2020, precisamente el punto donde B concluye el empate; y sesgo de deflactores chinos de +0.3-0.6 pp/año); extendió la tabla con desglose por los siete países del G7 más Corea del Sur y Australia, exponiendo dos medias distintas (igualmente ponderada +0.49-0.63%; ponderada por PIB +0.70-0.85% para 2021-2025) con aritmética completamente expuesta; aplicó el mismo rasero al caso del COVID cero (10-12 días señal→reversión, el más rápido de la tabla, pero sin reconocimiento de error y con ~7 meses de señal previa ignorada); y planteó la observación técnica que obliga a este árbitro a pronunciarse en la Sección 8: **la ambigüedad temporal del criterio (a)**.
+
+---
+
+### 2. Intervención del Oponente B — Evaluación
+
+**Puntuación:** 8.71 / 10
+
+#### Fortalezas
+- **Honestidad intelectual de primer orden.** B ejecutó el reto B-13-1 sin evasión, rehízo la aritmética contra su propio interés y retiró formalmente su conclusión de R12 con lenguaje explícito e inequívoco. Este es el estándar epistémico más alto observado en el debate por cualquiera de las dos posiciones.
+- **Cumplimiento de la prohibición de simetría fácil.** Los cuatro casos de autocorrección democrática (Dodd-Frank 22 meses; España/Grecia 5-7 años con desempleo juvenil 55%→32%; Truss 44 días; Alemania GNL 18 meses con dependencia de gas ruso 55%→<10%) vienen todos con caso concreto, tiempo medido y resultado documentado, exactamente como se exigió en R13-B-7.
+- **Ejecución de B-13-3 con serie identificada.** Declaró fuente (PWT 10.01, serie rtfpna, base 2017=1), justificó la elección, complementó con Conference Board TED para 2020-2024, y etiquetó [DO-EI] el tramo problemático reconociendo la divergencia con PWT v11.0. Es el primer tratamiento de PTF con serie declarada en trece rondas y saldó una deuda que ninguna parte había atendido.
+- **Respuesta al comparador España/Grecia (B-13-2) de altísima calidad.** Las cuatro válvulas institucionales —alternancia electoral, transferencias supranacionales (€41.3B ESM España, €326B Grecia), movilidad laboral (100-200 mil emigrantes/año) y sindicatos autónomos— convierten el comparador de A en un argumento en sentido inverso, con evidencia primaria en cada válvula. Es la mejor pieza refutatoria de la ronda.
+- **Retiros voluntarios de argumentos débiles.** B-13-5: retiró la ausencia de replicación del Ash Center como "evidencia de opacidad" con la justificación epistémica correcta ("usar la ausencia de datos como dato positivo viola el estándar epistémico"). B-13-6: declaró retirado el argumento de prima de riesgo como afirmación independiente, absorbiéndolo en el argumento de VC. Ambos retiros son ejemplares.
+- **Respuesta a Lorentzen (B-13-8) con tres objeciones estructuradas**: degradación de las condiciones del mecanismo, saturación de la señal por volumen (1,794 acciones, +60%), y no aplicabilidad a convergencia de tres tensiones simultáneas. Es una refutación sofisticada de literatura académica invocada en su contra.
+- **Umbral de falsación propiamente dicho (B-13-4)** con tres condiciones observables y horizontes datados (F1: PTF ≥1.5% con diferencial ≥0.8 pp, observable 2031; F2: VC ≥$80,000M dos años consecutivos, observable desde 2027; F3: legitimidad con desaceleración, observable 2029). Corrige el defecto de R12: son condiciones de abandono, no de degradación de probabilidad, y son observables en la primera mitad del horizonte.
+- **Corrección incorporada de F sobre NEET (10-15% estimado → 16.1% CASS)** con aritmética expuesta (63M × 0.161 = 10.1M) y comparador europeo declarado (UE-27 pico 13.2% en 2013).
+
+#### Debilidades
+- **El error lógico central: B formuló mal la consecuencia de su propia concesión.** Escribió que "el Predicado 2 se decide exclusivamente sobre el criterio (a) de PTF". Bajo la definición vinculante 2-de-3 de G R11, esa proposición es falsa: con (b) y (c) satisfechos, el umbral ya está cruzado y (a) es irrelevante para la satisfacción del predicado. B concedió el predicado creyendo que solo estaba concediendo un criterio. Este es un error de contabilidad lógica, no de honestidad, pero es el error más costoso del debate.
+- **No impugnó la definición vinculante cuando era el único movimiento disponible.** Si B consideraba que 2-de-3 es un umbral demasiado laxo, R13 era el momento procesalmente correcto para solicitar su revisión con justificación. No lo hizo, y el árbitro no puede subsanar de oficio lo que la parte no impugnó.
+- **Ambigüedad no resuelta en su propio tratamiento del criterio (a).** B reconoce en su Sección 4 que "el criterio (a) está satisfecho en dos quinquenios anteriores... lo que técnicamente cumple el umbral de '≥2 quinquenios' si el período de referencia incluye el pasado reciente", y acto seguido pivota a la lectura prospectiva sin justificar la elección. Ese pivote no declarado es, en rigor, una interpretación autofavorable de un texto ambiguo. Se penaliza levemente: B expuso el problema en vez de ocultarlo, lo que atenúa la falta.
+- **No declaró método de ponderación de la media G7** — defecto que E documentó y cuya relevancia (0.08-0.22 pp según método) es material precisamente en el quinquenio decisivo.
+- **No incluyó el COVID cero como caso de autocorrección** pese a instrucción expresa en R13-B-7 y R13-E-6. Es un incumplimiento de instrucción, no una evasión de pregunta del rival, pero se penaliza.
+- **La proyección de PTF G7 con dividendo IA (0.8-1.2%/año) se presenta con etiqueta [PI]** pero se usa argumentativamente como si elevara el listón de forma establecida ("El listón no baja... Sube con la aceleración democrática en IA"). Una proyección institucional no puede cargar el peso conclusivo de un argumento central sin declarar su condicionalidad.
+
+#### Análisis
+
+La paradoja de esta ronda es que B produjo una de sus dos o tres mejores intervenciones del debate en calidad argumentativa y, simultáneamente, la que le cuesta más caro en términos de resultado lógico. La sección de válvulas institucionales es sobresaliente: convierte un comparador que A había usado ofensivamente en un argumento estructural sobre la asimetría entre procesamiento institucionalizado del descontento y su supresión. La distinción entre "el descontento se convierte en cambio de gobierno sin cuestionar el régimen" y "el descontento tiene solo dos salidas: represión selectiva o emigración" es el tipo de mecanismo causal que el debate necesitaba desde R5.
+
+Los cuatro casos de autocorrección cumplen la prohibición de simetría fácil con rigor ejemplar. El caso Truss —Banco de Inglaterra en 28 horas, renuncia en 45 días, reversión de política en 72 horas— es especialmente eficaz porque mide velocidad, no diseño institucional, que era exactamente el estándar exigido.
+
+Pero el árbitro debe ser claro sobre el peso relativo de lo ocurrido. El debate opera bajo una definición vinculante adoptada en R11 y no impugnada desde entonces por ninguna parte. Bajo esa definición, la concesión de (c) sumada a la concesión previa de (b) satisface el Predicado 2. B escribió la concesión, verificó la aritmética que la sostiene, y declaró una consecuencia que no se sigue de la definición vigente. La honestidad de la concesión es admirable y se premia generosamente en el criterio de reconocimiento de debilidades (donde B obtiene el puntaje más alto de las trece rondas); el error de contabilidad se penaliza en fuerza lógica y consistencia interna.
+
+Se registra expresamente que este árbitro **no** penaliza a B por conceder. Penalizar la concesión honesta destruiría el incentivo epistémico que este debate busca preservar. Lo que se penaliza es haber concedido sin advertir la consecuencia sistémica, y no haber activado el único recurso procesal disponible (impugnación de la definición) en el momento en que era pertinente.
+
+---
+
+### 3. Intervención del Proponente A — Evaluación
+
+**Puntuación:** 8.83 / 10
+
+#### Fortalezas
+- **Explotación impecable de la doble concesión (A-13-5).** A citó verbatim, reprodujo la aritmética de B para verificación independiente, construyó tabla de estado de los tres criterios con atribución de quién concedió qué, y derivó la consecuencia correcta bajo la definición vinculante. Además, blindó el argumento con aritmética propia bajo escenario conservador (26.7% en 2030; 28.8% en 2035), de modo que la conclusión no depende de los supuestos favorables de B. Es un trabajo de precisión lógica que merece el reconocimiento del árbitro.
+- **Concesión de apertura calibrada y creíble:** "Las democracias liberales no están en colapso terminal. B tiene razón en eso, y lo concedo explícitamente." Al reformular la pregunta de la ronda como una de ventaja comparativa sistémica y no de colapso, A evitó el terreno donde la evidencia le era estructuralmente adversa.
+- **Respuesta mecanicista al argumento fiscal-demográfico (A-13-2)** con cuatro instrumentos, aritmética expuesta por instrumento, costo declarado en cada tipo de legitimidad, y —crucialmente— déficit residual reconocido de ¥1.2-2.1T/año (0.7-1.0% del PIB 2035) en lugar de reclamar cobertura total. La comparación internacional (Italia ~16%, Francia ~14%, Japón ~10% del PIB) contextualiza la magnitud con fuente OCDE.
+- **Cumplimiento de A-13-7:** documentó el gasto en seguridad doméstica (~¥1.44T en 2022 vía *China Quarterly*; policía armada ¥167,449M en 2024 vía CEIC), lo etiquetó [DO-EI] por opacidad metodológica reconocida por la propia fuente, declaró que es piso y no techo, e integró el dato **en ambas direcciones**: como costo fiscal que compite con pensiones y como mecanismo que eleva el umbral de activación de la Etapa 3 de B. El manejo bidireccional de evidencia ambivalente es exactamente lo que este árbitro ha pedido durante todo el debate.
+- **Reclasificación del Tipo 4 (A-13-3)** aceptando la crítica de Roberts et al. y reformulando como "conformidad cívica inducida estructuralmente", con anclaje en Przeworski (1991) sobre equivalencia funcional entre conformidad generalizada y legitimidad para efectos de estabilidad. La concesión final —"la conformidad performativa sin válvula de escape acumula presión latente"— se integra en su propia condición F4.
+- **Mecanismo 4 sobre heterogeneidad del G7** es analíticamente correcto y no había sido formulado: China debe superar la *media* G7, no a EE.UU. individualmente, y la aceleración por IA está concentrada en EE.UU. y Reino Unido mientras Japón, Italia y Francia permanecen en 0.1-0.5%. E confirmó independientemente la relevancia del punto.
+- **Calibración honesta de (a):** A asigna 40-55% a que China supere la media G7 en 2026-2030 y declara "el efecto neto es genuinamente incierto". No reclama victoria en el criterio disputado.
+- **Contraataque de costo sobre los cuatro casos de autocorrección:** el argumento de que B mide el tiempo de la corrección pero no el costo (PIB -4.3%, desempleo 10%, riqueza del quintil inferior -44% en EE.UU.; recesión industrial alemana 2023-2024, PPI +46%) desplaza correctamente el eje del debate de velocidad a costo neto.
+
+#### Debilidades
+- **La respuesta a las válvulas institucionales es la parte más débil de la intervención.** A concede que las cuatro son reales y responde con equivalencias forzadas: la nivelación interprovincial no es funcionalmente equivalente al ESM (el ESM es externo al soberano en crisis; la nivelación es interna al mismo soberano que enfrenta la restricción agregada); los 297M de migrantes internos no son equivalentes a movilidad laboral libre precisamente por el hukou que B documentó. Sobre alternancia y sindicatos, A no ofrece equivalente chino sino un contraargumento sobre los costos de la alternancia — que es cambio de terreno, no respuesta.
+- **La pregunta A-13-4 de B queda sin responder.** B preguntó si A puede identificar un caso post-2012 donde el PCCh revirtió una política económica dañina en menos de 6 meses con reconocimiento público explícito del error. A menciona el COVID cero pero concede expresamente que "se ejecutó sin reconocimiento del error" — es decir, concede la premisa sin ofrecer el caso solicitado. Se registra como concesión, no como evasión, pero deja la pregunta sin caso afirmativo.
+- **DeepSeek como evidencia de PTF agregada es una inferencia larga.** La eficiencia algorítmica de un laboratorio y 35,423 solicitudes de patentes de IA son insumos de innovación, no PTF medida. El salto de conteo de patentes a productividad total de factores es precisamente el tipo de inferencia que este árbitro ha advertido en rondas anteriores. A lo etiqueta parcialmente [EI] en la síntesis, lo que atenúa pero no elimina el problema.
+- **El Mecanismo 1 (I+D pública como sustituto del VC) es el más débil de los cuatro.** La intensidad de I+D del 2.68% del PIB es un insumo; la cuestión abierta es su eficiencia marginal, que A no aborda salvo mediante una concesión sectorial. La comparación con la UE (2.11%) no responde el argumento de B, que versa sobre asignación de riesgo, no sobre volumen de gasto.
+- **La aritmética de la Salida 2 asume rentabilidad de 3.5% sobre ¥30T de activos SOE transferidos** sin abordar que la rentabilidad histórica sobre activos de las SOE chinas ha sido objeto de disputa en rondas previas del propio debate. Etiquetada [EC] correctamente, pero el supuesto de rendimiento es el eslabón portante y no se justifica.
+- **Uso del Ash Center Survey 2022** como evidencia de mantenimiento de legitimidad durante el COVID cero, en la misma ronda en que B retiró voluntariamente su propio argumento basado en la no replicación de esa encuesta. A no aborda las limitaciones metodológicas de acceso que ambas partes reconocen para datos de opinión chinos.
+
+#### Análisis
+
+Esta es la intervención de mayor rendimiento estratégico que A ha producido en trece rondas, y su valor no reside en la elocuencia sino en la disciplina. A hizo exactamente tres cosas correctas en secuencia: reconoció la calidad de la intervención rival, identificó la consecuencia lógica que la parte contraria no advirtió, y la documentó con verificación independiente en lugar de limitarse a proclamarla. La aritmética conservadora propia es lo que convierte la explotación en argumento robusto: si A solo hubiera citado a B, la concesión sería tan frágil como los supuestos de B; al mostrar que la convergencia se sostiene bajo supuestos más adversos, A blindó el resultado contra un eventual retiro de la concesión en R14.
+
+La sección fiscal-demográfica saldó la deuda más antigua de A en el debate. La estructura instrumento → aritmética → cobertura → costo en cada tipo de legitimidad → déficit residual reconocido es metodológicamente ejemplar, y el reconocimiento del residuo de ¥1.2-2.1T/año le da credibilidad al conjunto de una forma que una reclamación de cobertura total nunca habría tenido.
+
+Donde A sigue siendo vulnerable es exactamente donde B es más fuerte: la asimetría de válvulas. A no puede producir equivalentes funcionales chinos para alternancia y sindicatos independientes, y sus equivalencias para transferencias y movilidad son parciales en el mejor de los casos. Su respuesta real —que el gasto en seguridad doméstica opera como sustituto funcional de las válvulas democráticas— es analíticamente interesante y está documentada, pero es una tesis sobre contención, no sobre procesamiento, y B tiene razón en que un sistema que contiene sin procesar acumula el pasivo que contiene. A lo reconoce en su propia condición F4, lo que se le acredita como consistencia.
+
+El árbitro registra que A cumplió los nueve encargos de R13 (R13-A-1 a A-9) sin omisión, con horizontes datados y etiquetado de cuatro niveles. Es la primera ronda en que ninguna parte incumple encargos por omisión total.
+
+---
+
+### 4. Intervención del Especialista E (Geopolítica) — Evaluación
+
+**Puntuación:** 9.4 / 10
+
+#### Fortalezas
+- **Cierre íntegro de los cuatro pasivos de R11 con tres correcciones contra su propio interés.** El ratio 5:1 se documenta como valor central de un rango 3:1-8:1 (Dupuy, Epstein, O'Hanlon, CNA) con el 13.6% mantenido como [EC] e intervalo ampliado a 9%-24%; la síntesis se rebaja de $100-150B/año a $73-111B/año con tabla de agregación por componente; la atribución a BCG marzo 2026 se **retira completamente** y se sustituye por McKinsey (2023), ITIF (nov 2025) y Kearney (2024) con URLs institucionales; la prima marítima se corrige a la baja de 0.05-0.10% a 0.02-0.08% con caso base declarado (Mar Rojo 2024, Golfo Pérsico 1984-88, Ormuz 2019-20) y cuatro límites de transferibilidad expuestos. Es el cumplimiento de pasivos más completo del debate.
+- **Verificación crítica de la serie de B con dos objeciones sustantivas.** La detección de la ruptura metodológica PWT 10.01 → Conference Board TED en 2020 —justo en el quinquenio donde B funda su conclusión— es un hallazgo de alto valor probatorio. La segunda objeción (sesgo de deflactores chinos, +0.3-0.6 pp/año, con anclaje en Nakamura y Steinsson, *AER* 2021 y la revisión NBS de 2016) opera **en contra** de la posición que E acababa de verificar, y E declara explícitamente que la corrección no invierte el signo de la ventaja china en los tres primeros quinquenios. Verificación genuina, no confirmación.
+- **Extensión de la tabla de PTF por país con aritmética de ponderación completamente expuesta.** E calcula ambas medias, muestra la operación término a término (0.4×0.5 + 0.15×0.4 + ... = 0.403%), declara los pesos utilizados, y señala que ninguna de las dos posiciones había declarado método. Es la contribución técnica individual más valiosa aportada por un especialista en el debate.
+- **Aplicación del mismo rasero al COVID cero (R13-E-6)** con tabla comparativa de cinco casos en tres dimensiones (tiempo señal→reversión, reconocimiento explícito del error, costo social documentado). El resultado favorece a A en velocidad (10-12 días, el más rápido de la tabla) y a B en las tres matizaciones (7 meses de señal previa ignorada; ausencia de memoria institucional verificable; costo transicional de la reversión abrupta). E entrega un resultado dividido, que es lo que la evidencia sostiene.
+- **Aportación de cuatro cuerpos de evidencia inéditos**, todos relevantes y con implicación bidireccional declarada: Geddes/Wright/Frantz sobre supervivencia de regímenes de partido único (mediana 23 años; PCCh en percentil >95; tasa de colapso 3-8% por quinquenio) con límite de comparabilidad declarado por la deriva personalista del período Xi; Andrews/Criscuolo/Gal (OECD 2016) sobre frontera vs. difusión, que reencuadra el debate de PTF de "quién innova" a "quién difunde"; FMI Fiscal Monitor sobre espacio fiscal democrático (EE.UU. 122%, Japón 253%, Italia 135%), que limita la extrapolación de los casos de autocorrección de B; e IMF WP/23/4 y WTO 2023 sobre costo asimétrico de la fragmentación para el Sur Global.
+- **El hallazgo de Corea del Sur, diciembre 2024** (ley marcial revertida en 6 horas por la Asamblea Nacional, destitución posterior) como caso L3 episódico en democracia avanzada con PIB per cápita >$35,000 — no analizado por ningún debatiente y bidireccionalmente relevante: demuestra capacidad institucional de resolución y, a la vez, que L3 puede activarse sorpresivamente.
+- **Distribución de probabilidad datada con verificación aritmética** (54+32+11+3=100%; 44+37+15+4=100%) y cinco indicadores de alerta temprana bidireccionales.
+- **Respeto estricto del mandato:** E no adjudica el Predicado 2, no se pronuncia sobre la disputa definitorial ni sobre el umbral de falsación, y no declara ganador. Cumple R13-E-9 sin excepción.
+- **Detección de la ambigüedad temporal del criterio (a)** —la observación técnica que obliga a este árbitro a pronunciarse en la Sección 8. E la formula con la neutralidad correcta ("neutral — ambigüedad temporal") y remite la adjudicación al árbitro, que es exactamente su función.
+
+#### Debilidades
+- **La tabla comparativa de desembolso (Sección 4.3) mezcla registros probatorios heterogéneos.** El ">85% de fondos transferidos a 36 meses" para los Grandes Fondos chinos es [EC-EI] mientras la contraparte democrática es [DO], y el "riesgo de pérdida por corrupción bajo-medio (<10%)" para democracias es [EI] sin fuente. Comparar una celda [DO] con una [EI] en la misma fila invita a la lectura de equivalencia probatoria que no existe.
+- **La corrección de deflactores (+0.3-0.6 pp/año) se aplica solo a China.** E no examina si las series del G7 tienen sesgos análogos (medición de productividad en servicios, capital intangible), lo que introduce una asimetría metodológica en un ejercicio cuyo mérito declarado es la simetría del rasero.
+- **La estimación de ~1M de muertes en exceso por la reversión del COVID cero** se etiqueta [EI] pero se incorpora en una tabla donde el resto de costos sociales son [DO], sin declarar rango ni fuente.
+- **El Cuerpo 1 (Geddes et al.) tiene un límite que E declara pero no cuantifica.** Si el período Xi acerca a China al tipo "personalista" (mediana 13 años) más que al de "partido único" (mediana 23 años), la tasa de colapso derivada de 3-8% por quinquenio debería ajustarse al alza. E señala el problema sin ofrecer la sensibilidad, dejando la cifra más favorable a A como única expuesta.
+- **Corea del Sur y Australia se introducen en el denominador del comparador** en la Sección 3.2 y se invocan como elevadores del umbral en la Sección 9, pero el comparador vinculante del criterio (a) es "promedio G7". E señala correctamente que ningún debatiente los incluyó, pero la sugerencia de ampliar el denominador excede lo que la definición vinculante autoriza y roza el terreno definitorial que su mandato le veda.
+
+#### Análisis
+
+E entrega en R13 la intervención de especialista de mayor calidad del debate, superando el estándar de referencia fijado (F en R12, 9.6) en cumplimiento de pasivos y aportación de evidencia inédita, aunque quedando marginalmente por debajo en pulcritud de etiquetado. Lo que distingue esta intervención es que las tres correcciones más significativas van contra el interés de las cifras que el propio E había introducido en R11 — el retiro completo de la atribución a BCG es especialmente meritorio, porque E podría haber sostenido el dato con una fuente aproximada y optó por retirar y reconstruir con tres fuentes verificables.
+
+La verificación de la tabla de PTF de B es el trabajo técnico decisivo de la ronda. E no se limitó a confirmar: encontró que la serie tiene una ruptura metodológica exactamente en el punto donde B funda su conclusión sobre el quinquenio decisivo, y simultáneamente encontró un sesgo de deflactores que reduce la ventaja histórica china. Ambos hallazgos son incómodos para ambas partes, que es la marca de la verificación genuina. La exposición de las dos medias de ponderación —con la operación aritmética término a término— establece un estándar que este árbitro adoptará para el resto del debate: **ninguna afirmación sobre el criterio (a) en R14 o R15 será computable sin método de ponderación declarado.**
+
+El Cuerpo 2 (Andrews/Criscuolo/Gal) merece mención especial porque reencuadra el debate de PTF de forma que ninguna de las dos partes había anticipado. Si el problema del G7 no es la frontera sino la difusión, entonces tanto el argumento de B sobre el dividendo de la IA como el argumento de A sobre la heterogeneidad del G7 requieren reformulación. Este árbitro instruirá a ambas partes a incorporarlo.
+
+---
+
+### 5. Ganador de la Ronda 13
+
+**Ganador:** A (Proponente)
+**Margen:** 0.12 puntos
+
+Es la primera victoria de A desde la Ronda 6 y la más estrecha de las tres que acumula. La justificación es de tres capas y debe entenderse en su orden.
+
+**Primera capa — el resultado lógico.** La doble concesión de B sobre (b) y (c), bajo la definición vinculante de 2-de-3 adoptada en R11 y no impugnada por ninguna parte, satisface el Predicado 2. A identificó, documentó y verificó independientemente esa consecuencia; B la formuló incorrectamente. Este es el evento de mayor consecuencia sistémica de las trece rondas.
+
+**Segunda capa — la calidad argumentativa, que corre en dirección parcialmente contraria.** B produjo la mejor pieza refutatoria de la ronda (las cuatro válvulas institucionales), el mejor cumplimiento de la prohibición de simetría fácil (los cuatro casos con tiempo medido), el primer tratamiento de PTF con serie declarada del debate, y el estándar de honestidad epistémica más alto observado en cualquiera de las dos posiciones. En pura calidad de ejecución, la intervención de B es marginalmente superior a la de A en refutación, evidencia y fuentes. Es por eso que B mantiene puntajes elevados en esos criterios pese a perder la ronda.
+
+**Tercera capa — por qué gana A pese a lo anterior.** El árbitro no premia la concesión de B con una derrota punitiva: la premia expresamente con 9.8 en reconocimiento honesto de debilidades, el puntaje individual más alto asignado a cualquier criterio en trece rondas. Lo que decide la ronda es que A ejecutó los nueve encargos sin omisión, saldó su deuda más antigua (el argumento fiscal-demográfico) con aritmética expuesta y déficit residual reconocido, documentó el gasto en seguridad con manejo bidireccional, calibró honestamente su probabilidad sobre (a) en 40-55% sin reclamar victoria en el criterio disputado, y —de forma decisiva— **no se limitó a proclamar la concesión de B sino que la verificó con aritmética propia bajo supuestos más adversos**, blindándola contra un eventual retiro. La diferencia entre explotar una concesión y verificarla es la diferencia entre ganar un punto y establecer un hecho.
+
+El margen de 0.12 es deliberadamente estrecho y refleja que la ronda fue, en calidad argumentativa, prácticamente un empate resuelto por consecuencia lógica y por completitud de ejecución.
+
+---
+
+### 6. Marcador Acumulado (post-R13)
+
+| Ronda | Ganador | Puntuación A | Puntuación B | Margen |
+|-------|---------|--------------|--------------|--------|
+| R1  | Empate | 8.00 | 8.00 | 0.00 |
+| R2  | B | 8.10 | 8.50 | 0.40 |
+| R3  | A | 8.60 | 8.20 | 0.40 |
+| R4  | B | 8.30 | 8.80 | 0.50 |
+| R5  | B | 8.20 | 8.90 | 0.70 |
+| R6  | A | 8.70 | 8.40 | 0.30 |
+| R7  | B | 8.40 | 9.00 | 0.60 |
+| R8  | B | 8.70 | 8.90 | 0.20 |
+| R9  | B | 8.60 | 9.10 | 0.50 |
+| R10 | B | 8.60 | 9.10 | 0.50 |
+| R11 | B | 8.50 | 9.00 | 0.50 |
+| R12 | B | 8.66 | 8.94 | 0.28 |
+| **R13** | **A** | **8.83** | **8.71** | **0.12** |
+
+**Total acumulado:**
+- Agente A: 110.19 puntos (promedio: 8.48)
+- Agente B: 114.55 puntos (promedio: 8.81)
+- Rondas ganadas: A 3 — B 9 — Empates 1
+
+**Ventaja media de B: 0.33** (era 0.37 tras R12 — segunda reducción consecutiva).
+
+**Puntuación de A — Ronda 13**
+
+| Criterio | Puntaje | Justificación |
+|---|---:|---|
+| Claridad de tesis | 9.2 | Tesis de tres partes explícita; concesión de apertura que delimita el terreno con precisión |
+| Respuesta directa al rival | 8.9 | Responde los cuatro retos de B; A-13-4 queda sin caso afirmativo aunque con concesión declarada |
+| Rigor / calidad de evidencia | 8.6 | Aritmética expuesta en cinco secciones; DeepSeek y patentes como proxy de PTF es inferencia larga |
+| Pertinencia de fuentes | 8.7 | NBS, OECD, WIPO, EPO, IFR, SASAC, FMI, OCDE; Ash Center 2022 usado sin abordar sus límites |
+| Fuerza lógica | 9.5 | La derivación (b)+(c)=Predicado 2 satisfecho es formalmente correcta y verificada independientemente |
+| Capacidad de refutación | 8.5 | Contraataque de costo sobre los cuatro casos es sólido; respuesta a las válvulas es la parte más débil |
+| Reconocimiento honesto de debilidades | 9.2 | Concede colapso terminal, déficit residual, ausencia de reconocimiento en COVID cero, válvula 4 |
+| Consistencia interna | 8.6 | Condición F4 integra el pasivo de conformidad sin válvula; equivalencias forzadas en válvulas 2 y 3 |
+| Foco en el tema | 8.6 | Secciones 5-7 son de rondas previas; justificadas como ejecución de encargos, pero desplazan el foco |
+| Relevancia práctica | 8.7 | Instrumentos fiscales concretos con costo declarado; comparación internacional útil |
+| Sostener la posición hasta el final | 8.7 | Mantiene la tesis sin sobreextender; calibra (a) en 40-55% en vez de reclamar victoria |
+| **TOTAL** | **8.83** | |
+
+**Puntuación de B — Ronda 13**
+
+| Criterio | Puntaje | Justificación |
+|---|---:|---|
+| Claridad de tesis | 9.1 | Tesis de asimetría bidireccional clara; formulación errónea de la consecuencia de su concesión |
+| Respuesta directa al rival | 8.8 | Ejecuta B-13-1 a B-13-8 sin evasión; omite el COVID cero pese a instrucción expresa |
+| Rigor / calidad de evidencia | 8.9 | Serie de PTF declarada por primera vez; método de ponderación no declarado |
+| Pertinencia de fuentes | 9.1 | PWT, TED, Eurostat, ESM, BoE, CLB, CASS, V-Dem, Lorentzen: pertinencia alta y verificable |
+| Fuerza lógica | 7.6 | Error de contabilidad lógica sobre 2-de-3; pivote no justificado a lectura prospectiva de (a) |
+| Capacidad de refutación | 9.3 | Las cuatro válvulas y las tres objeciones a Lorentzen son las mejores refutaciones de la ronda |
+| Reconocimiento honesto de debilidades | 9.8 | Retiro formal de (c), retiro de B-13-5 con justificación epistémica, retiro de B-13-6, corrección NEET |
+| Consistencia interna | 7.9 | Sostiene que (a) decide el Predicado 2 tras conceder dos de tres criterios bajo definición vigente |
+| Foco en el tema | 9.0 | Los cuatro casos y las cuatro válvulas están centrados en la pregunta de la ronda |
+| Relevancia práctica | 8.9 | Umbral F1-F3 observable y datado; válvulas institucionales con implicación operativa |
+| Sostener la posición hasta el final | 7.4 | Concede dos criterios y reformula el terreno de disputa a un único criterio no resuelto |
+| **TOTAL** | **8.71** | |
+
+---
+
+### 7. Estado de los Predicados (actualizado post-R13)
+
+#### Predicado 1: Sostenibilidad institucional
+
+**Estado: favorable a A, con confianza medio-alta. Sin cambio de signo en R13, con reducción de incertidumbre en el canal fiscal.**
+
+Los movimientos de la ronda:
+
+- **Canal fiscal:** A respondió por primera vez con mecanismo, aritmética por instrumento y déficit residual reconocido (¥1.2-2.1T/año en 2035 = 0.7-1.0% del PIB proyectado). La magnitud del residuo es financiable en términos comparados; el argumento fiscal-demográfico de F en R12 queda parcialmente respondido, no neutralizado. **El canal fiscal deja de ser la vía de falsación más probable del Predicado 1.**
+- **Canal de legitimidad:** disputado, con inclinación que se mantiene hacia B. La asimetría de válvulas de B es el argumento más fuerte del debate contra el Predicado 1: un sistema que contiene el descontento sin procesarlo acumula el pasivo que contiene. A lo reconoce en su condición F4, lo que le acredita consistencia pero no resuelve el mecanismo.
+- **Canal comparativo-histórico:** el Cuerpo 1 de E (Geddes et al.: mediana de 23 años para regímenes de partido único, PCCh en percentil >95, colapso de 3-8% por quinquenio) es favorable a A, con el límite declarado de que la deriva personalista del período Xi reduce la comparabilidad y podría acercar la mediana relevante a los 13 años del tipo personalista.
+- **Umbrales de falsación:** ambas partes disponen ahora de umbrales operacionalizables. El de B (F1-F3, disyuntivo, observable desde 2027) es más informativo que el de A (F4, conjuntivo de tres condiciones simultáneas), porque un umbral conjuntivo de tres condiciones es estructuralmente más difícil de activar. Se mantiene la advertencia de sesgo de construcción formulada a A en R12.
+
+**Nivel de confianza sobre continuidad institucional del régimen hasta 2040: medio-alto, ~89%** (era ~91% tras R12; la reducción de 2 puntos refleja el peso del argumento de válvulas de B y las matizaciones de E sobre el caso COVID cero, parcialmente compensados por Geddes et al.). El umbral operacional de falsación de Predicado 1 (≥3 de 5 condiciones en ventana de 5 años dentro de 2026-2040) **no está activado a la fecha bajo ninguna serie presentada por las partes.**
+
+#### Predicado 2: Competitividad relativa
+
+**Estado: SATISFECHO bajo la definición vinculante de G R11.**
+
+Este árbitro declara formalmente lo siguiente, y lo hace con la máxima precisión disponible porque es el pronunciamiento de mayor consecuencia del debate:
+
+La definición vinculante adoptada en R11 y no impugnada por ninguna parte en trece rondas establece que el Predicado 2 se satisface si el modelo cumple **al menos 2 de 3** criterios: (a) crecimiento de PTF superior al promedio G7 en ≥2 quinquenios; (b) participación creciente en exportaciones de alta complejidad (SITC Rev.4 grupos 7+8, ex re-exportaciones); (c) convergencia efectiva del PIB per cápita hacia el umbral de ingreso alto, entendida como reducción del diferencial relativo y **no** como cruce absoluto de los $22,000.
+
+| Criterio | Estado | Fundamento |
+|---|---|---|
+| **(b)** Exportaciones de alta complejidad | **SATISFECHO** | Concedido por B en R12; concesión registrada, vinculante y no retirada en R13 |
+| **(c)** Convergencia relativa de PIB per cápita | **SATISFECHO** | Concedido por B en R13 §3 con retiro formal de su conclusión de R12; verificado independientemente por A con supuestos más adversos (ratio 26.7% en 2030; 28.8% en 2035) |
+| **(a)** PTF > promedio G7 en ≥2 quinquenios | **Ver Sección 8** | Históricamente satisfecho; prospectivamente incierto |
+
+**2 de 3 criterios satisfechos ⇒ Predicado 2 SATISFECHO.**
+
+Tres precisiones obligatorias sobre el alcance de esta declaración:
+
+1. **No es el veredicto del debate.** El Predicado 2 es una de las dos condiciones de la moción. El Predicado 1 sigue en disputa y su resolución determinará el resultado.
+2. **Es revocable únicamente por vía procesal.** B puede en R14: (i) impugnar formalmente la definición vinculante con justificación procedimental, que este árbitro considerará; (ii) demostrar con evidencia nueva que (b) o (c) han dejado de satisfacerse bajo la aritmética 2026-2030; o (iii) reconocer el estado y redirigir su tesis al Predicado 1. La opción de ignorar las concesiones no está disponible.
+3. **La declaración no premia ni castiga la honestidad de B.** B concedió porque la aritmética que él mismo produjo lo obligaba. Este árbitro reitera que esa conducta es el estándar epistémico que el debate busca, y así se ha reflejado en la puntuación (9.8 en reconocimiento de debilidades). La consecuencia lógica de una concesión honesta no deja de operar por ser honesta.
+
+**Estado del criterio (a):** genuinamente disputado en su dimensión prospectiva y resuelto en su dimensión retrospectiva. Bajo PWT 10.01 / TED 2024, con la serie declarada por B y verificada por E, China superó la media G7 en 2006-2010 (+2.8% vs. +0.1%), 2011-2015 (+1.7% vs. +0.4%) y 2016-2020 (+1.1% vs. +0.6%) — tres quinquenios. En 2021-2025, China (+0.4-0.7%) está por debajo de la media G7 ponderada por PIB (+0.70-0.85%) y en empate o ligera desventaja frente a la media igualmente ponderada (+0.49-0.63%). La corrección de deflactores de E (+0.3-0.6 pp/año de sobreestimación china) reduce el margen histórico sin invertir su signo. Para 2026-2030, A estima 40-55% de probabilidad de superación; B sostiene deterioro estructural. **Ninguna de las dos posiciones ha establecido el criterio (a) prospectivo, y bajo la definición vigente no necesita hacerlo para el resultado del Predicado 2.**
+
+---
+
+### 8. Resolución de la ambigüedad temporal del criterio (a)
+
+E planteó en su Sección 9, tercera observación, un problema real que este árbitro debe resolver y que no debió quedar abierto hasta la Ronda 13: la formulación "crecimiento de PTF > promedio G7 en ≥2 quinquenios" no especifica si los quinquenios son históricos (2006-2020, donde China cumple en tres) o prospectivos (2026-2040, donde el resultado es incierto).
+
+**RESOLUCIÓN VINCULANTE — Criterio (a), dimensión temporal.**
+
+**Primero.** La moción debatida es prospectiva: "será sostenible a largo plazo y **puede seguir compitiendo** exitosamente". El verbo "seguir" presupone competitividad presente y proyecta continuidad. Una lectura puramente retrospectiva del criterio (a) vaciaría de contenido la moción, porque cualquier economía que haya convergido en el pasado la satisfaría automáticamente con independencia de su trayectoria futura. **Se rechaza la lectura puramente retrospectiva.**
+
+**Segundo.** Una lectura puramente prospectiva es igualmente inadmisible por dos razones. Primera: haría el criterio (a) indeterminable hasta 2031 como mínimo (fin del primer quinquenio prospectivo completo), lo que lo excluiría de la adjudicación de este debate y equivaldría a suprimirlo. Segunda: la definición vinculante fue adoptada en R11 y ambas partes litigaron a partir de ella asumiendo que era adjudicable dentro del debate; alterarla ahora hacia lo indeterminable perjudicaría a quien construyó su caso sobre esa premisa. **Se rechaza la lectura puramente prospectiva.**
+
+**Tercero — definición vinculante.** El criterio (a) se evalúa sobre una **ventana móvil de cuatro quinquenios que comprende el registro histórico reciente y el horizonte proyectable: 2011-2015, 2016-2020, 2021-2025 y 2026-2030.** El criterio se satisface si China supera la media del G7 en **al menos 2 de esos 4 quinquenios**, con la siguiente ponderación de estatuto probatorio:
+
+- Los quinquenios **2011-2015 y 2016-2020** se computan como **hechos observados [DO]**, sujetos a la corrección de deflactores documentada por E (que reduce el margen sin invertir el signo). **Ambos se computan como satisfechos.**
+- El quinquenio **2021-2025** se computa como **hecho observado con incertidumbre de serie [DO-EI]**, dada la ruptura metodológica PWT→TED en 2020 documentada por E. Bajo media ponderada por PIB: no satisfecho. Bajo media igualmente ponderada: indeterminado en el margen. **Se computa como NO SATISFECHO**, resolviendo la duda en contra del proponente por ser quien afirma.
+- El quinquenio **2026-2030** se computa como **proyección [PI/EI]** y **no se computa como satisfecho ni como no satisfecho** en la adjudicación de este debate. Se registra como incertidumbre declarada, con la estimación de A (40-55%) y la posición contraria de B constando en acta.
+
+**Cuarto — resultado de la aplicación.** Sobre la ventana definida: 2 quinquenios satisfechos (2011-2015, 2016-2020), 1 no satisfecho (2021-2025), 1 indeterminado (2026-2030). **El criterio (a) se computa como SATISFECHO EN EL MÍNIMO ESTRICTO (2 de 4), con la advertencia expresa de que la trayectoria del criterio es descendente y monotónica desde 2006 (+2.7 pp de ventaja → +1.3 pp → +0.5 pp → margen negativo).**
+
+**Quinto — consecuencia y advertencia.** Esta resolución hace que el Predicado 2 se satisfaga por 3 de 3 criterios y no solo por 2 de 3. Este árbitro advierte expresamente que **ello no fortalece la posición de A tanto como podría parecer**: un criterio satisfecho en el mínimo estricto, con trayectoria descendente monotónica y con el quinquenio más reciente en resultado negativo, es evidencia débil de competitividad futura. **A no debe tratar esta resolución como victoria sustantiva sobre (a), y este árbitro penalizará en R14 y R15 cualquier presentación de (a) como establecido prospectivamente.** El argumento estructural de B sobre el deterioro de PTF —colapso del VC de $130,000M a $33,000M, rigidez en asignación de talento, imposibilidad de liberar inversión privada de riesgo sin erosionar el control político— permanece plenamente vivo y es la mejor materia que le queda para las dos rondas restantes, aunque ya no sea decisiva para el Predicado 2.
+
+**Sexto — estándar metodológico obligatorio.** A partir de esta resolución, toda afirmación sobre el criterio (a) en R14 y R15 debe declarar: (i) serie utilizada y versión; (ii) método de ponderación de la media del comparador (igualmente ponderada o ponderada por PIB); (iii) tratamiento de la ruptura metodológica de 2020. **Las afirmaciones que no declaren los tres elementos no serán computadas.**
+
+**Séptimo — sobre el denominador.** El comparador del criterio (a) es el **G7**, según la definición vinculante de R11. La sugerencia de E de incorporar a Corea del Sur y Australia se registra como observación técnica valiosa, **pero no se adopta**: alterar el denominador en la ronda 13 modificaría retroactivamente el umbral que ambas partes han litigado durante doce rondas. Los datos de Corea del Sur y Australia aportados por E quedan en acta como contexto, no como parte del cómputo.
+
+**Octava — nota procesal.** Este árbitro asume la responsabilidad de que esta ambigüedad no fuera resuelta al adoptar la definición en R11. La resolución se emite con efecto sobre la adjudicación pendiente y no altera retroactivamente las puntuaciones de rondas anteriores.
+
+---
+
+### 9. Retos para la Ronda 14
+
+**Ronda 14:** B abre → A responde → C (Economía Política Comparada) cierra
+**Tema:** ¿Puede el modelo chino exportarse o generalizarse como alternativa sistémica?
+
+Advertencia preliminar vinculante para ambas partes: R14 es la penúltima ronda. Las posiciones que no se sostengan en R14 no podrán reconstruirse en R15, que está reservada a síntesis. Ninguna parte debe introducir en R15 argumentos nuevos que pudieron plantearse en R14.
+
+#### Retos para B (Oponente) en R14:
+
+- **B-14-1 (PRIORIDAD ABSOLUTA — Respuesta a la declaración de Predicado 2 satisfecho):** Este árbitro ha declarado el Predicado 2 satisfecho por 3 de 3 criterios. B tiene exactamente tres vías procesales y debe elegir una de forma explícita en el primer párrafo de su intervención: **(i) impugnación formal de la definición vinculante de R11**, que debe incluir justificación procedimental de por qué se impugna en R14 y no en R11-R13, y propuesta de definición alternativa con su umbral; **(ii) demostración con evidencia nueva** de que (b) o (c) han dejado de satisfacerse bajo aritmética 2026-2030, lo que exige series y supuestos declarados; **(iii) reconocimiento del estado del Predicado 2 y redirección explícita de la tesis al Predicado 1.** La opción (iii) no se penaliza —es el movimiento estratégicamente más sólido dado el estado del debate— pero debe ser explícita. **Ignorar la declaración o litigar como si no hubiera ocurrido se penalizará como evasión de cuestión crítica, con severidad.**
+- **B-14-2 (ALTA — Exportabilidad del modelo, núcleo temático de la ronda):** ¿Es el modelo chino replicable o es *sui generis*? B debe pronunciarse sobre las condiciones de posibilidad: escala poblacional y de mercado interno, secuencia histórica (reforma de 1978 sobre una base de capital humano previa), capacidad estatal burocrática acumulada, momento de inserción en la globalización, y disponibilidad de un mercado externo abierto que el propio éxito chino está contribuyendo a cerrar. Casos concretos con resultado medido: Vietnam, Etiopía, Ruanda, Kazajistán, Arabia Saudí. **Se exige distinguir entre exportar el modelo completo y exportar componentes (política industrial dirigida, gobernanza digital, financiación de infraestructura).**
+- **B-14-3 (ALTA — Criterio (a) bajo el estándar metodológico obligatorio):** El argumento estructural de B sobre deterioro de PTF sigue vivo y es su mejor materia restante. Para computarse debe cumplir la Sección 8, apartado sexto: serie y versión, método de ponderación, tratamiento de la ruptura de 2020. Adicionalmente: **B-14-3(a)** declarar la distribución por país de su proyección de dividendo IA de 0.8-1.2% (reto pendiente de A); **B-14-3(b)** incorporar Andrews/Criscuolo/Gal (OECD 2016) — si el problema del G7 es difusión y no frontera, ¿cómo afecta eso a la proyección de aceleración por IA que B sostiene?
+- **B-14-4 (ALTA — COVID cero, segundo requerimiento):** B omitió el caso pese a instrucción expresa en R13. E lo documentó con el mismo rasero (10-12 días señal→reversión, el más rápido de la tabla de cinco casos, sin reconocimiento de error, con ~7 meses de señal previa). **Tercera omisión no habrá: si no se atiende en R14, se computará como concesión de que el modelo chino posee capacidad de corrección táctica rápida.**
+- **B-14-5 (MEDIA — Costo de la corrección democrática):** Reto pendiente de A (B-14-2 en su numeración). B ha medido velocidad de corrección; A objetó que no midió costo. Se exige: costo en PIB, desempleo y años de ajuste de al menos dos de los cuatro casos, comparado con el episodio chino más próximo disponible.
+- **B-14-6 (MEDIA — Espacio fiscal como límite de la autocorrección):** El Cuerpo 3 de E (FMI Fiscal Monitor: EE.UU. 122%, Japón 253%, Italia 135%, Francia 109%) sugiere que la capacidad de financiar futuras correcciones democráticas está sustancialmente reducida respecto de 2008-2012. B debe abordarlo: ¿son sus cuatro casos extrapolables a 2026-2040 con ese espacio fiscal?
+- **B-14-7 (MEDIA — Válvulas y exportabilidad):** Conexión temática obligatoria. Si las cuatro válvulas explican por qué las democracias procesan crisis sin colapso, ¿qué implica su ausencia para la exportabilidad del modelo chino a países sin la capacidad estatal ni la escala de China?
+
+#### Retos para A (Proponente) en R14:
+
+- **A-14-1 (PRIORIDAD — Uso disciplinado del Predicado 2 satisfecho):** A ha ganado el Predicado 2. **Este árbitro advierte que la sobreexplotación retórica de esa victoria se penalizará.** Concretamente: (i) A no debe presentar el criterio (a) como establecido prospectivamente —está satisfecho en el mínimo estricto con trayectoria descendente; (ii) A no debe tratar el Predicado 2 como si resolviera la moción —el Predicado 1 sigue en disputa y es donde se decide el debate; (iii) A debe dedicar el grueso de su intervención al tema de la ronda, no a repetir la victoria de R13. **Una intervención que consista sustancialmente en reiterar el resultado de R13 recibirá penalización severa en foco en el tema.**
+- **A-14-2 (ALTA — Criterio (a) bajo el estándar metodológico obligatorio y ambigüedad resuelta):** A debe operar bajo la resolución de la Sección 8: reconocer expresamente que (a) está satisfecho en el mínimo estricto (2 de 4), que 2021-2025 se computa como no satisfecho, y que 2026-2030 es indeterminado. Si A sostiene su estimación de 40-55%, debe cumplir los tres requisitos metodológicos e incorporar Andrews/Criscuolo/Gal: **¿tiene China ventaja en difusión de productividad (adopción forzada en sectores objetivo) que compense su desventaja en frontera? Esta es la mejor línea disponible para A sobre (a) y aún no la ha explorado.**
+- **A-14-3 (ALTA — Exportabilidad, núcleo temático):** ¿Afirma A que el modelo es exportable, o que es sostenible sin ser exportable? **Ambas posiciones son defendibles pero tienen consecuencias distintas y A debe elegir explícitamente.** Si afirma exportabilidad: casos con resultado medido y condiciones de replicabilidad. Si afirma sostenibilidad sin exportabilidad: debe demostrar que la moción no requiere generalización, argumentando desde el texto de la moción ("puede seguir compitiendo exitosamente" no exige que otros adopten el modelo).
+- **A-14-4 (ALTA — Válvulas institucionales, tercera oportunidad):** La respuesta de R13 fue la parte más débil de su intervención. Las equivalencias ofrecidas (nivelación interprovincial ≈ ESM; migración interna ≈ movilidad laboral libre) no son funcionalmente equivalentes por las razones expuestas en la Sección 3. A debe: (i) retirar las equivalencias forzadas, o (ii) defenderlas con mecanismo, o (iii) sostener explícitamente que el gasto en seguridad de ¥1.44T/año opera como sustituto funcional de las válvulas y aceptar la consecuencia de que la contención sin procesamiento acumula pasivo — que es lo que su propia condición F4 ya reconoce. **La opción (iii) es la más consistente con su posición y este árbitro no la penalizará.**
+- **A-14-5 (MEDIA — Umbral de falsación conjuntivo):** Segunda advertencia sobre sesgo de construcción. La condición F4 exige concurrencia simultánea de tres condiciones, lo que la hace estructuralmente difícil de activar comparada con el umbral disyuntivo F1-F3 de B. A debe justificar la conjunción o presentar al menos una condición disyuntiva adicional.
+- **A-14-6 (MEDIA — Deriva personalista y Geddes et al.):** El Cuerpo 1 de E favorece a A (mediana de 23 años para regímenes de partido único; PCCh en percentil >95) pero con límite declarado: si el período Xi acerca a China al tipo personalista, la mediana relevante cae a 13 años y la tasa de colapso por quinquenio se eleva. A debe abordar la clasificación tipológica de China post-2012 con evidencia, no por asignación conveniente.
+
+#### Instrucciones para el Especialista C (Economía Política Comparada) en R14:
+
+C ha intervenido en R1 y R2. Vuelve en la ronda temáticamente más próxima a su disciplina y con el estándar de referencia elevado: **F en R12 (9.6) y E en R13 (9.4).**
+
+1. **R14-C-1** — Etiquetado obligatorio de cuatro niveles ([DO] / [PI] / [EC] / [EI]) con aritmética expuesta en toda estimación calibrada. Declaración explícita de límites de mandato.
+2. **R14-C-2 (núcleo de la ronda)** — **Replicabilidad del modelo chino con casos y resultados medidos.** Se exige tratamiento de al menos cuatro casos de intento de emulación con: qué componente se adoptó, en qué año, con qué resultado medible a 5-10 años. Candidatos: Vietnam (*Đổi Mới* y el modelo de partido único con reforma de mercado), Etiopía (Estado desarrollista y su desenlace tras 2018), Ruanda, Kazajistán, Arabia Saudí (Vision 2030), Singapur como precedente inverso.
+3. **R14-C-3** — **Distinción explícita entre el modelo completo y sus componentes separables**: política industrial dirigida; gobernanza digital y capacidad de vigilancia; financiación de infraestructura al estilo BRI; sistema de promoción de cuadros por desempeño; capitalismo de Estado con SOEs. ¿Cuáles son separables y cuáles requieren el paquete institucional completo?
+4. **R14-C-4** — **Condiciones de posibilidad histórica del caso chino y su transferibilidad:** escala poblacional y de mercado interno; herencia de capacidad estatal; base de capital humano previa a 1978; ventana de inserción en la globalización (1978-2015) y si esa ventana sigue abierta para emuladores en 2026-2040. Literatura de referencia esperada: Evans (*Embedded Autonomy*), Amsden, Wade, Kohli, Ang (*How China Escaped the Poverty Trap*).
+5. **R14-C-5** — **Vinculación de la exportabilidad con el Predicado 2.** Bajo la definición vinculante, "competir exitosamente" no exige que terceros adopten el modelo. C debe pronunciarse técnicamente sobre si la exportabilidad es condición necesaria de la competitividad sistémica o una dimensión separable — **sin adjudicar el predicado, que es función exclusiva del árbitro.**
+6. **R14-C-6** — **Distribución de probabilidad datada 2026-2040** sobre número de países que adoptan componentes sustanciales del modelo chino, con escenarios mutuamente excluyentes, verificación aritmética de suma a 100%, e indicadores de alerta temprana bidireccionales, al estándar de F en R12 y E en R13.
+7. **R14-C-7** — **Al menos un cuerpo de evidencia inédito** en catorce rondas, con implicación bidireccional declarada.
+8. **R14-C-8** — **Revisión de las intervenciones de C en R1 y R2**: qué afirmaciones de C se han visto confirmadas, matizadas o refutadas por trece rondas de evidencia posterior. **La autocorrección de un especialista tiene alto valor probatorio y se puntuará como tal.**
+9. **R14-C-9** — C **no** se pronuncia sobre la definición vinculante, ni sobre la resolución de la ambigüedad temporal de la Sección 8, ni sobre el estado de los predicados, ni declara ganador de la ronda.
+
+---
+
+### 10. Nota del Árbitro
+
+La Ronda 13 será recordada en el registro de este debate por una razón que conviene formular con cuidado, porque se presta a la lectura equivocada.
+
+Lo ocurrido no es que B haya cometido un error. B rehízo una aritmética que le había sido señalada, obtuvo un resultado contrario a su posición, y lo declaró en el texto con la frase "Retiro mi conclusión de R12". Después retiró dos argumentos más —el de la no replicación del Ash Center, con la observación epistémicamente correcta de que usar la ausencia de datos como dato positivo viola el estándar del debate, y el de la prima de riesgo— y aceptó la corrección de F sobre la tasa NEET actualizando su propia aritmética al alza en su contra. Cuatro movimientos autocorrectivos en una sola intervención, todos verificables en el texto. En trece rondas, ninguna otra intervención de ninguna posición ha alcanzado ese estándar.
+
+Que ese comportamiento le haya costado el resultado del Predicado 2 es una consecuencia de la lógica, no una sanción del árbitro. Este árbitro ha querido dejar constancia expresa de la distinción asignando a B el puntaje individual más alto de todo el debate en reconocimiento honesto de debilidades, y ha rechazado explícitamente la tentación de resolver el problema por vía de una interpretación forzada de la definición vinculante que rescatara a B de su propia honestidad. Un árbitro que reescribe las reglas cuando el resultado le incomoda destruye el valor de las reglas para todas las rondas anteriores.
+
+Simétricamente, conviene señalar lo que A hizo y lo que no hizo. A pudo limitarse a proclamar la concesión. En cambio la verificó con supuestos más adversos que los de B, lo que transforma una ventaja procesal en un hecho establecido. Y, habiendo ganado el Predicado 2, A calibró su probabilidad sobre el criterio (a) en 40-55% en lugar de reclamar también ese terreno. Esa contención es lo que distingue una intervención que gana una ronda de una que gana un debate, y este árbitro la ha premiado.
+
+Queda una advertencia sobre la ronda que viene. La declaración de la Sección 7 no resuelve la moción; resuelve una de sus dos condiciones. El debate se decide ahora enteramente sobre el Predicado 1, donde B conserva su argumento más fuerte —la asimetría de válvulas institucionales, que A no ha respondido satisfactoriamente en tres intentos— y donde A ha logrado en R13 neutralizar parcialmente el canal fiscal, que era la vía de falsación más probable. Ese es el terreno real de R14 y R15, y ambas posiciones harían bien en litigarlo como tal en lugar de continuar la batalla ya decidida.
+
+Una observación final sobre el aporte de los especialistas. E documentó en R13 una ambigüedad en una definición que este árbitro adoptó en R11 y que ninguna de las dos partes advirtió durante dos rondas. La Sección 8 existe porque un especialista leyó la definición del árbitro con más atención que el árbitro. Ese es el resultado que justifica la arquitectura de este debate, y se registra en acta.
+
+**Nota de revisión humana:** este debate versa sobre materia económica, geopolítica, tecnológica, demográfica, fiscal y regulatoria de alto impacto. La declaración de Predicado 2 satisfecho (Sección 7), la resolución vinculante sobre la ambigüedad temporal del criterio (a) (Sección 8), las series de PTF y sus correcciones metodológicas, y el veredicto final de R15 **requieren revisión humana independiente antes de ser utilizados como base de cualquier decisión.**
+
+**Nota de alcance:** evaluación parcial de Ronda 13, no veredicto. El árbitro no declara ganador del debate en este punto.
+
+---
+
+*Fin de la evaluación del Árbitro G — Ronda 13*
