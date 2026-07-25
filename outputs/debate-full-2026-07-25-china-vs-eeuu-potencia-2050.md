@@ -3067,3 +3067,155 @@ Lo que no concedo es que la tesis sea inválida o irrelevante como marco de aná
 - DoD China Military Power Report 2024: ~600 ojivas operativas, proyección ~1,000 para 2030.
 - G — barras de error del panel: ±1.0 punto por dimensión.
 - Sin evidencia web nueva en esta intervención; toda evidencia tomada del registro del debate o bases de datos institucionales ya citadas.
+
+## Intervención del Oponente — Ronda 10 (Cierre)
+
+---
+
+### Respuesta directa al argumento anterior
+
+El Proponente ha hecho algo que merece reconocimiento sin reservas: aceptó la penalización más grave del debate, corrigió su aritmética en público y presentó una tabla honesta que arroja China 46.9% / EE.UU. 53.1%. Esa es la forma correcta de cerrar un debate adversarial. Su revisión a la baja hasta el 28% de probabilidad de la moción es el ajuste más importante de las diez rondas, porque proviene del propio proponente.
+
+Sin embargo, A introduce en R10 dos movimientos que debo refutar con precisión: (1) ajustes al alza en Tecnología (China de 6.2 a 7.0) y Militar (China de 6.3 a 7.0) que carecen de base suficiente y que contradicen la autoridad del panel que A invocó para las otras siete dimensiones; y (2) un argumento meta-IPNI de último momento —"EE.UU. puede ganar el IPNI pero perder el orden"— que constituye un cambio de las reglas del juego establecidas en el enmarcado. Ambos merecen respuesta directa y estructurada.
+
+---
+
+### Respuesta a los ajustes de A en Tecnología y Militar
+
+**Sobre Tecnología (Dim. 3): rechazo el ajuste China 6.2 → 7.0 y EE.UU. 8.4 → 8.0.**
+
+El Especialista D desglosó siete subcomponentes de la dimensión con justificación técnica explícita. China ganó claramente la capa de difusión industrial (8.5 vs. 6.5), que es el componente más favorable al Proponente. Pero la definición operacional vinculante del IPNI —acordada en el enmarcado— dice textualmente: *"frontera tecnológica efectiva: cómputo, IA, litografía, nodos avanzados, biotecnología"*. Cuatro de esos cinco criterios nominados favorecen a EE.UU. en 2050 bajo cualquier escenario que no contemple la ruptura del monopolio litográfico.
+
+A justifica el ajuste en tres razones. Las evalúo una por una:
+
+*(a) La difusión industrial de IA genera retroalimentación en capacidades de frontera.* Este argumento es especulativo sobre un mecanismo no cuantificado. El propio D señaló en R9 que la difusión industrial no compensa la brecha en eficiencia energética por operación, que escala con el nodo del transistor, no con el volumen de despliegue. A no respondió esa objeción en ninguna ronda posterior a R3 — el Especialista D lo registró como evasión acumulada.
+
+*(b) Chiplets y empaquetado avanzado permiten paridad de rendimiento por rack.* D lo reconoció explícitamente como el argumento técnicamente más sólido de A. Pero también señaló que no compensa en eficiencia energética por operación, que es la variable limitante cuando la IA de 2050 requiere entrenar modelos con billones de parámetros o ejecutar sistemas de armas autónomos. Paridad de rendimiento por rack a 2-3x el costo energético no es paridad de frontera.
+
+*(c) El monopolio ASML tiene probabilidad no despreciable de erosionarse.* Correcto, y D lo señaló como "la mayor incógnita individual del expediente". Pero la incertidumbre es bidireccional: si el monopolio persiste —que D considera el escenario central—, la puntuación de D es 6.2 para China, no 7.0. A eleva la puntuación de China basándose en la probabilidad de un escenario de ruptura sin asignarle probabilidad explícita. Eso es exactamente el error metodológico por el que fue penalizado tres veces en R9.
+
+**Mantengo las puntuaciones del Especialista D: China 6.2 / EE.UU. 8.4.**
+
+**Sobre Militar (Dim. 4): rechazo el ajuste China 6.3 → 7.0 y EE.UU. 7.8 → 7.5.**
+
+A invoca tres razones: velocidad de construcción naval, crecimiento nuclear hacia 1,000-2,000 ojivas, y replicabilidad del A2/AD. El Especialista E ya incorporó estos factores en su puntuación de R9 — la tabla desglosada de E muestra China 8.5 en "base industrial/reposición" y 7.0 en "capacidad nuclear". No son factores ignorados; son factores ya ponderados dentro de la puntuación agregada de 6.3.
+
+Lo que E también incorporó —y A omite al ajustar— es que la dimensión operacional del IPNI mide "proyección **global** de fuerza". En proyección global sostenida, E asignó China 4.5 vs. EE.UU. 9.0. En "aliados ponderados por fiabilidad", China 3.5 vs. EE.UU. 8.0. En "validación en combate", China 3.0 vs. EE.UU. 8.0. Un ajuste al alza de China que ignora esos subcomponentes y solo extrae los favorables es selectividad analítica, no revisión honesta del panel.
+
+**Mantengo las puntuaciones del Especialista E: China 6.3 / EE.UU. 7.8.**
+
+---
+
+### Tabla IPNI completa — Posición del Oponente
+
+Presento mi tabla IPNI de cierre definitiva. Para todas las dimensiones puntuadas por el panel de especialistas (C, D, E, F, G en rondas 5-9), acepto sus puntuaciones sin modificación. Para las dos dimensiones sin puntuación cerrada del panel (1 y 2), mantengo mis puntuaciones de R9 con justificaciones.
+
+| # | Dimensión | Peso | China (0-10) | EE.UU. (0-10) | Contrib. China | Contrib. EE.UU. | Fuente |
+|---|---|---:|---:|---:|---:|---:|---|
+| 1 | Economía nominal | 12.5% | 6.5 | 5.5 | 0.8125 | 0.6875 | Oponente R9/R10 — ver nota 1 |
+| 2 | PPP / Productividad | 12.5% | 5.5 | 7.0 | 0.6875 | 0.8750 | Oponente R9/R10 — ver nota 2 |
+| 3 | Tecnología / IA / Semi | 20% | 6.2 | 8.4 | 1.2400 | 1.6800 | Especialista D, R9 (sin ajuste) |
+| 4 | Poder militar | 15% | 6.3 | 7.8 | 0.9450 | 1.1700 | Especialista E, R9 (sin ajuste) |
+| 5 | Moneda / Finanzas | 10% | 3.75 | 8.65 | 0.3750 | 0.8650 | Especialista C, R5 |
+| 6 | Demografía | 10% | 4.7 | 7.3 | 0.4700 | 0.7300 | Especialista F, R6 |
+| 7 | Instituciones | 10% | 6.28 | 5.68 | 0.6280 | 0.5680 | Especialista F, R7 |
+| 8 | Alianzas / Soft power | 5% | 5.6 | 5.4 | 0.2800 | 0.2700 | Especialistas E+G, R8 |
+| 9 | Energía / Recursos | 5% | 7.0 | 4.5 | 0.3500 | 0.2250 | Especialistas E+G, R8 |
+| | **TOTAL** | **100%** | | | **5.788** | **7.070** | |
+| | **Normalizado** | | | | **45.0%** | **55.0%** | |
+
+**Resultado de cierre: EE.UU. 7.070 — China 5.788. Ventaja EE.UU. de 1.282 puntos (10 puntos porcentuales).**
+
+**Notas de justificación para las dos dimensiones no cerradas por el panel:**
+
+**Nota 1 — Economía nominal (12.5%) — China 6.5 / EE.UU. 5.5:** Concedo a A una ventaja china moderada. El cruce nominal en el rango 2035-2040 es probable bajo escenarios de crecimiento chino de 3.5-4%, y el Especialista C lo reconoció como el escenario central en R2. Sin embargo, el Especialista C también documentó que la brecha se amplió entre 2021 y 2025 (China pasó de ~76% al ~64-65% del PIB americano) y que con crecimiento de 2.5% el cruce no ocurre. La puntuación China 6.5 / EE.UU. 5.5 refleja el escenario más favorable a China que el expediente sostiene: cruce nominal antes de 2040 con ventaja moderada para 2050. Si el crecimiento chino cae hacia 2.5-3% —enteramente plausible dada la deflación en curso, la crisis inmobiliaria y la contracción demográfica— esta puntuación converge a empate técnico, favoreciendo adicionalmente a EE.UU.
+
+**Nota 2 — PPP/Productividad (12.5%) — China 5.5 / EE.UU. 7.0:** Esta dimensión tiene tres componentes: escala PPP total (China lidera y ese liderazgo crece), productividad total de factores (EE.UU. lidera ~2x según Penn World Tables, documentado en el expediente), y PBI per cápita (EE.UU. lidera ~5x en 2026, proyectado a ~4x en 2050). El promedio compuesto de los tres —que es lo que el IPNI mide— favorece materialmente a EE.UU. Coincido aquí con A, quien en su propia tabla aceptó China 6.5 / EE.UU. 7.5 en esta dimensión. Mi puntuación (China 5.5) es incluso más conservadora por el siguiente motivo: la robotización china reduce el multiplicador de productividad relativa, pero no lo invierte, porque EE.UU. tiene la misma capacidad de adoptar automatización con mayor capital por trabajador y mayor educación terciaria per cápita.
+
+---
+
+### Aritmética del IPNI
+
+Con las puntuaciones del panel donde existían (siete de nueve dimensiones) y las mías justificadas para las dos dimensiones económicas restantes, la aritmética de cierre es:
+
+**EE.UU. 7.070 — China 5.788 → EE.UU. 55.0% — China 45.0%.**
+
+Esta cifra es más favorable a EE.UU. que la propia tabla de A (que concedió EE.UU. 53.1% / China 46.9%), pero también más favorable a China que mi tabla provisional de R9 (EE.UU. 6.92 / China 5.60), porque incorporo los ajustes del panel en Tecnología y Militar que no estaban cerrados en R9.
+
+La diferencia entre mi tabla y la de A es de dos puntos: mis ajustes no aceptados en Tecnología (China 6.2 vs. 7.0) y Militar (China 6.3 vs. 7.0), y una puntuación levemente más baja para China en PPP/Productividad (5.5 vs. 6.5). En todos los casos, argumento que las puntuaciones del panel son metodológicamente superiores a los ajustes subjetivos de A, precisamente porque A aceptó la autoridad del panel para las otras siete dimensiones y no tiene base para descartar selectivamente las dos que más le perjudican.
+
+El punto central de la aritmética es robusto frente a barras de error razonables. Incluso con el error de ±1.0 punto por dimensión que el Especialista G señaló, la magnitud de la ventaja americana en las tres dimensiones más pesadas —Tecnología (20%), Militar (15%) y Moneda/Finanzas (10%)— crea un piso estructural difícil de erosionar. Un movimiento de +1.0 en China en Tecnología (de 6.2 a 7.2) cambiaría el agregado en 0.20 puntos. No alcanza para invertir la diferencia de 1.282 puntos.
+
+---
+
+### Rebate al argumento meta-IPNI de A
+
+El argumento final de A merece atención porque es su más sofisticado —y también el más problemático formalmente. A afirma: "EE.UU. puede ganar el IPNI en 2050 y aun así encontrarse gobernando un orden que ya no controla."
+
+Este argumento tiene dos componentes que debo separar.
+
+**El componente descriptivo es correcto y no lo dispute.** Un IPNI de EE.UU. 55% / China 45% en 2050 no equivale a hegemonía americana sin fricción. China al 45% del índice es una potencia de alcance global, la mayor economía nominal o segunda economía del mundo, con la mayor base industrial de la historia. El multipolarismo está aquí y quedará. Nada en mi posición niega esto.
+
+**El componente argumentativo es, sin embargo, un cambio de las reglas del juego que el propio enmarcado cierra explícitamente.** El Árbitro H estableció en la apertura formal —con carácter vinculante— que "primera potencia mundial en 2050" significa "obtener el puntaje agregado más alto en el IPNI en el año 2050". Y añadió: "No se debate si China será poderosa, más poderosa que hoy o una gran potencia — eso es compatible con ambas posiciones y no resuelve la moción."
+
+A en R10 está argumentando exactamente lo que el enmarcado declaró fuera de los límites del debate: que una victoria en el IPNI puede ser compatible con una pérdida en la "primera potencia" en sentido sustantivo. Eso es, en las palabras del Árbitro, "reduccionismo" inverso — sugerir que el IPNI es insuficiente para determinar la moción cuando el IPNI fue el instrumento vinculante acordado por ambas partes antes de la Ronda 1.
+
+Si A quisiera debatir "quién controla el orden normativo en 2050" como tesis independiente del IPNI, debería haberlo propuesto en el enmarcado o haberlo señalado como crítica al marco en las primeras rondas. Introducirlo en el cierre, cuando la aritmética del IPNI no le favorece, es un desplazamiento de tesis en el último momento — precisamente la Penalización 6 del reglamento: "cambio de tesis a mitad de debate".
+
+Más aún: el argumento de A es parasitario de su propia derrota. Requiere primero aceptar que EE.UU. gana el IPNI —lo que A ha concedido explícitamente— para luego argumentar que esa victoria no es la victoria correcta. Si el IPNI era un instrumento insuficiente para medir el poder real, A tenía la obligación de atacar el marco desde R1, no de aceptarlo durante nueve rondas y cuestionarlo en la décima cuando su tabla arroja 46.9%.
+
+---
+
+### Argumento de cierre
+
+El debate ha producido un resultado analíticamente robusto y honesto: EE.UU. mantiene la primacía medida por el IPNI en 2050 bajo el escenario central, con China en el rango del 45-47% del índice según las tablas más favorables al Proponente. No es una victoria holgada. Es una primacía en un sistema internacional genuinamente bipolar, donde la segunda potencia tiene escala suficiente para disputar la agenda global en múltiples dominios. Pero es primacía.
+
+El mecanismo central que sostiene esa primacía no es la inercia ni el determinismo: es la compounding de ventajas en la única dimensión donde el IPNI concentró el 20% del peso —Tecnología, IA y semiconductores—, combinada con la irreplicabilidad verificada del ecosistema americano en un horizonte de 24 años. La inversión privada americana en IA de $285.9 mil millones en 2025 versus $12.4 mil millones de China no es una cifra de un año; es el reflejo de 30 años de acumulación de conocimiento tácito en TSMC, Synopsys, Cadence, CUDA, ARM y los modelos fundacionales. Cuando DeepSeek R2 intentó entrenarse en hardware Huawei y revirtió a Nvidia por inestabilidad —hecho documentado en el expediente— no fue una anécdota técnica. Fue la demostración empírica de que la autonomía de la pila china en el segmento más exigente no está cerrada seis años antes del horizonte del debate.
+
+La segunda palanca de la primacía americana es su estructura financiera y de reservas. La puntuación del Especialista C —China 3.75 / EE.UU. 8.65— refleja una asimetría estructural que A mismo reconoció como el talón de Aquiles más serio de su posición: sin apertura de la cuenta de capital china, el yuan no supera el 8% de reservas globales, y sin esa apertura, la dimensión financiera permanece como el ancla más pesada contra cualquier camino chino al 50% del IPNI. El mecanismo de la trampa: para internacionalizar el yuan, China necesita abrir la cuenta de capital; para abrir la cuenta de capital sin desencadenar una fuga de capitales masiva, necesita una institucionalidad independiente y transparente que el partido único no puede proveer sin disolver los cimientos del propio sistema. No es una restricción contingente; es estructural.
+
+La tercera palanca —la que A atacó con más efectividad a lo largo del debate— es el sistema de alianzas. Aquí debo ser preciso: A tiene razón en que las alianzas no son un activo fijo. Son un activo que requiere mantenimiento político continuo y que en una crisis de alta tensión depende de decisiones simultáneas de múltiples capitales democráticas. Ese asincronismo es una vulnerabilidad real. Pero hay un hecho del expediente que A no pudo refutar: Japón legisló el objetivo del 2% del PIB en defensa y lo está ejecutando; Australia comprometió $368 mil millones AUD en AUKUS; Corea del Sur se integró en los controles de semiconductores Wassenaar. En todos los casos, el estímulo fue la amenaza china, no la americana. Las alianzas se aceleran precisamente porque China existe y crece. El argumento de que las alianzas se erosionarán a medida que China crezca contradice la evidencia observable de que se refuerzan por esa misma razón.
+
+Finalmente: el resultado de este debate no es una certeza sino una distribución de probabilidades. El escenario central es primacía americana con 70-75% de probabilidad. El escenario alternativo —China al 50%+ del IPNI— requiere al menos dos condiciones simultáneas que el expediente muestra como posibles pero no probables por defecto: ruptura del monopolio ASML antes de 2033 y/o crisis fiscal americana que interrumpa el flujo de inversión tecnológica antes de 2038. Ambas son posibles en un horizonte de 25 años. El 28% que A asignó a la moción está bien calibrado, y lo acepto como la estimación más honesta de su posición al cierre de diez rondas de evidencia acumulada.
+
+---
+
+### Concesiones y debilidades reconocidas
+
+**Primera debilidad real — La demografía no es argumento, es aritmética.** La contracción poblacional china, documentada en el expediente, crea una presión estructural sobre el crecimiento. Pero EE.UU. tiene su propio problema demográfico: una tasa de fecundidad por debajo del nivel de reemplazo compensada por inmigración, que es a su vez la variable política más volátil e impredecible del sistema americano. El Especialista F asignó a EE.UU. 7.3 en demografía, pero esa puntuación supone que el sistema de inmigración americano mantiene su capacidad de atracción y absorción durante 25 años de probable polarización política creciente. Si la inmigración de talento STEM se reduce materialmente —por políticas restrictivas o por la mejora del atractivo relativo de otros mercados— la ventaja americana en la dimensión de talento se comprime. Lo concedo sin reservas.
+
+**Segunda debilidad real — El déficit fiscal es una restricción de segunda vuelta que no puedo descartar.** El CBO proyecta pagos de intereses superando $880 mil millones anuales. Yo argumenté en R9 que es una restricción de asignación reversible, no de capacidad material —y lo mantengo como argumento central. Pero la historia de las potencias hegemónicas muestra que las restricciones fiscales sostenidas durante dos décadas eventualmente comprimen la inversión discrecional en I+D, defensa y diplomacia. El privilegio exorbitante del dólar ha permitido a EE.UU. financiarse barato durante 70 años; no hay garantía estructural de que lo haga durante 25 años más. A introdujo este argumento honestamente en R9. El Especialista G lo evaluó como el "cuantitativamente mejor sostenido" de la ronda y simultáneamente como insuficiente para datar un punto de quiebre. Acepto ambas evaluaciones: el riesgo es real y no falsado; el mecanismo de transmisión al colapso hegemónico permanece sin especificar en el expediente.
+
+---
+
+### Probabilidad final de la moción
+
+Con base en la tabla IPNI de cierre, la aritmética acumulada del panel técnico y los argumentos de nueve rondas:
+
+**Probabilidad de que la moción sea correcta (China supera a EE.UU. en el IPNI en 2050): 25%.**
+
+Esta estimación converge con la revisión de A (28%) y es, en ambos casos, sustancialmente inferior a las estimaciones de apertura (A: 62%, B: 35%). La convergencia no es coincidencia: es el resultado de diez rondas de evidencia adversarial que han acotado la distribución de probabilidades.
+
+El 25% refleja la probabilidad de un conjunto de condiciones que el expediente muestra como posibles pero no probables: ruptura del monopolio litográfico ASML antes de 2033, crisis fiscal americana que interrumpa la inversión tecnológica, y mantenimiento del crecimiento chino por encima del 3.5% promedio hasta 2045 a pesar de la contracción demográfica. Ninguna de esas condiciones es imposible. Ninguna es el escenario central.
+
+**Probabilidad de que la moción falle (EE.UU. mantiene la primacía en el IPNI en 2050): 75%.**
+
+Este es el escenario central sostenido por las puntuaciones del panel técnico en las cinco dimensiones que suman el 65% del índice, más mi propia tabla para las dos dimensiones económicas. Es una primacía sin triunfalismo — en un mundo donde China habrá pasado del ~35% del IPNI en 2000 al 45% en 2050, lo que representa la mayor reconfiguración del poder nacional en el siglo XXI. Pero primacía al fin.
+
+La moción no se cumple. La trayectoria de China es real. Son cosas distintas.
+
+---
+
+### Evidencia usada
+
+- Puntuaciones del panel: Especialista C (R5), F (R6, R7), E+G (R8), D (R9), E (R9) — tomadas sin modificación de las dimensiones 3-9 del registro verbatim.
+- Penn World Tables / Conference Board: brecha de PTF China/EE.UU. ~2x; brecha de PIB per cápita ~5x en 2026.
+- IMF COFER Q1 2026: yuan en 2.85% de reservas globales.
+- Stanford AI Index 2026: inversión privada EE.UU. en IA $285.9B vs. China $12.4B (23x).
+- TechTimes julio 2026: TSMC Arizona $265B comprometidos, yield 92% en 4nm.
+- CFR 2026: ventaja manufactura chips avanzados EE.UU. 35-38x.
+- Epoch AI: DeepSeek R1 entrenado en 2,078 GPUs H800 americanas.
+- CBO Budget and Economic Outlook 2024-2025: intereses deuda federal >$880B anuales.
+- DoD China Military Power Report 2024: ~600 ojivas operativas, proyección ~1,000 para 2030.
+- Enmarcado del Árbitro H — definición vinculante: "primera potencia = IPNI agregado más alto".
+- Sin evidencia web nueva en esta intervención: toda evidencia tomada del registro acumulado del debate.
