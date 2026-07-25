@@ -2485,3 +2485,124 @@ El reto concreto: A debe identificar un mecanismo institucional en el sistema po
 - Wade, R. (1990). *Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization*. Princeton University Press.
 - World Bank. (2020). *China's Productivity Slowdown and Future Growth Potential*. [https://documents.worldbank.org/en/publication/documents-reports/documentdetail/350771607670595559](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/350771607670595559)
 
+
+### Agente G (Árbitro) — Evaluación Ronda 6
+
+#### Resumen de intervenciones
+
+**A** respondió sin evadir el reto de R5 sobre 2nm/1nm: concedió explícitamente que el camino convencional está bloqueado y que China no tiene trayectoria verificable en sub-2nm hacia 2035-2040, y reformuló la vía china en tres eslabones (DUV multi-patterning como puente, Gran Fondo III enfocado en equipamiento y materiales, conocimiento tácito por vías no occidentales). Su argumento principal desplazó el eje de "Estado vs. mercado" a "qué hace el Estado y qué deja al mercado", apoyado en el precedente desarrollista (Japón, Corea, Taiwán), la distinción Amsden/Mazzucato entre *picking winners* y *creating markets*, el origen estatal de TSMC, y el dato PIIE de recuperación del sector privado al 40% del top-100. Respondió el Eslabón 4 de B con la tesis del mercado doméstico como fuente autónoma de retroalimentación (BYD, Huawei). Concedió tres supresiones de eficiencia documentadas. Retó a B con la simetría IRA/CHIPS/European Chips Act/Japón.
+
+**B** respondió el reto de frente y concedió sin reservas que la política industrial es herramienta legítima, aceptando el desplazamiento del debate hacia la calidad de ejecución. Su mecanismo diferencial es la corrección de errores: Solyndra como fracaso con rendición de cuentas, cláusulas de auditoría de CHIPS, créditos fiscales de la IRA filtrados por el mercado, frente al patrón de los Grandes Fondos I-II-III y la eliminación de la retroalimentación descentralizada post-2013. Cerró cinco deudas de datos. Distinguió ciclo de escala (funciona en China) de ciclo de frontera (bloqueado), reformuló el Eslabón 3 en clave económica y no política, concedió tres puntos a A, y cerró con un reto operacionalizado: un caso post-2013 de reversión de política estratégica con salida real de activos.
+
+**C** desplazó el eje analítico de la salida a la disciplina continua (el *reciprocal control mechanism* de Amsden), documentó corrección de errores en Japón (carteles de recesión, Uriu 1996), Corea (Daewoo 1999, salida forzada por crisis externa) y Taiwán (spin-offs del ITRI, salida por diseño), y planteó a ambos el problema de la autonomía embebida de Evans post-2013.
+
+#### Evaluación de Agente A — Ronda 6
+
+**Puntuación: 8.4/10**
+
+- Fortalezas:
+  - Respuesta frontal al reto de R5 sin redefinición: concede explícitamente el sub-2nm hacia 2035-2040. Es el movimiento más honesto que A ha hecho en el debate y el propio B lo reconoce.
+  - Respondió por fin el Eslabón 4 pendiente, con una distinción sustantiva (fuente del margen vs. existencia del ciclo) y dos casos concretos.
+  - Reencuadre teórico de alta calidad y pertinente al tema de R6: Amsden/Mazzucato, TSMC como empresa de origen estatal. El golpe a la atribución del éxito de TSMC al mercado libre es efectivo y B lo concede.
+  - Reto a B excelentemente construido: la simetría IRA/CHIPS/EU/Japón fuerza a B a un dilema real, no retórico.
+  - Concesión de tres dimensiones de supresión de eficiencia, incluyendo el dato del 31%→54% de SOEs que le es adverso.
+  - Autocorrección voluntaria: retira la cifra "70+" de la Ruta de la Seda Digital.
+  - Volvió al eje de la tesis, cumpliendo la nota de foco de R5.
+
+- Debilidades:
+  - Datos nuevos sin fuente verificable: BYD 1,76M VE en 2023; Huawei 862.000M yuanes en 2024 con 24% reinvertido en I+D; 150.000 km de ferrocarril de alta velocidad; clase media 400-500 millones atribuida al Banco Mundial; PTF de SOEs 15-25% inferior (Banco Mundial 2020, sin enlace).
+  - Las cifras del propio reto a B (369.000M IRA, 52.000M CHIPS, 43.000M EU, 10 billones de yenes) van sin cita, pese a ser el núcleo del reto.
+  - El Gran Fondo III se documenta como "Registros públicos Ministerio de Finanzas y SASAC" y TSMC como "dato histórico establecido": atribuciones genéricas, no fuentes verificables.
+  - El Eslabón 3 (conocimiento tácito por vía no occidental) va enteramente sin fuente: acuerdos con universidades europeas, contratación vía terceros países y parque DUV instalado se afirman sin un solo respaldo.
+  - Fuentes de calidad desigual en el Eslabón 1: Enki AI y China Crunch sostienen las afirmaciones más prospectivas.
+  - H800 como ventana regulatoria cerrada: tercera ronda sin respuesta. Hueco 2026-2032: sin mención pese a ser pertinente al tema de R6.
+
+- Respuesta al reto de B (identificar caso de reversión política industrial post-2013): **No aplica en R6.** El reto fue emitido por B al final de su intervención de R6, posterior a la de A en el orden secuencial. No se penaliza; queda vinculante para R7. Nota: el caso Daewoo documentado por C demuestra que el reto es satisfacible en principio, lo que eleva el costo de no responderlo.
+
+- Estado de datos pendientes:
+  - Cerrados: China Standards 2035 (documentado); cifra de la Ruta de la Seda Digital (retirada formalmente); caso japonés (parcialmente atendido vía marco desarrollista).
+  - Abiertos: H800 / ventana regulatoria cerrada (tercera ronda); hueco 2026-2032; composición de fuentes de financiamiento; Efecto Bruselas (reto de E, sin respuesta); No-Alineamiento tecnológico activo (reto de E).
+  - Nuevos abiertos en R6: BYD 2023, Huawei 2024 e I+D, red ferroviaria, clase media Banco Mundial, PTF de SOEs, cifras IRA/CHIPS/EU/Japón, Gran Fondo III con fuente verificable, todo el Eslabón 3.
+
+#### Evaluación de Agente B — Ronda 6
+
+**Puntuación: 8.7/10**
+
+- Fortalezas:
+  - Respondió el dilema de A eligiendo explícitamente la segunda rama y concediendo la legitimidad de la política industrial: convierte la concesión en el eje de su argumento (mecanismo diferencial de corrección de errores). Es la mejor jugada táctica de la ronda.
+  - Cerró cinco deudas de datos, cuatro con fuentes verificables y enlazadas, tras cuatro rondas de acumulación.
+  - Dos autocorrecciones que le perjudican: retira la cifra de clase media del 80% y retira Tokyo Electron de la lista de proveedores de CATL reconociendo un error de categoría.
+  - Corrigió la dirección lógica de su propia afirmación sobre materiales críticos.
+  - La distinción ciclo de escala vs. ciclo de frontera es analíticamente limpia y desactiva el contraataque de A sin negar sus datos.
+  - Reformuló el Eslabón 3 tras la acotación de E, debilitando la premisa política y sosteniendo la económica.
+  - Tres concesiones sustantivas a A, incluyendo el punto de TSMC.
+  - El reto final está operacionalizado con criterios de falsación explícitos y una cláusula anti-evasión.
+
+- Debilidades:
+  - El caso Solyndra funciona como evidencia de rendición de cuentas, pero B no aborda el contraejemplo de los rescates bancarios de 2008 o el rescate automotriz, donde las democracias también preservaron activos sin salida real.
+  - "El Fondo II tiene investigaciones activas" y el arresto de Ding Wenwu en 2023 se afirman sin fuente, siendo pilares del argumento del Gran Fondo.
+  - La cifra de 1,5 billones de dólares de capitalización destruida en 2021 va sin cita.
+  - La atribución de "IA militar, armas autónomas e infraestructura de control" como dependientes de nodos de frontera es una afirmación técnica decisiva presentada sin evidencia.
+  - La Deuda 3 se cierra con fuentes heterogéneas: PNAS es sólida, pero el preprint de arXiv no es revisado por pares como B afirma; y ninguna fuente es específica al caso chino.
+
+- Cierre de deudas de datos (R3-R5):
+  - **Deuda 1 (materiales críticos 70-80%): cerrada con calidad alta.** IEA y Statista, con corrección explícita de formulación.
+  - **Deuda 2 (patentes triádicas OCDE): cerrada con calidad alta.** OECD Data más ChinaPower/CSIS.
+  - **Deuda 3 (rendimientos decrecientes): cerrada con calidad media.** PNAS adecuada; preprint arXiv no revisado por pares, ambas no específicas al caso chino.
+  - **Deuda 4 (clase media): cerrada por retiro formal, calidad alta.**
+  - **Deuda 5 (proveedores CATL): cerrada con calidad alta.** Dürr y Manz documentados; Tokyo Electron retirado.
+  - **Eslabón 3: reformulado, no abandonado**, cumpliendo la instrucción de R5.
+  - Siguen abiertas: caso documentado de bloqueo de estándares chinos por TLC con la UE; Efecto Bruselas; No-Alineamiento tecnológico. Nuevas: arresto Ding Wenwu, investigaciones Fondo II, 1,5 billones de capitalización, dependencia militar de nodos de frontera.
+  - **Balance:** B cerró 5 de 5 deudas prioritarias y añadió 4 nuevas afirmaciones sin documentar. La advertencia formal queda levantada; las nuevas afirmaciones quedan registradas.
+
+- Calidad del reto a A: **Muy alta.** Específico, temporalmente acotado, operacionalizado en tres condiciones verificables y blindado contra la respuesta fácil. C lo valida como bien formulado.
+
+#### Aporte de Agente C (Economía Política Comparada)
+
+Aporte de alto valor y el más rigurosamente sustentado de la ronda en términos de literatura primaria (Amsden, Evans, Johnson, Mazzucato, Uriu, Wade).
+
+**Disciplina vs. salida.** La contribución central y genuinamente original: C muestra que ambos debatientes estaban discutiendo el mecanismo equivocado. El *reciprocal control mechanism* de Amsden —subsidio condicionado a desempeño exportador verificable, con el mercado externo como árbitro independiente— es un criterio previo y más determinante que la salida de activos. C muestra que A invocó a Amsden y Mazzucato omitiendo precisamente la condición de disciplina y evaluación que ambas autoras exigen; la observación de que Mazzucato critica explícitamente la política industrial sin evaluación es un contrapunto directo al uso que A hizo de ella.
+
+**Casos Japón/Corea/Taiwán.** C corrige a B también: documenta que los tres casos sí desarrollaron corrección de errores —Japón tardía y sectorial (Uriu, 1996), Corea vía Daewoo 1999 bajo presión del FMI, Taiwán por diseño institucional vía spin-offs del ITRI. La conclusión —que China no exhibe ninguno de los tres patrones— es el hallazgo comparado más fuerte de la ronda y refuerza a B por una vía distinta a la que B había argumentado.
+
+**Autonomía embebida de Evans.** El reto más productivo emitido por un especialista hasta ahora. Identifica la tensión entre anticorrupción de Xi (aumenta autonomía formal) y centralización (degrada embeddedness). El resultado es una autonomía sin embebimiento, que en Evans corresponde al Estado predatorio o burocrático-aislado, no al desarrollista. C reparte el reto de forma simétrica y falsable.
+
+**Limitaciones.** La sección de poder explicativo se acerca al límite del rol de especialista; se acepta por estar condicionada a horizonte. El apartado sobre doble velocidad usa India, México y Europa del Este sin fuente específica.
+
+**Valoración: aporte sobresaliente**, el más equilibrado y el que más eleva el nivel analítico del debate en R6.
+
+#### Resultado de Ronda 6
+
+**Ganador de ronda:** B
+**Margen:** Estrecho
+
+**Justificación:** Ambos hicieron su mejor intervención del debate, pero B ganó por tres márgenes acumulativos: cerró las cinco deudas de datos que arrastraba desde R3 con documentación mayoritariamente verificable, resolvió el dilema de A mediante una concesión que reencuadra el debate en su favor, y su distinción entre ciclo de escala y ciclo de frontera neutraliza el contraataque de A sin negar ninguno de sus datos. A produjo el mejor material teórico de la ronda, pero C demostró que su uso de Amsden/Mazzucato omite la condición de disciplina que las propias autoras exigen, y A documentó peor: nueve afirmaciones nuevas sin fuente, más dos atribuciones no verificables y el Eslabón 3 completo sin respaldo.
+
+#### Instrucciones para Ronda 7
+
+**Tema de Ronda 7:** IA y poder computacional — ¿puede China competir en la frontera global de IA sin acceso a chips de última generación?
+
+**Especialista Ronda 7:** Agente D (Tecnología/IA)
+
+**Retos pendientes para R7:**
+
+- **Reto de B a A (prioridad alta):** identificar un caso post-2013 de reversión de política industrial estratégica con salida real de activos —reconocimiento público del error, retiro del apoyo estatal, quiebra sin rescate—, excluyendo casos de corrupción individual. Queda activo como vinculante. Nota: el caso Daewoo documentado por C demuestra que el reto es satisfacible en principio.
+- **Reto de C a ambos (autonomía embebida post-2013):** A debe identificar un mecanismo institucional que preserve la densidad de retroalimentación informativa bajo centralización. B debe distinguir si la ausencia produce colapso sistémico o equilibrio de menor eficiencia sostenible —B ha deslizado entre ambas conclusiones sin diferenciarlas.
+- **Reto derivado de C a A (disciplina continua):** ¿cuál es el mecanismo de disciplina del capital en el modelo chino post-2013 con métricas exigibles? A invocó a Amsden y Mazzucato omitiendo esta condición.
+- **Efecto Bruselas (reto de E desde R5):** segunda ronda consecutiva sin respuesta directa. Se advierte formalmente: si no es recogido por A o B en R7, se computará como evasión para ambos.
+- **Pendientes antiguos de A:** H800 como ventana regulatoria cerrada (cuarta ronda sin respuesta, directamente pertinente a R7 — penalización severa); hueco 2026-2032; composición de fuentes de financiamiento.
+- **Pendiente de B:** caso documentado de bloqueo de estándares chinos por cláusulas de TLC con la UE.
+
+**Advertencias:**
+- **Estado de cumplimiento de B: 5 de 5 deudas prioritarias cerradas en R6.** La advertencia formal queda levantada. Cuatro nuevas afirmaciones sin documentar quedan registradas para R7.
+- **Se emite advertencia formal a A:** A incorporó nueve afirmaciones nuevas no documentadas en R6, más dos atribuciones no verificables y el Eslabón 3 completo sin fuente. **A partir de R8, los datos no documentados se descontarán del cómputo final.** A debe documentar en R7 el Eslabón 3 y las cifras de política industrial occidental mínimamente.
+- Citar a un autor obliga a asumir su marco completo: C demostró que A invocó a Amsden y Mazzucato omitiendo sus condiciones de disciplina y evaluación. El uso selectivo de literatura será penalizado.
+- Nota a los especialistas: D debe abstenerse en R7 de formular comparaciones de tipo ganador/perdedor. Los especialistas informan; el árbitro arbitra.
+- Nota de foco: R7 tiene alto riesgo de deriva técnica. Las disputas sobre FLOPs, arquitecturas o benchmarks deben conectarse explícitamente con la sostenibilidad del modelo político-económico.
+
+**Nota de alcance:** esta es una evaluación parcial de ronda, no un veredicto.
+
+---
+
+## Ronda 7 — IA y poder computacional
+
