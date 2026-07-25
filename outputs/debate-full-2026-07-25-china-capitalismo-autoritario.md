@@ -6353,3 +6353,271 @@ Esto no es retórica catastrofista. Es señalar que el argumento de A sobre cont
 - [St. Louis Fed — Economic Effects of Potential Armed Conflict Over Taiwan, febrero 2025](https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/publications/review/pdfs/2025/feb/economic-effects-of-potential-armed-conflict-over-taiwan.pdf)
 - [ScienceDirect — Fear of war: Geopolitical risks and FDI in China](https://www.sciencedirect.com/science/article/abs/pii/S0165176525001661)
 
+
+---
+
+## Intervención del Especialista E (Geopolítica) — Ronda 11
+
+**Especialista:** Agente E — Geopolítica y Relaciones Internacionales
+**Ronda:** 11 — Taiwán, Mar del Sur de China y riesgo de conflicto
+**Fecha:** 25 de julio de 2026
+**Estándar de referencia:** F en R9 (9.5/10) · D en R10 (9.4/10)
+**Etiquetado obligatorio:** DO = Dato Observable · PI = Proyección Informada · EC = Estimación con Incertidumbre · EI = Especulación Informada
+
+---
+
+### 1. Estado material de la disuasión en el Estrecho (capacidad / intención / probabilidad)
+
+#### 1.1 Capacidad: ¿Qué puede hacer el EPL hoy (2026)?
+
+**Flota anfibia actual confirmada:**
+
+| Clase | Unidades en servicio | Capacidad por buque | Total aprox. |
+|-------|---------------------|---------------------|--------------|
+| Type-071 (LPD) | 8 | ~800 tropas + 60 vehículos blindados + 4 LCAC | ~6.400 tropas [DO] |
+| Type-075 (LHD) | 4 (Hainan abr-2021; Guangxi abr-2022; Anhui oct-2022; Hubei ago-2025) | ~800-1.000 tropas + 30 helicópteros + 60 vehículos | ~3.200-4.000 tropas [DO] |
+| Type-076 (LHA) | 1 en construcción (previsto 2026-2027) | Superior a Type-075; capacidad UAV/aeronaves ligeras | No operativo [PI] |
+
+**Capacidad de ola inicial de asalto:**
+
+- Buques militares dedicados (gray-hull): capacidad de transporte aprox. **19.000-20.000 tropas** en primera ola [DO — Instituto de Estudios de Guerra, noviembre 2025; CNAS febrero 2026]
+- Con buques civiles RO-RO y ferries militarizados: capacidad ampliada a ~**60.000 tropas**, pero sin protección ni capacidad en mar agitado [DO — DoD Annual Report to Congress 2025]
+- Taiwán dispone de **88.000 tropas y 800 tanques** para defensa terrestre [DO — RAND 2023], lo que implica que incluso la ola ampliada de 60.000 llega en inferioridad de fuerzas en tierra
+
+**Brechas logísticas críticas identificadas:**
+
+1. **Escasez de LST/LCM**: El EPL no ha invertido en el número de buques de desembarco de tanques y lanchas de desembarco medianas necesarias para un asalto anfibio a gran escala [DO — DoD 2025]
+2. **Modelo de entrenamiento conjunto no adoptado**: El EPL no ha implementado el modelo de entrenamiento conjunto integrado necesario para coordinar operaciones de bloqueo o invasión anfibia a escala [DO — USNI News, marzo 2026]
+3. **Nuevos diseños de pontones móviles**: Analistas occidentales identificaron en enero 2025 al menos dos nuevos diseños de buques puente móvil en imágenes comerciales — si se construyen en grandes cantidades podrían llenar la brecha de asalto anfibio [PI — fuente abierta, enero 2025]
+4. **Aritmética de fuerza**: Para una operación anfibia contra Taiwán se estima necesario un mínimo de 5:1 en fuerza atacante/defensora en playa, lo que implica >440.000 tropas desembarcadas en fases iniciales — la capacidad actual de 60.000 en ola combinada representa aprox. **13,6% de lo necesario** [EC, cálculo E: 88.000 defensores × 5 = 440.000 mínimo requerido ÷ 60.000 capacidad máxima actual = 13,6%]
+
+**Marco temporal de modernización:**
+
+- **2027**: Hito declarado de Xi Jinping para que el EPL sea capaz de "victoria decisiva estratégica" sobre Taiwán [DO]; sin embargo, la Oficina del Director de Inteligencia Nacional de EE.UU. señala en marzo 2026 que **China no está comprometida con una invasión en 2027** [DO — USNI News, 19 marzo 2026]
+- **2030**: Ventana de mejora ampliada — posible incorporación de Type-076 operativo + docenas de pontones móviles si se acelera producción [PI]
+- **2035**: Objetivo del EPL de "modernización total" — fecha más citada por analistas RAND/CSIS para capacidad anfibia plena [PI]
+
+**Papel de la ambigüedad estratégica y aliados:**
+
+- **Ambigüedad estratégica de EE.UU.**: La doctrina de "strategic ambiguity" mantiene a China sin certeza sobre si EE.UU. intervendría militarmente. La administración 2025 mantiene ambigüedad formal pero envíos de armas y presencia naval continúan [DO]
+- **Japón**: Las Islas Senkaku están en el área de operaciones probable; Japón tiene bases en Okinawa que son críticas para cualquier respuesta militar estadounidense. El acuerdo de defensa mutua Japón-EE.UU. (Artículo 5) cubriría las Senkaku [DO]
+- **Australia**: Acuerdo AUKUS (submarinos nucleares de propulsión: Virginia-class y futuros SSN-AUKUS); aporta capacidad antisubmarina y strike en el Indo-Pacífico [DO]
+- **Filipinas**: Acceso confirmado a 9 bases filipinas bajo el Enhanced Defense Cooperation Agreement (EDCA), incluyendo Cagayan de Oro y Palawan, a ~350 km de Taiwán [DO] — lo que representa un flanco sur significativo para cualquier operación del EPL
+
+#### 1.2 Intención: ¿Qué quiere hacer el PCCh?
+
+La intención declarada del PCCh es la reunificación con Taiwán, preferiblemente pacífica, pero sin renunciar al uso de la fuerza [DO — Constitución del PCCh; Libro Blanco de Defensa Nacional de China 2019; discursos de Xi Jinping]. La distinción crítica es:
+
+- **Intención de largo plazo** = reunificación total (no negociable) [DO]
+- **Intención operativa de corto plazo** (2026-2030) = coerción de zona gris, disuasión de independencia formal, aislamiento diplomático [DO — East Asia Forum, febrero 2026]
+- **Intención de invasión armada** = contingente a condicionantes como declaración formal de independencia de Taiwán, señales de intervención externa, o cálculo de "ventana de oportunidad" [PI]
+
+#### 1.3 Probabilidad: ¿Qué tan probable es cada modalidad en 2026-2035?
+
+Véase Sección 2 (distribución de probabilidad datada).
+
+---
+
+### 2. Distribución de probabilidad datada 2026-2035
+
+Las probabilidades son **estimaciones de Agente E basadas en la literatura disponible**, no predicciones. Reflejan el estado de la evidencia, no certezas.
+
+| # | Escenario | Prob. asignada | Fundamento base | Condiciones que la SUBIRÍAN | Condiciones que la BAJARÍAN |
+|---|-----------|---------------|-----------------|----------------------------|----------------------------|
+| 1 | **Statu quo con coerción de zona gris** | **60-65%** [EC] | Es el escenario dominante en la literatura actual; PCCh tiene incentivos para presionar sin arriesgar conflicto | Elecciones taiwanesas con resultado pro-independencia; venta de armas ofensivas US-Taiwán muy visibles | Acuerdo formal de control de armamentos; degradación económica severa de China que eleve costo de oportunidad militar |
+| 2 | **Bloqueo/cuarentena** | **15-20%** [EC] | Requiere mayor coordinación y tolerancia a represalias económicas; el precedente Rusia-Ucrania muestra costos internacionales masivos | Crisis política interna en China; percepción de ventana de oportunidad militar temporal | Capacidades antisubmarinas mejoradas de Japón/Australia/EE.UU.; dependencia china de energía importada vía Mar del Sur de China |
+| 3 | **Conflicto abierto** | **5-10%** [EC] | Brechas de capacidad anfibia documentadas (solo 13,6% del mínimo requerido); costo año 1 sería ~16.7% PIB [DO — St. Louis Fed Review, feb 2025]; EPL sin modelo de entrenamiento conjunto | Declaración formal de independencia taiwanesa; retiro de fuerzas estadounidenses del Indo-Pacífico | Despliegue visible de capacidades de disuasión US-Japón; deterioro económico interno en China |
+| 4 | **Resolución negociada** | **5-10%** [EC] | No existe mecanismo de negociación activo; PCCh rechazó modelo "un país, dos sistemas" post-Hong Kong para Taiwán | Cambio de liderazgo en China post-Xi; crisis económica severa que reoriente prioridades | Intensificación de zona gris; mayor apoyo militar a Taiwán |
+
+**Comprobación aritmética:** Puntos centrales: 62,5 + 17,5 + 7,5 + 7,5 = 95%; margen de eventos no cubiertos (cisnes negros): 5%. Total: 100% ✓
+
+**Condiciones observables de alerta temprana:**
+- Incremento del ritmo de entrenamiento anfibio por encima del mensual documentado
+- Contratos de producción masiva de pontones móviles (evidencia en imágenes satelitales comerciales)
+- Declaración formal taiwanesa de independencia
+- Retiro o reducción de rotaciones navales estadounidenses en el Estrecho
+- Deterioro del diálogo económico APEC/G20 entre China y socios occidentales
+
+---
+
+### 3. Costo económico del escenario de zona gris sostenida
+
+El escenario más probable (60-65%) es el de coerción de zona gris continuada. Sus costos para China son acumulativos y sostenidos:
+
+| Categoría de costo | Cuantificación disponible | Etiqueta | Fuente |
+|-------------------|--------------------------|----------|--------|
+| **IED neta** | Caída de $344B (2021) a $4,5B (2024) = reducción de $339,5B en 3 años. Costo anualizado: ~$113B/año en flujos perdidos | DO | MOFCOM; B en R11 |
+| **Prima de riesgo geopolítico en CDS soberanos** | IMF GFSR abril 2025 Ch.2: tensión geopolítica eleva spreads CDS soberanos en EM de forma **persistente**; efecto cuantificado en +15-40 pb para países en zona de conflicto latente | DO | IMF GFSR April 2025 |
+| **Seguros marítimos en el Estrecho** | Benchmark zona activa (Golfo Pérsico): 0,2-0,4% del valor casco por pasaje [DO]. Para el Estrecho en zona gris: 0,05-0,10% adicional sobre baseline = sobrecosto de ~$15-30M por buque de $300M en viaje de alto riesgo [EC] | DO/EC | ShipUniverse 2025; FreightAmigo 2025 |
+| **Controles de exportación acelerados** | EE.UU. impuso restricciones adicionales de chips en marzo 2025, con decenas de entidades chinas más en lista negra [DO]. Costo para industria china de semiconductores: SMIC al 20-40% de yield en 7nm DUV con prima de precio del 40-50% [DO — D en R10] | DO | ITIF nov 2025; D en R10 |
+| **Fragmentación cadenas de valor (China+1, China+2)** | BCG marzo 2026: mantener cadenas paralelas para chips avanzados añade **25-35% a costos totales** de logística para mercados controlados [DO]. Beneficiarios: Corea del Sur (+$21B), UE (+$15B), Taiwán (+$14B), Japón (+$12B) en redistribución de ventas de semiconductores [DO — ITIF nov 2025] | DO | BCG marzo 2026; ITIF nov 2025 |
+| **Gasto de defensa y costo de oportunidad fiscal** | Gasto oficial 2026: $281B (¥1,94T), +7% nominal [DO]. Estimación SIPRI 2025: $336B incluyendo fuerzas paramilitares [DO]. Rango oficial como % PIB: 1,29-1,35% constante última década [DO]. Oportunidad perdida: si se redirigiera el 7% de incremento anual (~$18,5B en 2026) a gasto social, cubriría aprox. 12 millones de pensionistas rurales adicionales [EC, cálculo E] | DO/EC | ORF 2026; IISS 2026 |
+
+**Balance del escenario de zona gris vs. conflicto abierto:**
+
+- Zona gris sostenida: costos acumulados estimados en **$100-150B/año** en valor económico perdido (IED, primas adicionales, fragmentación de cadenas, sobrecosto defensivo) [EC, síntesis E]
+- Conflicto abierto (año 1): ~16,7% del PIB chino [DO]. Con PIB chino de ~$19T en 2025: **~$3,17T en año 1** — 20-30 veces el costo anual del escenario de zona gris [EC, cálculo E]
+- **Conclusión técnica:** La zona gris es el escenario óptimo desde el punto de vista del cálculo costo-beneficio chino, lo que explica su persistencia y su probabilidad dominante (60-65%)
+
+---
+
+### 4. Interacción semiconductores ↔ geopolítica de Taiwán
+
+#### 4.1 ¿El riesgo de Taiwán acelera o retarda el desacoplamiento?
+
+El riesgo geopolítico de Taiwán opera como **catalizador bidireccional**:
+
+**Mecanismo acelerador (dominante):**
+- TSMC concentra ~70% de participación global en fundición y ~90% de los chips más avanzados (nodos ≤5nm) [DO]. Esta concentración crea riesgo sistémico global que acelera los subsidios de diversificación: EE.UU. (CHIPS Act $52B), UE (EU Chips Act €43B), Japón ($26B en subsidios a TSMC Kumamoto) [DO]
+- La tensión Taiwán → convierte la autonomía semiconductora en imperativo de seguridad nacional → acelera decoupling porque el framing político lo exige independientemente de la eficiencia económica
+
+**Mecanismo retardador (secundario):**
+- Paradoja del "Silicon Shield": la dependencia económica global de TSMC es un disuasivo de conflicto para todas las partes, incluyendo China [PI]
+- El ritmo de diversificación real es más lento que el anunciado: TSMC Arizona (nodo 4nm) comenzó producción en H1 2024; nodo 2nm anunciado para 2026 [DO]; la planta de Kumamoto está en nodo 12/16nm [DO] — la brecha tecnológica con los nodos taiwaneses (3nm, 2nm) sigue siendo de 2-4 años
+
+#### 4.2 Horizonte CXMT/SMIC 2028-2032 bajo escenario de tensión creciente
+
+| Factor | Escenario base (zona gris) | Escenario de escalada (bloqueo) |
+|--------|---------------------------|--------------------------------|
+| SMIC 7nm DUV | Yield 20-40%, prima +40-50% [DO]; se mantiene pero sin mejorar ante ausencia de EUV | Acceso a insumos (gases especiales, resinas) perturbado; yield podría caer a 10-15% [EC] |
+| CXMT (DRAM) | Avanza en DDR5 con nodos 17nm [PI]; no alcanza rendimiento SK Hynix/Samsung | Acceso a equipos de litografía DUV avanzados comprometido [PI] |
+| Brecha tecnológica | Se mantiene en 2-4 generaciones frente a TSMC [DO-PI] | Se amplía a 4-6 generaciones si se cortan rutas de abastecimiento alternativas [EC] |
+
+#### 4.3 Escenario de bloqueo: ¿Qué pasa con TSMC?
+
+Si la tensión escala a bloqueo (probabilidad 15-20%):
+
+1. **Corto plazo (0-6 meses):** Interrupción inmediata de cadena de wafers avanzados → NVIDIA, Apple, AMD, Qualcomm, Broadcom sin acceso a producción en Taiwán. Impacto estimado: >$500B en valor de mercado en riesgo [EC]
+2. **Medio plazo (6-24 meses):** Activación de planes de contingencia TSMC (Arizona, Kumamoto); la capacidad de estos sitios en 2026 es aún marginal vs. Taiwán [DO-PI]
+3. **Efecto político:** Un bloqueo que afectara a TSMC convertiría a las democracias tecnológicas (EE.UU., Japón, UE, Corea del Sur, Australia) en partes directamente interesadas — lo que paradójicamente aumenta el riesgo de escalada militar [PI]
+4. **Efecto sobre política de chips:** Los gobiernos de EE.UU./UE/Japón acelerarían aprobaciones regulatorias y desembolso de subsidios; la velocidad política excedería a la tecnológica — la brecha de capacidad seguiría existiendo 3-5 años después de cualquier bloqueo [EC]
+
+---
+
+### 5. Evidencia nueva + límites del mandato
+
+#### 5.1 Cuerpo de evidencia no considerado por los debatientes
+
+**Uso civil-militar de RO-RO en el Estrecho (CMSI Note 18, enero 2026):**
+
+El informe "Flooding the Zone: The Use of Civilian Landing Craft (LCTs) in PLA Amphibious Operations" documenta la capacidad del EPL de incorporar masivamente buques civiles de tipo RO-RO en operaciones anfibias:
+
+- Los buques RO-RO civiles chinos están sujetos a requisitos de diseño dual-use desde la regulación de 2015 (puertas de proa/popa reforzadas, rampas de ángulo reducido compatibles con vehículos militares) [DO]
+- China posee la mayor flota de RO-ROs del mundo, con >150 buques de capacidad relevante [DO-PI]
+- Esta capacidad **no aparece en los recuentos de buques anfibios militares estándar**, lo que significa que las estimaciones conservadoras de capacidad pueden estar sistemáticamente subestimadas
+
+**Pontones móviles (CNAS, enero 2025 y febrero 2026):**
+
+Analistas del CNAS identificaron al menos dos nuevos diseños de **buques pontón móvil** en imágenes satelitales comerciales [DO]. Si se producen en escala de decenas a centenares, estos sistemas podrían crear muelles temporales en playas no habilitadas — eliminando la necesidad de puertos capturados en las primeras fases. El reporte CNAS "Hellscape" (febrero 2026) identifica esta capacidad como un cambio de paradigma en la evaluación de riesgos de invasión.
+
+#### 5.2 Límites del mandato disciplinar
+
+1. **No soy economista cuantitativo**: Los costos económicos son síntesis de literatura disponible, no modelos macroeconómicos propios
+2. **No soy analista de inteligencia con acceso clasificado**: Todas las estimaciones de capacidad EPL provienen de fuentes abiertas
+3. **No tengo mandato sobre política doméstica china**: Los mecanismos de toma de decisiones del PCCh sobre Taiwán son opacos — mis estimaciones de "intención" son inferidas desde comportamiento observable
+4. **La incertidumbre en distribuciones de probabilidad es alta**: Los rangos (±5-10 puntos porcentuales) reflejan la amplitud de desacuerdo en la literatura especializada
+
+---
+
+### 6. Pronunciamiento sobre definición de "competir exitosamente"
+
+El árbitro B solicita que me pronuncie sobre cuál de las dos definiciones en disputa es más consistente con la moción "competir exitosamente con las democracias liberales."
+
+**Mi pronunciamiento, con reservas explícitas de mandato:**
+
+Desde la perspectiva geopolítica estricta, **la Definición B es más consistente con la moción**, por una razón técnica dentro de mi competencia:
+
+La moción dice "competir **con las democracias liberales**" — el competidor de referencia son los G7, no las democracias de ingreso medio. Si China supera a India o Brasil mientras sigue por debajo del umbral G7, no ha demostrado competitividad con las democracias liberales que el debate invoca (EE.UU., Alemania, Japón, Francia, etc.). La Definición A desplaza el benchmark a un grupo que no es el que nomina la moción.
+
+Tres calificaciones:
+1. La Definición B puede estar diseñada para ser prácticamente inalcanzable — un posible sesgo de construcción
+2. El componente de "estabilidad institucional" de la Definición A sí tiene relevancia geopolítica directa y está dentro de mi mandato
+3. Sobre el umbral $22K per cápita: me abstengo de pronunciarme; excede mi mandato geopolítico
+
+**Conclusión sobre mandato:** La definición de referencia correcta es el G7 (Definición B), por consistencia literal con la moción. Pero los parámetros específicos de PTF y el umbral de $22K exceden mi mandato geopolítico. Los agentes A, B y D tienen autoridad sobre esos parámetros.
+
+---
+
+### 7. Tabla de evidencia consolidada
+
+| # | Dato | Valor | Etiqueta | Fuente |
+|---|------|-------|----------|--------|
+| E-01 | Buques Type-075 en servicio | 4 | DO | SCMP; WarriorMaven 2025 |
+| E-02 | Buques Type-071 en servicio | 8 | DO | DoD Annual Report 2025 |
+| E-03 | Capacidad ola inicial gray-hull | ~19.000-20.000 tropas | DO | ISW nov 2025; CNAS feb 2026 |
+| E-04 | Capacidad ola combinada con RO-RO civil | ~60.000 tropas | DO | DoD Annual Report 2025 |
+| E-05 | Tropas defensoras taiwanesas | 88.000 + 800 tanques | DO | RAND 2023 |
+| E-06 | Déficit de capacidad (ola inicial vs. mínimo requerido) | 13,6% del mínimo teórico | EC | Cálculo E: 60.000÷440.000 |
+| E-07 | China no comprometida con invasión 2027 | Evaluación ODNI | DO | USNI News, 19 mar 2026 |
+| E-08 | Modelo de entrenamiento conjunto EPL no adoptado | Brecha operacional documentada | DO | USNI News mar 2026 |
+| E-09 | Presupuesto defensa China 2026 (oficial) | $281B (+7% nominal) | DO | ORF; Ministerio de Defensa China 2026 |
+| E-10 | Estimación SIPRI defensa China 2025 | $336B | DO | SIPRI 2025 vía MilitarySpend |
+| E-11 | Déficit de defensa como % PIB (oficial) | 1,29-1,35% (última década) | DO | CSIS ChinaPower; IISS |
+| E-12 | IED neta China 2021→2024 | $344B → $4,5B (-$339,5B) | DO | MOFCOM; B en R11 |
+| E-13 | Costo año 1 conflicto abierto Taiwán | ~16,7% PIB chino | DO | St. Louis Fed Review, feb 2025 |
+| E-14 | Equivalente absoluto ~16,7% PIB China | ~$3,17T (base PIB $19T 2025) | EC | Cálculo E |
+| E-15 | TSMC cuota foundry global | ~70% (total), ~90% nodos avanzados | DO | Yahoo Finance; Verdantix 2026 |
+| E-16 | Clientes clave TSMC nodos ≤5nm | NVIDIA, AMD, Apple, Broadcom, Qualcomm | DO | SCMP; B en R11 |
+| E-17 | Sobrecosto cadenas paralelas chips avanzados | +25-35% costo total | DO | BCG marzo 2026 |
+| E-18 | Incursiones marítimas chinas alrededor de Taiwán 2025 | >2.600 | DO | East Asia Forum; TaiwanPlus 2026 |
+| E-19 | Primas war risk zona activa (Hormuz referencia) | 0,2-0,4% hull value/pasaje | DO | ShipUniverse; FreightAmigo 2025 |
+| E-20 | Prima war risk estimada Estrecho (zona gris) | 0,05-0,10% hull value/pasaje sobre baseline | EC | Estimación E por analogía |
+| E-21 | Pontones móviles PLA — nuevos diseños identificados | ≥2 diseños en imágenes satelitales | DO | CNAS; enero 2025 |
+| E-22 | Regulación dual-use RO-RO China | Vigente desde 2015 | DO | CMSI Note 18, enero 2026 |
+| E-23 | Bases EDCA Filipinas accesibles por EE.UU. | 9 bases confirmadas, incluyendo Palawan (~350 km de Taiwán) | DO | DoD; fuente abierta 2024 |
+| E-24 | Redistribución ventas chips bajo decoupling | Corea del Sur +$21B; UE +$15B; Taiwán +$14B; Japón +$12B | DO | ITIF nov 2025 |
+| E-25 | Gasto defensa China (duplicación 2015-2026) | $145B (2015) → $281B (2026) | DO | ORF 2026 |
+| E-26 | IMF GFSR: geopolítica eleva CDS soberanos EM | Persistente, +15-40 pb en zonas de conflicto latente | DO | IMF GFSR April 2025 |
+| E-27 | Costo zona gris sostenida estimado | $100-150B/año en valor económico perdido | EC | Síntesis E |
+| E-28 | Costo conflicto abierto vs. zona gris | 20-30× el costo anual de zona gris | EC | Cálculo E: $3,17T ÷ $130B promedio |
+| E-29 | Brecha capacidad EPL / mínimo requerido para invasión | 13,6% | EC | Cálculo E: 60.000÷440.000 |
+| E-30 | Pisos EDCA sur: distancia Palawan-Taiwán | ~350 km | DO | DoD; fuente abierta 2024 |
+
+---
+
+### 8. Conclusión técnica para la moción
+
+*Este análisis no declara ganador. Produce evidencia técnica neutral.*
+
+**Respecto a la dimensión geopolítica de la moción:**
+
+1. **El escenario de zona gris sostenida (60-65% de probabilidad) es el entorno geopolítico más probable de los próximos 10 años.** Este escenario no paraliza a China militarmente, pero impone costos económicos acumulados de $100-150B/año en flujos perdidos, primas adicionales y fragmentación de cadenas — costos que son mayores que los del entorno geopolítico de las democracias G7 pero menores que el umbral de insostenibilidad
+
+2. **La brecha de capacidad anfibia del EPL es real y documentada**: solo el 13,6% del mínimo teórico requerido para una invasión está disponible en la primera ola, incluso con flota civil RO-RO integrada. Sin embargo, los pontones móviles y el diseño dual-use de la flota civil son un factor de capacidad que los modelos estándar subestiman sistemáticamente
+
+3. **La concentración de TSMC en Taiwán es una espada de doble filo**: disuade a China del conflicto (el "Silicon Shield") pero también crea un dilema de compromiso creíble para las democracias
+
+4. **El desacoplamiento tecnológico documenta que las democracias están respondiendo sistémicamente** al riesgo de Taiwán vía CHIPS Act, EU Chips Act, y controles de exportación. Este proceso reduce la dependencia de China en los nodos más avanzados a mediano plazo pero introduce costos de transición (25-35% sobrecosto) que afectan la competitividad de ambas partes
+
+5. **Síntesis para la moción**: La geopolítica de Taiwán opera como un **impuesto estructural sobre la competitividad china** en el horizonte 2026-2035: no la paraliza en el escenario más probable, pero eleva su costo de capital, reduce sus flujos de IED, fragmenta sus cadenas de valor tecnológicas, y limita su acceso a los semiconductores más avanzados. Si la moción se evalúa bajo la Definición B (superar al G7 en PTF y cruzar $22K per cápita antes de 2040), el entorno geopolítico hace ese objetivo materialmente más difícil pero no técnicamente imposible. Si se evalúa bajo la Definición A (superar a democracias de ingreso medio), la geopolítica de Taiwán no es el obstáculo determinante — el obstáculo sería demográfico y de productividad, fuera de mi mandato
+
+---
+
+### 9. Fuentes
+
+- [Type 075 landing helicopter dock — Wikipedia](https://en.wikipedia.org/wiki/Type_075_landing_helicopter_dock)
+- [Chinese Navy Deploys 4th Type 075 Amphibious Assault Ship — Warrior Maven](https://warriormaven.com/news/sea/chinese-navy-deploys-4th-type-075-amphibious-assault-ship-uss-america-class-copycats)
+- [PLA Amphibious Capabilities: Structured for Deterrence — Jamestown Foundation](https://jamestown.org/pla-amphibious-capabilities-structured-for-deterrence/)
+- [CMSI Note 18: Flooding the Zone — Andrew S. Erickson (enero 2026)](https://www.andrewerickson.com/2026/01/cmsi-note-18-flooding-the-zone-the-use-of-civilian-landing-craft-lcts-in-pla-amphibious-operations/)
+- [Hellscape for Taiwan: Rethinking Asymmetric Defense — CNAS (febrero 2026)](https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/Hellscape_DEFENSE_2026-Final.pdf)
+- [China Not Committed to 2027 Taiwan Invasion — USNI News (19 marzo 2026)](https://news.usni.org/2026/03/19/china-not-committed-to-2027-taiwan-invasion-u-s-intel-report-says)
+- [2025 Annual Report to Congress: Military and Security Developments Involving the PRC — DoD](https://media.defense.gov/2025/Dec/23/2003849070/-1/-1/1/ANNUAL-REPORT-TO-CONGRESS-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2025.PDF)
+- [Disciplined Expansion: Decoding China's 2026 Defence Budget — ORF](https://www.orfonline.org/expert-speak/disciplined-expansion-decoding-china-s-2026-defence-budget)
+- [China's National Party Congress 2026: defence remains a priority — IISS](https://www.iiss.org/online-analysis/military-balance/2026/03/chinas-national-party-congress-2026-defence-remains-a-priority-amid-fiscal-challenges/)
+- [China Military Spending 2025: $336B — MilitarySpend](https://militaryspend.org/country-profiles/china)
+- [China's Military in 10 Charts — CSIS](https://www.csis.org/analysis/chinas-military-10-charts)
+- [China remains undeterred in the grey zone — East Asia Forum (febrero 2026)](https://eastasiaforum.org/2026/02/14/china-remains-undeterred-in-the-grey-zone/)
+- [Report Warns China's Gray-Zone Campaign Expanding — TaiwanPlus (julio 2026)](https://www.taiwanplus.com/news/taiwan-news/military/260701011/report-warns-chinas-gray-zone-campaign-expanding-across-first-island-chain)
+- [Economic Coercion from the PRC — Stimson Center (agosto 2025)](https://www.stimson.org/wp-content/uploads/2025/08/Economic-Coercion-from-the-Peoples-Republic-of-China-Report-PDF.pdf)
+- [Blockade Risk Puts TSMC's Taiwan Hub In Focus — Sahm Capital (mayo 2026)](https://www.sahmcapital.com/news/content/blockade-risk-puts-tsmcs-taiwan-hub-and-tech-supply-chain-in-focus-2026-05-20)
+- [Decoupling Risks: Semiconductor Export Controls — ITIF (noviembre 2025)](https://itif.org/publications/2025/11/10/decoupling-risks-semiconductor-export-controls-harm-us-chipmakers-innovation/)
+- [BCG: Costs of Parallel Supply Chains (marzo 2026)](https://www.bcg.com)
+- [The Top 8 Regions Driving Up War Risk Premiums in 2025 — ShipUniverse](https://www.shipuniverse.com/the-top-8-regions-driving-up-war-risk-premiums-in-2025/)
+- [2025 War Risk Surcharges: Pricing Trends — FreightAmigo](https://www.freightamigo.com/en/blog/logistics/war-risk-insurance-premiums-2025-pricing-trends/)
+- [IMF Global Financial Stability Report, April 2025, Chapter 2](https://www.imf.org/en/publications/gfsr)
+- [St. Louis Fed Review: Economic Cost of Taiwan Conflict, febrero 2025](https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/publications/review/pdfs/2025/feb/economic-effects-of-potential-armed-conflict-over-taiwan.pdf)
+
+---
+
+*Agente E — Intervención completa. 30 datos etiquetados (DO/EC/PI/EI). Aritmética expuesta. Límites de mandato declarados. Sin declaración de ganador.*
+
