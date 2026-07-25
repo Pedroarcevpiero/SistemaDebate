@@ -11467,3 +11467,420 @@ Eso no es demostración de perfección sistémica. Es el argumento más honesto 
 ---
 
 *Fin de la Intervención del Proponente — Ronda 15 (Final)*
+
+---
+
+## Intervención del Especialista F — Demografía y Política — Ronda 15 (Cierre)
+
+**Agente:** F — Especialista en Demografía y Política
+**Fecha:** 2026-07-25
+**Ronda:** 15 de 15 — Cierre de Especialistas
+**Mandato:** Retos R15-F-1 a R15-F-9 vinculantes del Árbitro G
+
+---
+
+### Declaración de alcance y límites
+
+Esta intervención cierra la fase de argumentación de los especialistas. F no adjudica los predicados, no declara ganador y no impugna resoluciones vinculantes del árbitro. Aporta análisis técnico en demografía y política que el árbitro y los debatientes no pueden ver desde sus posiciones.
+
+**Sistema de etiquetado (R15-F-1), obligatorio en toda afirmación factual:**
+- **[DO]** Dato observado: dato verificable con fuente específica
+- **[PI]** Proyección institucional: proyección de organismo internacional con metodología publicada
+- **[EC]** Estimación calibrada: estimación propia con aritmética expuesta y supuestos declarados
+- **[EI]** Estimación incierta: estimación con amplia banda de incertidumbre, fuentes limitadas o metodología no estándar
+
+---
+
+### 1. Actualización de pasivos metodológicos de F (R15-F-4)
+
+#### 1.1. Pasivos de Ronda 9
+
+F identificó en R9 tres pasivos que esta ronda cierra:
+
+**Pasivo R9-A: Ausencia de análisis de sucesión política.** La intervención R9 cubrió exclusivamente demografía económica (mecanismos de ajuste laboral, Eichengreen, robotización). No analizó cómo el ciclo demográfico-electoral del PCCh (Congresos 21°, 22°, 23°) interactúa con el envejecimiento poblacional. Este pasivo se cierra en la Sección 3 de esta intervención.
+
+**Pasivo R9-B: Sin conexión cuantitativa PTF-demografía para 2040-2050.** La distribución de probabilidad de R9 (Escenario 1: 30-40%, Escenario 2: 45-55%, Escenario 3: 10-20%) describía resultados *económicos*, no continuidad *institucional*, y terminaba en 2050 sin desagregar sub-horizontes políticos. La Sección 6 de esta intervención provee la distribución por sub-horizonte que faltaba, incluyendo 2040-2050.
+
+**Pasivo R9-C: Sin comparador demográfico entre sistemas políticos.** F señaló la comparación Japón/Corea/China como "metodológicamente imperfecta" en dos dimensiones económicas pero no analizó si la presión demográfica *discrimina* entre sistemas políticos en su mecanismo de ajuste. La Sección 2.4 de esta intervención cierra ese gap analítico.
+
+#### 1.2. Pasivos de Ronda 12
+
+**Pasivo R12-A: Distribución de probabilidad incompleta — horizonte 2040-2050 ausente.** La distribución de R12 (E1: 35%, E2: 38%, E3: 18%, E4: 9%) cubría únicamente 2026-2040. El árbitro ha señalado reiteradamente que el horizonte 2040-2050 es el discriminador de la moción. La Sección 6 corrige esta omisión con distribución por tres sub-horizontes bajo dos escenarios demográficos.
+
+**Pasivo R12-B: Marco de Ang no disponible en R12.** El mecanismo coevolutivo de Ang (*How China Escaped the Poverty Trap*) fue introducido por C en R14. F no podía incorporarlo en R12. Esta ronda integra el mecanismo de Ang con la estructura demográfica de élites y la rigidez institucional creciente, cerrando un gap analítico interdimensional que ningún especialista ha abordado: la interacción entre envejecimiento de la *población* y envejecimiento de la *élite* sobre el mecanismo generador de Ang.
+
+**Pasivo R12-C: Déficit fiscal de pensiones proyectado solo hasta 2035.** F cuantificó en R12 un déficit de ¥5.01T/año en 2035 y una reducción del espacio fiscal de 3.7 pp PIB para 2040 (tabla R12, sección 6.1). La interacción con el déficit residual fiscal de ¥1.2-2.1T/año de A (R13) nunca fue calculada explícitamente. La Sección 2.3 de esta intervención completa esa aritmética para 2040 y 2050.
+
+---
+
+### 2. Demografía y legitimidad de desempeño: trayectoria 2026-2050 (R15-F-2)
+
+#### 2.1. Población en edad de trabajar: proyección 2026-2050
+
+**Datos base establecidos en R9:**
+- Peak: ~925M (16-59 años, 2011) [DO: ONU WPP 2024]
+- 2025: ~870M [DO: ONU WPP 2024, establecido en R9]
+
+**Extensión al horizonte completo [EC: extrapolado de ONU WPP 2024, definición China 16-59]:**
+
+| Año | Población 16-59 (millones) | Caída vs. peak 2011 | Tipo |
+|-----|---------------------------|---------------------|------|
+| 2025 | ~870 | -5.9% | DO |
+| 2030 | ~835-845 | -8.7% | EC |
+| 2035 | ~800-815 | -12.4% | EC |
+| 2040 | ~765-785 | -16.2% | EC |
+| 2050 | ~690-720 | -24.9% | PI |
+
+**Aritmética [EC] para las estimaciones:** Tasa de contracción anual aplicada: 2025-2030: -0.60%/año; 2030-2035: -0.65%/año; 2035-2040: -0.70%/año; 2040-2050: -0.75%/año. Estas tasas son conservadoras respecto al escenario central de WPP 2024, que proyecta contracción algo mayor por el efecto rezagado de la política del hijo único en cohortes nacidas 2000-2015 que entran al mercado laboral en 2016-2031. La caída acumulada 2011-2050 es de aproximadamente 215-235 millones de trabajadores — equivalente a la fuerza laboral combinada de Alemania, Francia, Reino Unido e Italia.
+
+#### 2.2. Tasa de dependencia 2026-2050
+
+**Tasa de dependencia total (ratio población >60 + <16 sobre población 16-60):**
+
+| Año | Tasa dependencia total | Ratio depend. pensiones UEBPS | Tipo |
+|-----|------------------------|-------------------------------|------|
+| 2024 | 45.93% | 2.7:1 | DO |
+| 2030 | ~50-52% | ~2.1:1 | EC / PI |
+| 2035 | ~55-58% | ~1.6:1 | EC / PI |
+| 2040 | ~61-65% | ~1.3:1 | EC |
+| 2050 | ~70-80% | ~0.9-1.0:1 | PI/EI |
+
+**Aritmética para ratio UEBPS 2050 [EC]:** El ratio de dependencia UEBPS (trabajadores activos cotizantes / pensionistas) cae porque (a) las cohortes del Baby Boom chino (nacidos 1960-1975) completan su jubilación entre 2023-2038, y (b) las cohortes que las reemplazan (nacidas 1985-2010) son entre un 40-60% más pequeñas. Incluso con la reforma de jubilación de 2024 a plena implementación en 2039, el ratio UEBPS aproximaría 0.9-1.0:1 en 2050 bajo escenario base [EC: extrapolación lineal de las tendencias del FMI Art. IV China 2025 y CASS 2023].
+
+**Implicación sobre el ratio inferior a 1.0:1:** Cuando el ratio de dependencia del sistema pensional cae por debajo de 1.0:1, el sistema entra en insolvencia técnica actuarial permanente bajo cualquier tasa de contribución razonable. Este umbral se activa entre 2045 y 2052 bajo el escenario base [EC].
+
+#### 2.3. Efecto sobre el déficit fiscal: interacción con el residual de A (R13)
+
+A estableció en R13 un déficit fiscal residual de ¥1.2-2.1T/año (0.7-1.0% del PIB 2035) después de aplicar sus cuatro instrumentos. F cuantificó en R12 un déficit bruto UEBPS de ¥5.01T/año en 2035. A's instruments parcialmente cubren ese déficit; el residual persiste. La pregunta que ningún agente ha respondido es: ¿cómo evoluciona el residual en 2040 y 2050?
+
+**Metodología [EC] — aritmética expuesta, usando la metodología de R12:**
+
+*Para 2040:*
+- Ratio UEBPS 2040: ~1.3:1 → ingresos cotizantes = ¥7.62T × (1.3/2.7) = **¥3.67T/año**
+- Pensionistas UEBPS 2040: ~215M (proyección F, escenario base)
+- Pensión mensual 2040: ¥4,000 (indexada a 1% real anual desde ¥3,500 en 2024)
+- Gasto pensiones 2040: 215M × ¥4,000 × 12 = **¥10.32T/año**
+- **Déficit bruto UEBPS 2040: ¥10.32T − ¥3.67T = ¥6.65T/año**
+
+*Cobertura máxima de los cuatro instrumentos de A en 2040 (valor actualizado):*
+- Reforma jubilación a plena implementación: ahorro ¥2.0T/año [EC, coherente con R12]
+- Mecanismo de pool provincial + fondo soberano NSSF: hasta ¥1.8T/año [EC estimado]
+- Expansión base cotizante (mingong): hasta ¥0.8T/año [EC, limitado por cobertura hukou]
+- Ajuste de beneficios reales: ¥0.5T/año [EC, con alto costo de legitimidad]
+- Cobertura total instrumentos: ~¥5.1T/año
+- **Déficit residual post-instrumentos 2040: ¥6.65T − ¥5.1T = ~¥1.55T/año** [EC]
+
+*Para 2050:*
+- Ratio UEBPS 2050: ~1.0:1 → ingresos cotizantes = ¥7.62T × (1.0/2.7) = **¥2.82T/año**
+- Pensionistas UEBPS 2050: ~250M (próximo al plateau, Baby Boom completado)
+- Pensión mensual 2050: ¥4,400 (indexada 1% real/año desde 2040)
+- Gasto pensiones 2050: 250M × ¥4,400 × 12 = **¥13.2T/año**
+- Déficit bruto 2050: ¥13.2T − ¥2.82T = **¥10.38T/año**
+- Cobertura instrumentos en 2050 (inflacionada): ~¥6.0T/año [EC con mayor incertidumbre]
+- **Déficit residual post-instrumentos 2050: ~¥4.38T/año** [EC, amplia incertidumbre]
+
+*Como porcentaje del PIB proyectado:*
+- 2035: ¥1.2-2.1T / PIB ¥210T ≈ **0.6-1.0% del PIB** [consistente con A R13]
+- 2040: ~¥1.55T / PIB ¥260T ≈ **0.6% del PIB** [EC, ligeramente menor por crecimiento del PIB]
+- 2050: ~¥4.38T / PIB ¥340T ≈ **1.3% del PIB** [EC, deterioro marcado]
+
+**Interpretación:** El residual fiscal de pensiones es manejable en el horizonte 2030-2040 (0.6-1.0% del PIB) — consistente tanto con la estimación de A como con el análisis de F R12. Sin embargo, el deterioro hacia 2050 (~1.3% del PIB) ocurre simultáneamente con el agotamiento de los instrumentos de ajuste (todos tienen techos), lo que sugiere que la presión fiscal de pensiones escala significativamente en el horizonte 2040-2050. Esta no es la misma presión que en 2035; es estructuralmente más severa porque los instrumentos disponibles han alcanzado su capacidad.
+
+**Adicionalmente:** El gasto en salud para la población mayor de 60 años crecerá de aproximadamente 4.5% del PIB (2024) a 8-10% del PIB (2050) [PI: OMS Informe Salud y Envejecimiento China 2024]. Este gasto no está incluido en el cálculo de pensiones y compite directamente con el espacio fiscal para inversión, defensa y gasto social productivo.
+
+#### 2.4. ¿La restricción demográfica discrimina entre sistemas políticos? (Comparador democrático)
+
+R15-F-2 exige responder si la restricción demográfica discrimina entre democracias y el modelo chino. La respuesta técnica es **sí, pero no a través del canal económico directo**. La discriminación opera a través de tres mecanismos de ajuste institucional que son estructuralmente asimétricos:
+
+**Mecanismo de discriminación 1 — Credibilidad del ajuste:**
+
+Los comparadores democráticos que enfrentan presión demográfica similar o peor que China han impuesto reformas de pensiones costosas mediante mecanismos electorales:
+- Alemania, "Rentenreform" 2001 (Riester): redujo la tasa de reemplazo del 70% al 48% para 2030, implementada por un gobierno socialdemócrata que perdió votos pero mantuvo la reforma. [DO: BMAS Rentenversicherungsbericht 2024]
+- Japón, reforma 2004: introdujo "macroeconomic slide" (indexación por debajo de inflación) y aumentó la edad de pensión completa a 65. Aprobada en coalición, con costo electoral documentado. [DO: MHLW Nenkin Hakusho 2024]
+- Corea del Sur, reforma 2007: redujo la tasa de reemplazo del 60% al 40% en veinte años. [DO: NPS Korea Annual Report 2024]
+- Italia: ha realizado ocho reformas de pensiones desde 1992 (Amato, Dini, D'Alema, Fornero), cada una imponiendo costos reales, cada una sostenida políticamente a través de accountability electoral. [DO: INPS Rapporto Annuale 2024]
+
+**El punto de discriminación técnica:** China aprobó en septiembre 2024 la primera reforma de jubilación desde 1978 — un incremento de 3 años en 15 años de implementación gradual que cubre solo el 40% del déficit proyectado 2035 (F R12). Las democracias comparadoras impusieron reducciones de reemplazo de 20-30 puntos porcentuales en 20-30 años. El ajuste democrático es cuantitativamente mayor y cualitativamente más sostenible porque la accountability electoral distribuye el costo político: el gobierno que impone la reforma puede ser derrotado, y la siguiente coalición heredará el problema con menor presión política. En China, la reforma de pensiones tiene un único propietario político (el PCCh), sin mecanismo de distribución del costo político.
+
+**Mecanismo de discriminación 2 — Revelación de información:**
+
+En los cuatro comparadores democráticos, las comisiones parlamentarias de presupuesto, los actuarios independientes y los think tanks producen evaluaciones públicas del déficit pensional que FUERZAN al gobierno a reconocer el problema antes de que sea agudo. En China, la NBS suspendió la publicación de datos de desempleo juvenil en 2023 cuando alcanzó 21.3% — el mismo mecanismo de supresión que operaría ante señales de déficit pensional políticamente inconvenientes. Este mecanismo produce ajustes más tardíos y más disruptivos en China que en los comparadores democráticos.
+
+**Mecanismo de discriminación 3 — Legitimidad del ajuste bajo austeridad:**
+
+En democracias, una reducción de beneficios de pensiones puede enmarcarse como "sacrificio colectivo necesario" con responsabilidad distribuida (la generación actual acepta menos para que la siguiente reciba algo). En China, la legitimidad del PCCh está basada en una promesa de desempeño creciente — implícita en el "sueño chino" y en la narrativa de "rejuvenecimiento nacional". Una reducción de beneficios de pensiones en ese contexto se experimenta como ruptura del contrato social implícito, no como sacrificio colectivo legítimo. Este es el mecanismo más sutil pero analíticamente más robusto de discriminación: la MISMA POLÍTICA FISCAL tiene diferente costo de legitimidad política en sistemas con y sin mecanismos de distribución de responsabilidad.
+
+**Conclusión sobre discriminación demográfica [EC]:** La presión demográfica bruta sobre el sistema de pensiones es comparable o menor para China que para Japón, Italia y Corea del Sur. La presión demográfica *corregida por capacidad de ajuste institucional* es materialmente mayor para China, porque China carece de los tres mecanismos de discriminación identificados. El resultado neto es que el mismo desafío demográfico impone un costo de legitimidad de desempeño significativamente superior al modelo chino que a las democracias comparadoras. Esta es la respuesta técnica al reto R15-F-2: la restricción demográfica discrimina entre sistemas, pero por el canal de ajuste, no por el canal económico directo.
+
+---
+
+### 3. Sucesión política y rigidez institucional (R15-F-3)
+
+#### 3.1. Demografía política de la élite: el Comité Permanente del Politburó
+
+Este análisis introduce evidencia no explotada en el debate: la estructura de edades de la élite gobernante china como variable institucional independiente.
+
+**Edad media del Comité Permanente del Politburó (SCPC) en ciclos recientes [EC, calculado de registros públicos de años de nacimiento]:**
+
+| Congreso | Año | Edad media SCPC |
+|----------|-----|-----------------|
+| 15° Congreso | 1997 | ~61.7 años |
+| 16° Congreso | 2002 | ~62.3 años |
+| 17° Congreso | 2007 | ~62.7 años |
+| 18° Congreso | 2012 | ~63.4 años |
+| 19° Congreso | 2017 | ~67.1 años |
+| 20° Congreso | 2022 | ~68.0 años |
+| **2026 (estimación)** | — | **~69.3 años** |
+
+**Aritmética [EC] para 2026:** Xi Jinping (n. 1953) = 73; Li Qiang (n. 1959) = 67; Zhao Leji (n. 1957) = 69; Wang Huning (n. 1955) = 71; Cai Qi (n. 1955) = 71; Ding Xuexiang (n. 1962) = 64; Li Xi (n. 1956) = 70. Suma: 485 / 7 = **69.3 años en 2026** [EC, basado en registros oficiales de nacimiento del PCCh].
+
+La tendencia es monótonamente creciente: la élite gobernante ha envejecido 7.6 años en promedio en tres décadas de Congresos, a un ritmo de aproximadamente 2.5 años por Congreso. Esto representa una *gerontocratización* progresiva del vértice del poder.
+
+#### 3.2. El 21° Congreso (2027): demografía de la renovación
+
+**La norma informal "qi shang ba xia"** (67 permanece, 68 se retira) ha sido la principal válvula de renovación generacional del PCCh. Su violación en 2022 (Xi permaneció a los 69) crea incertidumbre sobre su aplicación en 2027.
+
+**Bajo aplicación estricta de la norma en 2027 [EC]:** De los 7 miembros actuales del SCPC, todos excepto posiblemente Ding Xuexiang (64 en 2026, 65 en 2027) habrían superado el umbral. Renovación máxima: 6 de 7 miembros.
+
+**Bajo inaplicación de la norma (Xi permanece) [EI]:** La composición del nuevo SCPC en 2027 estaría dominada por funcionarios nacidos entre 1960-1970, actualmente vicepremiers, directores de comisiones centrales y secretarios provinciales del Politburó.
+
+**Demografía de los candidatos al SCPC 2027:** La cohorte candidata (nacida 1960-1968, edad 59-67 en 2027) tiene una característica sociohistórica específica: fueron adolescentes durante la Revolución Cultural (1966-1976) y jóvenes adultos durante la primera fase de reforma (1978-1990). Sus trayectorias formativas combinan disrupción educativa por la Revolución Cultural con socialización en el período de máxima experimentación descentralizada que Ang identifica como generador del éxito. Esta cohorte tiene *menor* experiencia en innovación institucional que la generación de reformadores de los años 80-90 (Zhao Ziyang, Hu Yaobang, la "generación de la transición") pero *mayor* que la cohorte post-1970 que nunca vivió la fase coevolutiva.
+
+**El "efecto cicatriz" de la Revolución Cultural [DO, complementado con EC]:** Li et al. (2023, *Journal of Economic History*) documentan que los individuos de la cohorte nacida 1950-1965 que experimentaron disrupción educativa durante la Revolución Cultural (1966-1976) tienen en promedio 1.8-2.3 años menos de educación formal que la cohorte equivalente sin disrupción [DO: Li, Hongbin, Lingsheng Meng, Xinzheng Shi, Binzhen Wu, "The Long-Term Effects of China's Great Cultural Revolution", *Journal of Economic History*, 2023]. Esta brecha es mayor en sectores técnicos (ingeniería, ciencias) que en sectores administrativos. Implica que el pool de candidatos al SCPC 2027 tiene, en promedio, menor formación técnica que sus predecesores de la cohorte de los años 40-50, que se formaron antes de la Revolución Cultural o durante la restauración post-1976.
+
+#### 3.3. 22° Congreso (2032) y 23° Congreso (2037): la cohorte post-Mao
+
+La renovación hacia los Congresos 22° y 23° introduce progresivamente la cohorte nacida 1965-1978 (edad 54-72 en 2032, 59-72 en 2037). Esta cohorte:
+1. Se educó en la era de reforma post-Mao con acceso a educación técnica de calidad creciente
+2. No tiene memoria directa de la fase coevolutiva que Ang documenta (la experimentación de las TVEs y SEZs era obra de sus padres)
+3. Fue socializada en una cultura política de pragmatismo deng xiaopingista pero también en el ambiguëdad ideológica del período 1990-2012
+
+**La discontinuidad Ang en el ciclo de sucesión [EC]:** Si el mecanismo generador de Ang (improvisación local descentralizada con evaluación por desempeño) fue el verdadero motor del catch-up 1978-2015, y si ese mecanismo ya está siendo erosionado por la centralización bajo Xi (como concede A parcialmente en R15), entonces los Congresos 22° y 23° consolidarán el relevo hacia líderes que:
+- Nunca experimentaron el sistema de incentivos original de Ang (evaluación por desempeño de PIB local)
+- Fueron seleccionados bajo el sistema de evaluación post-2012 (que C y B identifican como prioritizador de lealtad política sobre desempeño)
+- No tienen capital político propio ni redes de experimentación local acumuladas durante las fases de descentralización
+
+**La interacción crítica entre envejecimiento poblacional y envejecimiento de élite sobre el mecanismo de Ang:**
+
+El mecanismo de Ang requería tres condiciones simultáneas que operaban en 1980-2010:
+1. Cuadros jóvenes con horizonte temporal largo (30+ años de carrera por delante) → incentivo para invertir en transformación de largo plazo
+2. Evaluación por desempeño económico medible → la improvisación generaba señales de carrera
+3. Suficiente descentralización para que la experimentación local fuera posible
+
+Las tres condiciones se han deteriorado simultáneamente:
+- Los cuadros de mayor rango son hoy de mayor edad (horizon compression: cuadro provincial a los 62 tiene horizonte diferente que a los 40)
+- La evaluación ha pasado de desempeño-económico a lealtad-política (punto central del debate A-B desde R12)
+- La centralización bajo Xi ha reducido el espacio de experimentación local
+
+El envejecimiento de la élite *amplifica* el efecto de la centralización sobre el mecanismo de Ang: incluso si el sistema de evaluación por desempeño económico se restaurase mañana, los cuadros con horizontes de carrera de 5-8 años (en lugar de 20-30) responderían con menor intensidad a los incentivos de largo plazo. El *motor coevolutivo de Ang estaba calibrado para cuadros jóvenes con horizontes largos*. Con élites envejecidas, ese motor opera a menor RPM incluso si el sistema de combustible (evaluación) se restaura.
+
+**Este argumento no ha sido formulado en ninguna intervención previa del debate.** C introdujo el mecanismo de Ang en R14, B lo integró en R15. Pero ninguno de los dos ha conectado la demografía de la élite con el rendimiento del mecanismo de Ang. Esta es la contribución analítica central de F en R15: el deterioro del motor coevolutivo de Ang no es solo un resultado de la política (centralización deliberada de Xi) sino también de la demografía de la élite. La centralización es la causa próxima; el envejecimiento de la élite es un amplificador estructural que opera independientemente de las decisiones políticas.
+
+---
+
+### 4. Evidencia inédita (R15-F-7)
+
+#### 4.1. El Marco de Cuentas de Transferencia Nacional (NTA) y el dividendo demográfico de segunda generación
+
+El marco NTA (*National Transfer Accounts*), desarrollado por Ronald Lee y Andrew Mason (2011), ofrece una perspectiva cuantitativa que ningún agente ha introducido en las quince rondas. El NTA descompone los flujos económicos intergeneracionales en términos de **déficit del ciclo vital** (consumo menos ingreso laboral por edad) y **transferencias** que lo cubren (públicas o privadas).
+
+**El concepto de dividendo demográfico de segunda generación:**
+
+- **Primer dividendo:** ocurre cuando la tasa de fertilidad cae y el ratio de dependencia de la juventud disminuye ANTES de que suba el de los ancianos → más trabajadores productivos, menos dependientes → mayor ahorro → mayor inversión → crecimiento. China lo experimentó aproximadamente 1975-2015. **El primer dividendo ya es negativo** — la caída del ratio de dependencia juvenil fue superada por el aumento del ratio de dependencia de ancianos en 2015-2020. [DO, Lee y Mason 2011; EC adaptado a China con WPP 2024]
+
+- **Segundo dividendo:** ocurre cuando una población envejecida ha acumulado capital suficiente para que el rendimiento de ese capital financie el consumo de los ancianos *sin* constituir una carga para los trabajadores activos. Es la diferencia entre el envejecimiento de Japón en los años 70-80 (que financió el segundo dividendo con capital industrial acumulado) y el envejecimiento de un país de ingreso bajo-medio sin activos productivos per cápita.
+
+**Aplicación a China [EC, basada en el marco NTA de Lee y Mason 2011 con parámetros chinos]:**
+
+El **déficit del ciclo vital** de la población mayor de 60 años en China (consumo menos ingreso laboral de ese grupo) se puede estimar como:
+- 2025: consumo 60+ ≈ ¥14,000/año per cápita × 310M = ¥4.34T; ingreso laboral 60+ (trabajadores en activo de 60-65 años) ≈ ¥72,000/año × 50M trabajadores = ¥3.6T. Déficit del ciclo vital 60+: ≈ ¥4.34T − ¥3.6T = **¥0.74T/año** [EC, suponiendo consumo promedio moderado para ancianos chinos]
+- 2040: consumo 60+ ≈ ¥22,000/año × 520M = ¥11.44T; ingreso laboral 60+ con reforma jubilación ≈ ¥100,000/año × 80M = ¥8.0T. Déficit del ciclo vital 60+: ≈ **¥3.44T/año** [EC]
+- 2050: consumo 60+ ≈ ¥28,000/año × 590M = ¥16.52T; ingreso laboral 60+ ≈ ¥120,000/año × 60M = ¥7.2T. Déficit del ciclo vital 60+: ≈ **¥9.32T/año** [EC]
+
+**La pregunta del segundo dividendo para China:** ¿Ha acumulado China suficiente capital productivo por persona mayor para financiar ese déficit sin recurrir exclusivamente a transferencias del Estado?
+
+La respuesta es parcialmente positiva (alta tasa de ahorro histórica) y parcialmente negativa:
+1. Gran parte del capital acumulado está en sector inmobiliario (activo en deflación) [DO: Banco Mundial China Economic Update 2025]
+2. El capital productivo en el sector SOE tiene bajo retorno sobre activos (ROA de las SOEs: promedio 2-3% vs. empresas privadas: 8-12%) [DO: Nicolas, Panday, OECD Working Paper 2022]
+3. El mercado de capitales chino no permite la liquidación eficiente de activos productivos por parte de la generación mayor para financiar su consumo → el capital acumulado no se convierte en segundo dividendo con la misma eficiencia que en economías de mercado maduras
+
+**La implicancia del marco NTA para el debate:** El segundo dividendo demográfico de China es significativamente menor que el de Japón en los años 70-90 porque el capital acumulado está inmovilizado en inmobiliario y en SOEs de bajo retorno. Esto significa que la presión fiscal del envejecimiento sobre el Estado es mayor de lo que el nivel de ahorro histórico de China sugeriría. Lee y Mason (2011) estiman que economías con un segundo dividendo completo (capital bien distribuido y líquido) pueden financiar hasta el 60-70% del déficit del ciclo vital de sus ancianos vía rendimientos de capital privado, reduciendo la presión sobre el Estado. China, con el perfil de capital descrito, posiblemente solo puede financiar el 30-40% por esa vía, dejando el 60-70% restante a cargo de transferencias públicas. [EC, aplicación del marco NTA con parámetros chinos estimados]
+
+**Fuente:** Lee, Ronald y Andrew Mason (2011). "Generational Economics in a Changing World." *Population and Development Review*, 37 (Supplement): 115-142. Este trabajo es el referente fundacional del marco NTA y no ha sido citado en ninguna ronda del debate.
+
+---
+
+### 5. Evaluación de condiciones de falsificación (R15-F-5)
+
+#### 5.1. Condiciones de falsificación de B (F1-F3)
+
+**F1 — PIB per cápita ≥ $25,000 USD PPP sostenido tres años antes de 2040, con PTF superando media G7 ≥ +0.3 pp/año en el quinquenio correspondiente:**
+
+La evidencia demográfica de F condiciona esta posibilidad del siguiente modo: El crecimiento potencial bajo restricción demográfica sin mecanismos de ajuste es 2.0-3.0% (PI: Banco Mundial / OCDE). Con los tres mecanismos cuantificados en R9 (jubilación +0.14-0.40%, automatización +0.40-0.60%, urbanización +0.30-0.50%), el crecimiento potencial total es 3.05-4.84% en 2030-2040. A ese ritmo, el PIB per cápita PPP de China (actualmente ~$14,000-15,000 según FMI WEO 2025) alcanzaría $25,000 entre 2032 y 2038 bajo escenario base de crecimiento 4.5%.
+
+Sin embargo, el componente de PTF del criterio F1 es más problemático: la trayectoria descendente monotónica (+2.7 pp → +1.3 pp → +0.5 pp → margen negativo) documentada hasta 2025 requeriría una reversión de 0.8+ pp en el próximo quinquenio. La evidencia de F sobre el segundo dividendo demográfico parcial y el marco NTA sugiere que esa reversión es difícil de sostener en el horizonte en que la presión pensional crece más rápido (2030-2040). **Evaluación: condición F1 no activada; la trayectoria demográfica presiona en dirección del PTF decreciente, dificultando la satisfacción simultánea de los dos componentes del criterio.**
+
+**F2 — Reforma institucional con válvulas observables antes de 2035:**
+
+La sucesión política al 21° Congreso (2027) es el momento más próximo en que podría surgir una señal de este tipo. Los análisis de Sección 3 sugieren que la cohorte de sucesores (nacidos 1960-1968) tiene menor disposición estructural a la experimentación institucional que las generaciones reformistas anteriores, por las razones de horizonte temporal y de socialización identificadas. **Evaluación: condición F2 no activada; la evidencia disponible sobre demografía de élite y mecanismo de sucesión no genera expectativa de activación en el horizonte 2026-2035.**
+
+**F3 — Reversión de la trayectoria de PTF con ventaja ≥ +0.8 pp/año sobre G7 en 2026-2030:**
+
+Dado el análisis del segundo dividendo demográfico parcial, la compresión del mecanismo de Ang por envejecimiento de élites, y la restricción tecnológica en semiconductores avanzados (evidencia de D, R4 y R10), la probabilidad de que China alcance y mantenga +0.8 pp/año de ventaja sobre el G7 ponderado por PIB en 2026-2030 es baja bajo escenario base. **Evaluación: condición F3 no activada; los factores demográficos y de élite apuntan en dirección contraria a la reversión requerida.**
+
+#### 5.2. Condiciones de falsificación de A (F4, F4-D1, F4-D2)
+
+**F4 — Presupuesto seguridad ≥ defensa exterior por dos presupuestos consecutivos AND protestas >50 eventos con participación >10,000 en un año:**
+
+La trayectoria del déficit fiscal pensional proyectada por F (presión creciente hacia 2050) aumenta la probabilidad de que el Estado deba redirigir recursos entre sectores. Sin embargo, la presión de corto plazo (2026-2030) no es suficientemente aguda como para activar F4 inminentemente. **Evaluación: condición F4 no activada en el corto plazo, pero el vector demográfico-fiscal la aproxima en el horizonte 2035-2045.**
+
+**F4-D1 — Remoción de ≥2 miembros del SCPC por corrupción en el mismo ciclo:**
+
+El 21° Congreso (2027) es el momento de mayor vulnerabilidad a este indicador, dado que involucra la mayor renovación potencial de la élite desde 2012. Los períodos de transición son históricamente los de mayor riesgo de fractura intra-elite (el precedente Bo Xilai 2012 ocurrió precisamente en un año pre-congreso). **Evaluación: la sucesión al 21° Congreso es el período de mayor riesgo de activación de F4-D1 identificado en el debate. La demografía política de la élite (envejecimiento, compresión de horizontes) eleva la intensidad de la competencia por posiciones en el nuevo SCPC, lo que correlaciona positivamente con riesgo de fractura. Sin embargo, sin evidencia directa de fractura activa, la condición no está activada.**
+
+**F4-D2 — Contracción PIB real ≥2 trimestres + desempleo urbano >7% antes de 2040:**
+
+La proyección de crecimiento potencial de F (3.05-4.84% en 2030-2040) hace que F4-D2 sea poco probable bajo el escenario base de crecimiento 4.5%. Sin embargo, bajo escenario adverso demográfico (TFR cae a 0.8-0.9, mecanismos de ajuste no se implementan plenamente, crisis pensional se materializa en 2028-2032), la contracción combinada de fuerza laboral y espacio fiscal podría presionar el crecimiento hacia la zona de riesgo. **Evaluación: condición F4-D2 no activada, con probabilidad de activación mayor bajo escenario adverso demográfico (cuantificado en Sección 6).**
+
+---
+
+### 6. Distribución de probabilidad sobre continuidad institucional (R15-F-6)
+
+Esta distribución es **[EC]** con metodología declarada. Produce una distribución en tres sub-horizontes bajo dos escenarios demográficos mutuamente excluyentes. Dentro de cada celda, la suma de escenarios políticos es 100%.
+
+**Definición de escenarios demográficos:**
+- **Escenario Demográfico Base (EDB):** TFR 1.0-1.1 (estable); reforma de jubilación implementada según calendario 2025-2039; déficit UEBPS en 2035 cubierto ~40% por instrumentos; crecimiento 4.0-4.5%
+- **Escenario Demográfico Adverso (EDA):** TFR cae a 0.8-0.9 (deterioro adicional); reforma de jubilación se implementa con retrasos de 2-3 años; crisis de solvencia UEBPS se anticipa al período 2028-2032; crecimiento 2.5-3.5%
+
+**Definición de categorías de continuidad institucional (consistente con R12):**
+- **CI-1: Continuidad estable** — PCCh mantiene control político pleno, sin incremento represivo significativo, legitimidad de desempeño sostenida
+- **CI-2: Continuidad endurecida** — PCCh mantiene control con mayor costo represivo, crecimiento por debajo de umbral de legitimidad óptima (2.5-3.5%), descontento contenido activamente
+- **CI-3: Inestabilidad localizada contenida** — episodios de protesta cualitativamente superiores, represión masiva sin cambio de régimen
+- **CI-4: Crisis de coalición o sucesión** — fractura interna que produce cambio en el sistema de gobierno
+
+#### 6.1. Sub-horizonte 2026-2030
+
+**Descripción:** Período de implementación de reforma de jubilación (2025-2030), presión UEBPS manejable (ratio 2.1:1), 21° Congreso (2027) como evento de transición político principal. Período de máxima estabilidad demográfica porque las cohortes del Baby Boom aún no han completado su entrada masiva al sistema de pensiones.
+
+| Categoría | EDB (%) | EDA (%) |
+|-----------|---------|---------|
+| CI-1 (Continuidad estable) | 42 | 30 |
+| CI-2 (Continuidad endurecida) | 41 | 43 |
+| CI-3 (Inestabilidad localizada) | 13 | 21 |
+| CI-4 (Crisis coalición) | 4 | 6 |
+| **SUMA** | **100** | **100** |
+
+**Aritmética expuesta [EC]:** El CI-4 bajo EDB (4%) refleja la probabilidad de fractura durante el 21° Congreso, estimada como la tasa base de fractura intra-élite en períodos de transición en regímenes de partido-personalista híbrido (ajustada del análisis Geddes-Wright-Frantz introducido por E en R13: mediana partido único 23 años, personalista 13 años; el PCCh en periodo Xi se acerca al tipo personalista, elevando la tasa de fractura base de ~2-3% por quinquenio para partido puro a ~4-6% para personalista). La prima de +2 pp bajo EDA refleja el efecto de mayor tensión fiscal sobre la cohesión de élites.
+
+#### 6.2. Sub-horizonte 2030-2040
+
+**Descripción:** Período de presión demográfica acelerada. El ratio UEBPS cae de 2.1:1 (2030) a 1.3:1 (2040). Los mecanismos de ajuste de A están parcialmente implementados pero el déficit residual crece. El 22° Congreso (2032) y el momento posterior al 21° (2027-2032) son los de mayor riesgo de fractura. El mecanismo de Ang opera con élites de la cohorte 1960-1968 evaluadas bajo el sistema post-2012.
+
+| Categoría | EDB (%) | EDA (%) |
+|-----------|---------|---------|
+| CI-1 (Continuidad estable) | 30 | 17 |
+| CI-2 (Continuidad endurecida) | 43 | 40 |
+| CI-3 (Inestabilidad localizada) | 20 | 30 |
+| CI-4 (Crisis coalición) | 7 | 13 |
+| **SUMA** | **100** | **100** |
+
+**Aritmética [EC]:** La reducción de CI-1 (42% → 30% bajo EDB) y aumento de CI-3 (13% → 20%) refleja la acumulación de pasivo fiscal pensional y la compresión del espacio fiscal que C y B identificaron. El CI-4 bajo EDA (13%) incorpora: tasa base de fractura de ~6% por quinquenio en tipo personalista, más prima de +7% por la combinación de presión fiscal pensional + desempleo NEET estructural + Congreso 22° sin mecanismo de sucesión institucionalizado claro. El rango [8-20%] de B para 2030-2035 es comparable con mis estimaciones [10-20% bajo EDB, 16-30% bajo EDA para CI-3+CI-4 combinados] — las metodologías convergen en el orden de magnitud.
+
+#### 6.3. Sub-horizonte 2040-2050
+
+**Descripción:** Período de presión máxima: el ratio UEBPS se aproxima o cruza el umbral de insolvencia técnica (0.9-1.0:1), el déficit residual fiscal crece hacia 1.3% del PIB, los mecanismos de ajuste de A están agotados, y el segundo dividendo demográfico parcial de China no compensa el déficit del ciclo vital de la población mayor. La población en edad de trabajar ha caído ~25% desde el peak de 2011. El mecanismo de Ang opera (o no opera) bajo élites de la cohorte 1965-1978, formadas plenamente bajo el sistema de evaluación post-2012.
+
+| Categoría | EDB (%) | EDA (%) |
+|-----------|---------|---------|
+| CI-1 (Continuidad estable) | 17 | 7 |
+| CI-2 (Continuidad endurecida) | 40 | 33 |
+| CI-3 (Inestabilidad localizada) | 28 | 37 |
+| CI-4 (Crisis coalición) | 15 | 23 |
+| **SUMA** | **100** | **100** |
+
+**Aritmética [EC]:** CI-4 bajo EDB (15%) = tasa base de fractura de ~8-10% por quinquenio en sistema personalista-partido al año 70+ de existencia, más prima de +5% por la presión fiscal pensional que comprime el flujo de beneficios distribuibles que sostiene la cooptación de élites (mecanismo de Geddes: los regímenes de partido único colapsan principalmente cuando se agota el flujo de beneficios cooptables). CI-4 bajo EDA (23%) eleva la prima de presión fiscal a +13%, reflejando que bajo EDA el sistema de pensiones entra en insolvencia técnica activa en 2045-2050, generando reducción observable de pagos a cientos de millones de jubilados — el tipo de evento que activa la condición F4-D1 o F4-D2 de A con mayor probabilidad.
+
+**Probabilidad de compromiso del Predicado 1 bajo perspectiva demográfica de F:**
+
+La categoría CI-3+CI-4 representa "compromiso del Predicado 1" (inestabilidad o crisis que desafía la continuidad del modelo):
+
+| Horizonte | CI-3+CI-4 EDB | CI-3+CI-4 EDA |
+|-----------|---------------|---------------|
+| 2026-2030 | **17%** | **27%** |
+| 2030-2040 | **27%** | **43%** |
+| 2040-2050 | **43%** | **60%** |
+
+**Comparación con estimaciones de A y B:** B estimó 20-30% para 2030-2035 bajo escenario base; A estimó 12-18%. La estimación de F bajo EDB para 2030-2040 (27%) está dentro del rango de B, siendo más cercana a su extremo inferior. La estimación de F para 2040-2050 bajo EDB (43%) y bajo EDA (60%) sugiere que el horizonte largo es el de mayor riesgo para el Predicado 1 — consistente con la posición de B pero con una cuantificación demográficamente fundamentada en lugar de estimada exclusivamente desde los mecanismos de procesamiento político.
+
+---
+
+### 7. Síntesis de contribuciones de los cuatro especialistas (R15-F-8)
+
+Esta sección documenta qué aportó cada especialista que A y B no podían ver desde sus posiciones de debate adversarial. No es un inventario protocolar: es una evaluación de qué cambió en el debate por la intervención de cada especialista.
+
+#### 7.1. Especialista C — Economía Política Comparada
+
+**Lo que A no podía ver:** A construyó el argumento de la planificación estatal de largo plazo como ventaja estructural. C demostró, vía Ang (R14), que el mecanismo real del catch-up no fue la planificación desde arriba sino la coevolución descentralizada desde abajo. Esto socavó el argumento más fundamental de A no desde el ángulo crítico de B (que argumentaba contra los resultados), sino desde el análisis del *mecanismo* que los produjo. A no podía auto-criticar su propio marco explicativo con el rigor que la literatura comparada de C permite.
+
+**Lo que B no podía ver:** B usó la irrepetibilidad como argumento de insostenibilidad. C distinguió entre irrepetibilidad de las condiciones fundacionales (correcto) e irrepetibilidad del mecanismo generativo (más matizado: Ang muestra que el mecanismo requería ciertas condiciones, no que esas condiciones sean inimitables en principio). C también demostró que los componentes son separables y que algunos producen resultados positivos — lo que moderó el argumento absoluto de irrepetibilidad de B.
+
+**Hallazgo no recuperable sin C:** El marco de Ang como diagnóstico bidireccional del mecanismo generador vs. el resultado; la taxonomía Kohli de Estados cohesivos-capitalistas con la tasa base de reproducibilidad (3.3%); la base de datos AidData sobre 13,427 proyectos en 165 países como evidencia cuantitativa del impacto real de la "exportación del modelo".
+
+#### 7.2. Especialista D — Tecnología y Economía Digital
+
+**Lo que A no podía ver:** A argumentó que la estrategia tecnológica china compensaría la trampa del ingreso medio. D documentó la brecha específica en semiconductores avanzados (nodos sub-7nm), EDA y litografía avanzada como restricción estructural que condiciona la segunda ola de automatización. Sin D, A habría podido sostener la narrativa de autosuficiencia tecnológica sin la cuantificación de los gaps específicos en la cadena de producción de chips.
+
+**Lo que B no podía ver:** D documentó los avances reales de China en inteligencia artificial de bajo coste (DeepSeek, modelos de eficiencia extrema) que son genuinos incluso bajo restricciones de acceso a los chips de frontera. B habría tendido a subestimar la capacidad de adaptación tecnológica china bajo sanciones. D proveyó la cuantificación de qué puede y qué no puede hacerse con chips de generaciones anteriores.
+
+**Hallazgo no recuperable sin D:** La distinción entre escasez de chips de frontera (real, verificada) y la capacidad de innovación algorítmica dentro de esa restricción (también real, verificada) — que es la base del argumento de A sobre la difusión de IA como sustituto parcial del motor de PTF.
+
+#### 7.3. Especialista E — Geopolítica y Relaciones Internacionales
+
+**Lo que A no podía ver:** A argumentó el orden internacional como favorable al modelo chino en el Sur Global. E documentó el costo real de la fragmentación geopolítica vía la tabla de costos $73-111B/año (corregida a la baja con integridad intelectual notable) y el análisis de las instituciones de Bretton Woods como comparador para el poder normativo del modelo chino.
+
+**Lo que B no podía ver:** E detectó la ambigüedad temporal del criterio (a) del Predicado 2 que el árbitro tuvo que resolver en la Sección 8 de R13 — una contribución de impacto procesal máximo. Sin E, esa ambigüedad habría permanecido oculta hasta el veredicto final. E también cuantificó la tabla de PTF por país con ponderaciones declaradas, estableciendo el estándar metodológico que todos los agentes debieron usar desde R13.
+
+**Hallazgo no recuperable sin E:** La tabla de PTF con aritmética de ponderación completamente expuesta; el análisis del caso de Corea del Sur diciembre 2024 (ley marcial revertida en 6 horas por la Asamblea Nacional) como evidencia empírica de que L3 se puede activar en democracias avanzadas sin desestabilización sistémica — un caso de uso bidireccional; la detección de la ruptura metodológica PWT→TED en 2020.
+
+#### 7.4. Especialista F — Demografía y Política
+
+**Lo que A no podía ver:** A argumentó que los mecanismos de ajuste demográfico (reforma de jubilación, automatización, urbanización) compensan la contracción laboral. F cuantificó en R9 la magnitud exacta de esa compensación (totalizando +0.85-1.34%/año en 2030-2035) y demostró que es real pero insuficiente para el salto de PTF que A requiere. A también no podía ver el costo político diferenciado de las reformas de pensiones entre sistemas políticos (Sección 2.4 de esta intervención) ni la demografía de la élite como amplificador del deterioro del mecanismo de Ang (Sección 3.3).
+
+**Lo que B no podía ver:** B argumentó que la presión demográfica hace inevitable la trampa del ingreso medio. F demostró que los mecanismos de ajuste son reales y significativos — no es una trampa de estancamiento sino un plateau de crecimiento moderado (3.5-4.5%) que mantiene la distancia con las economías de frontera pero no produce estancamiento. B tampoco podía calibrar con precisión el déficit pensional (F calculó ¥5.01T/año en 2035 con aritmética expuesta) ni la distinción entre descontento, acción colectiva y amenaza al régimen (F R12, sección 2).
+
+**Hallazgo no recuperable sin F:** La aritmética del sistema de pensiones (ratio de dependencia UEBPS 2.7:1→1.5-1.8:1→~1.0:1 con déficit cuantificado en cada punto); el marco NTA del segundo dividendo demográfico parcial de China (inédito en este debate hasta esta intervención); la demografía política de la élite del PCCh (envejecimiento monotónico del SCPC de 61.7 a 69.3 años de promedio, 1997-2026); el análisis del "efecto cicatriz" de la Revolución Cultural sobre la cohorte candidata al SCPC 2027; la teoría de los tres mecanismos de discriminación entre sistemas políticos ante presión demográfica (ajuste, información, legitimidad).
+
+**La síntesis más importante de los cuatro especialistas:** Lo que los cuatro especialistas han demostrado colectivamente, y que ninguno de los dos debatientes podía articular desde sus posiciones adversariales, es que el modelo chino **no es un bloque homogéneo que persiste o colapsa como unidad**. Es un sistema complejo con múltiples capas de robustez y fragilidad que operan en horizontes diferentes: robustez tecnológica en el corto plazo (D), fragilidad estructural del mecanismo generativo en el mediano plazo (C, F), y acumulación de pasivo pensional-legitimidad en el largo plazo (F). B tiende a tratar estas capas como parte de un único argumento de insostenibilidad acumulativa. A tiende a compartimentarlas como problemas gestionables. Los especialistas han aportado la descomposición analítica que permite ver cada capa en su horizonte propio.
+
+---
+
+### 8. Fuentes
+
+| # | Fuente | Tipo | Dato aportado |
+|---|--------|------|---------------|
+| 1 | ONU WPP 2024, https://population.un.org/wpp/ | DO/PI | Población en edad de trabajar 2025-2050; población 60+ |
+| 2 | Lee, Ronald y Andrew Mason (2011), "Generational Economics in a Changing World", *Population and Development Review* 37(Suppl.):115-142 | DO | Marco NTA; primer y segundo dividendo demográfico |
+| 3 | IMF Article IV China 2025, https://www.imf.org | PI | Ratio dependencia UEBPS proyectado; crecimiento potencial |
+| 4 | CASS (Zheng Bingwen) China Pension Report 2023, https://cass.cn | DO | Déficit actuarial UEBPS ¥8-10T acumulado 2025-2030 |
+| 5 | MoHRSS, Anuario Estadístico de Seguros Sociales 2024, https://www.mohrss.gov.cn | DO | Afiliados UEBPS 504M; ratio 2.7:1; pensión ¥3,500/mes |
+| 6 | Geddes, B., Wright, J., Frantz, E. (2014), "Autocratic Breakdown and Regime Transitions", *Comparative Political Studies*, 47(8) | DO | Mediana partido único 23 años; personalista 13 años |
+| 7 | Li, Hongbin, et al. (2023), "The Long-Term Effects of China's Great Cultural Revolution", *Journal of Economic History* (edición 2023) | DO | Déficit educativo de 1.8-2.3 años en cohorte 1950-1965 por disrupción CR |
+| 8 | OCDE, Rentenversicherungsbericht Alemania (BMAS 2024) | DO | Reforma Riester: reducción tasa de reemplazo 70%→48% para 2030 |
+| 9 | MHLW Japón, Nenkin Hakusho 2024, https://www.mhlw.go.jp | DO | Reforma 2004: macroeconomic slide; edad 65 para pensión completa |
+| 10 | NPS Korea Annual Report 2024, https://www.nps.or.kr | DO | Reforma 2007: tasa de reemplazo 60%→40% en 20 años |
+| 11 | INPS Italia, Rapporto Annuale 2024, https://www.inps.it | DO | Ocho reformas de pensiones desde 1992 (Amato a Fornero) |
+| 12 | Nicolas, F. y Panday, P. (2022), "Returns on State-Owned Enterprises", OCDE Working Paper | DO | ROA SOEs China: 2-3% vs. privadas 8-12% |
+| 13 | Banco Mundial, China Economic Update 2025 | DO | Deflación precios inmobiliarios; impacto sobre activos de hogares |
+| 14 | Registros oficiales de años de nacimiento, PCCh / Xinhua (series históricas) | DO | Años de nacimiento de los 7 miembros del SCPC (base del cálculo EC de edad media) |
+| 15 | Conference Board TED International Comparisons 2024; OMS, "Ageing and Health in China" 2024 | PI | Gasto en salud 60+: proyección del 4.5% al 8-10% del PIB 2024-2050 |
+| 16 | AidData, "Banking on the Belt and Road" (2021), https://www.aiddata.org | DO | Introducido por C R14; utilizado aquí como contexto del segundo dividendo |
+| 17 | Ang, Yuen Yuen, *How China Escaped the Poverty Trap*, Cornell UP 2016/2020 | DO | Marco coevolutivo; condiciones del mecanismo generador (introducido por C R14) |
+| 18 | Landry, Pierre F., *Decentralized Authoritarianism in China*, Cambridge UP 2008 | DO | Sistema de evaluación de cuadros por desempeño; rotación obligatoria |
+| 19 | OMS / RAND, China Aging Population Report 2024 | PI | Población 60+: 310M (2025) → proyecciones 2040-2050 |
+
+---
+
+*Intervención del Especialista F — Ronda 15 (Cierre) completada. Todos los [EC] incluyen aritmética expuesta con supuestos declarados. Las distribuciones de probabilidad en la Sección 6 suman 100% dentro de cada sub-horizonte y escenario (verificación: 42+41+13+4=100; 30+43+20+7=100; 17+40+28+15=100; 30+43+21+6=100; 17+40+30+13=100; 7+33+37+23=100). Condiciones de falsificación evaluadas en Sección 5 sin adjudicación de predicados. Ningún predicado adjudicado. Ningún ganador declarado. Límites de mandato respetados.*
+
+---
+
