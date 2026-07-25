@@ -8591,3 +8591,276 @@ El listón no baja con el declive democrático. Sube con la aceleración democr�
 | 23 | ACFTU como extensión del PCCh, no sindicato autónomo | DO | Human Rights Watch | 2019 |
 | 24 | PTF G7 2021-2025: +0.7-1.0%/año (liderado por EE.UU. post-COVID) | DO | Conference Board TED 2024 | 2024 |
 | 25 | PI: PTF G7 con dividendo IA 2026-2030: 0.8-1.2%/año | PI | Conference Board Digital Economy Report 2024 | 2024 |
+
+---
+
+## Intervención del Proponente — Ronda 13
+
+### Respuesta directa al argumento anterior
+
+B ha producido su intervención más ordenada del debate. Reconozco la calidad técnica de su tabla de PTF y la corrección de los cuatro casos de autocorrección. Sin embargo, B ha cometido el error estructural más grave del debate al hacer dos concesiones simultáneas que, bajo la definición vinculante del Predicado 2 adoptada por el árbitro en R11, satisfacen la tesis que estoy defendiendo. Dedico la sección 2 a documentar esto con aritmética expuesta. El resto de la intervención responde a cada reto en orden de prioridad.
+
+---
+
+### 1. Tesis central de esta ronda
+
+Las democracias liberales no están en colapso terminal. B tiene razón en eso, y lo concedo explícitamente. La pregunta de esta ronda no es si las democracias colapsarán, sino si su capacidad de autocorrección representa una ventaja comparativa sistémica suficiente para afirmar que el modelo chino no puede competir con ellas a largo plazo. Mi tesis en esta ronda tiene tres partes: (a) el Predicado 2 ya está satisfecho bajo la definición vinculante de G R11, con dos criterios concedidos por B en su R13, independientemente del resultado del criterio (a) de PTF; (b) el argumento de autocorrección democrática, aunque real, tiene asimetrías documentadas que B no ha cuantificado comparativamente; (c) el argumento fiscal-demográfico tiene mecanismos de respuesta concretos que B no ha considerado en su combinación real.
+
+---
+
+### 2. La victoria en los criterios (b) y (c): consecuencias para el Predicado 2 [A-13-5]
+
+Este es el hecho central de la Ronda 13 y debe quedar registrado con precisión.
+
+**La definición vinculante del Predicado 2 (adoptada en G R11):** el modelo satisface al menos **2 de 3** indicadores frente a G7/democracias avanzadas:
+- **(a)** crecimiento de PTF > promedio G7 en ≥2 quinquenios
+- **(b)** participación creciente en exportaciones de alta complejidad (SITC Rev.4 grupos 7+8, ex re-exportaciones)
+- **(c)** convergencia efectiva del PIB per cápita hacia el umbral de ingreso alto (reducción del diferencial relativo, NO cruce absoluto de $22K como eliminatorio)
+
+**Estado tras R13:**
+
+| Criterio | Estado | Quién concedió | Texto de la concesión |
+|---|---|---|---|
+| **(b)** Exportaciones alta complejidad | **SATISFECHO — CONCEDIDO** | B en ronda anterior | Concesión registrada y vinculante |
+| **(c)** Convergencia relativa PIB per cápita | **SATISFECHO — CONCEDIDO** | B en su R13, Sección 3 | "Retiro mi conclusión de R12... el criterio (c) de convergencia relativa se satisface en el horizonte 2024-2040" |
+| **(a)** PTF > G7 en ≥2 quinquenios | Disputado | — | — |
+
+**Aritmética de la concesión (c) reproducida de B para verificación [EC]:**
+
+Cito textualmente la aritmética que B presentó en Sección 3 de su R13:
+- Ratio China/G7 en 2024: 24% ($13,200 / $55,000)
+- Ratio en 2030: **27.2%** (diferencial relativo cae de 76% a 73%)
+- Ratio en 2040: **32.1%** (diferencial relativo cae de 76% a 68%)
+
+B mismo concluyó: "el diferencial relativo cae de 76% en 2024 a 73% en 2030 y 68% en 2040. Eso ES reducción sostenida del diferencial relativo." Y luego: "Retiro mi conclusión de R12... el criterio (c)... **se satisface en el horizonte 2024-2040** si China mantiene la trayectoria proyectada."
+
+**Consecuencia lógica obligatoria:** (b) concedido + (c) concedido = 2 de 3 criterios bajo la definición vinculante. El **Predicado 2 está satisfecho** independientemente del resultado del criterio (a).
+
+Esto no significa que el debate termine: el Predicado 1 (estabilidad institucional y legitimidad) sigue en disputa, y el criterio (a) sigue siendo relevante para la fuerza de la argumentación. Pero el umbral binario del Predicado 2 está cumplido. B no puede rescatar esto sin impugnar la definición vinculante adoptada por G en R11.
+
+**Aritmética propia bajo escenario conservador [EC — aritmética expuesta]:**
+
+- Escenario conservador: China crece al 3.8% real 2025-2030; G7 al 1.9%
+- PIB per cápita China 2030: $13,200 × (1.038)^6 = $16,540 [EC]
+- PIB per cápita G7 2030: $55,000 × (1.019)^6 = $61,930 [EC]
+- Ratio 2030: 16,540/61,930 = **26.7%** (diferencial relativo = 73.3% vs. 76% en 2024) → criterio (c) satisfecho incluso bajo escenario conservador [EC]
+
+Horizonte 2035: Con 3.5% China y 1.9% G7:
+- China: $16,540 × (1.035)^5 = $19,620 [EC]
+- G7: $61,930 × (1.019)^5 = $68,110 [EC]
+- Ratio 2035: **28.8%** (diferencial 71.2% vs. 76% en 2024) [EC]
+
+La convergencia relativa es monotónicamente positiva bajo cualquier supuesto que mantenga China creciendo 1.5-2.2 pp más rápido que el G7 — diferencial proyectado por el FMI, el Banco Mundial y el propio B. [PI — FMI World Economic Outlook, abril 2025]
+
+---
+
+### 3. PTF prospectiva: mecanismo de aceleración china en 2026-2030 [A-13-6]
+
+B plantea el reto correcto: el VC tecnológico chino se contrajo de $130,000M a $33,000M entre 2021 y 2024, y eso debería deprimir la PTF prospectiva. Respondo con cuatro mecanismos que B no consideró.
+
+**Mecanismo 1 — Inversión pública en I+D como sustituto parcial del VC privado colapsado [DO]**
+
+El gasto total en I+D de China superó los 3.61 billones de yuanes en 2024, incremento del 8.3% sobre 2023, con intensidad de I+D alcanzando el **2.68% del PIB** — por encima del promedio de la UE (2.11%) y prácticamente empatando el promedio OCDE (2.73%) [DO — NBS China, febrero 2025; OECD Science and Technology Indicators, marzo 2025]. La tasa de crecimiento anual promedio del gasto en I+D chino en 2021-2024 fue del **10.5%** [DO — OECD, marzo 2025].
+
+Concesión calibrada: el VC privado produce innovación de frontera que la inversión pública no puede replicar eficientemente en software de consumo y biotecnología no dirigida. La PTF sectorial en IA de consumo probablemente sufrirá. La PTF en manufactura de precisión, energía limpia y automatización industrial probablemente no. El efecto neto sobre la PTF agregada es incierto, no determinísticamente negativo. [EI — horizonte 2027-2030]
+
+**Mecanismo 2 — DeepSeek y la ingeniería de eficiencia computacional como PTF real [DO]**
+
+DeepSeek-V3 (diciembre 2024) y DeepSeek-R1 (enero 2025) igualaron benchmarks de modelos de frontera estadounidenses a una fracción del costo computacional [DO — CSIS, "DeepSeek, Huawei, Export Controls, and the Future of the U.S.-China AI Race", enero 2025]. La restricción de chips ha producido un incentivo endógeno a la eficiencia que puede generar PTF a través de un canal no anticipado: la optimización algorítmica como sustituto de la potencia computacional bruta.
+
+China presentó 35,423 solicitudes de patentes de IA en 2024, más que EE.UU., UK, Canadá, Japón y Corea del Sur combinados [DO — WIPO 2025]. Las empresas chinas presentaron 20,081 solicitudes al EPO en 2024, 10.1% del total global [DO — EPO Annual Report 2025].
+
+**Mecanismo 3 — Automatización industrial y robot density como palanca de PTF [EC]**
+
+China instaló 276,288 robots industriales en 2023, el 70% del total mundial [DO — IFR World Robotics Report 2024]. La robot density pasó de 322 robots/10,000 trabajadores en 2021 a 470 en 2023 [DO — IFR 2024], superando a Alemania (415) en volumen bruto. La automatización industrial opera como PTF positiva independientemente de la restricción en chips de IA de frontera.
+
+**Mecanismo 4 — El denominador importa: PTF media del G7 es heterogénea [DO]**
+
+La PTF media del G7 de +0.7-1.0% en 2021-2025 (cifra de B) incluye a Japón (+0.2-0.4%/año), Italia (+0.1-0.3%), Francia (+0.5%) y Alemania (+0.5-0.7%) — economías con serios problemas de productividad estructural [DO — Conference Board TED 2024]. La aceleración proyectada de PTF del G7 para 2026-2030 está concentrada en EE.UU. y UK. Si la PTF estadounidense sube a 1.5-1.8% pero la francesa, italiana y japonesa permanecen en 0.3-0.5%, la media G7 se sitúa en 0.8-1.0%. China necesita superar esa media, no superar a EE.UU. individualmente. [EC — horizonte 2030]
+
+**Síntesis sobre (a) [EI]:** Asigno al criterio (a) para 2026-2030 una probabilidad media (40-55%) de que China supere la media G7. El canal de automatización y eficiencia algorítmica es real; el colapso del VC es un pasivo real; el efecto neto es genuinamente incierto. Sin embargo, dado que (b) y (c) ya están satisfechos, la incertidumbre sobre (a) no cambia el resultado del Predicado 2.
+
+---
+
+### 4. Umbral de falsación reconstruido [A-13-1]
+
+Acepto el umbral operativo de G R12 con una modificación justificada y produzco una condición sobre la vía de colapso fiscal del Predicado 1.
+
+**Serie de desempleo juvenil declarada [DO]:**
+
+Uso la serie NBS China para desempleo juvenil urbano 16-24 (excluye estudiantes, metodología post-agosto 2023), con la tasa NEET de CASS al 16.1% como indicador complementario. Para comparación con democracias liberales, uso Eurostat Labour Force Survey (15-24, metodología armonizada ILO). Traducción entre series: la serie NBS China equivale aproximadamente a la tasa Eurostat para la cohorte 20-24 en términos de población activa; el 18.9% chino es comparable al 19-21% europeo (no al 14% total de Eurostat que incluye estudiantes).
+
+**Condición de falsación del Predicado 1 — vía fiscal [condición F4]:**
+
+Declaro falsado el Predicado 1 por la vía fiscal si, en el período 2025-2035, concurren **simultáneamente**:
+
+1. Déficit acumulado del sistema de pensiones urbanas supera ¥4.0 billones/año antes de 2033 (dentro del rango ¥3.4-5.0T del árbitro) **Y**
+2. Contracción ≥2% del gasto en educación, salud o infraestructura a nivel subnacional en ≥5 provincias por dos años consecutivos **Y**
+3. Crecimiento real por debajo de 3.0% durante ≥2 años consecutivos.
+
+La concurrencia de las tres condiciones constituye colapso fiscal que no puede ser absorbido por los mecanismos de la Sección 5. Ninguna condición individual es falsificadora sola.
+
+---
+
+### 5. Respuesta al argumento fiscal-demográfico [A-13-2]
+
+El déficit base reconocido: ¥4.0T/año en 2035 como punto central [EC]. Produzco cuatro instrumentos concretos con costo en legitimidad.
+
+**Salida 1 — Incremento de la edad de jubilación [DO, implementado]**
+
+China anunció e inició en Q4 2024 el primer incremento gradual de la edad de jubilación desde 1978, con aumento de 3-5 años en horizonte 2025-2040 [DO — State Council, septiembre 2024]. Efecto fiscal estimado: reducción del déficit proyectado en 15-20% [EC — comparable a reforma italiana de 2011 que redujo déficit pensional a 20 años en 18-22% según OCDE]. **Costo en legitimidad:** Tipo 1 (fricción real, documentada en redes sociales chinas). Tipos 2-4: negligible a corto plazo.
+
+**Salida 2 — Transferencia de activos estatales al fondo de pensiones [DO, iniciado]**
+
+Transferencia del 10% del capital de las SOE al NSSF. El valor de activos de SOE supera los ¥300 billones [DO — SASAC Annual Report 2024]. Una transferencia adicional del 10% equivale a ¥30T de activos productivos con rentabilidad conservadora del 3-4% anual = **¥0.9-1.2T/año adicionales** [EC: ¥30T × 3.5% = ¥1.05T/año]. Cobertura: 21-31% del déficit central de ¥4.0T. **Costo en legitimidad:** Tipo 1 (mercado puede interpretar dilución de SOEs negativamente), Tipo 3 (gestores de SOE pueden percibir erosión de su base de recursos). Tipos 2 y 4: sin impacto directo.
+
+**Salida 3 — Balancing mechanism interprovincial [DO, implementado 2022]**
+
+En febrero 2022, China implementó nivelación nacional del fondo de pensiones urbanas, permitiendo que déficits provinciales sean compensados con superávits de provincias excedentarias [DO — State Council, febrero 2022]. **Costo en legitimidad:** Fricción intraprovincial (Tipo 3 — élites provinciales superavitarias), gestionable mediante la centralización política ya ejecutada.
+
+**Salida 4 — Incremento de cotizaciones y ampliación de base contributiva [EC]**
+
+Tasa de cotización actual: 28% (empleador + empleado). Formalización progresiva de ~297M de migrantes contribuiría ¥0.4-0.8T adicionales/año para 2030 [EC: 297M × 30% de formalización × cotización media de ¥5,000/año = ¥0.45T/año]. **Costo en legitimidad:** Tipo 1 positivo (ampliar cobertura = desempeño material), costo en sector empresarial.
+
+**Combinación de las cuatro salidas — aritmética expuesta [EC — horizonte 2035]:**
+
+| Instrumento | Reducción del déficit de ¥4.0T/año | Tipo |
+|---|---|---|
+| Incremento edad jubilación | ¥0.6-0.8T/año | [EC] |
+| Transferencia activos SOE (rendimiento) | ¥0.9-1.2T/año | [EC] |
+| Nivelación interprovincial | Efecto en riesgo, no en total | [DO] |
+| Formalización migrantes | ¥0.4-0.8T/año | [EC] |
+| **Total cubierto** | **¥1.9-2.8T/año** | |
+| **Déficit residual** | **¥1.2-2.1T/año** | [EC] |
+
+El déficit residual de ¥1.2-2.1T/año en 2035 es real. Pero representa el **0.7-1.0% del PIB** proyectado chino para 2035 [EC — PIB China 2035: ~¥200T], financiable mediante deuda soberana nacional (diferencial rendimiento bonos chinos/inflación: ~1.5-2.0% [DO — PBOC, 2024]).
+
+**Comparación internacional [DO]:** Italia financia déficit pensional equivalente al ~16% del PIB/año; Francia ~14%; Japón ~10% [DO — OCDE Pension Outlook 2023]. El déficit residual chino proyectado equivale al 0.7-1.0% del PIB — una orden de magnitud menor. China tiene ahorro doméstico del 44% del PIB [DO — Banco Mundial 2023], deuda pública bruta ~84% del PIB con capacidad de incremento en moneda doméstica bajo coordinación del PBOC [DO — FMI Fiscal Monitor 2024], y acceso a represión financiera dirigida. Los instrumentos son distintos a los de las democracias avanzadas pero la capacidad de financiar el déficit residual es comparable o superior en esta función específica.
+
+---
+
+### 6. Defensa del Tipo 4 de legitimidad frente a Roberts et al. [A-13-3]
+
+B invoca a Roberts et al. sobre Xuexi Qiangguo para argumentar que el Tipo 4 (adhesión cívica-nacionalista) no refleja adhesión genuina sino cumplimiento performativo.
+
+**Concesión parcial:** Roberts et al. ["The Platformization of Propaganda", *IJoC*, 2021] demuestra que la plataforma opera mediante vigilancia, ranking y gamificación, produciendo sesgo de compliance. No toda la participación es adhesión genuina.
+
+**Sin embargo la objeción no cierra el argumento por tres razones:**
+
+**Razón 1 — Confunde mecanismo con resultado:** En ciencia política comparada, lo que importa para la estabilidad del régimen no es si la legitimidad es "auténtica" en términos filosóficos, sino si produce comportamiento de apoyo y no oposición. El cumplimiento performativo masivo y sostenido **es funcionalmente equivalente a la legitimidad** para los efectos de estabilidad. Przeworski (1991) demostró que los regímenes no necesitan consenso genuino; necesitan comportamiento conforme suficientemente generalizado para que la oposición se perciba como aislada y costosa.
+
+**Razón 2 — Reclasificación del Tipo 4:** Acepto la crítica y reformulo como **"conformidad cívica inducida estructuralmente"** — un tipo que no requiere creencia interna pero produce resultados políticos funcionalmente equivalentes. El PCCh no necesita que los ciudadanos crean en Xuexi Qiangguo; necesita que no se organicen en oposición. El cumplimiento performativo masivo produce exactamente ese resultado.
+
+**Razón 3 — Argumento comparativo sigue siendo válido:** La participación electoral en EE.UU. cayó al 49% en midterms 2022 [DO — US Census Bureau, 2023]; la confianza en instituciones democráticas cayó al 29% en EE.UU. según Gallup 2023 [DO]. Las democracias del G7 también operan con legitimidades parcialmente performativas y brechas entre adhesión declarada y comportamiento real.
+
+**La diferencia que concedo:** La legitimidad performativa en las democracias tiene la válvula del voto que convierte el descontento en rotación política sin amenazar el régimen. En China, la conformidad performativa sin válvula de escape acumula presión latente — pasivo real integrado en la condición F4 de mi umbral de falsación.
+
+---
+
+### 7. Independencia de al menos dos reservas de legitimidad respecto del canal fiscal [A-13-4]
+
+**Reserva A — Legitimidad soberana-nacional (Tipo 2): independencia ALTA del canal fiscal**
+
+La legitimidad basada en soberanía, narrativa del "siglo de humillación" y posición internacional no depende directamente del desempeño económico a corto plazo. Durante el COVID cero (2021-2022), con el PIB creciendo solo 3.0%, la narrativa soberana y el apoyo al liderazgo de Xi permaneció consistente en las encuestas disponibles [DO — Ash Center Survey, Harvard Kennedy School, 2022]. Los indicadores de soberanía nacional (posición en G20, avances tecnológicos, Taiwan como objetivo declarado) tienen dinámica propia independiente del saldo del fondo de pensiones.
+
+El mecanismo causal de independencia: la narrativa soberanía/humillación opera sobre memoria histórica colectiva y política exterior, no sobre el saldo del fondo de pensiones. Una persona puede ver amenazada su pensión y seguir apoyando la posición de China sobre Taiwan. Esto es compartimentación perfectamente documentada en ciencia política (Yarhi-Milo, "Knowing the Adversary", 2014).
+
+**Límite de independencia:** Si el deterioro fiscal produce contracción severa del gasto en bienes públicos durante ≥5 años, la narrativa soberana puede ser insuficiente. Por eso mi condición F4 requiere la concurrencia de tres factores.
+
+**Reserva B — Legitimidad de capacidad tecnológica (Tipo 3 reformulado): independencia MEDIA del canal fiscal**
+
+La demostración de capacidad tecnológica autónoma — satélites, DeepSeek, 5G de Huawei, tren de alta velocidad — opera sobre un canal de legitimidad que no requiere distribución fiscal directa. El lanzamiento de DeepSeek-R1 en enero 2025 generó impacto documentado en redes sociales domésticas independientemente del ciclo económico [DO — Caixin Global, enero 2025].
+
+**Independencia respecto del canal fiscal:** La inversión en I+D chino creció al 8.3% en 2024 [DO — NBS 2024] y está blindada presupuestariamente en el 14° Plan Quinquenal. Incluso bajo ajuste fiscal severo, el gasto en I+D estratégico es el último ítem en ser recortado — lo opuesto de lo que ocurre en democracias donde la ciencia básica es vulnerable en ciclos de austeridad.
+
+---
+
+### 8. Respuesta a los cuatro casos de autocorrección de B [A-13-7]
+
+B presenta cuatro casos bien documentados. Los reconozco como reales. Sin embargo, el argumento tiene tres debilidades que B no ha cuantificado.
+
+**Sobre el Caso 1 — Crisis bancaria EE.UU. 2008-2012:**
+
+La corrección regulatoria tomó 22 meses. La corrección económica tomó 4-5 años. El desempleo llegó al 10% [DO — BLS]; el PIB cayó 4.3% en 2009 [DO — BEA]; la mediana de riqueza del quintil inferior perdió el 44% entre 2007 y 2010 [DO — Fed Survey of Consumer Finances 2010]. B mide el tiempo hasta la corrección regulatoria; no cuantifica el costo social de la corrección.
+
+Pregunta directa sin respuesta: ¿puede China producir una crisis bancaria sistémica equivalente dado que el PBOC puede intervenir directamente y controla los depósitos? Mi posición: el modelo autoritario tiene menor capacidad correctiva institucional pero mayor capacidad preventiva de pánico bancario sistémico vía intervención directa.
+
+**Sobre el Caso 2 — España/Grecia:**
+
+Las cuatro válvulas de B son reales. Pero B no responde cuál es el mecanismo por el que el sistema democrático **permitió** que España llegara al 55% de desempleo juvenil antes de activar esas válvulas. El mecanismo democrático correcto no impidió la crisis; la procesó después de que se desarrollara completamente.
+
+Sobre las cuatro válvulas específicas:
+- **Válvula 1 (alternancia):** Real pero la alternancia italiana (66 gobiernos desde 1945 [DO — Parlamento italiano]) puede producir inestabilidad de política que retarda la corrección. La estabilidad de política de largo plazo tiene valor para la inversión que la alternancia frecuente puede erosionar.
+- **Válvula 2 (transferencias supranacionales):** Real. El equivalente chino es el mecanismo de nivelación interprovincial: China ES el mecanismo supranacional para sus provincias.
+- **Válvula 3 (movilidad laboral):** Parcialmente real. Los 297M de migrantes internos demuestran que la movilidad real, aunque imperfecta, existe internamente.
+- **Válvula 4 (sindicatos independientes):** Real debilidad. Sin embargo, la ausencia de sindicatos independientes elimina también el poder de veto sindical sobre reformas de productividad — exactamente la rigidez laboral que ha dificultado la reforma del mercado laboral en Francia e Italia durante décadas.
+
+**Sobre el Caso 3 — Reino Unido/Truss, 44 días:**
+
+El caso es correcto. Sin embargo, B no menciona que la crisis misma fue producida por el sistema democrático: un partido con mayoría parlamentaria pudo aprobar en 72 horas una política fiscal radicalmente errónea sin contrapeso institucional previo. La corrección fue rápida; la producción del error también lo fue. En un sistema con mayor control centralizado de la política fiscal, es estructuralmente más difícil que un actor ejecute un cambio tan radical sin revisión interna previa.
+
+Concesión sobre la asimetría: el PCCh tiene mayor dificultad para reconocer errores públicamente. La reversión del COVID cero en diciembre 2022 fue real pero se ejecutó sin reconocimiento del error en los tres años de política anterior.
+
+**Sobre el Caso 4 — Alemania/GNL, 18 meses:**
+
+El caso es correcto. Pero: (a) el costo fue una recesión industrial — el PIB alemán cayó en 2023 (-0.3%) y 2024 (-0.2%) [DO — Destatis]; (b) la velocidad de construcción requirió suspensión de regulaciones ambientales normales — exactamente el tipo de decisión centralizada que las democracias normalmente no pueden hacer; (c) la solución transfirió el costo a los consumidores industriales; el índice de precios a la producción industrial subió 46% en 2022 [DO — Destatis].
+
+**Síntesis sobre autocorrección:** Las democracias corrigen errores. Los cuatro casos son reales. Pero B no ha demostrado que el **costo de la corrección democrática** sea menor que el costo de la gestión autoritaria del mismo shock. Lo que B ha demostrado es que las democracias sobreviven a los shocks — lo que nunca afirmé que no hicieran. La ventaja comparativa de las democracias en corrección se compensa parcialmente con la desventaja en prevención de acumulación de errores que el sistema democrático permite que sean mayoritarios antes de ser corregidos.
+
+---
+
+### 9. Gasto en seguridad doméstica [A-13-8]
+
+El gasto en seguridad pública interna de China fue de aproximadamente **¥1.44 billones** en 2022 según estimaciones académicas [DO-EI — *China Quarterly*, Cambridge University Press, "China's Internal Security Spending: An Assessment of New Data"]. La componente de policía armada (Armed Police): **¥167,449M en 2024** y ¥156,215M en 2023 [DO — CEIC Data / Ministerio de Finanzas de China].
+
+En períodos recientes, el gasto en seguridad doméstica ha superado o igualado el presupuesto de defensa declarado, inusual incluso para Estados autoritarios comparables [DO — Jamestown Foundation]. 
+
+Integración en el argumento: (a) es un gasto que compite con el espacio fiscal disponible para pensiones y bienes públicos — costo real integrado en la Sección 5; (b) demuestra que el PCCh invierte activamente en prevención de acumulación de descontento organizado, elevando el umbral de activación de la Etapa 3 del mecanismo de B. El gasto en seguridad es costoso fiscalmente pero eficaz funcionalmente como sustituto de las válvulas democráticas.
+
+Reconocimiento de límite: parte del gasto en seguridad está en presupuestos subnacionales y partidas no reportadas. La cifra de ¥1.44T es un piso, no un techo. Etiqueto como [DO-EI] por la opacidad metodológica señalada por la propia *China Quarterly*.
+
+---
+
+### 10. Retos a B para R14 [B-14-X]
+
+**B-14-1 (PRIORIDAD ABSOLUTA — Consecuencias del Predicado 2):** B concedió los criterios (b) y (c) en R13. Bajo la definición vinculante de G R11, el Predicado 2 está satisfecho. Para R14, B debe: (a) impugnar formalmente la definición vinculante con justificación procedimental, o (b) reconocer que el Predicado 2 está satisfecho y redefinir su tesis al Predicado 1 exclusivamente, o (c) demostrar que los criterios (b) y (c) concedidos ya no se satisfacen bajo la aritmética de 2026-2030 con evidencia nueva. No puede ignorar las concesiones de R13.
+
+**B-14-2 (ALTA — Costo de la corrección democrática):** B ha documentado que las democracias corrigen errores. No ha documentado el costo de esas correcciones comparado con la gestión china de shocks equivalentes. Para R14, B debe responder: ¿cuál es el costo en PIB, desempleo y años de ajuste de las correcciones democráticas documentadas, y cómo se compara con los episodios equivalentes en China?
+
+**B-14-3 (ALTA — Heterogeneidad de la media G7 en PTF):** B proyecta que el dividendo de IA eleva la PTF del G7 a 0.8-1.2%/año en 2026-2030. Debe declarar la distribución de esa proyección entre los siete miembros. Si la aceleración está concentrada en EE.UU. y UK, la media G7 relevante puede permanecer en 0.7-0.9%.
+
+**B-14-4 (MEDIA — COVID cero como caso de autocorrección autoritaria):** El árbitro indicó explícitamente que la reversión del COVID cero debe evaluarse con el mismo rasero que los cuatro casos de autocorrección democrática. B no lo incluyó en R13. Para R14, B debe evaluar el caso y explicar cómo clasifica esta reversión bajo su tipología de autocorrección.
+
+**B-14-5 (MEDIA — Válvulas vs. prevención de acumulación de crisis):** ¿Cuál es el mecanismo por el que el sistema democrático permitió que España llegara al 55% de desempleo juvenil antes de activar las válvulas institucionales? ¿Puede demostrar que el modelo chino, con su capacidad de intervención directa en empleo e inversión pública, hubiera permitido que el desempleo llegara al nivel equivalente antes de intervenir?
+
+---
+
+### Tabla de evidencia
+
+| # | Afirmación | Tipo | Fuente |
+|---|---|---|---|
+| 1 | China I+D: ¥3.61T en 2024, +8.3% anual, intensidad 2.68% PIB | DO | NBS China, febrero 2025; OECD, marzo 2025 |
+| 2 | Promedio OCDE de I+D: 2.73%; UE: 2.11% | DO | OECD MSTI, marzo 2025 |
+| 3 | China: 35,423 solicitudes patentes IA en 2024 | DO | WIPO 2025 |
+| 4 | Empresas chinas: 20,081 solicitudes al EPO en 2024, 10.1% del total | DO | EPO Annual Report 2025 |
+| 5 | DeepSeek-V3/R1: igualó benchmarks de frontera a fracción del costo computacional | DO | CSIS, enero 2025 |
+| 6 | China: 276,288 robots industriales en 2023, 70% del total mundial; density 470/10,000 | DO | IFR World Robotics Report 2024 |
+| 7 | CASS: fondo pensiones urbanas agotado hacia 2035, déficits desde 2028 | DO | CASS 2019; MERICS 2023 |
+| 8 | China: incremento gradual de edad de jubilación anunciado en Q4 2024 | DO | State Council China, septiembre 2024 |
+| 9 | Mecanismo de nivelación interprovincial de pensiones | DO | State Council, febrero 2022 |
+| 10 | Activos SOE: >¥300T según SASAC 2024 | DO | SASAC Annual Report 2024 |
+| 11 | Trabajadores migrantes con hukou rural: 297M | DO | NBS China 2024 |
+| 12 | Ahorro doméstico China: 44% PIB | DO | Banco Mundial 2023 |
+| 13 | Deuda pública bruta China: ~84% PIB en 2024 | DO | FMI Fiscal Monitor 2024 |
+| 14 | Pensiones como % PIB: Italia ~16%, Francia ~14%, Japón ~10% | DO | OCDE Pension Outlook 2023 |
+| 15 | Xuexi Qiangguo: compliance performativo | DO | "The Platformization of Propaganda", IJoC, 2021 |
+| 16 | Confianza institucional EE.UU.: 29% Gallup 2023 | DO | Gallup, 2023 |
+| 17 | Participación electoral EE.UU. midterms 2022: 49% | DO | US Census Bureau, 2023 |
+| 18 | PIB Alemania: -0.3% en 2023, -0.2% en 2024 | DO | Destatis |
+| 19 | Gasto seguridad interna China: ~¥1.44T en 2022; armed police ¥167,449M en 2024 | DO-EI | China Quarterly / CEIC Data |
+| 20 | Ratio China/G7 2024: 24%; 2030: 27.2%; 2040: 32.1% (concesión de B en R13) | EC | B R13, Sección 3 — concesión vinculante |
+| 21 | Desempleo EE.UU.: 10% en octubre 2009 | DO | BLS |
+| 22 | Italia: 66 gobiernos desde 1945 | DO | Parlamento italiano |
+| 23 | Ash Center Survey, última ronda completa 2022: apoyo al liderazgo consistente durante COVID cero | DO | Harvard Kennedy School, Ash Center, 2022 |
+| 24 | Indice precios producción industrial Alemania 2022: +46% | DO | Destatis |
+| 25 | PTF China 2021-2025 [DO-EI] vs. G7 +0.7-1.0% — criterio (a) empate o marginalmente negativo | DO-EI | Conference Board TED 2024 / IMF Art. IV 2025 |
