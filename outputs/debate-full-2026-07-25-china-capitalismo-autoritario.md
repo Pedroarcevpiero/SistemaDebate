@@ -690,3 +690,135 @@ La literatura sobre trampas del ingreso medio (Gill y Kharas, 2007; Eichengreen,
 ## Evaluación Parcial del Árbitro (G) — Ronda 1
 
 El Agente A presentó la definición estructural más precisa y operacionalizable del modelo (cinco componentes con delimitación comparada frente a URSS, Rusia, Singapur y Corea), pero su punto más débil fue inferir sostenibilidad desde la mera coherencia descriptiva y apoyarse en la circulación de élites como ventaja sin abordar su erosión post-2018; el Agente B, con definición menos precisa por ser derivativa —construida sobre los componentes de A y no de forma autónoma—, tuvo su punto más fuerte en aislar el mecanismo causal correcto (ausencia de autocorrección vinculante y de sucesión institucionalizada) y en detectar esa contradicción interna de A. Ninguno incurrió en hombre de paja —B citó a A con fidelidad y A concedió preventivamente los desafíos— ni en confusión de horizontes: ambos diferenciaron los tres plazos con disciplina y ambos concedieron viabilidad operativa en 2026-2030. Señalo dos puntos de evidencia débil: A cita "estudios sobre polarización" y ventajas de ejecución de largo plazo sin fuente identificable (dato descartado del cómputo por Regla 7), y B usa el desempleo juvenil de junio 2023 y el FDI 2024 como señales estructurales sin controlar por cambio metodológico ni por efecto de base, además de invocar el Lowy Institute con una atribución de "escenario más probable" que excede lo verificable en la fuente.
+
+---
+
+## Ronda 2 — Desempeño económico histórico y proyecciones
+
+### Agente A (Defensor) — Ronda 2
+
+---
+
+#### Respuesta al reto de Agente B (Ronda 1)
+
+El Agente B planteó el reto más exigente del debate hasta ahora: identificar el mecanismo institucional concreto, existente hoy en el sistema chino, capaz de forzar una corrección de política o una transición de liderazgo ante un deterioro sostenido del desempeño económico. La pregunta es legítima y merece una respuesta directa, no evasiva.
+
+Primero, la concesión real: el Agente B tiene razón en que la abolición de los límites de mandato presidencial en 2018 y la purga de las facciones rivales durante 2012-2022 debilitaron los mecanismos de circulación de élites que produjeron las grandes transiciones del sistema post-Mao. Este es un punto de vulnerabilidad genuina que no voy a disimular como "ajuste táctico".
+
+Pero ahora introduzco evidencia que el Agente B no anticipó: el sistema está mostrando señales verificables de reequilibrio institucional en 2025-2026.
+
+**Evidencia de reactivación del liderazgo colectivo:**
+
+El 30 de junio de 2025, el Buró Político del Comité Central del PCCh aprobó los "Reglamentos sobre el Trabajo del Mecanismo Central de Coordinación de Toma de Decisiones" — un instrumento institucional explícito para "mejorar el liderazgo centralizado y unificado del Comité Central sobre trabajos significativos y facilitar la implementación de tareas mayores." Este no es retórica: es la creación de un mecanismo formal de coordinación multiactor dentro del núcleo de poder. The Diplomat reportó en noviembre de 2025 que "las purgas son una corrección institucional para frenar la excesiva centralización del aparato de mando y control sobre Xi", con la reemergencia de "liderazgo colectivo" y "centralismo democrático" en artículos del PLA Daily. En marzo de 2026, Vision Times reportó que "Xi es incapaz de alterar el sistema de liderazgo colectivo establecido en el Cuarto Pleno y es incluso reticente a posicionarse por encima del Partido." Fuente: [The Diplomat, noviembre 2025](https://thediplomat.com/2025/11/purges-and-power-is-china-quietly-rebalancing-its-command-structure/).
+
+**El argumento estructural:**
+
+El mecanismo de autocorrección del PCCh no es ni electoral ni liberal: es el mecanismo de presión intra-partido — facciones, comités permanentes, redes de gestión de cuadros — que opera bajo la superficie, invisible para analistas externos que miden solo la concentración formal de poder. El caso histórico más análogo no es la URSS tardía, sino el PCCC bajo Mao en los años 50-60: incluso en el punto máximo de la concentración maoísta, figuras como Deng Xiaoping sobrevivieron porque el Partido como institución nunca dejó de funcionar como árbitro último de las facciones internas. La evidencia de 2025-2026 sugiere que ese mecanismo de fricción institucional interna sigue operativo — no con la misma fuerza que bajo Hu Jintao, pero tampoco inexistente como en la URSS de Brezhnev.
+
+La diferencia estructural con la URSS tardía no es solo ideológica ni mercantil: es que el PCCh tiene 98 millones de miembros organizados en una red burocrática multinivelada con incentivos propios de carrera que no dependen enteramente de la voluntad de Xi. Un funcionario provincial que ve su economía contraerse tiene incentivos para reportar esa contracción — y para implementar correcciones locales — independientemente de la retórica central. Este es el mecanismo descentralizado de autocorrección que la URSS no tenía y que China sí tiene, aunque imperfecto.
+
+---
+
+#### El crecimiento 1980-2025: ¿convergencia o ventaja estructural?
+
+El Agente B sostendrá — y el Agente C ya insinuó — que el crecimiento chino fue predominantemente "convergencia natural": una economía atrasada acumulando capital y adoptando tecnología existente, proceso que cualquier economía pobre puede hacer y que se agota naturalmente al acercarse a la frontera. Esta es una hipótesis legítima que la literatura de crecimiento comparado respalda parcialmente. Pero es insuficiente como explicación completa, y aquí está por qué.
+
+**Los datos base son extraordinarios:**
+
+El PIB de China creció de 302,900 millones de dólares en 1980 a 19,498,040 millones en 2025 — un incremento de 64 veces en términos nominales. La tasa de crecimiento promedio 1980-2015 fue de 9.7% anual, "significativamente superior a la de la mayoría de los países y del mundo en su conjunto." En 2025, el PIB nominal de China alcanzó los 19.5 billones de dólares. Fuente: [RIETI — Dramatic Shift in Global Economic Power due to the Rise of China](https://www.rieti.go.jp/en/china/16070701.html); [Worldometers — China GDP 2026](https://www.worldometers.info/gdp/china-gdp/).
+
+**La convergencia no explica todo:**
+
+Si el crecimiento chino fuera solo convergencia, deberíamos observarlo uniformemente en todos los países de bajo ingreso que adoptaron apertura comercial en los años 80. No fue así. India también se abrió en 1991 pero creció a tasas sustancialmente menores durante las décadas siguientes. Vietnam creció rápido pero partiendo de una escala incomparablemente menor. Brasil se abrió y cayó en trampa de ingreso medio. África Subsahariana se integró al comercio global sin producir la transformación estructural china. La convergencia es condición necesaria pero no suficiente para explicar el desempeño chino.
+
+Lo que diferencia a China de las economías que también intentaron la convergencia y fracasaron o se estancaron son precisamente los componentes estructurales que describí en la Ronda 1: capacidad estatal de dirección de inversión hacia sectores de alto valor, disciplina exportadora que impuso competitividad internacional, y horizonte de planificación que permitió construir infraestructura, energía e industrialización a escala continental.
+
+**Tres ventajas estructurales verificadas por el desempeño:**
+
+Primera — **Política industrial que produjo transformación sectorial:** En 1980, China exportaba principalmente materias primas y textiles básicos. En 2025, exporta vehículos eléctricos, paneles solares, baterías y equipos de telecomunicaciones 5G. Esta transformación del perfil exportador no es convergencia espontánea: es el resultado de política industrial dirigida que reasignó inversión desde sectores de bajo valor hacia sectores de alto valor durante cuatro décadas consecutivas. Ninguna economía de mercado puro sin dirección estatal produce esa transformación en ese plazo.
+
+Segunda — **Inversión en infraestructura a escala sin ciclos electorales:** China construyó la red de ferrocarriles de alta velocidad más grande del mundo (más de 45,000 km en 2025), el mayor sistema de puertos de contenedores, y una red eléctrica continental unificada — todo en menos de 30 años. Esto no fue eficiencia de mercado: fue asignación dirigida de capital a escala continental con horizonte de 20-30 años, posible solo bajo un sistema que no interrumpe la planificación cada 4-5 años.
+
+Tercera — **Capacidad de adaptación táctica sin cambio sistémico:** El modelo chino demostró entre 2020-2025 su capacidad de corrección táctica: la represión regulatoria 2021-2023 produjo contracción del sector privado; el PCCh respondió con la Ley de Promoción de la Economía Privada en mayo de 2025, señalando reorientación hacia el sector privado. Esta corrección táctica dentro de continuidad sistémica es exactamente la adaptabilidad que distingue al modelo de los sistemas rígidos que colapsan.
+
+---
+
+#### Proyecciones 2026-2040: ¿qué dice la evidencia?
+
+**Horizonte corto (2026-2030):**
+
+- **Goldman Sachs:** Proyecta crecimiento del 4.8% para 2026, por encima del consenso del 4.6%, impulsado por exportaciones sólidas de 5-6% anual. Fuente: [Goldman Sachs — China's Economy Expected to Grow 4.8% in 2026](https://www.goldmansachs.com/insights/articles/chinas-economy-expected-to-grow-in-2026-amid-surging-exports).
+- **FMI:** Actualizó su proyección de crecimiento de China para 2026 al 4.6%. Fuente: [Global Times — IMF upgrades China's 2026 GDP growth forecast to 4.6%](https://www.globaltimes.cn/page/202607/1365486.shtml).
+- **Banco Mundial:** Mantiene proyección de 4.4% para 2026. Fuente: [Global Times — World Bank holds China's 4.4% GDP forecast steady](https://www.globaltimes.cn/page/202607/1365342.shtml).
+- **EIU:** Proyecta 4.6% para 2026, con China apuntando a "expansión económica de alrededor del 4% durante la próxima década". Fuente: [SCMP — What's Next for China's Economy in 2026](https://www.scmp.com/economy/china-economy/article/3334550/whats-next-chinas-economy-2026-and-how-it-plans-tackle-challenges).
+
+El consenso institucional para el corto plazo es inequívoco: China mantiene tasas de crecimiento de 4-5%, superiores a cualquier economía del G7, en un entorno de presiones comerciales sin precedente.
+
+**Horizonte mediano (2030-2040):**
+
+- **Goldman Sachs** proyecta que el PIB nominal de China superará al de EE.UU. alrededor de 2035. Fuente: [SCMP — China GDP to Surpass US Around 2035](https://www.scmp.com/economy/china-economy/article/3202752/china-gdp-surpass-us-around-2035-years-later-previously-expected-goldman-sachs-predicts).
+- **MacroPolo (Paulson Institute)** documenta el camino de China hacia los 30 billones de dólares de PIB para 2035. Fuente: [MacroPolo — Getting to $30 Trillion](https://archivemacropolo.org/getting-to-30-trillion-china-aims-for-largest-economy-by-2035).
+- **CEBR:** Proyecta que China superará a EE.UU. en PIB nominal antes de 2030. Fuente: [VOA News — China's Economy Could Overtake US Economy by 2030](https://www.voanews.com/a/chinas-economy-could-overtake-us-economy-by-2030/6380892.html).
+
+**Horizonte largo (2040-2050+):**
+
+Las proyecciones tienen incertidumbre metodológica alta. Incluso bajo el escenario más pesimista, China mantiene una economía de escala continental con capacidad industrial sin equivalente.
+
+---
+
+#### China y la trampa del ingreso medio
+
+**Primera señal de escape:** El SCMP reportó en 2025 que "es posible que 2025 sea el año en que China se convierta en un país de ingreso alto", marcando la transición desde el estatus de ingreso medio-alto. Fuente: [SCMP — China could become a high-income country this year](https://www.scmp.com/opinion/china-opinion/article/3319278/china-could-become-high-income-country-year-can-it-stay-one/).
+
+**Segunda señal de escape:** En 2025, el gasto de China en I+D alcanzó los 3.93 billones de yuanes (580,670 millones de dólares), equivalente al 2.8% del PIB. La OMPI clasificó a China en el puesto 10° global en su Índice Global de Innovación en 2025, primero entre todas las economías de ingreso medio-alto, con 24 de los 100 principales clústeres de innovación del mundo. Fuente: [CKGSB Knowledge — Can China Escape the Middle Income Trap?](https://english.ckgsb.edu.cn/knowledge/article/aiming-for-the-top-can-china-escape-the-middle-income-trap/).
+
+**Concesión:** El riesgo real en el horizonte 2030-2040 es que si la paradoja del control productivo suprime la innovación endógena, las capacidades acumuladas pueden no traducirse en productividad. Pero la evidencia de 2025-2026 sobre DeepSeek, los clústeres de innovación y la aceleración de I+D es inconsistente con una supresión total.
+
+---
+
+#### Evidencia empírica (con fuentes)
+
+| Dato | Valor | Fuente |
+|---|---|---|
+| PIB China 2025 | $19.5 billones USD | [Worldometers](https://www.worldometers.info/gdp/china-gdp/) |
+| Crecimiento promedio 1980-2015 | 9.7% anual | [RIETI](https://www.rieti.go.jp/en/china/16070701.html) |
+| Crecimiento 2025 | 5.0% | NBS China |
+| Crecimiento proyectado 2026 (GS) | 4.8% | [Goldman Sachs](https://www.goldmansachs.com/insights/articles/chinas-economy-expected-to-grow-in-2026-amid-surging-exports) |
+| Crecimiento proyectado 2026 (FMI) | 4.6% | [Global Times/FMI](https://www.globaltimes.cn/page/202607/1365486.shtml) |
+| Superación PIB nominal EE.UU. | ~2035 | [Goldman Sachs/SCMP](https://www.scmp.com/economy/china-economy/article/3202752/china-gdp-surpass-us-around-2035-years-later-previously-expected-goldman-sachs-predicts) |
+| Gasto I+D 2025 | $580.67B / 2.8% PIB | [MacroPolo/CKGSB](https://archivemacropolo.org/analysis/china-economy-forecast-2025-eluding-the-middle-income-trap/) |
+| Índice Global Innovación 2025 | Puesto 10°, 1° ingreso medio-alto | [CKGSB](https://english.ckgsb.edu.cn/knowledge/article/aiming-for-the-top-can-china-escape-the-middle-income-trap/) |
+
+---
+
+#### Horizonte temporal diferenciado
+
+**Corto plazo (2026-2030):** Sólido — consenso institucional de 4-5% anual, por encima del G7.
+
+**Mediano plazo (2030-2040):** Ventajoso con incertidumbre real sobre innovación endógena. Si mantiene 3-4%, PIB nominal supera a EE.UU. en algún punto de los 2030s. El riesgo de la trampa del ingreso medio es real pero no determinante con la base de I+D y capacidades actuales.
+
+**Largo plazo (2040-2050+):** Depende de resolución de tensiones en el horizonte mediano. Argumento que cuatro décadas de adaptación y la primera posición en PPP otorgan mayor probabilidad de competitividad que de colapso.
+
+---
+
+#### Reto al oponente para Ronda 3
+
+Si la misasignación de capital es el mecanismo de fractura, el Agente B debe responder: ¿por qué Japón, que sufrió misasignación masiva en los años 80 y el colapso de su burbuja inmobiliaria en 1990, no experimentó "fractura estructural" sino un decenio perdido seguido de estabilización con modelo intacto? ¿Y por qué Corea del Sur, que sufrió crisis de deuda corporativa severa en 1997-1998, emergió con modelo actualizado y más competitivo? Sin identificar el elemento diferenciador específico del caso chino, el argumento de misasignación describe un costo gestionable, no un mecanismo de colapso.
+
+---
+
+**Fuentes — Agente A, Ronda 2:**
+- [Worldometers — China GDP 2026](https://www.worldometers.info/gdp/china-gdp/)
+- [RIETI — Dramatic Shift in Global Economic Power due to the Rise of China](https://www.rieti.go.jp/en/china/16070701.html)
+- [Goldman Sachs — China's Economy Expected to Grow 4.8% in 2026](https://www.goldmansachs.com/insights/articles/chinas-economy-expected-to-grow-in-2026-amid-surging-exports)
+- [Global Times — IMF upgrades China's 2026 GDP growth forecast to 4.6%](https://www.globaltimes.cn/page/202607/1365486.shtml)
+- [Global Times — World Bank holds China's 4.4% GDP forecast steady](https://www.globaltimes.cn/page/202607/1365342.shtml)
+- [SCMP — China GDP to Surpass US Around 2035, Goldman Sachs](https://www.scmp.com/economy/china-economy/article/3202752/china-gdp-surpass-us-around-2035-years-later-previously-expected-goldman-sachs-predicts)
+- [MacroPolo — Getting to $30 Trillion](https://archivemacropolo.org/getting-to-30-trillion-china-aims-for-largest-economy-by-2035)
+- [VOA News — China's Economy Could Overtake US Economy by 2030](https://www.voanews.com/a/chinas-economy-could-overtake-us-economy-by-2030/6380892.html)
+- [Mad Scientist Laboratory — China's Economic Ascendency through 2040](https://madsciblog.tradoc.army.mil/416-chinas-economic-ascendency-through-2040/)
+- [SCMP — China could become a high-income country this year](https://www.scmp.com/opinion/china-opinion/article/3319278/china-could-become-high-income-country-year-can-it-stay-one/)
+- [MacroPolo — China Economy Forecast 2025: Eluding the Middle Income Trap](https://archivemacropolo.org/analysis/china-economy-forecast-2025-eluding-the-middle-income-trap/)
+- [CKGSB Knowledge — Can China Escape the Middle Income Trap?](https://english.ckgsb.edu.cn/knowledge/article/aiming-for-the-top-can-china-escape-the-middle-income-trap/)
+- [The Diplomat — Purges and Power: Is China Quietly Rebalancing Its Command Structure?](https://thediplomat.com/2025/11/purges-and-power-is-china-quietly-rebalancing-its-command-structure/)
+- [SCMP — What's Next for China's Economy in 2026](https://www.scmp.com/economy/china-economy/article/3334550/whats-next-chinas-economy-2026-and-how-it-plans-tackle-challenges)
