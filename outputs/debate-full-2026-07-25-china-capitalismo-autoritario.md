@@ -2071,3 +2071,129 @@ Ninguno de los dos modelos actuales —ni el optimismo de A sobre China Standard
 - [TechPolicy.Press — India's Push for Global Digital Repositories](https://www.techpolicy.press/what-indias-push-for-global-digital-repositories-tells-us-about-its-tech-diplomacy/)
 - [IMD (2026) — China's 2026 Playbook: Redefining Global Tech Industry and Governance](https://www.imd.org/ibyimd/asian-hub/chinas-2026-playbook-redefining-global-tech-industry-and-governance/)
 
+
+### Agente G (Árbitro) — Evaluación Ronda 5
+
+#### Resumen de intervenciones
+
+**Agente A** respondió el reto de R4 con tres casos (CATL/Cell-to-Pack, TOPCon solar, Huawei 5G), argumentó que el desacoplamiento actúa como catalizador vía tres mecanismos (China Standards 2035, Ruta de la Seda Digital, sustitución forzada), minimizó el efecto del Gran Firewall sobre el valor económico de la IA, documentó tres de los cinco datos pendientes —incluyendo dos autocorrecciones contra su propio interés— y retó a B a proponer un mecanismo causal, no una correlación.
+
+**Agente B** desmanteló los tres casos bajo el patrón común "integración y escala, no generación de conocimiento de frontera", y respondió el reto con un mecanismo de cuatro eslabones: brecha de semiconductores militares, superioridad del ecosistema de cómputo occidental, dependencia de la credibilidad militar para el anclaje del Sur Global, e insuficiencia del Sur Global como mercado de retroalimentación de I+D. Concedió que no habrá colapso en 2026-2030 y reformuló su tesis como acumulación de restricciones en 2030-2040.
+
+**Agente E** evaluó la solidez causal del eslabón 3 de B (lo acota), documentó con datos institucionales el poder de estándares chino (ITU, 3GPP, SEP 5G) y sus límites (Clingendael, SESEC), rechazó el marco bipolar que comparten A y B proponiendo cuatro capas, e introdujo el No-Alineamiento tecnológico activo y la competencia regulatoria del Efecto Bruselas como tercer eje no abierto.
+
+#### Evaluación de Agente A — Ronda 5
+
+**Puntuación: 7.9/10**
+
+- Fortalezas:
+  - Respondió el reto de forma literal, con tres casos nombrados, evitando los tres vetados y sin evadir el formato exigido.
+  - Tabla de evidencia con nueve datos, todos con fuente enlazada — la ronda mejor documentada de A en todo el debate.
+  - Dos autocorrecciones contra su propio interés: corrigió el 17% de I+D básico de EE.UU. a 14.7% (favorece a B al ampliar el contraste con el 6.88% chino sólo parcialmente, pero corrige de todos modos) y repudió expresamente el dato del 25% de origen gubernamental que él mismo había usado.
+  - El argumento schumpeteriano contra el criterio restrictivo de B es legítimo y bien planteado: la distinción "invención original vs. innovación de escala" no es un criterio estándar en economía de la innovación, y los contraejemplos (Intel/Bell Labs) son pertinentes.
+  - Concesión clara y sin retórica evasiva sobre nodos sub-3nm, EDA y EUV.
+  - La reformulación del Firewall como pregunta de proporción de valor económico ("¿qué fracción del valor de la IA depende de razonar sobre dominios censurados?") es el mejor movimiento defensivo de la ronda.
+
+- Debilidades:
+  - **El Caso 2 es autodestructivo.** A concede en la primera línea que TOPCon fue desarrollado por Fraunhofer. Ofrecerlo como evidencia de innovación *endógena* entrega el punto a B por construcción propia. B sólo tuvo que citarlo de vuelta.
+  - El Caso 1 tiene el mismo problema atenuado: A concede el origen Goodenough y sostiene el punto sólo sobre CTP, que es arquitectura de integración. El caso más defendible de los tres, pero no en los términos del reto.
+  - El Caso 3 desplaza el criterio: "estándar de facto en mercados no-occidentales" no es "estándar global", que era lo pedido. La cláusula "cuando se excluye América del Norte" es exactamente el tipo de recorte de muestra que A criticó en otros.
+  - **Mecanismos 1 y 2 sin una sola fuente.** China Standards 2035 y la cifra de "más de 70 países" de la Ruta de la Seda Digital son afirmaciones centrales del argumento y no llevan cita. Esto es reincidencia bajo advertencia formal explícita.
+  - "El desacoplamiento produce convergencia forzada a plazos más cortos" se plantea como pregunta abierta, no como afirmación demostrada; A la usa después como si estuviera establecida.
+  - No respondió el punto de B (R4) sobre el H800 como producto de ventana regulatoria cerrada — sigue abierto por segunda ronda.
+
+- Cumplimiento de reto pendiente de R4: **Cumplido en forma, parcialmente fallido en sustancia.** A no evadió: nombró tres casos, aceptó las exclusiones y aportó datos verificables. Pero dos de los tres casos conceden origen extranjero en el propio texto de A, y el tercero requiere excluir un mercado. El reto exigía innovación de frontera *originada* en China; A entregó dominio de cadena de valor y redefinió el criterio para que eso contara. La redefinición es argumentable —y A la defiende con teoría— pero es una redefinición, no un cumplimiento.
+
+- Documentación de datos señalados por árbitro: **Tres de cinco.** Documentó (1) PCT con fuente WIPO, actualizando además a 2024; (2) I+D básico EE.UU., corregido a la baja con fuente NSF/NCSES; (3) composición del I+D chino con fuente NBS, invalidando su propio dato anterior. **No documentó:** la explicación del caso japonés, ni la composición de fuentes de financiamiento en los términos originalmente señalados. Además incorporó dos afirmaciones nuevas sin fuente (Mecanismos 1 y 2). Saldo neto: mejora sustancial y honesta, pero deuda no cerrada.
+
+#### Evaluación de Agente B — Ronda 5
+
+**Puntuación: 7.6/10**
+
+- Fortalezas:
+  - Respondió el reto de A con un mecanismo causal explícito y encadenado, que es exactamente lo que A pidió y en el formato que A pidió ("un mecanismo, no una correlación"). No hubo evasión.
+  - El Eslabón 4 es el argumento más fuerte de la ronda de cualquier agente: la distinción entre mercado de volumen y mercado de valor, y el ciclo de retroalimentación margen→I+D→frontera, ataca la premisa de A en su raíz sin negar ninguno de sus hechos. La formulación "China puede dominar el 90% del solar y depender de EUV para lo de mayor valor" es la síntesis más eficaz.
+  - Desmontó el Caso 2 en dos oraciones usando la concesión del propio A. Economía argumentativa notable.
+  - El punto sobre CATL y la dependencia de equipamiento de precisión japonés, coreano y alemán (Tokyo Electron, Sumitomo, Manz, Dürr) traslada correctamente el análisis un nivel arriba en la cadena.
+  - Objeción estructural a China Standards 2035 bien fundada: distingue participación en foros de adopción regulatoria vinculante, con fuente (Clingendael).
+  - Concesión honesta y bien calibrada: reconoce la resiliencia adaptativa china, descarta el colapso en 2026-2030 y reubica su tesis en 2030-2040. Es una concesión que le cuesta el corto plazo y le compra coherencia.
+  - Tabla de siete datos, todos con fuente.
+
+- Debilidades:
+  - **El Eslabón 3 es el punto débil del mecanismo y E lo desarmó con precisión.** La premisa de que el Sur Global elige infraestructura según credibilidad de protección sistémica no está sostenida por evidencia; B la afirma sin cita. Es el eslabón que une los eslabones 1-2 (técnicos, bien documentados) con el eslabón 4 (económico, fuerte), y al ser el más débil compromete la cadena: sin él, el rezago militar y el dominio del Sur Global quedan desconectados.
+  - **Ninguno de los tres datos pendientes de R4 fue documentado.** Es la falla más grave de la ronda.
+  - La lista de proveedores de equipamiento de CATL (Tokyo Electron, Sumitomo, Manz, Dürr) no lleva fuente, siendo el sustento fáctico del desmontaje del Caso 1.
+  - Error de atribución en la evidencia: el dato UNDP citado en la tabla dice "Asia-Pacífico: 2/3 de la clase media global en 2030", pero en el texto B afirma "80% de la clase media global en el Sur Global hacia 2030 (UNDP)". Son cifras y universos distintos; la fuente no respalda la formulación usada en el argumento.
+  - La afirmación sobre exclusión de estándares chinos por TLC con la UE ("cuando un país firma un acuerdo con cláusulas de alineamiento tecnológico...") es hipotética y no lleva ni un caso documentado.
+  - El Caso 3 se responde con dudas sobre el rendimiento del Kirin, pero B no refuta el dato de cuota de mercado del 41%, que era el núcleo del caso de A.
+  - Su reto para R6 es excelente, pero desplaza el terreno de "innovación endógena" a "cerrar la brecha en 2nm/1nm" — un listón más alto que el que estaba en disputa.
+
+- Cumplimiento de reto pendiente de R4: No aplica en el mismo sentido — el reto de R4 fue formulado *por* B. B cumplió sí con el reto de A en esta ronda, de forma directa y estructurada. Se le acredita por ello.
+
+- Documentación de datos señalados por árbitro: **Cero de tres.** No documentó el 70-80% de dependencia en materiales, no citó la fuente OCDE sobre patentes triádicas, y no sustentó los rendimientos decrecientes de la innovación algorítmica. Es la cuarta ronda consecutiva con datos sin cita y la primera bajo advertencia formal explícita. B sí citó todos sus datos *nuevos*, lo cual es una mejora de hábito, pero la deuda señalada quedó intacta. Penalización aplicada.
+
+#### Aporte de Agente E (Geopolítica)
+
+Aporte de alta calidad, el más analíticamente productivo de los tres especialistas hasta ahora.
+
+Lo que añadió y ninguno de los debatientes tenía:
+
+1. **Acotó un eslabón causal con evidencia empírica, sin destruirlo.** El tratamiento del Eslabón 3 es modélico: identifica el dominio donde es válido (seguridad crítica, inteligencia, planos de gestión), documenta los casos donde operó (Australia, Suecia, Reino Unido, Rumanía) y explica por qué falla como teoría general (los determinantes reales son financiamiento concesional, velocidad, precio y transferencia técnica). La reformulación "presión de Washington con condicionalidades vs. precio Huawei sin condicionalidades" reencuadra el mecanismo con más precisión que la formulación original de B.
+
+2. **Aportó los datos institucionales que faltaban a ambos lados.** Miembros chinos en cuerpos técnicos ITU (16 en 2013 → 106 en 2022), Secretaría General 2015-2022, aprobación ITU de tres propuestas chinas de 6G en septiembre de 2024, China Mobile como lead rapporteur en 3GPP, incremento sostenido del 20% anual en propuestas ISO/IEC desde 2020, y las cuotas de SEP 5G (Huawei 12,42%, ZTE 6,97%, LexisNexis enero 2025). Estos datos favorecen materialmente a A —E lo señala explícitamente al decir que A subestima su propia mejor posición— y sin embargo E los presenta junto con el límite que los acota (Clingendael, SESEC). Es evidencia con doble filo entregada sin sesgo.
+
+3. **Refutó una premisa compartida.** El marco de cuatro capas y la identificación del bloque regulatorio europeo como tercer régimen autónomo es la contribución conceptual más importante de la ronda. Ninguno de los debatientes había cuestionado la bipolaridad.
+
+4. **Introdujo el No-Alineamiento tecnológico activo con casos.** India (DPI propio + chips NVIDIA + Huawei fuera del núcleo), Brasil (gobernanza ONU + MoUs con ambos), EAU (Huawei + Microsoft/Google/AWS + G42/OpenAI/Anthropic). Este eje erosiona simultáneamente el "ecosistema alternativo suficiente" de A y el "Sur Global elige protección sistémica" de B. Es una crítica simétrica, no una toma de partido.
+
+5. **Diferenció por horizonte temporal en lugar de arbitrar.** A con mayor poder explicativo para 2026-2035, B para 2035-2050 pero por un mecanismo distinto al que B articula —la trampa de arquitectura regulatoria, no la de credibilidad militar. Es la reformulación más útil producida en la ronda: le da a B un mecanismo mejor del que B construyó.
+
+Limitación: E se acerca al límite de su rol al emitir juicio comparativo de poder explicativo. Se acepta porque está formulado como análisis condicionado a horizonte y no como veredicto, pero se advierte para rondas futuras.
+
+Su reto abierto sobre el Efecto Bruselas queda registrado como pendiente vinculante para A o B.
+
+#### Resultado de Ronda 5
+
+**Ganador de ronda:** A
+**Margen:** Estrecho
+
+**Justificación:** A ganó por disciplina procedimental más que por superioridad sustantiva: cumplió el reto sin evadirlo, documentó todos sus datos nuevos, saldó tres de cinco deudas de fuente y ejecutó dos autocorrecciones que perjudicaban su propia posición, mientras que B no documentó ninguna de sus tres deudas pese a advertencia formal. En sustancia, B tuvo el mejor argumento individual de la ronda —el Eslabón 4 sobre el ciclo de retroalimentación margen-I+D— y desmontó dos de los tres casos de A con eficacia, pero su cadena causal quedó comprometida en el Eslabón 3, que Agente E acotó con evidencia, y arrastró un error de atribución de fuente en el dato de clase media. El margen es estrecho: si B hubiera saldado sus deudas de documentación, habría ganado la ronda.
+
+#### Instrucciones para Ronda 6
+
+**Tema de Ronda 6:** Política industrial vs. mercado — ¿puede el Estado chino seguir siendo el motor principal de la economía sin suprimir la eficiencia de mercado?
+
+**Especialista Ronda 6:** Agente C (Economía Política Comparada)
+
+**Retos y puntos pendientes que deben abordarse en R6:**
+
+Para A:
+- Reto directo de B: cuál es el mecanismo de financiamiento y de acceso al conocimiento tácito y a las herramientas de fabricación con el que China cerraría —no reduciría— la brecha en 2nm/1nm hacia 2035-2040, dado el bloqueo coordinado de EE.UU., Japón, Países Bajos y Corea del Sur.
+- Responder el Eslabón 4 de B, que quedó sin réplica: mercado de volumen vs. mercado de valor y el ciclo de retroalimentación que financia la siguiente generación de I+D.
+- Documentar con fuente China Standards 2035 y la cifra de países de la Ruta de la Seda Digital, usados como mecanismos centrales sin cita en R5.
+- Pendiente desde R4, segunda ronda sin respuesta: el H800 como producto de una ventana regulatoria ya cerrada.
+- Pendiente desde R4: el hueco 2026-2032 sin instrumento compensatorio durante la absorción de pérdidas bancarias — altamente pertinente al tema de R6.
+- Datos pendientes no documentados: explicación del caso japonés; composición de fuentes de financiamiento.
+
+Para B:
+- **Prioridad absoluta:** documentar el 70-80% de dependencia en materiales, la referencia OCDE sobre patentes triádicas y el sustento de los rendimientos decrecientes de la innovación algorítmica. Cuarta ronda de deuda acumulada.
+- Corregir o retirar la afirmación del "80% de la clase media global en el Sur Global hacia 2030": la fuente UNDP citada dice "Asia-Pacífico, 2/3 en 2030". Discrepancia de cifra y de universo.
+- Fuente para la lista de proveedores de equipamiento de CATL.
+- Decidir si mantiene el Eslabón 3 en su formulación fuerte tras la acotación de E, o lo reformula. Si lo mantiene, debe aportar evidencia sobre determinantes de adopción tecnológica en el Sur Global.
+- Aportar al menos un caso documentado del bloqueo de estándares chinos por cláusulas de TLC con la UE, hasta ahora hipotético.
+
+Para ambos:
+- Reto de E sobre el régimen regulatorio europeo (Efecto Bruselas, AI Act, CRA, Data Act) como tercer eje y "trampa de arquitectura": debe ser recogido por A o B en rondas futuras.
+- Reto de E sobre el No-Alineamiento tecnológico activo: ambos modelos lo ignoran y ambos se ven erosionados por él.
+
+**Advertencias vigentes:**
+- Datos sin fuente serán penalizados. **B acumula datos sin documentar desde R3 y la advertencia formal de R4 no fue atendida; a partir de R6 los datos no documentados se descontarán directamente del cómputo final, no sólo del puntaje de ronda.** A mejoró de forma significativa y debe mantener el nivel, pero incorporó dos afirmaciones nuevas sin cita en R5 y no cerró dos deudas anteriores.
+- Se recuerda a ambos que redefinir el criterio de éxito de un reto no equivale a cumplirlo. La redefinición es legítima si se defiende explícitamente como tal —A lo hizo—, pero no cancela la pregunta original.
+- Nota de foco: el debate se ha desplazado hacia capacidad tecnológica. R6 debe volver al eje de la tesis —sostenibilidad del modelo político-económico—, y los desvíos hacia disputas técnicas de semiconductores sin conexión explícita con la sostenibilidad del modelo serán penalizados.
+
+**Nota de alcance:** esta es una evaluación parcial de ronda, no un veredicto. No se declara preferencia sobre la tesis en disputa.
+
+---
+
+## Ronda 6 — Política industrial vs. mercado
+
