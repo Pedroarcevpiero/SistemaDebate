@@ -1065,4 +1065,113 @@ La evidencia comparada respalda cuatro proposiciones para el debate en Ronda 3:
 
 ## Evaluación Parcial del Árbitro (G) — Ronda 2
 
+## Ronda 3 — Deuda, sobreinversión y productividad
+
+### Agente A (Defensor) — Ronda 3
+
+---
+
+#### Respuesta al reto de Ronda 2
+
+El Agente B planteó en su reto un interrogante preciso: el FMI proyecta 3.5% para 2030 sin "reformas concertadas", y puesto que la decisión está concentrada en Xi sin restricción institucional y la Ley de Economía Privada de mayo 2025 fue precedida por la represión 2021-2023, ¿en qué se diferencian esas "reformas" de la improvisación que identifiqué como debilidad fatal de la URSS?
+
+La pregunta es la correcta. Respondo con precisión, no con retórica.
+
+Las reformas que el FMI identifica como necesarias para mantener 4-4.5% en 2030 no son reformas sistémicas que requieran cambio de régimen: son ajustes de política perfectamente implementables dentro del modelo existente.
+
+**Reforma 1:** Estabilización del mercado inmobiliario mediante compra pública de inventario no vendido. El instrumento ya existe: desde mayo de 2024, el Banco Popular de China habilitó una línea de 300,000 millones de yuanes para que empresas públicas locales compren viviendas sin vender y las conviertan en vivienda asequible. El 15° Plan Quinquenal incluirá metas cuantificadas para absorción de inventario. No requiere reforma institucional; requiere escala y sostenimiento de voluntad política.
+
+**Reforma 2:** Expansión del gasto en protección social para liberar ahorro precautorio de los hogares. La tasa de ahorro de los hogares chinos (34% del PIB) es anómalamente alta precisamente porque el sistema de salud pública, pensiones y seguro de desempleo es subdesarrollado. El 14° Plan Quinquenal ya comprometió expansión; el 15° puede acelerarlo. Requiere reasignación fiscal desde infraestructura hacia gasto social — y el gobierno central tiene el espacio fiscal para hacerlo.
+
+**Reforma 3:** Reestructuración del pasivo de los LGFV mediante conversión a deuda del gobierno central. En 2023-2024, Beijing ya coordinó una primera ronda de reestructuración en provincias de alto riesgo (Guizhou, Yunnan). El gobierno tiene instrumentos: emisión de bonos especiales del Tesoro, inyección de capital en bancos estatales, conversión de deuda de corto a largo plazo. China elevó su límite de deuda pública en marzo de 2025, según OMFIF, precisamente para financiar estas operaciones.
+
+**Reforma 4:** Consolidación de SOEs con quiebras ordenadas en sectores con exceso de capacidad. El PCCh ya implementó esto entre 2015-2018 en carbón y acero, eliminando ~150 Mt de capacidad excedentaria de acero y ~800 Mt de carbón. La metodología existe y fue exitosa.
+
+La distinción estructural con la URSS es exactamente aquí: la URSS no tenía estas herramientas porque no tenía mercados de capitales, no tenía bancos recapitalizables, y no tenía orientación exportadora disciplinante. El PCCh tiene todas. La voluntad política de usarlas está condicionada por los incentivos de carrera de 98 millones de miembros del Partido y por la legitimidad-desempeño que es el pilar del modelo. Un PCCh que no implementa reformas disponibles pierde su único mecanismo de legitimación.
+
+---
+
+#### La deuda china: ¿por qué es estructuralmente diferente?
+
+Los datos de deuda total del sector no financiero: aproximadamente 312-366% del PIB en 2024. Descomposición en Q1 2024: corporaciones no financieras 171%, gobierno (incluyendo LGFVs en estimación ampliada del FMI) 124%, hogares 64%, sector financiero 45%. Fuentes: [Global Markets Investor](https://globalmarketsinvestor.substack.com/p/chinas-debt-to-gdp-ratio-hit-a-jaw); [Carnegie Endowment, 2024](https://carnegieendowment.org/posts/2024/07/the-evolution-of-chinese-debt-in-2024?lang=en); [IMF Country Report No. 26/44](https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf).
+
+Estas cifras son altas. Sin el análisis de su composición y de los mecanismos de ajuste disponibles, no dicen nada sobre si son gestionables. Cuatro diferencias estructurales distinguen la deuda china de la deuda que produce crisis sistémicas:
+
+**Primera: Soberanía monetaria plena.** Grecia no controlaba el euro; China controla el renminbi. Las reservas de divisas chinas superan los 3.2 billones de dólares mientras que la deuda externa bruta total es aproximadamente 2.3 billones — China es acreedor neto externo. No existe el mecanismo de "sudden stop" de flujos externos que disparó las crisis de Argentina 2001, Grecia 2010 o Turquía 2018.
+
+**Segunda: El Estado controla simultáneamente al deudor y al acreedor.** Los cuatro bancos más grandes (ICBC, CCB, ABC, BOC) representan ~40% de activos bancarios totales y están bajo control estatal, al igual que los deudores más grandes (SOEs y LGFVs). No hay actor privado autónomo capaz de disparar una corrida bancaria mediante negativa de refinanciamiento. Los bancos estatales pueden extender plazos indefinidamente. Cuando sus márgenes se comprimen, el gobierno los recapitaliza directamente: en abril de 2025 inyectó RMB 520,000 millones (0.4% del PIB) en los cuatro grandes bancos. Fuente: [Dallas Fed, diciembre 2025](https://www.dallasfed.org/research/economics/2025/1223).
+
+**Tercera: La deuda está respaldada por capital real.** La deuda corporativa (171% del PIB) está respaldada por infraestructura, capacidad manufacturera, planta y equipo — activos con valor de uso incluso con valor de mercado deprimido. A diferencia de las SPVs hipotecarias de EE.UU. en 2008, cuyo valor dependía de expectativas auto-referenciales, los activos físicos chinos no desaparecen en un evento de valoración.
+
+**Cuarta: No hay contagio sistémico automático por securitización.** Los préstamos inmobiliarios malos están en los balances de bancos estatales chinos, no distribuidos globalmente. El mecanismo de contagio por repricing de activos securitizados que convirtió la crisis de 2008 en evento global no opera de la misma manera.
+
+---
+
+#### Misasignación vs. crisis sistémica: la distinción crucial
+
+El Agente C introdujo la distinción "crisis de flujo" vs. "crisis de stock" como la tarea central de esta ronda. La acepto y la desarrollo.
+
+**China enfrenta con alta probabilidad una crisis de flujo:** deterioro de la PTF, misasignación de capital, zombie lending en inmobiliario (40% de activos del sector en 2024, Dallas Fed), deflactor negativo. Las empresas zombie en el conjunto no financiero aumentaron del 5% al 16% de activos entre 2018 y 2024. El NPL ratio oficial (1.5%, fin 2024) subestima las pérdidas reales. El costo en PTF es real y no lo niego.
+
+**China no enfrenta con alta probabilidad una crisis de stock** porque: (a) la denominación doméstica de la deuda elimina el mecanismo de "sudden stop", y (b) el control estatal del sistema bancario permite absorción gradual de pérdidas — exactamente lo contrario de la crisis griega (evento abrupto sin mecanismo doméstico) y diferente del caso japonés (absorción lenta por parálisis política democrática).
+
+Sobre la comparación con Japón: Bruegel documenta similitudes reales en el patrón de burbuja inmobiliaria y zombie lending, pero la diferencia crítica es que el gobierno chino puede intervenir el sistema bancario directamente con velocidad que el gobierno japonés democrático no pudo. Japón en 1990 tenía deuda pública de ~40% del PIB pero tardó una década en absorber pérdidas porque el PLD no podía políticamente forzar el reconocimiento de pérdidas. China puede socializar pérdidas sin aprobación legislativa ni consenso electoral: inyección directa de capital en bancos estatales, represión financiera de tasas, compra pública de inventario. Fuentes: [Bruegel — Will China's Economy Follow Japan's Path?](https://www.bruegel.org/policy-brief/will-chinas-economy-follow-same-path-japans); [Robeco — Japanification of China?, sept. 2024](https://www.robeco.com/en-int/insights/2024/09/japanification-of-china).
+
+---
+
+#### Evidencia empírica (con fuentes)
+
+| Dato | Valor | Fuente |
+|---|---|---|
+| Deuda total no financiera / PIB (2024) | 312-366% | [Global Markets Investor](https://globalmarketsinvestor.substack.com/p/chinas-debt-to-gdp-ratio-hit-a-jaw) |
+| Deuda corporativa no financiera / PIB | 171% | [Carnegie Endowment, 2024](https://carnegieendowment.org/posts/2024/07/the-evolution-of-chinese-debt-in-2024?lang=en) |
+| Deuda gobierno ampliado / PIB | ~124% (FMI) | [IMF Country Report 26/44](https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf) |
+| Deuda hogares / PIB | 64% | [Global Markets Investor](https://globalmarketsinvestor.substack.com/p/chinas-debt-to-gdp-ratio-hit-a-jaw) |
+| Reservas de divisas China | ~$3.2 billones USD | Banco Popular de China |
+| Inyección capital bancos (abril 2025) | RMB 520,000M (0.4% PIB) | [Dallas Fed, dic. 2025](https://www.dallasfed.org/research/economics/2025/1223) |
+| Empresas zombie inmobiliario (2024) | 40% activos del sector | [Dallas Fed, dic. 2025](https://www.dallasfed.org/research/economics/2025/1223) |
+| Empresas zombie no financiero (2024) | 16% (vs. 5% en 2018) | [Dallas Fed, dic. 2025](https://www.dallasfed.org/research/economics/2025/1223) |
+| NPL ratio oficial, fin 2024 | 1.5% | [Dallas Fed, dic. 2025](https://www.dallasfed.org/research/economics/2025/1223) |
+| Deuda pública Japón, inicio crisis 1990 | ~40% PIB | [Bruegel](https://www.bruegel.org/policy-brief/will-chinas-economy-follow-same-path-japans) |
+| Elevación límite deuda China, 2025 | Confirmada | [OMFIF, marzo 2025](https://www.omfif.org/2025/03/china-has-just-raised-its-debt-ceiling/) |
+
+---
+
+#### Horizonte temporal diferenciado
+
+**Corto plazo (2026-2030):** La deuda no produce crisis sistémica en este horizonte. Mecanismos de absorción operativos (recapitalización ya iniciada). Crecimiento 4-4.8% según consenso. El deflactor negativo (-0.7%) es señal de alerta, no detonante de evento sistémico. El riesgo real es la trampa deflacionaria, no el colapso.
+
+**Mediano plazo (2030-2040):** La gestión de deuda se vuelve más costosa. Las cuatro reformas identificadas son necesarias para evitar convergencia a 3.5% FMI. El espacio fiscal del gobierno central (deuda central directa ~30% del PIB en métrica estrecha) no está agotado; permite absorber pérdidas contingentes del sistema bancario si es necesario.
+
+**Largo plazo (2040-2050+):** Dos consecuencias posibles: (a) más probable — represión financiera sostenida que comprime consumo doméstico y mantiene el modelo inversión-exportación, limitando crecimiento potencial sin producir colapso; (b) condicionada a errores acumulados durante dos décadas más — evento de estrés severo si el espacio fiscal se agota antes de que las reformas de consumo generen demanda suficiente. Reconozco esta incertidumbre de largo plazo honestamente.
+
+---
+
+#### Concesión limitada
+
+El zombie lending en el sector inmobiliario (40% de activos, Dallas Fed) es el riesgo más serio de esta ronda. La socialización de esas pérdidas tiene costo fiscal real que estrecha el espacio de política en el horizonte mediano. El riesgo de "japonificación" prolongada — no colapso, sino compresión del crecimiento durante una o dos décadas — es real y no puede ser descartado.
+
+---
+
+#### Reto al oponente para Ronda 4
+
+El Agente B necesita identificar el actor concreto — no "los mercados" en abstracto — que puede producir una crisis de stock en China, dado que (a) la deuda está denominada en renminbi, (b) los mayores acreedores son bancos estatales que no pueden negarse a refinanciar sin autorización estatal, y (c) las reservas externas superan en 900,000 millones de dólares la deuda externa bruta total. Si ese actor no puede ser identificado con precisión institucional, el argumento de "crisis sistémica de deuda" no puede sostenerse — y el debate sobre deuda queda reducido a sus costos reales en PTF y crecimiento, que son gestionables dentro del modelo.
+
+---
+
+### Fuentes — Agente A, Ronda 3
+
+- [Global Markets Investor — China's Debt-to-GDP Ratio Hit a Record 366%](https://globalmarketsinvestor.substack.com/p/chinas-debt-to-gdp-ratio-hit-a-jaw)
+- [Carnegie Endowment — The Evolution of Chinese Debt in 2024](https://carnegieendowment.org/posts/2024/07/the-evolution-of-chinese-debt-in-2024?lang=en)
+- [IMF Country Report No. 26/44](https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf)
+- [Dallas Fed — China Debt Overhang and Zombie Firms, diciembre 2025](https://www.dallasfed.org/research/economics/2025/1223)
+- [OMFIF — China Has Just Raised Its Debt Ceiling, marzo 2025](https://www.omfif.org/2025/03/china-has-just-raised-its-debt-ceiling/)
+- [Bruegel — Will China's Economy Follow the Same Path as Japan's?](https://www.bruegel.org/policy-brief/will-chinas-economy-follow-same-path-japans)
+- [Robeco — Japanification of China?, septiembre 2024](https://www.robeco.com/en-int/insights/2024/09/japanification-of-china)
+- [CEPR VoxEU — China's Real Estate Reckoning: Lessons from Japan's Lost Decade](https://cepr.org/voxeu/columns/chinas-real-estate-reckoning-lessons-japans-lost-decade)
+
+---
+
+## Evaluación Parcial del Árbitro (G) — Ronda 2
+
 El Agente B presentó el argumento más sólido de esta ronda: su descomposición del crecimiento 1980-2025 en tres condiciones irrepetibles (dividendo demográfico con la caída de dependencia de 68.38% a 36.49%, el bono de adhesión a la OMC y el agotamiento del punto de Lewis hacia 2010), anclada en la ruptura de pendiente de la PTF (+4% a ~1% post-2007), convierte la evidencia de capacidad instalada de A en un problema de retorno sobre el capital, y su señalamiento de selección de evidencia —citar el 4.6% del FMI para 2026 omitiendo el 3.5% para 2030 y el deflactor de -0.7% del mismo IMF Country Report 26/44— es una refutación metodológica que A no anticipó. El punto más fuerte de A fue mostrar que la convergencia simple no explica el diferencial frente a India, Brasil y África, y su reto comparado Japón/Corea es legítimo; su punto más débil, reconocido por el propio B, fue el argumento de "reequilibrio institucional", donde A infiere liderazgo colectivo de unos Reglamentos de junio de 2025 cuyo texto citado establece precisamente "liderazgo centralizado y unificado", apoyándose además en Vision Times, fuente de baja fiabilidad, mientras B contrapone el mismo medio (The Diplomat, diciembre 2025) en sentido opuesto. Como evidencia débil o metodológicamente cuestionable señalo, en A: el uso de Worldometers y Global Times como intermediarios de datos primarios del FMI y del Banco Mundial, la cita de una proyección de Goldman Sachs de 2022 (superación en 2035) sin verificar revisiones, y la afirmación de "primera señal de escape" de la trampa del ingreso medio basada en una columna de opinión del SCMP; en B: la conversión del "+61% vs. 41% contrafactual" del estudio de Cambridge en "+20pp" tabulado sin explicitar el método sintético ni su intervalo de incertidumbre, y la afirmación de que la proyección de Goldman "ha sido revisada" sin aportar la fuente de la revisión.
