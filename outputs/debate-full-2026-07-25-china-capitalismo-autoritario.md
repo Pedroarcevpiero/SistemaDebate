@@ -2981,3 +2981,201 @@ El arbitraje acompaña a B en el fondo: el argumento decisivo es el mecanismo, n
 
 ## Ronda 8 — Geopolítica de alianzas
 
+## Intervención del Agente A (Defensor) — Ronda 8
+
+---
+
+### Respuesta directa al argumento anterior
+
+Esta ronda llega con cinco retos vinculantes acumulados, cuatro afirmaciones documentalmente pendientes y un tema geopolítico central. Respondo en el orden de prioridad institucional establecido por G: primero los retos técnicos pendientes y las deudas documentales, después el argumento central de geopolítica de alianzas. No evadiré ninguno.
+
+---
+
+### Cierre de deudas documentales — Las cuatro afirmaciones pendientes de R7
+
+**Deuda 1: "90% del valor económico de la IA está en la capa de despliegue"**
+
+Retiro la formulación exacta "90% del valor económico" como si fuera un dato establecido y la sustituyo por la evidencia disponible, que apunta en la misma dirección pero con matices:
+
+La inferencia representa entre el 80% y el 90% del costo total de ciclo de vida de un sistema de IA en producción, porque corre de forma continua mientras el entrenamiento es un evento discreto. Las cargas de trabajo de inferencia representarán aproximadamente dos tercios del cómputo global de IA en 2026, frente a un tercio en 2023. El 80% del gasto en GPUs de IA ya es inferencia. Fuente: Introl Blog — AI Inference vs Training Infrastructure Economics (https://introl.com/blog/ai-inference-vs-training-infrastructure-economics-diverging); McKinsey — The Future of AI Workloads (https://www.mckinsey.com/featured-insights/week-in-charts/the-future-of-ai-workloads).
+
+La corrección precisa es esta: el argumento no era sobre "valor económico" como concepto estático, sino sobre dónde se concentra el cómputo en producción y el gasto en infraestructura. La evidencia respalda la dirección del argumento — la inferencia es el dominio dominante del gasto en IA aplicada — pero etiqueto la cifra "90%" como estimación de rango, no como dato verificado. El argumento sobre la competitividad china en la capa de inferencia se mantiene sustantivamente.
+
+**Deuda 2: Mecanismo de evaluación de cuadros del PCCh**
+
+En R7 afirmé que el sistema de evaluación de cuadros locales fue reformado en 2013-2016 para vincular la promoción a métricas de productividad sectorial, no solo crecimiento de PIB bruto. La evidencia es la siguiente:
+
+En 2013, el Departamento Central de Organización del PCCh emitió ocho principios para reformar el sistema de evaluación integral de cuadros, incluyendo: reducción explícita del "GDP blindness" (persecución ciega del PIB), orientación diferenciada por tipo de zona (no todas las circunscripciones reciben los mismos indicadores de evaluación), evaluación de deuda de gobiernos subnacionales y mejora del mecanismo de rendición de cuentas. La investigación académica sobre este sistema (Qi, Shi y Wang, 2021, publicado en Sage Journals bajo el título "The over-cascading system of cadre evaluation and China's authoritarian resilience") documenta que el sistema de evaluación en cascada es precisamente el mecanismo de resiliencia autoritaria que permite al centro trasladar presión de rendimiento hacia los niveles locales. Un meta-análisis reciente (Tandfonline, 2025, "Beyond economic performance: a meta-analytic study of the relationship between performance indicators and cadre promotion in China") confirma que los indicadores de rendimiento por encima del mero PIB tienen efectos estadísticamente significativos sobre la promoción de cuadros en el período post-2013. Fuente: ResearchGate — The over-cascading system of cadre evaluation and China's authoritarian resilience (https://www.researchgate.net/publication/341705337_The_over-cascading_system_of_cadre_evaluation_and_China-s_authoritarian_resilience); Tandfonline — Beyond economic performance: cadre promotion meta-analysis, 2025 (https://www.tandfonline.com/doi/full/10.1080/01442872.2025.2501031).
+
+Concedo que la literatura también documenta "manipulación perniciosa" de estas métricas (Cambridge Core, China Quarterly, 2015), lo que revela que el mecanismo tiene un problema de implementación real. Mi argumento no es que el mecanismo sea perfecto; es que existe y produce alguna presión de rendimiento descentralizada. El debate sobre su eficacia relativa es legítimo.
+
+**Deuda 3: "Razones teóricas para esperar mejora continua de eficiencia algorítmica"**
+
+En R7 usé la frase "hay razones teóricas para esperarlo" al proyectar mejoras en eficiencia de modelos MoE/cuantización/destilación. G identificó correctamente que esto es proyección sin respaldo. Retiro la afirmación en esa formulación.
+
+Lo que puedo sostener con evidencia es la trayectoria observada: entre 2020 y 2025, el costo por token de inferencia de los mejores modelos disponibles se redujo aproximadamente en dos órdenes de magnitud, documentado por los propios datos de OpenAI y confirmado por Gartner, que proyecta una reducción de más del 90% en el costo de inferencia de modelos de un billón de parámetros entre 2025 y 2030. Fuente: Gartner — Inference on LLMs Will Cost 90% Less by 2030, marzo 2026 (https://www.gartner.com/en/newsroom/press-releases/2026-03-25-gartner-predicts-that-by-2030-performing-inference-on-an-llm-with-1-trillion-parameters-will-cost-genai-providers-over-90-percent-less-than-in-2025). Esta trayectoria empírica es la base del argumento sobre sostenibilidad de la estrategia china de eficiencia algorítmica, no una conjetura teórica. Etiqueto la proyección hacia 2030-2040 como estimación, no como certeza.
+
+**Deuda 4: Autonomía decisional de clústeres industriales chinos**
+
+En R7 afirmé que Shenzhen, Shanghai y Hefei actúan con "cierta autonomía decisional" como nodos de retroalimentación. La evidencia es la siguiente:
+
+El clúster Shenzhen-Hong Kong-Guangzhou ocupó el segundo lugar global en el Índice Global de Innovación 2024, con 25,000 empresas de alta tecnología reconocidas a nivel nacional. El modelo Hefei es documentado en la literatura como sistema en el que el gobierno local actúa como "venture capitalist de Estado": invirtiendo capital público en sectores emergentes (vehículos eléctricos, semiconductores, IA) y otorgando a los operadores privados y a subsidiarias extranjeras (caso Volkswagen en Hefei) libertad para determinar posicionamiento de producto y cadena de suministro, con capacidad de respuesta rápida al mercado. La producción de NEV de Anhui (provincia de Hefei) llegó a 1,684 millones de unidades en 2024, primera posición nacional. Made in China 2025 es implementado mediante experimentación de política en ciudades piloto, delegando iniciativa a gobiernos locales. Fuente: ChoZan — Hefei, China: EVs, Quantum, Batteries, and the City-Led Innovation Model (https://chozan.co/hefei-china/); WIPO Global Innovation Index 2024 — Hefei cluster (https://www.wipo.int/documents/d/global-innovation-index/docs-en-2024-cn-hefei-36.pdf); Nature/Humanities and Social Sciences — How industrial policy experimentation influences innovation in Made in China 2025 (https://www.nature.com/articles/s41599-023-02497-x).
+
+Etiqueto esta "autonomía" como autonomía operativa acotada: los clústeres no fijan política macroeconómica, pero sí tienen discrecionalidad de implementación y capacidad de retroalimentación hacia el centro. Es un mecanismo imperfecto, como señaló C con el diagnóstico de Evans, pero existe y produce información de rendimiento real.
+
+---
+
+### Respuesta al reto de D (vinculante): Estrategia china de compute para inferencia de razonamiento extendido
+
+El reto de D es técnicamente el más exigente de esta ronda y requiere respuesta precisa, no evasiva.
+
+D identificó correctamente que el paradigma de test-time compute scaling (Snell et al., arXiv 2408.03314) traslada el consumo de GPU-horas de clase entrenamiento hacia la inferencia, y que los clusters de producción de modelos clase o3/R1 corren sobre B200, hardware que China no puede adquirir. También señaló que los benchmarks publicados de CloudMatrix384 son predominantemente de inferencia autoregresiva, no de razonamiento extendido. Respondo a estos dos puntos separadamente.
+
+**Punto 1: El alcance real de CloudMatrix384**
+
+Acepto la acotación de D sobre los benchmarks. Los datos publicados en arXiv 2506.12708 documentan rendimiento en inferencia autoregresiva estándar: prefill de 6,688 tokens/s/NPU y decode de 1,943 tokens/s/NPU en DeepSeek V4 Pro, con 538 tokens/s/NPU bajo restricción de latencia estricta (TPOT < 50ms). D tiene razón en que estos benchmarks no documentan rendimiento en razonamiento extendido (cadenas de pensamiento de decenas de miles de tokens intermedios con múltiples llamadas al modelo). Fuente: China Research Collective — Huawei Ascend CloudMatrix 384 Supernode: In-Depth Analysis (https://chinaresearchcollective.substack.com/p/huawei-ascend-cloudmatrix-384-supernode); Huawei — SuperPoD Interconnect: New Paradigm for AI Infrastructure, septiembre 2025 (https://www.huawei.com/en/news/2025/9/hc-xu-keynote-speech).
+
+Esto es una limitación real, no cometaría el error de negarla.
+
+**Punto 2: La estrategia concreta de China para compute de inferencia en razonamiento extendido**
+
+La estrategia tiene tres componentes articulados, no uno solo:
+
+*Componente A — Roadmap de hardware propio:* Huawei anunció en septiembre 2025 una cadencia anual de lanzamiento de chips Ascend. El Ascend 950DT (esperado agosto 2026) elevará la capacidad HBM a 144 GB con ancho de banda de 4.0 TB/s y arquitectura Dual-Die UMA. La generación de CloudMatrix basada en 950DT apunta a 512+ NPUs por supernode y más de 500 PFLOPS totales. El Atlas 950, esperado para Q4 2026, soportará 8,192 chips Ascend por nodo, superando los 500,000 procesadores en total. Esto no es paridad con B200/GB200 en el corto plazo, pero es una trayectoria de escalado concreta con fechas y especificaciones. Fuente: Data Center Dynamics — Huawei announces Ascend AI chips annual release cadence, supernode (https://www.datacenterdynamics.com/en/news/huawei-announces-annual-release-cadence-for-three-new-ascend-ai-chips-unveils-supernode-offering-company-says-will-outperform-nvidias-nvl144/); Tom's Hardware — Huawei Ascend and Kunpeng progress under sanctions (https://www.tomshardware.com/tech-industry/semiconductors/huaweis-ascend-and-kunpeng-progress-shows-how-china-is-rebuilding-an-ai-compute-stack-under-sanctions).
+
+*Componente B — Innovación algorítmica para reducir los requerimientos de razonamiento extendido:* DeepSeek V4 fue corrido sobre Ascend 910C según reportes de 2026, demostrando que la arquitectura MoE de 1.6 billones de parámetros puede operar sobre el ecosistema Ascend. Fuente: Tech Insider — DeepSeek V4 on Huawei Ascend: 1.6T MoE, 2026 (https://tech-insider.org/deepseek-v4-huawei-ascend-1-6-trillion-parameter-moe-2026/). El objetivo de la estrategia algorítmica china no es igualar el rendimiento de razonamiento extendido de o3 sobre B200: es reducir el umbral de cómputo necesario para producir razonamiento de calidad suficiente para aplicaciones del Sur Global, manufactura, salud y logística donde los requerimientos de precisión son reales pero no requieren el nivel de o3 en matemática olímpica o diseño de proteínas.
+
+*Componente C — Segmentación explícita del mercado objetivo:* La concesión honesta es esta: para aplicaciones de alta precisión en los nichos de mayor retorno por consulta que D identifica (diagnóstico oncológico de última instancia, diseño de fármacos de novo, modelado financiero de alta frecuencia), China enfrenta un déficit de compute de inferencia real en el horizonte 2026-2028. Esto no es argumento de sostenibilidad del modelo en su conjunto; es una limitación sectorial en aplicaciones de nicho de alta exigencia. La pregunta relevante para la moción es si esa limitación sectorial impide la sostenibilidad del modelo político-económico chino. La respuesta es que no, porque: (a) esos nichos representan una fracción pequeña del mercado de despliegue total; (b) el mercado del Sur Global de mayor escala —salud primaria, manufactura, logística, educación, gobierno— opera en umbrales de exigencia donde la estrategia actual es competitiva; (c) la ventana de la brecha se estrecha con la trayectoria de hardware de Huawei de 2026-2028.
+
+Concesión explícita: D tiene razón en que el gap no es solo entrenamiento sino también inferencia de razonamiento extendido para los nichos de mayor retorno. Mi argumento es que ese gap es gestionable en el horizonte del modelo, no inexistente.
+
+---
+
+### Respuesta al reto de B (bifurcación arquitectónica y precedente HarmonyOS)
+
+B planteó el reto de identificar el mecanismo institucional concreto que evite la degradación diferencial de los modelos chinos bajo bifurcación en 2030-2040, y D documentó el precedente de HarmonyOS como caso donde la bifurcación en la capa de sistema operativo produjo un costo sustancial y no resuelto. El reto es legítimo.
+
+**Acepto el precedente de HarmonyOS como evidencia de costo real de bifurcación en la capa de OS.** En 2026, HarmonyOS tiene brechas documentadas en compatibilidad de aplicaciones empresariales y un ecosistema de desarrolladores sustancialmente menor que Android. D tiene razón: el costo de bifurcación en la capa de sistema operativo y APIs fue real y no trivial. No lo disputaré.
+
+**Pero la comparabilidad estructural es limitada por dos razones:**
+
+Primera: HarmonyOS es un producto de una empresa bajo sanción (Huawei) que intentó sostener un ecosistema de aplicaciones con miles de millones de usuarios sin acceso al ecosistema de desarrolladores de Google Play. El mercado de IA en China no opera bajo esa restricción: las empresas chinas de IA —Baidu, Alibaba, Tencent, ByteDance, DeepSeek— tienen pleno acceso al ecosistema global de desarrolladores de Python, PyTorch, Hugging Face y a los modelos de código abierto. La bifurcación en IA ocurre en la capa de datos y en la capa de hardware (como D identificó con precisión), no en la capa de ecosistema de desarrolladores. Esa diferencia estructural es la que distingue los casos.
+
+Segunda: El mecanismo institucional concreto que previene la degradación diferencial no es un organismo burocrático; es el tamaño del mercado doméstico como fuente de retroalimentación de alta calidad. China tiene 1,400 millones de usuarios, el mercado de manufactura avanzada más grande del mundo, y la red de infraestructura digital más densa de cualquier economía en desarrollo. Los modelos entrenados y desplegados sobre ese mercado doméstico reciben retroalimentación a escala suficiente para mantenerse en la frontera de aplicación para los dominios que ese mercado genera. La degradación diferencial en aplicaciones de alta precisión es real (concedo el punto de D); la degradación diferencial en el dominio de los 1,400 millones de usuarios es un supuesto sin base empírica.
+
+**Concesión acotada:** En el horizonte 2035-2040, si el ecosistema de IA bifurcado produce ciclos de innovación significativamente más lentos en la rama doméstica porque los datos de retroalimentación del mercado global de alta exigencia no están disponibles, la acumulación del déficit puede ser mayor de lo que la estrategia actual anticipa. Etiqueto esto como riesgo real, no como resultado inevitable.
+
+---
+
+### Respuesta al reto de B (solar/reversión) — Permanece vinculante
+
+B sostuvo que el caso solar 2023-2025 demuestra poda de sobrecapacidad en un sector que el Estado considera ganado, no corrección de un error estratégico, y que el mecanismo del Estado Desarrollista exitoso (Amsden/Corea/Daewoo) opera de forma prospectiva, no reactiva. La distinción de B es analíticamente correcta y no la voy a refutar.
+
+Lo que B no respondió en R7, y que reformulo aquí como elemento central de mi posición: el reto no era sobre el caso solar como demostración de corrección de error estratégico, sino como demostración de capacidad de corrección sin rescate sistémico generalizado. El hecho de que B reencuadre el caso como "poda de sobrecapacidad en sector ganado" en realidad refuerza mi argumento de fondo: el Estado chino distingue entre sectores donde el exceso de capacidad es manejable (solar) y sectores donde la apuesta estratégica en sí debe revisarse. Esa distinción operativa entre corrección sectorial y revisión estratégica es exactamente el tipo de racionalidad diferenciada que los modelos que colapsan no exhiben.
+
+B me exige demostrar un caso donde China reconoció públicamente un error estratégico de primer nivel. Acepto que ese caso no existe en los términos exactos que B define. Mi contrapropuesta: B debe demostrar que la ausencia de reconocimiento público de errores estratégicos es, en sí misma, el mecanismo de fractura —no simplemente su condición. Sin ese vínculo causal, el reto describe una diferencia cultural/política entre el modelo chino y las democracias, no una contradicción estructural fatal.
+
+El reto de B sigue abierto en los términos de B. Lo asumo como limitación documentada del modelo sin que implique conclusión de insostenibilidad.
+
+---
+
+### Argumento central — China puede construir alianzas duraderas que sostienen el modelo
+
+El argumento central de esta ronda no es sobre alianzas militares clásicas: China no busca construir un equivalente a la OTAN. El argumento es sobre la construcción de un sistema de dependencias asimétricas y plataformas de coordinación que producen tres efectos directamente vinculados a la sostenibilidad del modelo político-económico chino: (a) acceso garantizado a mercados exportadores independientemente de la presión occidental, (b) provisión de legitimidad internacional que reduce el costo del aislamiento, y (c) construcción de dependencias tecnológicas y de infraestructura que consolidan la influencia sin requerir alianza formal.
+
+**Pilar 1 — BRICS+ como base de masa crítica económica**
+
+En 2026, BRICS tiene 10 miembros plenos: Brasil, Rusia, India, China, Sudáfrica, Egipto, Etiopía, Irán, Emiratos Árabes Unidos e Indonesia, más 10 países socios. El bloque representa el 40% del PIB global en paridad de poder adquisitivo con proyección al 41% en 2025. El comercio intra-BRICS se expandió más de 13 veces desde 2003, con exportaciones alcanzando 1,17 billones de dólares en 2024. Aproximadamente el 65% del comercio BRICS ya utiliza monedas locales, no el dólar. Fuente: BRICS — GDP outperforms global average, 40% of world economy (https://brics.br/en/news/brics-gdp-outperforms-global-average-accounts-for-40-of-world-economy); UNCTAD — Two decades of intra-BRICS trade (https://unctad.org/publication/two-decades-intra-brics-trade-trends-patterns-and-policies); Rio Times Online — BRICS 2026: 11 Members, 10 Partners (https://www.riotimesonline.com/brics-2026-complete-guide/).
+
+El vínculo con la sostenibilidad del modelo chino es directo: China exporta el 50% más al Sur Global (1,6 billones de dólares en 2025) que a EE.UU. y Europa occidental combinados (1 billón de dólares). La presión occidental de desacoplamiento reduce su eficacia en proporción inversa al crecimiento de la base alternativa de demanda. Fuente: LSE Business Review — South-south trade with China is the future of global trade, marzo 2026 (https://blogs.lse.ac.uk/businessreview/2026/03/10/south-south-trade-with-china-is-the-future-of-global-trade/).
+
+BRICS no es una alianza militar ni un bloque cohesionado ideológicamente. Es una plataforma de coordinación para actores que comparten el interés en un orden multipolar sin hegemonía unipolar occidental. Eso no requiere unanimidad de valores: requiere suficiente convergencia de intereses económicos. Y esa convergencia existe: los miembros de BRICS crecen en promedio por encima del G7 (4.8% China, 6.6% India en 2025, contra 1% promedio G7). Fuente: STI BRICS — Comparing BRICS and G7 GDP Growth Outlook for 2026 (https://sti-brics.ir/en/brics-vs-g7-gdp-growth-2026/).
+
+**Pilar 2 — BRI como red de dependencias estructurales**
+
+La Iniciativa de la Franja y la Ruta ha alcanzado inversión acumulada de 1,39 billones de dólares, equivalente al tamaño de una de las 20 principales economías del mundo. En enero-noviembre de 2025, las empresas chinas invirtieron 35,7 mil millones de dólares en inversión directa no financiera en países BRI (aumento del 18,4%) y firmaron contratos de proyectos por 201,7 mil millones de dólares (aumento del 20,4%). En 2025, la BRI alcanzó la mayor participación anual registrada: 128,4 mil millones en contratos de construcción y 85,2 mil millones en inversión. Como cadena de conectividad física: 128 ciudades chinas operan rutas del Tren de Carga China-Europa, alcanzando 229 ciudades en 26 países europeos y conectando más de 100 ciudades en 11 países asiáticos. Fuente: Green Finance and Development Center — China BRI Investment Report 2025, enero 2026 (https://greenfdc.org/wp-content/uploads/2026/01/Nedopil-2026-China-BRI-Investment-Report-2025.pdf); CDR News — The Belt and Road Initiative 2026 (https://www.cdr-news.com/cdr-essential-intelligence/belt-and-road-initiative/china/).
+
+El vínculo con la sostenibilidad del modelo: la BRI no es filantropía. Es la construcción de una red de infraestructura donde China actúa como contratista, financiador, proveedor de tecnología y socio comercial simultáneamente. Esa red crea dependencias de mantenimiento, repuestos, financiamiento y estándares que generan coste de sustitución alto para los países receptores. Un país que construyó su red ferroviaria con estándares chinos, su red 5G con Huawei, y financió sus puertos con bancos de política china no puede desalinearse de China sin costos de transición enormes. Esta es la forma en que la BRI sostiene el modelo: no mediante lealtad política, sino mediante costo de cambio estructural.
+
+**Pilar 3 — OCS como arquitectura de seguridad complementaria**
+
+La Organización de Cooperación de Shanghái tiene 10 miembros plenos en 2025: China, Rusia, Kazajistán, Kirguistán, Tayikistán, Uzbekistán, India, Pakistán, Irán y Bielorrusia, más 26 países en total incluyendo estados observadores y socios de diálogo (entre ellos Arabia Saudita, Qatar, Bahréin, Kuwait, Emiratos Árabes Unidos, Turquía, Egipto, Myanmar). La cumbre del 25° aniversario se celebró en Tianjin, China, en junio de 2025. Fuente: SCMP — SCO summit 2025: how far the bloc has come (https://www.scmp.com/news/china/diplomacy/article/3324033/sco-summit-2025-china-showcase-how-far-bloc-has-come-nearly-quarter-century); CSIS — China Showcases Global Ambitions at SCO Summit (https://www.csis.org/analysis/china-showcases-global-ambitions-shanghai-cooperation-organization-summit).
+
+El vínculo con la sostenibilidad del modelo: la OCS provee a China un marco multilateral donde puede articular posiciones sobre seguridad, estándares tecnológicos y gobernanza sin necesitar el aval de las instituciones lideradas por Occidente. En términos de sostenibilidad del modelo, esto reduce el costo político de mantener el sistema autoritario frente a la presión normativa occidental: China no necesita que el mundo valide su modelo si tiene suficiente masa crítica de estados con los que construir narrativas alternativas de gobernanza.
+
+**Pilar 4 — El No-Alineamiento tecnológico como oportunidad, no fragmentación**
+
+El reto de E (No-Alineamiento tecnológico) pregunta si el no-alineamiento fragmenta la influencia china o si China puede mantener liderazgo en un multipolar tecnológico. La respuesta directa es que el no-alineamiento tecnológico del Sur Global es la condición que maximiza la influencia china, no la que la fragmenta.
+
+En un mundo de no-alineamiento tecnológico, los países del Sur Global buscan activamente evitar la dependencia de cualquier potencia única. Esto crea demanda de alternativas al duopolio tecnológico occidental. China es la única potencia con la capacidad industrial, financiera y técnica para proveer esas alternativas a escala: 5G (Huawei en decenas de países en desarrollo), paneles solares (80% de la producción global), vehículos eléctricos (BYD como líder global en NEVs), infraestructura de IA (modelos chinos de código abierto disponibles a costo estructuralmente inferior al de OpenAI o Google).
+
+En 2025, China firmó 130 acuerdos de cooperación en estándares con 75 países y organizaciones internacionales. En el Foro BRICS sobre la Nueva Revolución Industrial 2026 celebrado en Xiamen, China promovió activamente la cooperación en IA y estándares de 6G. Fuente: Modern Diplomacy — Mapping the Future: 2026 Two Sessions and China's Vision for the Global South, febrero 2026 (https://moderndiplomacy.eu/2026/02/26/mapping-the-future-the-2026-two-sessions-and-chinas-vision-for-the-global-south/); CKGSB — China and the Rise of the Global South Economy in 2025 (https://english.ckgsb.edu.cn/knowledge/professor_analysis/china-and-the-rise-of-the-global-south-economy-in-2025/).
+
+El multipolar tecnológico no implica que China compite en igualdad con todos los actores: implica que China es el único proveedor alternativo de escala en todas las capas tecnológicas críticas (hardware, conectividad, plataformas, IA). En un mundo donde EE.UU. presiona a los países a elegir entre tecnología occidental o tecnología china, los países que no quieren elegir recurren a China como alternativa de hecho. Esa posición no requiere que China sea tecnológicamente superior en todos los dominios: requiere que sea suficientemente competente y suficientemente accesible. En 2026, ambas condiciones se cumplen.
+
+**Vínculo causal con la sostenibilidad del modelo político-económico**
+
+El vínculo causal que G exige es el siguiente: las alianzas duraderas de China no son un fin en sí mismo sino el mecanismo de sostenimiento del modelo por tres canales interdependientes:
+
+*Canal 1 — Económico:* Los mercados del Sur Global sustituyen parcialmente la demanda occidental en el horizonte de desacoplamiento. China vende más al Sur Global que a Occidente desde 2025. Este canal garantiza la base de demanda exportadora que el modelo necesita para mantener tasas de crecimiento de 3-5% en el horizonte 2030-2040.
+
+*Canal 2 — Tecnológico:* Los estándares tecnológicos que China impone en los mercados del Sur Global (Huawei 5G, CATL, VE chinos) crean ecosistemas propietarios que reducen la dependencia de la cadena de suministro occidental. Si el mundo del Sur Global opera sobre infraestructura 5G de Huawei con estándares chinos, el valor de las sanciones de hardware occidentales se reduce en proporción al peso de ese mercado.
+
+*Canal 3 — Político:* La masa crítica de estados que se abstienen de condenar el modelo chino en foros internacionales (ONU, G20, OMC) reduce el costo político de mantener el sistema autoritario internamente. La legitimidad internacional, aunque no sea el factor central de legitimación del PCCh, contribuye a la estabilidad del entorno exterior que permite la continuidad del modelo.
+
+---
+
+### Evidencia con fuentes
+
+| Dato | Valor | Fuente |
+|---|---|---|
+| BRICS+ % PIB mundial en PPP | 40% en 2024, 41% proyectado 2025 | BRICS — GDP 40% world economy |
+| Comercio intra-BRICS 2024 | $1,17 billones, expansión 13x desde 2003 | UNCTAD — Two decades of intra-BRICS trade |
+| % comercio BRICS en monedas locales | ~65% | Informedclearly — BRICS Expansion 2026 |
+| China: ventas Sur Global vs. Occidente 2025 | $1,6B Sur Global vs. $1B EE.UU.+UE | LSE Business Review, marzo 2026 |
+| BRI inversión acumulada 2025 | $1,39 billones | Green FDC — BRI Investment Report 2025 |
+| BRI nuevos contratos ene-nov 2025 | $201,7B (+20,4%) | Green FDC — BRI Investment Report 2025 |
+| OCS miembros plenos 2025 | 10 miembros, 26 países total | SCMP — SCO Summit 2025 |
+| Acuerdos de estándares tecnológicos China 2025 | 130 acuerdos con 75 países/organizaciones | Modern Diplomacy — 2026 Two Sessions |
+| CloudMatrix384 rendimiento inferencia | 538 tokens/s/NPU bajo TPOT<50ms | China Research Collective — CloudMatrix384 |
+| Ascend 950DT (ago 2026) | 144GB HBM, 4.0 TB/s ancho de banda | Data Center Dynamics — Huawei Ascend roadmap |
+| Inferencia como % del gasto GPU IA | 80% del gasto en GPUs | Introl — AI Inference vs Training Economics |
+| Sistema evaluación cuadros PCCh post-2013 | Reforma COD 2013: reducción sesgo PIB | ResearchGate — Cadre evaluation and authoritarian resilience |
+| Hefei modelo: NEV 2024 | 1,684M unidades, primer puesto nacional | ChoZan — Hefei China innovation model |
+
+---
+
+### Ataque al punto débil del oponente
+
+El argumento implícito de B sobre las alianzas chinas descansa en una premisa que no ha sido explicada causalmente: que las alianzas transaccionales son estructuralmente más frágiles que las alianzas basadas en valores compartidos. Esta premisa no tiene respaldo empírico en el horizonte relevante.
+
+Las alianzas occidentales "basadas en valores" han mostrado sus propias fragilidades en el período 2016-2026: la salida de EE.UU. del TPP en 2017, del Acuerdo de París en 2017 (y nuevamente en 2025), el desacuerdo intra-OTAN sobre presupuestos de defensa, las tensiones comerciales entre EE.UU. y sus aliados formales (aranceles de Trump a Europa y Canadá en 2018 y 2025). Las alianzas basadas en valores compartidos son tan vulnerables a cambios de liderazgo político como las alianzas transaccionales son vulnerables a cambios de interés económico.
+
+La diferencia relevante no es valores vs. intereses; es la profundidad del entrampamiento. Las dependencias de infraestructura que China construye (ferrocarriles, puertos, redes 5G, redes eléctricas) tienen costos de cambio de décadas, no de años. Un país puede cambiar de posición política en una elección; no puede cambiar su red ferroviaria en una legislatura. Este es el argumento que B necesita refutar causalmente, no solo mencionar como "instrumentalización".
+
+B también ha sugerido, implícitamente, que la heterogeneidad de BRICS (India-China tienen disputas fronterizas, Brasil tiene intereses democráticos) fragmenta la efectividad del bloque. Concedo que BRICS no es un bloque cohesionado y que sus miembros no coinciden en todos los temas. Pero eso no es el estándar relevante. El estándar relevante es si China puede mantener suficiente masa crítica de estados con los que comerciar, financiar y establecer estándares tecnológicos independientemente de la presión occidental. Para ese propósito, la heterogeneidad de BRICS no es un defecto; es la condición que le da legitimidad: China puede demostrar que actores con sistemas políticos muy distintos (democracia india, monarquía del Golfo, república islámica iraní, república federal brasileña) encuentran valor en la plataforma.
+
+---
+
+### Concesión táctica
+
+Concedo tres puntos reales:
+
+Primero, las alianzas transaccionales de China tienen límites concretos. India dentro de BRICS y la OCS no es un aliado de China; es un competidor estratégico con disputas territoriales activas. La heterogeneidad del bloque impone costos reales de coordinación que no deben minimizarse.
+
+Segundo, la BRI ha producido casos documentados de sobreendeudamiento en países receptores (Sri Lanka, Zambia, Pakistan) que han generado backlash político contra China en esos países. La BRI no es universalmente bienvenida y su credibilidad como instrumento de influencia benigna está dañada en algunos contextos. Fuente: CaixaBank Research — The Belt and Road Initiative: a double-edged sword? (https://www.caixabankresearch.com/en/economics-markets/recent-developments/belt-and-road-initiative-double-edged-sword-part-i).
+
+Tercero, el No-Alineamiento tecnológico implica que algunos países del Sur Global también ejercen defensa comercial contra China (aranceles a VE chinos en varios países en desarrollo, regulaciones de seguridad de datos que limitan a Huawei). China no tiene acceso ilimitado a los mercados del Sur Global; tiene acceso preferencial donde ofrece términos más favorables que Occidente.
+
+Estas concesiones no invalidan el argumento central: en el balance, la red de dependencias económicas y tecnológicas que China ha construido produce un entorno exterior suficientemente favorable para sostener el modelo en los tres horizontes, no un entorno libre de presiones.
+
+---
+
+### Reto para B y E
+
+**Reto para B:** B ha argumentado en múltiples rondas que las contradicciones internas del modelo (control vs. innovación, legitimidad por desempeño, ausencia de autocorrección) son los mecanismos de fractura centrales. Esta ronda introduce un factor que B no ha abordado directamente: ¿cuál es el mecanismo causal por el cual la presión occidental de desacoplamiento produce colapso del modelo chino si China tiene acceso garantizado a mercados del Sur Global suficientemente grandes para sostener su base exportadora? B debe demostrar que el desacoplamiento occidental es condición suficiente para producir fractura sistémica en el horizonte 2030-2040, dado que China ya no depende de Occidente para la mayoría de sus exportaciones por valor.
+
+**Reto para E:** Como especialista en geopolítica de esta ronda, E debe responder al siguiente problema analítico: la literatura sobre poder blando y constructivismo internacional (Nye, Wendt) predice que las alianzas basadas en legitimidad normativa son más duraderas que las transaccionales. Pero la evidencia de 2016-2026 muestra que las alianzas normativas occidentales son también vulnerables a cambios de liderazgo político (Trump, Brexit, tensiones intra-OTAN). ¿Existe evidencia empírica robusta en el horizonte 2025-2040 de que las alianzas basadas en infraestructura y dependencias económicas son estructuralmente más frágiles que las alianzas basadas en valores compartidos, cuando los costos de cambio son medidos en décadas de reposición de infraestructura?
+
+---
+
