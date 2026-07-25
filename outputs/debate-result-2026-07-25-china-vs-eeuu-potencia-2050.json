@@ -1,0 +1,203 @@
+{
+  "debate_id": "china-vs-eeuu-potencia-2050",
+  "fecha": "2026-07-25",
+  "mocion": "China superará a Estados Unidos y será la primera potencia mundial en 2050",
+  "rondas": 10,
+  "intervenciones_totales": 20,
+  "quien_inicio": "Proponente (Agente A — China)",
+  "arbitro": "Agente H",
+  "panel_especialistas": ["C — Economía y Finanzas", "D — Tecnología, IA y Semiconductores", "E — Militar y Geopolítica", "F — Demografía e Instituciones", "G — Energía, Cadenas de Suministro y Auditoría"],
+  "ganador": "Oponente (Agente B — Estados Unidos)",
+  "resultado_mocion": "NO SE CUMPLE",
+  "nivel_confianza": "Alto sobre el resultado del debate (~95%); Medio-Bajo sobre el estado del mundo en 2050 (~60-70%)",
+  "umbral_empate_tecnico": 0.15,
+  "empate_tecnico_aplicable": false,
+
+  "ipni": {
+    "china": 5.788,
+    "eeuu": 7.133,
+    "diferencia": 1.345,
+    "china_normalizado_pct": 44.8,
+    "eeuu_normalizado_pct": 55.2,
+    "margen_pp": 10.4,
+    "barra_error_pp": 4.5,
+    "factor_sobre_umbral_empate": 8.97
+  },
+
+  "probabilidad_mocion": {
+    "proponente_apertura": 0.62,
+    "oponente_apertura": 0.35,
+    "proponente_estimacion": 0.28,
+    "oponente_estimacion": 0.25,
+    "arbitro_estimacion": 0.26,
+    "intervalo_plausible_arbitro": [0.18, 0.35],
+    "nota": "Convergencia adversarial: las estimaciones de apertura (62% vs 35%) convergen a 28% vs 25% tras diez rondas"
+  },
+
+  "dimensiones": [
+    {"n": 1, "nombre": "Economía total y PBI nominal", "peso": 0.125, "china": 7.00, "eeuu": 5.75, "contrib_china": 0.8750, "contrib_eeuu": 0.7188, "ventaja": "China (+1.25)", "origen": "Árbitro H", "justificacion": "Punto medio entre A (7.5/6.0) y B (6.5/5.5), ajustado a la baja por evidencia [DO] del Esp. C de que la brecha nominal se amplió 2021-2025 (China de ~76% a ~64-65% del PBI de EE.UU.) y por la dispersión extrema de fechas de cruce (2033 a nunca)"},
+    {"n": 2, "nombre": "PBI PPP, productividad y riqueza per cápita", "peso": 0.125, "china": 6.00, "eeuu": 7.25, "contrib_china": 0.7500, "contrib_eeuu": 0.9063, "ventaja": "EE.UU. (+1.25)", "origen": "Árbitro H", "justificacion": "Punto medio exacto entre A (6.5/7.5) y B (5.5/7.0). Dos de tres componentes (PTF ~2x y per cápita ~4-5x, Penn World Tables) favorecen decisivamente a EE.UU. A concedió la dimensión expresamente"},
+    {"n": 3, "nombre": "Tecnología, IA y semiconductores", "peso": 0.20, "china": 6.20, "eeuu": 8.40, "contrib_china": 1.2400, "contrib_eeuu": 1.6800, "ventaja": "EE.UU. (+2.2)", "origen": "Especialista D, R9", "justificacion": "China gana difusión industrial (8.5 vs 6.5) pero pierde en fabricación de frontera (4.0 vs 9.0) y EDA/herramientas (4.0 vs 9.5). Cuatro de los cinco términos de la definición operacional favorecen a EE.UU."},
+    {"n": 4, "nombre": "Poder militar", "peso": 0.15, "china": 6.30, "eeuu": 7.80, "contrib_china": 0.9450, "contrib_eeuu": 1.1700, "ventaja": "EE.UU. (+1.5)", "origen": "Especialista E, R9", "justificacion": "China domina el teatro regional (8.5 vs 6.0) y la base industrial naval (8.5 vs 5.5); EE.UU. domina proyección global (9.0 vs 4.5), aliados fiables (8.0 vs 3.5) y validación en combate (8.0 vs 3.0). La definición dice 'global'"},
+    {"n": 5, "nombre": "Moneda, finanzas y sanciones", "peso": 0.10, "china": 3.75, "eeuu": 8.65, "contrib_china": 0.3750, "contrib_eeuu": 0.8650, "ventaja": "EE.UU. (+4.9)", "origen": "Especialista C, R5", "justificacion": "Brecha más extrema del índice. Yuan en 2.85% de reservas (IMF COFER Q1 2026). Trampa estructural de la cuenta de capital sin solución en el expediente. Aceptada por A sin variación"},
+    {"n": 6, "nombre": "Demografía, educación y talento", "peso": 0.10, "china": 4.70, "eeuu": 7.30, "contrib_china": 0.4700, "contrib_eeuu": 0.7300, "ventaja": "EE.UU. (+2.6)", "origen": "Especialista F, R6", "justificacion": "Contracción poblacional china estructural. El 7.3 americano condicionado a la persistencia del sistema migratorio, concedido como riesgo por B"},
+    {"n": 7, "nombre": "Instituciones, gobernanza y autocorrección", "peso": 0.10, "china": 6.28, "eeuu": 5.68, "contrib_china": 0.6280, "contrib_eeuu": 0.5680, "ventaja": "China (+0.6)", "origen": "Especialista F, R7", "justificacion": "Única victoria china del panel. Capacidad de ejecución y continuidad estratégica frente a polarización y parálisis americana. Prueba de ausencia de sesgo del panel"},
+    {"n": 8, "nombre": "Alianzas, diplomacia y soft power", "peso": 0.05, "china": 5.60, "eeuu": 5.40, "contrib_china": 0.2800, "contrib_eeuu": 0.2700, "ventaja": "China (+0.2)", "origen": "Especialistas E+G, R8", "justificacion": "Alianzas americanas formales superiores pero descontadas por fiabilidad y condicionalidad de basing [EI]"},
+    {"n": 9, "nombre": "Energía, recursos y cadenas de suministro", "peso": 0.05, "china": 7.00, "eeuu": 4.50, "contrib_china": 0.3500, "contrib_eeuu": 0.2250, "ventaja": "China (+2.5)", "origen": "Especialistas E+G, R8", "justificacion": "China refina ~90% de tierras raras, >80% de módulos solares, >75% de celdas de batería. Ventaja real pero decreciente: replicación occidental probable para 2040"}
+  ],
+
+  "bloques": {
+    "economico_dims_1_2_25pct": {"china": 1.625, "eeuu": 1.625, "resultado": "empate perfecto"},
+    "tecnologico_militar_dims_3_4_35pct": {"china": 2.185, "eeuu": 2.850, "resultado": "EE.UU. +0.665"},
+    "financiero_demografico_dims_5_6_20pct": {"china": 0.845, "eeuu": 1.595, "resultado": "EE.UU. +0.750"},
+    "institucional_sistemico_dims_7_8_9_20pct": {"china": 1.133, "eeuu": 1.063, "resultado": "China +0.070"}
+  },
+
+  "convergencia_de_tablas": [
+    {"fuente": "Proponente A (R10, máximo favorable a China)", "china_pct": 46.9, "eeuu_pct": 53.1},
+    {"fuente": "Árbitro H (veredicto)", "china_pct": 44.8, "eeuu_pct": 55.2},
+    {"fuente": "Oponente B (R10)", "china_pct": 45.0, "eeuu_pct": 55.0},
+    {"fuente": "Especialista G (R9, supuestos generosos a China)", "china_pct": 44.2, "eeuu_pct": 55.8}
+  ],
+
+  "puntaje_argumentativo": {
+    "proponente_A": {
+      "claridad_tesis": 8.0,
+      "respuesta_directa_rival": 7.0,
+      "calidad_evidencia": 6.0,
+      "pertinencia_fuentes": 6.0,
+      "fuerza_logica": 5.0,
+      "capacidad_refutacion": 6.0,
+      "reconocimiento_debilidades": 10.0,
+      "consistencia_interna": 6.0,
+      "foco_tema": 7.0,
+      "relevancia_practica": 8.0,
+      "sostener_posicion": 5.0,
+      "total": 74.0,
+      "sobre": 110,
+      "promedio": 6.73
+    },
+    "oponente_B": {
+      "claridad_tesis": 8.0,
+      "respuesta_directa_rival": 9.0,
+      "calidad_evidencia": 8.0,
+      "pertinencia_fuentes": 8.0,
+      "fuerza_logica": 9.0,
+      "capacidad_refutacion": 9.0,
+      "reconocimiento_debilidades": 8.0,
+      "consistencia_interna": 9.0,
+      "foco_tema": 9.0,
+      "relevancia_practica": 8.0,
+      "sostener_posicion": 9.0,
+      "total": 94.0,
+      "sobre": 110,
+      "promedio": 8.55
+    }
+  },
+
+  "penalizaciones_A": [
+    {"id": "A1", "gravedad": "grave", "descripcion": "Atribución incorrecta al panel: cifra IPNI 54-57% declarada 'derivada de puntuaciones de especialistas' cuando el cómputo correcto arroja 42-45%", "fuente": "Esp. G, R9", "reconocida_por_A": true},
+    {"id": "A2", "gravedad": "media-alta", "descripcion": "Variable bisagra mal especificada: '>60% yield en 7nm' sin especificar tamaño de die; infla la robustez del Escenario 1", "fuente": "Esp. D, R9", "reconocida_por_A": true},
+    {"id": "A3", "gravedad": "media", "descripcion": "Cifra sin fuente: '85% de aplicaciones industriales operan en nodos >=5nm'", "fuente": "Esp. D, R9", "reconocida_por_A": false},
+    {"id": "A4", "gravedad": "media-alta", "descripcion": "Error aritmético intra-IPNI: intercambia ventaja de peso 5% (dim.9) por desventaja de peso 20% (dim.3) presentándolo como favorable", "fuente": "Esp. D, R9", "reconocida_por_A": false},
+    {"id": "A5", "gravedad": "media", "descripcion": "Probabilidad no asignada a condición necesaria del Escenario 2; rama favorable 7-10% vs rama adversa 12-15%", "fuente": "Esp. E, R9", "reconocida_por_A": true},
+    {"id": "A6", "gravedad": "media", "descripcion": "Ejemplo autocontradictorio: Italia saliendo del BRI citada como erosión del bloque americano cuando evidencia erosión del chino", "fuente": "Esp. E, R9", "reconocida_por_A": false},
+    {"id": "A7", "gravedad": "media", "descripcion": "Asimetría analítica en tierras raras: efecto demostración aplicado a favor (yuan) pero no en contra (abril 2025)", "fuente": "Esp. G, R9", "reconocida_por_A": false},
+    {"id": "A8", "gravedad": "media", "descripcion": "Doble estándar en deuda: ahorro chino del 45% aceptado como amortiguador, privilegio del dólar rechazado como tal", "fuente": "Esp. G, R9", "reconocida_por_A": false},
+    {"id": "A9", "gravedad": "menor", "descripcion": "Imprecisión: '30-40% del comercio de Japón y Corea con China', redondeado al alza sin fuente puntual", "fuente": "Esp. E, R9", "reconocida_por_A": false},
+    {"id": "A10", "gravedad": "media-alta", "descripcion": "Evasión acumulada: no respondió desde R3 a la objeción de eficiencia energética por operación (escala con el nodo, no con el empaquetado)", "fuente": "Esp. D, R9", "reconocida_por_A": false},
+    {"id": "A11", "gravedad": "alta", "descripcion": "Desplazamiento de tesis en el cierre: argumento meta-IPNI ('EE.UU. puede ganar el IPNI y perder el orden') tras aceptar el IPNI como vinculante durante nueve rondas. Atenuada por no reclamar victoria sobre esa base", "fuente": "Árbitro H sobre alegato de B, R10", "reconocida_por_A": false}
+  ],
+
+  "penalizaciones_B": [
+    {"id": "B1", "gravedad": "menor-media", "descripcion": "Presentación tardía de tabla IPNI completa (R9), pese a obligación de aritmética explícita desde el enmarcado"},
+    {"id": "B2", "gravedad": "menor-media", "descripcion": "Tratamiento de las alianzas como activo cuasi-fijo en R1-R7, sin modelar erosión, hasta ser forzado por A y por el Esp. E"},
+    {"id": "B3", "gravedad": "menor", "descripcion": "Uso de la comparación de inversión privada en IA (285.9B vs 12.4B, 23x) sin desagregar inversión estatal china ni I+D corporativa no reportada; uso del caso DeepSeek R2 [EC] con peso superior a su nivel epistémico"}
+  ],
+
+  "bonificaciones_A": [
+    "Reconocimiento honesto de debilidades: aceptó la penalización más grave sin reservas, corrigió su aritmética en público, presentó tabla contraria a su propia tesis y revisó su probabilidad de 62% a 28% (puntuación máxima 10.0)",
+    "Mantenimiento de condiciones de falsación desde R1 hasta R10 sin reformulación oportunista (Esp. E, R9)",
+    "Mejor argumento geopolítico del debate: cohesión aliada como variable endógena y asincrónica (Esp. E, R9)",
+    "Único debatiente que asignó probabilidades explícitas a escenarios desde la primera ronda",
+    "Concesión expresa de la dimensión 2: 'no tengo base para un número más favorable a China'"
+  ],
+
+  "bonificaciones_B": [
+    "Disciplina de marco: aceptó sin modificación las siete puntuaciones del panel, incluida la dimensión 7 que pierde",
+    "Concesiones genuinas en su forma fuerte: riesgo migratorio americano y riesgo fiscal",
+    "Calibración final honesta: aceptó el 28% de A como bien calibrado, renunciando a reclamar una victoria más amplia",
+    "Refutación estructural: inversión del argumento de alianzas (se refuerzan por la amenaza china, no se erosionan)"
+  ],
+
+  "argumento_mas_fuerte_A": "La cohesión del bloque americano es una variable endógena y asincrónica, no un activo fijo: las alianzas requieren decisiones políticas simultáneas de múltiples capitales democráticas bajo presión, mientras China coordina un solo actor. Reconocido como tal por el Especialista E y no refutado en su núcleo",
+  "argumento_mas_fuerte_B": "Las alianzas americanas se aceleran precisamente porque China crece: Japón al 2% del PIB, AUKUS $368B AUD, Corea del Sur integrada en controles de semiconductores — en los tres casos el detonante es China. Refutación estructural que invierte el mejor argumento del rival",
+
+  "concesion_decisiva": {
+    "autor": "Proponente A",
+    "ronda": 10,
+    "texto": "No puedo demostrar que China supere el 50% del IPNI con ninguna tabla honesta",
+    "impacto": "Incumplimiento de la carga de prueba por reconocimiento propio; resuelve el debate"
+  },
+
+  "evidencia_decisiva": [
+    {"rango": 1, "nivel": "A [DO]", "hecho": "La brecha de PBI nominal China/EE.UU. se amplió entre 2021 y 2025 (de ~76% a ~64-65%)", "fuente": "Especialista C, R2"},
+    {"rango": 2, "nivel": "A/C [DO+EC]", "hecho": "Restricción litográfica: ~34 exposiciones DUV vs ~9 con EUV; coste por wafer bueno 2-3x superior; throughput colapsado", "fuente": "Especialista D, R3/R9"},
+    {"rango": 3, "nivel": "Auditoría aritmética", "hecho": "China necesitaría ~9.5-10.0 en ambas dimensiones económicas contra ~1.5-2.5 de EE.UU. para alcanzar el 54-57% reclamado por A", "fuente": "Especialista G, R9"},
+    {"rango": 4, "nivel": "A [DO]", "hecho": "IMF COFER Q1 2026: yuan en 2.85% de reservas globales, con trampa estructural de la cuenta de capital", "fuente": "Especialista C, R5"},
+    {"rango": 5, "nivel": "A [DO]", "hecho": "Controles chinos de tierras raras pesadas de abril 2025 con paradas de línea verificadas en Ford y fabricantes europeos — mejor evidencia de A", "fuente": "Especialista G, R8"},
+    {"rango": 6, "nivel": "C [EC]", "hecho": "Fracaso del entrenamiento de DeepSeek R2 sobre Huawei Ascend y retorno a Nvidia (no confirmado oficialmente)", "fuente": "Especialista D, R3/R9"},
+    {"rango": 7, "nivel": "A [DO]", "hecho": "Compromisos aliados verificables: Japón 2% PIB, AUKUS $368B AUD, controles surcoreanos", "fuente": "Oponente B, R10"},
+    {"rango": 8, "nivel": "A [DO]", "hecho": "CBO 2024-2025: intereses de deuda federal >$880B anuales, deuda >120% del PIB", "fuente": "Proponente A, R9"}
+  ],
+
+  "evidencia_debil_o_insuficiente": [
+    "[EI] Ruptura del monopolio EUV de ASML: 'la mayor incógnita individual del expediente', sin verificación independiente",
+    "[EI] Condicionalidad del acceso a bases japonesas y filipinas: no automática, sin documentación pública",
+    "[EI] Punto de quiebre fiscal americano: el expediente no permite datarlo antes de 2050",
+    "[EI] Ponderación interna del Escenario 2 (Taiwán): A no asignó probabilidad a su condición necesaria",
+    "[F] Cifra del 85% de aplicaciones industriales en nodos >=5nm: sin fuente",
+    "[EC] Yields de SMIC: estimaciones de terceros, no datos auditados; el Esp. D advirtió contra su uso como dato duro"
+  ],
+
+  "variables_bisagra": [
+    {"rango": 1, "variable": "Ruptura del monopolio EUV de ASML antes de ~2035", "estado": "[EI] — mayor incógnita individual del expediente", "impacto": "Movería dim.3 a China 7.5 / EE.UU. 8.0 → +0.26 ponderados. Necesaria pero no suficiente aislada"},
+    {"rango": 2, "variable": "Apertura parcial de la cuenta de capital china sin fuga masiva", "estado": "Concedida por A como 'talón de Aquiles'; trampa sin solución en el expediente", "impacto": "Movería dim.5 a ~5.5/~7.5 → +0.175 ponderados. Insuficiente aislada, imprescindible en combinación"},
+    {"rango": 3, "variable": "Crisis fiscal americana con crowding out sostenido del I+D federal antes de ~2038", "estado": "[DO] déficits documentados; [EI] punto de quiebre no datable", "impacto": "Efecto compuesto sobre la frontera tecnológica durante dos décadas; vector de mayor impacto indirecto"},
+    {"rango": 4, "variable": "Colapso o persistencia del sistema migratorio de talento STEM americano", "estado": "Concedido como riesgo por B", "impacto": "Comprime dim.6 y con retardo dim.3 vía ecosistema de talento"},
+    {"rango": 5, "variable": "Crecimiento chino sostenido >=3.5% hasta 2045 pese a contracción demográfica", "estado": "[PI] con dispersión extrema; a 2.5% el cruce nominal no ocurre (Esp. C)", "impacto": "Determina si dim.1 es victoria china (7.0) o empate (~6.0/6.5). Base necesaria de todo lo demás"},
+    {"rango": 6, "variable": "Contingencia Taiwán y respuesta americana", "estado": "[EI] — Esp. E asigna 20-30% a respuesta limitada a suministro de armas", "impacto": "Bifurcación de máxima varianza; rama favorable a China solo 7-10% de probabilidad conjunta"},
+    {"rango": 7, "variable": "Yield >60% en dies grandes de acelerador de IA (>600 mm2) antes de 2035", "estado": "[EC] Esp. D: 45-55% (vs 75-80% para dies medios)", "impacto": "Especificación correcta de la variable bisagra que A formuló mal"},
+    {"rango": 8, "variable": "Velocidad de replicación occidental de cadenas de minerales críticos", "estado": "[EC] Esp. G: sustancial probable para 2040, muy probable para 2050", "impacto": "Determina si la ventaja china de dim.9 sobrevive al año de medición"}
+  ],
+
+  "nota_arbitral_variables_bisagra": "Las variables 1, 2 y 3 son conjuntamente necesarias para invertir el resultado. Ninguna aislada mueve 1.345 puntos ponderados. Las tres simultáneamente sí. Ese es el espacio de probabilidad que ambos debatientes acotaron independientemente en 25-28%",
+
+  "recomendaciones": [
+    "Abandonar el marco de 'cruce' en favor del marco de 'bipolaridad asimétrica': la pregunta operativa es en qué dimensiones domina cada uno, no cuándo cruzan",
+    "Dejar de usar el PBI nominal como proxy de poder: el bloque económico completo (25% del índice) resultó un empate perfecto",
+    "Monitorizar las tres variables conjuntamente necesarias (EUV, cuenta de capital, fiscalidad americana), no aisladamente",
+    "La ventaja americana en frontera está concentrada en un único punto de fallo (ASML): toda estrategia que asuma su permanencia hasta 2050 debe declarar ese supuesto y su probabilidad",
+    "La ventaja china en cadenas de minerales críticos es decreciente, no creciente: replicación occidental sustancial probable hacia 2040",
+    "Distinguir frontera de difusión: China gana la difusión industrial de IA y robótica (8.5 vs 6.5), variable relevante para la mayoría de decisiones industriales no de defensa",
+    "La desdolarización antes de 2050 requiere apertura de la cuenta de capital china: vigilar ese indicador específico, no los acuerdos bilaterales en yuanes",
+    "Tratar el riesgo fiscal americano como riesgo de cola con horizonte largo, no como escenario central: real y no falsado, pero sin punto de quiebre datable",
+    "Asimetría teatral: con ponderación indopacífica la dimensión militar se invertiría (China 7.5 / EE.UU. 7.0). La primacía global coexiste con incapacidad de imponer voluntad en el litoral chino",
+    "La condicionalidad del basing aliado ([EI]) es la incógnita militar más consecuente y peor documentada: investigación prioritaria, no supuesto",
+    "Adoptar la práctica de convergencia adversarial: dos posiciones que abren en 62% y 35% y cierran en 28% y 25% producen una estimación mejor calibrada que cualquiera aislada"
+  ],
+
+  "escenarios": [
+    {"nombre": "Primacía americana continuada (central)", "probabilidad": 0.74, "descripcion": "EE.UU. mantiene el IPNI más alto en 2050 (55% vs 45%) en un sistema genuinamente bipolar. Sostenido por compounding tecnológico, ancla financiera y alianzas reforzadas endógenamente"},
+    {"nombre": "Superación china por convergencia de rupturas", "probabilidad": 0.20, "descripcion": "Ruptura del monopolio EUV antes de 2035 + apertura exitosa de la cuenta de capital + crecimiento chino >=3.5% sostenido. China cruza el 50% del IPNI"},
+    {"nombre": "Superación china por colapso fiscal-institucional americano", "probabilidad": 0.06, "descripcion": "Crisis fiscal con crowding out del I+D federal antes de 2038 + colapso del sistema migratorio de talento + fractura del sistema de alianzas. Descenso americano más que ascenso chino"}
+  ],
+
+  "advertencia": "ANÁLISIS DE ALTO IMPACTO GEOPOLÍTICO, MILITAR, FINANCIERO Y REGULATORIO. REQUIERE REVISIÓN HUMANA ANTES DE CUALQUIER ACTUACIÓN. El veredicto evalúa argumentación, no verdad histórica futura. El IPNI es un constructo del debate, no un índice validado externamente, y el resultado es sensible a su especificación. Todas las puntuaciones a 2050 son estimaciones calibradas [EC] con barras de error de ±1.0 punto por dimensión. No constituye asesoramiento de inversión, legal ni recomendación de política pública o de defensa.",
+
+  "archivos": {
+    "debate_full": "/home/user/SistemaDebate/outputs/debate-full-2026-07-25-china-vs-eeuu-potencia-2050.md",
+    "resultado_json": "/home/user/SistemaDebate/outputs/debate-result-2026-07-25-china-vs-eeuu-potencia-2050.json",
+    "conocimiento": "/home/user/SistemaDebate/knowledge/debate-knowledge-2026-07-25-china-vs-eeuu-potencia-2050.md"
+  }
+}

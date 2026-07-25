@@ -1,0 +1,146 @@
+{
+  "debate": {
+    "fecha": "2026-07-25",
+    "tesis": "¿Será sostenible a largo plazo el modelo chino de capitalismo autoritario?",
+    "mocion": "El modelo chino de capitalismo autoritario será sostenible a largo plazo y puede seguir compitiendo exitosamente con las democracias liberales.",
+    "rondas": 15,
+    "agentes": [
+      "A - Defensor",
+      "B - Crítico",
+      "C - Economía Política Comparada",
+      "D - Tecnología/IA",
+      "E - Geopolítica",
+      "F - Demografía/Política",
+      "G - Árbitro"
+    ]
+  },
+  "veredicto": {
+    "ganador": "B",
+    "mocion_resultado": "NEGADA EN SU ALCANCE PLENO (afirmada solo en el subhorizonte 2026-2040)",
+    "justificacion_breve": "El Predicado 2 (competitividad) quedó SATISFECHO y cerrado en R13-R14 por 3 de 3 criterios, a favor de A. El Predicado 1 (sostenibilidad) quedó satisfecho con confianza medio-alta únicamente en 2026-2040. El texto de la moción dice 'a largo plazo', y el enmarcado vinculante define 'largo plazo' como 2040-2050+. En ese horizonte gobernante el Predicado 1 es indeterminado (F: 43% de compromiso, dentro de la banda de incertidumbre) y A, que carga con la prueba como proponente, no lo estableció: concedió que el mecanismo de contención acumula pasivo sin válvulas de procesamiento y no ofreció ni tasa de acumulación ni umbral de activación. La moción, conjuntiva en sus dos predicados y prospectiva en su horizonte, no queda establecida.",
+    "horizonte_adjudicacion": "2026-2050. El subhorizonte 2026-2040 favorece a A con confianza medio-alta (~88%). El subhorizonte 2040-2050 es indeterminado y es el que el texto 'a largo plazo' hace gobernante.",
+    "confianza": "MEDIA"
+  },
+  "marcador": {
+    "victorias_A": 3,
+    "victorias_B": 11,
+    "empates": 1,
+    "puntuacion_total_A": 127.89,
+    "puntuacion_total_B": 132.40,
+    "promedio_A": 8.53,
+    "promedio_B": 8.83,
+    "ronda_15": {
+      "ganador": "B",
+      "puntuacion_A": 8.88,
+      "puntuacion_B": 8.95,
+      "margen": 0.07,
+      "especialista": "F",
+      "puntuacion_especialista": 9.7
+    },
+    "puntuaciones_especialistas": {
+      "C": [
+        {"ronda": "R1", "puntuacion": 9.1},
+        {"ronda": "R2", "puntuacion": 8.9},
+        {"ronda": "R3", "puntuacion": 8.5},
+        {"ronda": "R6", "puntuacion": 9.0},
+        {"ronda": "R14", "puntuacion": 9.5}
+      ],
+      "D": [
+        {"ronda": "R4", "puntuacion": 8.8},
+        {"ronda": "R7", "puntuacion": 8.5},
+        {"ronda": "R10", "puntuacion": 8.7}
+      ],
+      "E": [
+        {"ronda": "R5", "puntuacion": 9.0},
+        {"ronda": "R8", "puntuacion": 8.9},
+        {"ronda": "R11", "puntuacion": 9.2},
+        {"ronda": "R13", "puntuacion": 9.4}
+      ],
+      "F": [
+        {"ronda": "R9", "puntuacion": 9.0},
+        {"ronda": "R12", "puntuacion": 9.6},
+        {"ronda": "R15", "puntuacion": 9.7}
+      ]
+    },
+    "promedio_especialistas": {
+      "C": 9.0,
+      "D": 8.67,
+      "E": 9.13,
+      "F": 9.43
+    }
+  },
+  "predicados": {
+    "predicado_1": {
+      "descripcion": "Sostenibilidad del modelo (continuidad institucional y funcional del régimen y su capacidad de sostener legitimidad de desempeño)",
+      "resultado": "satisfecho en 2026-2040; indeterminado en 2040-2050",
+      "por_quien": "A en 2026-2040 (confianza medio-alta ~88%); ninguna posición lo establece en 2040-2050",
+      "eje_decisivo": "Horizonte de activación del pasivo de contención acumulado, concedido por A en R14 y confirmado en R15",
+      "estimaciones_finales": {
+        "B": "20-30% de compromiso en 2030-2035; >50% en 2040-2050",
+        "A": "12-18% de compromiso en 2030-2035; horizonte gobernante 2026-2040",
+        "F": "27% (CI-3+CI-4) en 2030-2040 [EDB]; 43% en 2040-2050 [EDB]"
+      }
+    },
+    "predicado_2": {
+      "descripcion": "Competitividad con democracias liberales (criterios (a) PTF > media G7 en ≥2 quinquenios, (b) exportaciones de alta complejidad, (c) convergencia relativa de PIB per cápita)",
+      "resultado": "satisfecho",
+      "por_quien": "A",
+      "cerrado_en": "R13 (declarado por el árbitro; criterio (b) concedido en R12, (c) en R13, (a) resuelto por la Resolución Vinculante G R13 §8) y reconocido formalmente por B en R14 mediante la vía procesal (iii)",
+      "advertencia": "El criterio (a) está satisfecho en el mínimo estricto (2 de 4 quinquenios) con trayectoria descendente monotónica: +2.7 pp → +1.3 pp → +0.5 pp → margen negativo"
+    }
+  },
+  "concesiones_clave": [
+    "B concedió el criterio (b) de exportaciones de alta complejidad (R12).",
+    "B rehizo su propia aritmética de convergencia relativa, obtuvo un resultado contrario a su posición y retiró formalmente su conclusión de R12, concediendo el criterio (c) (R13).",
+    "B reconoció el Predicado 2 como satisfecho por vía procesal (iii) en R14, declarando: 'no dispongo de esa evidencia y no la fabricaré'.",
+    "A concedió que no existen equivalentes funcionales chinos de las cuatro válvulas institucionales democráticas y retiró las equivalencias forzadas de R13 (R14).",
+    "A concedió que el mecanismo de contención acumula pasivo y que la contención sin procesamiento no elimina el pasivo sino que lo difiere (R14, confirmado en R15).",
+    "A retiró el argumento 'irrepetibilidad = robustez' tras la refutación de C, y lo confirmó como retirado en R15.",
+    "A concedió la Capa 2 del argumento de Ang: el envejecimiento y la centralización de la élite degradan el mecanismo generador del éxito, no solo el mecanismo corrector (R15).",
+    "B concedió la clasificación de velocidad del COVID cero (10-12 días, la más rápida de la tabla de cinco casos) manteniendo la distinción entre velocidad táctica y capacidad sistémica (R14).",
+    "B corrigió contra su propio interés su proyección del dividendo de IA en el G7 (+0.73-0.99 pp/año), retirando de facto su afirmación de R13 de que 'el listón sube' (R14).",
+    "B reconoció la restricción severa del espacio fiscal democrático (FMI Fiscal Monitor abril 2026) como 'el argumento más incómodo para mi posición' y declaró genuinamente incierta la comparación deuda visible / deuda opaca (R14).",
+    "A aceptó el criterio (a) en el mínimo estricto con trayectoria descendente y el quinquenio 2021-2025 como no satisfecho (R14)."
+  ],
+  "argumentos_mas_fuertes": [
+    "Asimetría de válvulas institucionales (B, R13): alternancia electoral, transferencias supranacionales (€41.3B ESM España, €326B Grecia), movilidad laboral y sindicatos autónomos procesan el descontento; el modelo chino solo puede contenerlo o reprimirlo, y la contención acumula el pasivo que contiene.",
+    "Distinción entre velocidad táctica de corrección y capacidad sistémica de autocorrección (B, R14): son dimensiones ortogonales; el COVID cero demuestra reversión ultrarrápida con siete meses de señal bloqueada, sin reconocimiento del error y sin memoria institucional consultable.",
+    "Reencuadre de Andrews/Criscuolo/Gal a favor del modelo (A, R14): si el déficit del G7 es de difusión y no de frontera, China posee el único mecanismo demostrado de difusión forzada a escala (directiva AI+ del Consejo de Estado, 26/08/2025; 97 SOEs centrales bajo SASAC), con precedentes de 3-5 años en pagos móviles, 5G y vehículos eléctricos.",
+    "Explotación y verificación independiente de la doble concesión sobre el Predicado 2 (A, R13): A no se limitó a proclamar la concesión de B, sino que la reverificó con supuestos más adversos (ratio China/G7 26.7% en 2030; 28.8% en 2035), convirtiendo una ventaja procesal en un hecho establecido.",
+    "Hallazgo de Ang vía C (R14) y su amplificación por F (R15): si el mecanismo real del éxito chino fue la coevolución dirigida y descentralizada, la centralización creciente bajo Xi erosiona el mecanismo generador, no solo el corrector.",
+    "Envejecimiento monotónico de la élite del PCCh como amplificador independiente (F, R15): la edad media del Comité Central pasa de 61.7 a 69.3 años (1997-2026); cuadros con horizonte residual de 5-8 años responden a incentivos de desempeño con menor intensidad que cuadros con 20-30 años, con independencia de la política de evaluación vigente.",
+    "Segundo dividendo demográfico parcial bajo marco NTA (Lee y Mason 2011, F R15): China captura el 30-40% del segundo dividendo frente al 60-70% de economías maduras, porque el ahorro acumulado está inmovilizado en activos inmobiliarios deprimidos y SOEs de bajo retorno.",
+    "Base de datos AidData (C, R14): 13,427 proyectos, 165 países, $843.000M (2000-2017), con 90% de préstamos comerciales, deterioro de -0.18 DE en WGI de los 30 países más expuestos y sobrecosto medio del 63%, sustituyendo el razonamiento por casos seleccionados.",
+    "Taxonomía de separabilidad de los cinco componentes del modelo (C, R14) y la resolución técnica de que exportabilidad y competitividad son separables en el corto plazo y parcialmente inseparables en el largo, en relación de señalización y no de implicación."
+  ],
+  "argumentos_penalizados_o_retirados": [
+    "'Irrepetibilidad = robustez' (A, R14): non sequitur refutado por C y retirado por A en R15.",
+    "'La exportabilidad es la sostenibilidad reformulada' (B, R14): sobreextensión de señal a identidad, corregida por C y adoptada la corrección por el árbitro.",
+    "Inversión de la carga de la prueba por A ('B no ha demostrado que el umbral se active antes de 2040'), empleada en al menos cuatro pasajes de R14 y penalizada.",
+    "Respuesta circular de A a los cinco casos de emulación, que inmuniza el argumento frente a toda evidencia posible.",
+    "Uso por B de la ausencia de replicación del Ash Center Survey como evidencia de opacidad, retirado voluntariamente por el propio B en R13.",
+    "Atribución de la síntesis de costos a BCG marzo 2026 (E, R11), retirada íntegramente por E en R13 y sustituida por McKinsey, ITIF y Kearney.",
+    "Cifras puntuales sin intervalo operando con peso de dato observado: ~1.41M de muertes en exceso [EI] (B, R14); correlaciones de -0.23 y +0.11 sobre seis países no identificados (C, R14)."
+  ],
+  "conocimiento_generado": [
+    "La competitividad sistémica y la sostenibilidad institucional son predicados lógicamente independientes: un sistema puede ganar el predicado de competitividad y quedar indeterminado en el de sostenibilidad. Este debate lo demuestra empíricamente.",
+    "La irrepetibilidad de un modelo no implica ni su robustez ni su fragilidad: es señal, no determinante. Las condiciones fundacionales de un sistema son su pasado; su robustez es su capacidad de adaptarse cuando esas condiciones cambian.",
+    "Velocidad táctica de corrección y capacidad sistémica de autocorrección son dimensiones ortogonales. Un sistema puede revertir una política en 10-12 días y carecer simultáneamente de memoria institucional del error.",
+    "La diferencia estructural entre sistemas no está en la cantidad de descontento sino en su modo de tratamiento: procesamiento institucionalizado (que lo disipa con costo visible y datable) frente a contención administrativa (que lo difiere acumulando pasivo no medible).",
+    "La restricción demográfica no discrimina entre sistemas políticos en su magnitud, pero sí en el mecanismo de ajuste disponible: Japón, Italia, Corea y Alemania enfrentan trayectorias comparables o peores con válvulas de procesamiento; China las enfrenta sin ellas.",
+    "El segundo dividendo demográfico es condicional a la calidad del stock de capital: no basta con acumular ahorro si está inmovilizado en activos de bajo retorno (China captura 30-40% frente al 60-70% de economías maduras, marco NTA).",
+    "El envejecimiento de la élite dirigente es un amplificador causalmente independiente de la rigidez institucional: opera por acortamiento del horizonte residual de los cuadros, con independencia del diseño de los incentivos de evaluación.",
+    "El déficit de productividad de las economías avanzadas es de difusión y no de frontera (Andrews/Criscuolo/Gal), lo que abre un canal de ventaja comparativa para sistemas con capacidad de mandato administrativo — con la disanalogía pendiente de que la difusión de IA como insumo productivo requiere complementariedades organizativas de firma, no solo despliegue.",
+    "El espacio fiscal ha dejado de discriminar entre los dos sistemas: ambos operan con restricción severa, uno con deuda visible y ajuste institucionalizado, el otro con deuda opaca y ajuste administrativo sin alerta temprana de mercado.",
+    "Metodológicamente: la corrección sistemática contra el interés propio tiene valor probatorio. Una parte que corrige contra sí misma merece mayor crédito cuando afirma algo no verificable plenamente. Y una concesión honesta no deja de producir su consecuencia lógica por ser honesta."
+  ],
+  "preguntas_abiertas": [
+    "¿Cuál es la tasa de acumulación del pasivo de contención y cuál su umbral de activación? Ninguna de las dos partes la estimó; es el pasivo compartido que impide adjudicar el horizonte 2040-2050.",
+    "¿Se institucionalizará la sucesión en el PCCh o quedará como arreglo personal? El 21.º Congreso (2027) es el primer punto de observación decisivo.",
+    "¿Transfiere el precedente de difusión forzada (pagos móviles, 5G, VE) a la difusión de IA como insumo de productividad en la economía física?",
+    "¿Puede reactivarse el mecanismo coevolutivo descentralizado de Ang bajo una arquitectura centralizada, o la reversión requiere descentralización efectiva?",
+    "¿Cuál es el spread real de PTF entre SOEs y sector privado chino? B lo invocó sin producir la serie.",
+    "¿Es el deterioro de gobernanza asociado a la financiación china un efecto causal o un artefacto de selección endógena de receptores?"
+  ],
+  "nota_revision_humana": "OBLIGATORIA. Este debate versa sobre materia económica, geopolítica, tecnológica, demográfica, fiscal y regulatoria de alto impacto. El veredicto, las declaraciones sobre el estado de los predicados, las series de PTF y sus correcciones metodológicas, las estimaciones de deuda pública y subnacional, las cifras de exceso de mortalidad y las proyecciones demográficas requieren revisión humana experta independiente antes de ser utilizados como base de cualquier decisión de inversión, política pública o análisis operativo. No constituye asesoría de inversión ni predicción garantizada."
+}
