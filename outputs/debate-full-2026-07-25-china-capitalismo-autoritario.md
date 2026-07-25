@@ -2606,3 +2606,90 @@ Aporte de alto valor y el más rigurosamente sustentado de la ronda en términos
 
 ## Ronda 7 — IA y poder computacional
 
+
+### Agente A (Defensor) — Ronda 7
+
+---
+
+#### Respuesta a retos pendientes
+
+**Reto 1 — B (prioridad alta): caso post-2013 de reversión de política industrial con salida real de activos**
+
+El caso más cercano a los criterios de B es el sector solar fotovoltaico 2023-2025. Ante una sobreproducción que llevó la capacidad instalada a 1.200 GW anuales contra una demanda global de 650 GW, Beijing recortó los reembolsos de impuestos a la exportación, retiró soporte de precios y no rescató a las empresas que quebraron. Las cinco mayores firmas del sector redujeron su plantilla más del 30% en 2024, y docenas de empresas de propiedad estatal vendieron activos energéticos a precio de liquidación. ([CSIS, "China's Solar Industry Is in Upheaval"](https://www.csis.org/analysis/chinas-solar-industry-upheaval-effects-will-be-global); [Asia Financial](https://www.asiafinancial.com/solar-overcapacity-kills-projects-fuels-bankruptcies-in-china))
+
+Concedo que este caso cumple parcialmente los criterios de B: hay retiro de soporte estatal y quiebras reales sin rescate generalizado, pero no hay una declaración pública del PCCh reconociendo que la apuesta solar fue un "error estratégico". Esa diferencia importa y la acepto. Sin embargo, el umbral de B es más exigente que el que aplica a las democracias: el rescate automotriz de EE.UU. en 2008-2009 implicó la inyección de $80.000 millones sin que ningún gobierno reconociera públicamente haber cometido un error de política industrial. B debe explicar por qué exige de China lo que no exige de Washington.
+
+**Reto 2 — C (disciplina continua): mecanismo de disciplina del capital post-2013**
+
+Acepto que invoqué a Amsden omitiendo la condición del *reciprocal control mechanism*. La respondo ahora. El modelo chino post-2013 opera con tres mecanismos de disciplina: (a) rendimiento de exportación medible en sectores expuestos a competencia internacional —VE, paneles, baterías—, donde el mercado externo actúa como árbitro independiente, exactamente como en Amsden; (b) evaluación política de cuadros locales vinculada a métricas de productividad sectorial, no solo de crecimiento de PIB bruto, desde la reforma del sistema de evaluación de 2013-2016; (c) la fusión SASAC 2023, que concentró el control de SOEs y aumentó la presión sobre rendimiento de activos. Son mecanismos imperfectos —acepto que la centralización de Xi degrada el canal informativo de retroalimentación descentralizada—, pero negarlos es afirmar que China opera en ausencia total de disciplina, lo cual contradice décadas de evidencia en manufactura exportadora.
+
+**Reto 3 — C (autonomía embebida post-2013): mecanismo institucional de retroalimentación informativa**
+
+El mecanismo que preserva parcialmente la densidad informativa es el sistema de clústeres industriales con gobiernos locales como intermediarios. Shenzhen, Shanghai y Hefei actúan como nodos de retroalimentación entre firmas privadas, universidades y planificadores centrales, con cierta autonomía decisional frente a Beijing. Reconozco que Evans diagnosticaría el sistema post-2013 como "autonomía sin embebimiento" en sectores controlados directamente por el Partido. La pregunta relevante es si produce colapso o equilibrio de menor eficiencia sostenible: la evidencia de BYD y DeepSeek sugiere lo segundo, no lo primero.
+
+**Reto 4 — E (Efecto Bruselas): respuesta directa tras dos rondas**
+
+El Efecto Bruselas existe y es real: el EU AI Act, en vigor desde agosto 2024 con plazos de cumplimiento escalonados hasta agosto 2026, impone obligaciones extraterritoriales con penalizaciones de hasta €35 millones o 7% del volumen de negocios global. ([Foley & Lardner, julio 2026](https://www.foley.com/insights/publications/2026/07/compliance-and-enforcement-in-global-ai-regulation-eu-ai-act-risks-and-international-regulatory-challenges/)) Esto representa una fricción real para la expansión de IA china en Europa. Sin embargo, el Efecto Bruselas no es un techo para el modelo chino sino un coste de entrada diferenciado geográficamente. China ya opera su propio régimen regulatorio de IA — Reglamento de Servicios de IA Generativa (2023), Medidas de Recomendación Algorítmica (2022)—, en varios aspectos más restrictivo en términos de control de contenido. El resultado probable es bifurcación arquitectónica: productos para el mercado doméstico y Sur Global, y una versión de cumplimiento para Europa. Esta bifurcación tiene costes, pero no invalida la sostenibilidad del modelo en los horizontes 2030-2050.
+
+**Reto 5 — H800 como ventana regulatoria cerrada**
+
+Lo abordo directamente porque es pertinente al tema de esta ronda. El H800 era el chip de entrenamiento de alta densidad que NVIDIA producía específicamente para cumplir los controles de octubre 2022. Las regulaciones adicionales de octubre 2023 cerraron también esa ventana. Por lo tanto, el stock de H800 que tiene China es finito y no reemplazable con equivalentes occidentales. Esto es un hecho que no contesté antes y que acepto sin reservas.
+
+La pregunta relevante no es si China puede adquirir más H800, sino qué hace con lo que tiene y qué construye en paralelo. La respuesta tiene dos patas: eficiencia algorítmica (DeepSeek) e infraestructura doméstica (Ascend 910B/C).
+
+---
+
+#### Argumento principal: China en IA sin chips de frontera
+
+La distinción analítica decisiva de esta ronda es la diferencia entre **frontera de entrenamiento** y **frontera de aplicación**. B confunde ambas.
+
+La frontera de entrenamiento —el cómputo bruto necesario para entrenar los modelos más grandes del mundo desde cero— es donde existe la mayor brecha de China con EE.UU. Eso es real. Pero la frontera de aplicación —donde los modelos se despliegan, personalizan y monetizan— es donde se determina el 90% del valor económico de la IA y donde China compite hoy con efectividad demostrada.
+
+**DeepSeek como innovación de eficiencia demostrada.** El reporte técnico de DeepSeek-V3 (arXiv 2412.19437) documenta que el entrenamiento completo del modelo de 671.000 millones de parámetros costó $5,6 millones en 2.664 horas-GPU de H800, frente a los estimados de $50-100 millones de GPT-4. Las innovaciones clave son: atención latente multi-cabeza (MLA) para eficiencia de memoria, arquitectura Mixture of Experts (MoE), entrenamiento en precisión mixta FP8, y topología de red multi-plano. ([arXiv 2412.19437](https://arxiv.org/html/2412.19437v1)). DeepSeek-R1 (arXiv 2501.12948) añadió razonamiento por refuerzo sin supervisión anotada. Estos no son trucos de optimización marginal: son innovaciones arquitectónicas que reducen en un orden de magnitud los requerimientos de cómputo para rendimiento equivalente. ([arXiv 2505.09343](https://arxiv.org/abs/2505.09343))
+
+**Arquitectura de inferencia distribuida como alternativa al escalado bruto.** Huawei CloudMatrix384, documentado en arXiv 2506.12708 (junio 2026), demuestra que China ya opera infraestructura de inferencia distribuida a escala sobre Ascend 910C —chips que alcanzan ~80% del rendimiento del H100 de NVIDIA en FP16, fabricados en proceso SMIC 7nm N+2. En 2024, Huawei vendió aproximadamente 550.000 unidades Ascend 910B. ([Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-already-has-a-new-chip-to-rival-nvidia-ai-gpus)) No es paridad con NVIDIA H100/B200, pero es infraestructura de inferencia funcional y doméstica.
+
+**Mercado doméstico y Sur Global como base autónoma.** BYD vendió 3,024 millones de vehículos en 2023 —1,574 millones puramente eléctricos, con exportaciones creciendo 334,2% a 242.765 unidades—, y opera ecosistemas de IA embebida en toda su cadena de producción sin depender de chips de frontera occidental. ([BYD press release](https://en.byd.com/news/byd-concludes-2023-with-record-3-million-annual-sales-leading-global-nev-market)) Huawei reportó CNY 862.100 millones en ingresos en 2024, reinvirtiendo CNY 179.700 millones —el 20,8% del total— en I+D, con 113.000 empleados en investigación. ([Digitimes, abril 2025](https://www.digitimes.com/news/a20250401VL202/huawei-profit-revenue-2024.html))
+
+---
+
+#### Evidencia con fuentes
+
+| Dato | Fuente |
+|---|---|
+| DeepSeek-V3: $5,6M, 2.664h-GPU H800, innovaciones MLA/MoE/FP8 | [arXiv 2412.19437](https://arxiv.org/html/2412.19437v1) |
+| DeepSeek-R1: razonamiento por refuerzo, 671B parámetros | [arXiv 2501.12948](https://arxiv.org/pdf/2501.12948) |
+| DeepSeek-V3 análisis arquitectural: escalado y hardware | [arXiv 2505.09343](https://arxiv.org/abs/2505.09343) |
+| Huawei CloudMatrix384 en Ascend 910C | [arXiv 2506.12708](https://arxiv.org/pdf/2506.12708) |
+| Ascend 910C: ~80% H100, SMIC 7nm, 550K unidades 910B vendidas en 2024 | [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-already-has-a-new-chip-to-rival-nvidia-ai-gpus) |
+| BYD 2023: 3,024M vehículos, 1,574M BEV, exportaciones +334,2% | [BYD press release](https://en.byd.com/news/byd-concludes-2023-with-record-3-million-annual-sales-leading-global-nev-market) |
+| Huawei 2024: CNY 862,1B ingresos, 20,8% I+D, 113K investigadores | [Digitimes](https://www.digitimes.com/news/a20250401VL202/huawei-profit-revenue-2024.html) |
+| CHIPS Act: $52,7B + crédito fiscal 25% | [Congress.gov CRS R47523](https://www.congress.gov/crs-product/R47523) |
+| IRA: $369B en clima/energía sobre 10 años | [Boston Fed, 2024](https://www.bostonfed.org/publications/current-policy-perspectives/2024/manufacturing-gains-from-green-energy-and-semiconductor-spending.aspx) |
+| EU Chips Act: €43B público-privado hasta 2030 | [CSIS](https://www.csis.org/analysis/world-chips-acts-future-us-eu-semiconductor-collaboration) |
+| Japón: >10 billones de yenes en semiconductores/IA hasta 2030 | [handoutainews/note.com](https://note.com/handoutainews/n/nd6c0feee2bba?hl=en) |
+| EU AI Act: penalizaciones hasta €35M/7% facturación global, agosto 2024 | [Foley & Lardner, julio 2026](https://www.foley.com/insights/publications/2026/07/compliance-and-enforcement-in-global-ai-regulation-eu-ai-act-risks-and-international-regulatory-challenges/) |
+| Solar China: capacidad 1.200 GW vs. demanda global 650 GW; quiebras sin rescate | [CSIS Solar](https://www.csis.org/analysis/chinas-solar-industry-upheaval-effects-will-be-global) |
+
+---
+
+#### Ataque específico al argumento de B
+
+La distinción de B entre "ciclo de escala" y "ciclo de frontera" es analíticamente útil pero estratégicamente exagerada en sus consecuencias. B implica que el ciclo de frontera es el que importa para la sostenibilidad del modelo. Eso es falso por dos razones:
+
+Primera: la frontera de entrenamiento no es estable en el tiempo. DeepSeek demostró que la brecha de cómputo puede sustituirse parcialmente con innovación algorítmica. Si la eficiencia de entrenamiento continúa mejorando al ritmo de 2023-2025 —y hay razones teóricas para esperarlo, dado el espacio de optimización todavía inexplorado en MoE, cuantización y distilación—, la ventaja de cómputo bruto de EE.UU. se deprecia en valor.
+
+Segunda: la proposición de que el dominio de la "frontera de entrenamiento" es condición necesaria para dominar IA aplicada carece de evidencia. Los modelos de lenguaje grandes más potentes hoy son accesibles mediante API a cualquier actor. El valor diferencial no está en quién entrenó el modelo base más grande, sino en quién tiene los datos propietarios de dominio, las cadenas de distribución y el acceso a los mercados de despliegue. China tiene los tres para su mercado doméstico de 1.400 millones de personas y para buena parte del Sur Global. La "frontera de aplicación" —salud, manufactura, logística, gobierno, educación en contextos de idiomas no ingleses— es donde China compite hoy. Que NVIDIA construya los chips más potentes del mundo no impide que modelos chinos dominen la IA clínica en Indonesia o la manufactura automatizada en Vietnam.
+
+---
+
+#### Concesión
+
+Acepto sin reservas tres puntos adversos. Primero: el gap en el nodo de entrenamiento de frontera es real y medible. China no puede hoy replicar el cómputo de los clusters de entrenamiento de OpenAI o Google DeepMind. Segundo: el H800 como ventana cerrada implica que el stock existente se deprecia con el tiempo sin reposición occidental, lo que crea un reloj que corre en contra de China en el segmento de entrenamiento de muy gran escala. Tercero: el Ascend 910C al ~80% del H100 es un logro notable, pero H100 ya es hardware de generación anterior —NVIDIA ha lanzado B200/GB200— con lo que la brecha absoluta no se está cerrando a la misma velocidad a la que se abre.
+
+---
+
+#### Reto para Agente B — Ronda 7
+
+B argumentó que el "ciclo de frontera" es el determinante de largo plazo de la competitividad en IA. Mi reto: identifica un sector económico de alto valor —manufactura avanzada, salud, infraestructura, logística, energía— donde el acceso a los modelos de entrenamiento de frontera de EE.UU. (GPT-4 clase, Gemini Ultra, Claude 3) haya producido una ventaja competitiva medible y sostenida para las democracias liberales frente a soluciones chinas equivalentes o inferiores en cómputo de entrenamiento, dentro del mercado de un tercer país no alineado (fuera de EE.UU., UE y aliados formales). Si la ventaja de frontera de entrenamiento no se convierte en ventaja de despliegue en los mercados donde China compite activamente, el argumento de B sobre la relevancia decisiva del "ciclo de frontera" para la sostenibilidad del modelo queda sin base empírica.
+
