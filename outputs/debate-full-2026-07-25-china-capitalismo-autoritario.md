@@ -3363,163 +3363,6 @@ La intervención de A usa a BRICS, OCS y BRI como si fueran instrumentos coheren
 
 ## Intervención del Agente E (Especialista en Geopolítica) — Ronda 8
 
-### Evaluación analítica
-
-Las preguntas de A y B en Ronda 8 identifican el nodo empírico más crítico del debate en dimensión geopolítica: si la arquitectura de alianzas e interdependencias que China ha construido es estructuralmente más frágil, más durable, o cualitativamente diferente a los precedentes históricos disponibles. Ninguno de los dos ha respondido a esas preguntas con la precisión que la literatura especializada permite. Esta intervención lo hace.
-
-El campo analítico corresponde a la intersección de tres cuerpos de literatura: (1) la teoría de poder estructural en relaciones internacionales (Nye, Keohane, Waltz, Wendt), (2) la literatura empírica sobre durabilidad de alianzas (Fearon, Leeds, Bennett, Gibler), y (3) la literatura emergente sobre interdependencia como arma (Farrell y Newman, 2019, 2023). Las tres producen predicciones distintas sobre el caso chino, y no todas apuntan en la misma dirección.
-
----
-
-### Evidencia y literatura especializada
-
-**Sobre la pregunta de A: ¿Son las alianzas normativas empíricamente más duraderas que las transaccionales?**
-
-El estudio de referencia canónico es Brett Ashley Leeds (2003), "Do Alliances Deter Aggression?", *American Journal of Political Science* 47(3), 427-439. Leeds construye la base de datos ATOP (*Alliance Treaty Obligations and Provisions*) sobre alianzas formales de 1815 a 2003 y documenta que el mecanismo de cumplimiento no es normativo sino de reputación e incentivos sistémicos. El hallazgo crítico: la ideología compartida aparece como predictor significativo del cumplimiento de alianzas *sólo* cuando está correlacionada con amenazas externas compartidas. Cuando se controla por amenaza común, la ideología compartida pierde significancia estadística en múltiples especificaciones. Lo que hace duraderas a las alianzas de la OTAN no es el liberalismo compartido por sí mismo, sino la amenaza soviética/rusa compartida. El Brexit no rompió la alianza de seguridad del Reino Unido con la OTAN porque la amenaza rusa se mantuvo.
-
-La extensión al caso chino: si los socios del Sur Global perciben una amenaza común (presión occidental de desacoplamiento, volatilidad del dólar como moneda de reserva), el mecanismo de durabilidad es idéntico para las alianzas chinas que para las occidentales. No es el tipo de base —valores vs. intereses materiales— lo que determina la durabilidad; es la percepción de amenaza compartida.
-
-La contribución de Alexander Wendt en *Social Theory of International Politics* (1999, Cambridge University Press) que A invoca predice que las alianzas construidas sobre identidades compartidas internalizadas son más robustas a cambios de liderazgo político. Esta predicción constructivista tiene soporte empírico parcial en el caso de la OTAN. Pero Wendt mismo es cauteloso sobre la velocidad de construcción de identidades compartidas internacionales: el proceso es de décadas. BRICS lleva 20 años de existencia formal pero sólo 10 años con la masa crítica actual. El período de observación es insuficiente para concluir que no puede desarrollar las identidades normativas que Wendt describe.
-
-La respuesta directa a la pregunta de A: la literatura sistemática sobre durabilidad de alianzas no ha estudiado específicamente las alianzas de infraestructura-dependencia como mecanismo primario, porque ese fenómeno es relativamente nuevo en su escala actual. Los estudios disponibles (Leeds 2003, Gibler y Sarkees 2004, Bennett 1997) se focalizan en alianzas de defensa formales. No existe en 2026 un estudio comparativo sistemático de la durabilidad de las dependencias de infraestructura chinas frente a las alianzas normativas occidentales en el horizonte de décadas. Esa ausencia de evidencia es genuina.
-
-Lo que sí existe es evidencia de caso: la URSS en Europa del Este produjo dependencias de infraestructura energética (gasoductos, redes eléctricas) y estándares industriales COMECON que crearon costos de cambio que persistieron 15-25 años después de 1991. En términos de costos de cambio medidos en décadas, las dependencias de infraestructura soviéticas fueron más duraderas que las alianzas normativas del Pacto de Varsovia, que colapsaron casi instantáneamente en 1989-1991 cuando la presión coercitiva se retiró. Ese precedente favorece parcialmente la tesis de A, con el límite crítico de que esas dependencias no impidieron la reorientación estratégica de Europa del Este: ralentizaron la reorientación sin revertirla.
-
-Sobre la fragilidad de las alianzas normativas occidentales 2016-2026: la literatura distingue entre *estrés de alianza* y *fractura de alianza*. Las alianzas occidentales han experimentado estrés documentado pero han mantenido su arquitectura institucional: la OTAN tiene en 2026 el mayor presupuesto colectivo de defensa de su historia, más miembros que en 2016 (Suecia y Finlandia en 2023-2024), y la invasión rusa de Ucrania en 2022 relanzó la cohesión atlántica. El estrés fue real en la dimensión comercial y política coyuntural, pero no produjo quiebra de las instituciones de seguridad subyacentes.
-
----
-
-**Sobre la pregunta de B: ¿Ha existido algún bloque multilateral liderado por una potencia no democrática que haya producido alineación estratégica durable sin enforcement institucional?**
-
-La respuesta corta: no, en los términos exactos que B define. Pero los supuestos de la pregunta merecen examen antes de que esa respuesta sea operativa.
-
-B propone el MNOAL como precedente más cercano. El MNOAL (fundado en 1961 bajo Nehru, Nasser y Tito) produjo coordinación en la ONU en temas de descolonización, pero no alineación estratégica en seguridad ni coordinación comercial durable. Su fragmentación fue evidente desde la guerra Sino-India de 1962, la guerra Indo-Pakistaní de 1971, y la invasión soviética de Afganistán en 1979.
-
-El MNOAL no es comparable a BRICS por tres razones estructurales que favorecen a A:
-
-- BRICS tiene anclaje comercial real (1,17 billones en comercio intra-bloque 2024, expansión 13x desde 2003). La teoría de Keohane y Nye (*Power and Interdependence*, 1977) predice que la interdependencia económica crea intereses de estabilidad de la relación que el MNOAL nunca tuvo.
-- BRICS tiene una institución financiera con capital real: el NDB (100.000 millones de dólares suscritos, aprobaciones acumuladas de más de 35.000 millones hasta 2025). El MNOAL no tuvo equivalente institucional financiero.
-- Los miembros de BRICS tienen relaciones de complementariedad sectorial real: Brasil provee a China soja, hierro y petróleo en cantidades que representan porcentajes críticos de la demanda china; China provee a India bienes de capital; India provee farmacéuticos y software.
-
-Sin embargo, esas diferencias no responden la pregunta de B sobre coordinación estratégica durable. Los precedentes históricos de bloques con interdependencia económica real pero sin enforcement institucional son escasos. El Bloque de la Libra Esterlina (1931-1972) creó dependencias financieras que persistieron décadas en el Commonwealth pero no produjo coordinación estratégica en seguridad.
-
-El precedente que B omite y que es más favorable a A: la OCS en Asia Central entre 2001 y 2021, antes de la adhesión de India e Irán. En ese período, la OCS produjo 20 años de coordinación en seguridad entre China, Rusia y las repúblicas de Asia Central, con el Centro de Estructura Regional Antiterrorista (RATS), ejercicios militares conjuntos anuales (Misión de Paz), e intercambio de inteligencia. Ese período satisface el criterio temporal de B (más de dos décadas) en un bloque sin enforcement coercitivo formal. El mecanismo de cohesión fue la convergencia de intereses de regímenes autoritarios ante amenazas comunes percibidas. Ese precedente favorece a A, con la calificación de que la homogeneidad política (todos los miembros originales eran regímenes no democráticos) era mayor que en BRICS actual.
-
----
-
-**"Weaponized Interdependence": Farrell y Newman aplicados a la BRI**
-
-Henry Farrell y Abraham Newman en "Weaponized Interdependence: How Global Economic Networks Shape State Coercion" (*International Security* 44(1), 2019, pp. 42-79) argumentan que la interdependencia económica no produce simplemente beneficio mutuo: produce asimetrías de poder estructural que pueden utilizarse como armas. Sus conceptos de "chokepoint" (nodo de estrangulamiento) y "panopticon" (nodo de vigilancia) describen cómo los actores que controlan nodos centrales de redes globales pueden coaccionar a los actores periféricos.
-
-La aplicación al caso chino tiene dos implicaciones opuestas:
-
-Favorable a A: La BRI no solo crea dependencias de infraestructura; crea "chokepoints" donde China controla los nodos de la red. Un puerto construido con financiamiento chino y operado por empresas chinas es un nodo donde China tiene capacidad de información sobre los flujos que pasan por él. Ese "panopticon power" es durable independientemente de la voluntad política del país receptor porque es operacional, no declarativa.
-
-Favorable a B: Farrell y Newman también predicen que los actores periféricos que perciben la asimetría de red como amenaza desarrollan estrategias de "insulation" y "rebalancing". La evidencia 2020-2026 documenta ese proceso: Malasia renegociaron el ECRL, la iniciativa PGII del G7 fue diseñada explícitamente como respuesta de reequilibrio a la BRI, múltiples gobiernos africanos renegociaron condiciones de préstamos chinos.
-
-El artículo de seguimiento de Farrell y Newman, "Chained to Globalization" (*Foreign Affairs*, enero 2020), agrega que las interdependencias crean "deterrence" mutuo: el weaponizer también pierde cuando weaponiza. China levantó las restricciones informales sobre Australia en 2023 sin haber logrado sus objetivos políticos. Ese "deterrence by interdependence" reduce la probabilidad de weaponización sistemática, lo que paradójicamente hace la dependencia más tolerable para los receptores.
-
-La síntesis: la BRI como mecanismo de alianza durable tiene un techo estructural determinado por la percepción de riesgo de weaponization. La durabilidad de la red depende de que China mantenga creíble el compromiso de no weaponizar sus posiciones de chokepoint. Los casos australiano, zambiano y lituano en 2020-2023 documentan que ese compromiso se ha erosionado en episodios específicos.
-
----
-
-**India como factor en BRICS/OCS: fragmentación vs. pluralismo**
-
-La literatura de RI converge en el concepto de "strategic autonomy" o "multi-alignment" de India (C. Raja Mohan, 2006, *Impossible Allies*; Miller, 2021, *China's Asian Dream*). India maximiza su autonomía estratégica aprovechando la rivalidad entre potencias: importa petróleo ruso con descuento mientras firma acuerdos de tecnología con EE.UU. (iniciativa iCET, acuerdos de semiconductores con Micron y Applied Materials), mantiene disputas territoriales activas con China en la LAC, y bloquea consensos en OCS cuando afectan sus intereses.
-
-La evaluación del papel de India en BRICS debe separar dos funciones:
-
-Como factor de fragmentación estratégica (favorece a B): Cuando BRICS intenta coordinación en temas de intereses divergentes China-India (CPEC por Cachemira pakistaní, disputas LAC, Ucrania), India opera como veto player efectivo. El fallo del comunicado conjunto de la OCS en Tianjin 2025 es el caso más reciente y documentado.
-
-Como validador de la viabilidad del bloque (favorece a A): La presencia de India —mayor democracia del mundo, con disputas activas con China— hace imposible describir BRICS como instrumento de la política exterior china. Eso lo hace atractivo para otros actores del Sur Global (Brasil, Sudáfrica, Indonesia) que buscan marcos de coordinación sin alineamiento subordinado.
-
-La distinción crucial: si la función evaluada es BRICS como instrumento de política exterior china, India lo fragmenta (B tiene razón). Si la función evaluada es BRICS como plataforma de multipolaridad que reduce el costo político del aislamiento normativo de China, India lo potencia (A tiene razón). El debate necesita precisar cuál función está bajo evaluación para que la evidencia sobre India sea operativa.
-
----
-
-**Heterogeneidad de BRICS y capacidad de coordinación en temas críticos**
-
-La evidencia empírica es diferenciada por dominio:
-
-- Financiero: El NDB aprobó más de 100 proyectos, pero cuando tuvo que elegir entre solidaridad BRICS con Rusia y acceso al sistema financiero occidental, eligió el sistema occidental: suspendió operaciones con Rusia y Bielorrusia en marzo de 2022 para evitar sanciones secundarias. Eso documenta que la arquitectura financiera alternativa de BRICS no opera independientemente del sistema dollar-SWIFT en el horizonte actual.
-
-- Tecnológico: Los 130 acuerdos de cooperación en estándares son predominantemente bilaterales con China. No existe un organismo de estandarización BRICS con poder de adopción vinculante comparable a ETSI o ANSI.
-
-- Seguridad: BRICS no tiene mandato de seguridad formal. Los miembros adoptaron posiciones divergentes sobre Ucrania (China más pro-Rusia; Brasil, India y Sudáfrica más neutrales) sin mecanismo de coordinación institucional.
-
-La conclusión: BRICS produce coordinación incremental en temas de baja politización pero no ha demostrado coordinación estratégica en dominios de alta politización con intereses divergentes.
-
----
-
-### Puntos donde la evidencia favorece a A
-
-1. La literatura ATOP (Leeds 2003) no respalda que las alianzas normativas sean sistemáticamente más duraderas que las transaccionales. El mecanismo de durabilidad es la amenaza común, no la ideología. Esto debilita el argumento implícito de B.
-
-2. Las dependencias de infraestructura producen costos de cambio de décadas, no de años. El precedente COMECON/energía soviética en Europa del Este (15-25 años de transición post-1991) lo documenta.
-
-3. BRICS es cualitativamente diferente al MNOAL en interdependencia económica real, institución financiera con capital (NDB) y masa económica combinada. La comparación de B con el MNOAL falla en las condiciones materiales de base.
-
-4. La OCS en Asia Central (2001-2021) constituye un precedente de 20 años de coordinación durable no democrática sin enforcement coercitivo formal que B no había identificado.
-
-5. El "deterrence by interdependence" de Farrell y Newman predice que China tiene incentivos endógenos para no weaponizar sistemáticamente la BRI. El caso australiano (2020-2023) documenta ese deterrence operando.
-
-6. La fragilidad de las alianzas normativas occidentales en 2016-2026 es real en la dimensión comercial y coyuntural, aunque no ha producido fractura de la arquitectura institucional de seguridad.
-
----
-
-### Puntos donde la evidencia favorece a B
-
-1. La capacidad de coordinación estratégica de BRICS en temas de alta politización es empíricamente débil: fallo en comunicado OCS Tianjin 2025, posiciones divergentes sobre Ucrania, suspensión de operaciones NDB con Rusia.
-
-2. La distinción entre dependencia y alianza tiene respaldo en Farrell y Newman: los receptores desarrollan insulation. La evidencia del período 2020-2026 (Sri Lanka, Zambia, Malasia, PGII como contramedida) documenta ese proceso.
-
-3. El NDB eligió el sistema financiero occidental sobre la solidaridad BRICS en el caso más importante hasta ahora. Eso documenta la dependencia funcional persistente de la arquitectura alternativa con respecto al sistema que supuestamente alternativa.
-
-4. India opera como veto player efectivo dentro de la OCS en temas críticos (Tianjin 2025). Su participación en Quad y en negociaciones tecnológicas con EE.UU. y UE documenta que BRICS es plataforma táctica, no marco estratégico, para el actor más poderoso alternativo del bloque.
-
-5. No existe precedente histórico exacto de un bloque con las características de BRICS que haya producido alineación estratégica durable suficiente para sostener la ventaja geopolítica de la potencia líder. La OCS en Asia Central es el caso más cercano pero es cualitativamente diferente en homogeneidad política.
-
-6. El constructivismo de Wendt predice mayor dificultad para construir identidades institucionales duraderas en un bloque donde el miembro más poderoso alternativo (India) no comparte la identidad normativa de la potencia líder.
-
----
-
-### Zonas de incertidumbre genuina
-
-1. Velocidad de insulation de receptores BRI vs. consolidación de nodos de red. No existe evidencia sistemática que permita determinar cuál proceso es más rápido en 2026.
-
-2. Si BRICS puede desarrollar identidades normativas compartidas en el horizonte 2030-2050. El período de observación es insuficiente. La OTAN tardó 30-40 años en desarrollar la identidad institucional que le permitió sobrevivir a Trump.
-
-3. La función de India en BRICS a medida que su poder económico relativo crece. Si India supera a China en crecimiento de PIB en el horizonte 2030-2040, un BRICS con mayor peso indio es cualitativamente diferente como instrumento de influencia china.
-
-4. Si la presión occidental de desacoplamiento cohesiona o fragmenta al Sur Global. La evidencia es genuinamente mixta y depende de la intensidad de la presión.
-
-5. El papel de la dependencia digital como mecanismo de alineación. Los sistemas de ciudad inteligente, plataformas de pago y equipos de telecomunicaciones chinos crean una capa de dependencia de datos que la literatura de alianzas previa a 2000 no contempla. No existe investigación sistemática sobre su durabilidad como mecanismo de alineación.
-
-6. El reequilibrio demográfico interno de BRICS en el horizonte 2040-2050. Nigeria, Etiopía y la India adquieren mayor peso demográfico y potencialmente económico dentro del bloque. Un BRICS de 2050 con ese perfil es diferente en términos de relación de fuerzas internas con China.
-
----
-
-### Preguntas abiertas para rondas posteriores
-
-Para A: Farrell y Newman predicen que los estados receptores desarrollan insulation cuando perciben riesgo de weaponization. Los episodios australiano (2020-2023), zambiano (restructuración de deuda complicada por China) y lituano (presiones comerciales en 2021-2022) documentan que el compromiso de no weaponización no es incondicional. ¿Cuál es el mecanismo institucional concreto que produce credibilidad duradera del compromiso chino de no weaponizar la BRI a lo largo de décadas de rivalidad geopolítica?
-
-Para B: La evidencia muestra que Malasia y Sri Lanka renegociaron condiciones con China pero no salieron de la red BRI. ¿Cuál es el mecanismo causal que convierte la insulation parcial (renegociación de condiciones) en desalineamiento estratégico completo (salida de la red china)? ¿Y en qué horizonte temporal opera ese mecanismo bajo las alternativas de financiamiento disponibles en 2026?
-
-Para ambos: La mayoría de los actores del Sur Global están en posición de hedging (mantienen relaciones con China y con Occidente simultáneamente). ¿En qué condiciones el hedging se convierte en alineamiento estratégico suficiente para sostener el modelo chino (A) o en alineamiento con Occidente suficiente para erosionarlo (B)? La condición de umbral que convierte el hedging en elección estratégica está ausente en ambos argumentos.
-
-Para A: Los 130 acuerdos de cooperación en estándares requieren distinción entre acuerdos de cooperación bilateral (China más un actor) y adopción de estándares chinos como referencia regulatoria vinculante nacional. Sin esa distinción, el dato no es operativo como indicador de penetración real de estándares chinos en el Canal 2 de la tesis de A.
-
-Para ambos: La asimetría de información que crean los sistemas de monitoreo chinos desplegados en países BRI (ciudades inteligentes, plataformas de pago, telecomunicaciones) no fue contemplada en la teoría de weaponized interdependence de Farrell y Newman (2019). ¿Cómo afecta esa capa adicional de dependencia informacional a la capacidad de insulation de los receptores y a la durabilidad de la dependencia en el horizonte 2030-2040?
-
----
-
-*Nota metodológica: Esta intervención cita fuentes de la literatura de Relaciones Internacionales peer-reviewed y evidencia empírica documentada en el período 2001-2026. Las evaluaciones sobre qué evidencia favorece a cada posición son análisis de plausibilidad relativa basados en la literatura disponible, no predicciones. Las zonas de incertidumbre identificadas son genuinamente indeterminadas con la evidencia disponible en 2026. No se ha declarado ganador ni perdedor del debate; ese rol corresponde exclusivamente al Agente G.*
-
----
-
-
-## Intervención del Agente E (Especialista en Geopolítica) — Ronda 8
-
 ---
 
 ### Evaluación analítica
@@ -3703,3 +3546,321 @@ La conclusión sobre la pregunta de B: no existe un precedente histórico exacto
 *Nota metodológica: Esta intervención cita fuentes de la literatura de Relaciones Internacionales peer-reviewed y evidencia empírica documentada en el período 2001-2026. Las evaluaciones sobre qué evidencia favorece a cada posición son análisis de plausibilidad relativa basados en la literatura disponible, no predicciones. Las zonas de incertidumbre identificadas son genuinamente indeterminadas con la evidencia disponible en 2026. No se ha declarado ganador ni perdedor del debate; ese rol corresponde exclusivamente al Agente G (Árbitro).*
 
 ---
+
+## Evaluación del Árbitro (Agente G) — Ronda 8
+
+### Nota previa de integridad documental
+
+Antes de la evaluación sustantiva, registro una anomalía formal en el archivo: la intervención del Agente E apareció duplicada (encabezado idéntico "## Intervención del Agente E (Especialista en Geopolítica) — Ronda 8"). La segunda versión era la extendida y completa; la primera era una variante abreviada del mismo contenido. No hay contradicción sustantiva entre ambas, por lo que no se penaliza a E — era un defecto de ensamblaje del orquestador. El orquestador eliminó el bloque duplicado antes de esta evaluación. Evalúo a E sobre la versión extendida.
+
+---
+
+## 1. Evaluación del Agente A (Defensor) — Ronda 8
+
+### Puntuación: 8.7/10
+
+Es la mejor intervención de A en el debate, superando incluso su desempeño de R7. La razón no es retórica sino estructural: A llegó a R8 con la mayor carga acumulada de deuda del debate (cuatro afirmaciones sin documentar, cinco retos vinculantes, una advertencia formal rebajada a seguimiento) y **saldó la totalidad de la deuda documental, respondió el reto técnico más exigente que se le ha planteado, y aun así produjo un argumento central de geopolítica con vínculo causal explícito**. La ejecución del orden de prioridades anunciado en su primer párrafo se cumplió sin desviación.
+
+### 1.1 Cierre de las cuatro deudas documentales
+
+**Deuda 1 — "90% del valor económico de la IA en la capa de despliegue": CERRADA CON RETIRO PARCIAL Y REFORMULACIÓN.**
+A retiró la formulación exacta y la sustituyó por evidencia que sostiene la dirección del argumento con un alcance más estrecho: inferencia como 80-90% del costo de ciclo de vida, dos tercios del cómputo global de IA en 2026, 80% del gasto en GPUs. Fuentes: Introl Blog y McKinsey. El etiquetado explícito como "estimación de rango, no dato verificado" cumple el estándar epistémico exigido desde R8. Deuda cerrada. Observación: Introl Blog es fuente con interés comercial en el sentido del dato; A no declaró ese sesgo.
+
+**Deuda 2 — Mecanismo de evaluación de cuadros del PCCh: CERRADA CON EVIDENCIA DE ALTA PERTINENCIA.**
+A aportó: (a) el hecho institucional (ocho principios del Departamento Central de Organización, 2013); (b) literatura peer-reviewed: Qi, Shi y Wang (2021, Sage) sobre el sistema en cascada como mecanismo de resiliencia autoritaria; (c) meta-análisis de 2025 (Tandfonline) sobre significancia estadística de indicadores no-PIB. A concedió voluntariamente la evidencia contraria (China Quarterly, 2015) y reformuló su pretensión al alcance defendible. El reto de C sobre disciplina continua del capital queda **cerrado en su componente (b)**.
+
+**Deuda 3 — "Razones teóricas para esperar mejora de eficiencia": CERRADA CON RETIRO Y SUSTITUCIÓN.**
+A retiró la conjetura y la sustituyó por la trayectoria empírica: dos órdenes de magnitud de reducción en costo por token 2020-2025, más proyección Gartner de >90% de reducción 2025-2030. La proyección Gartner descansa en una única casa de análisis; el dato retrospectivo 2020-2025 es el que carga el peso probatorio real. Deuda cerrada.
+
+**Deuda 4 — Autonomía decisional de clústeres: CERRADA CON REDEFINICIÓN HONESTA.**
+A documentó el modelo Hefei (gobierno local como venture capitalist de Estado), producción NEV de Anhui, clúster Shenzhen-GII, experimentación de política en Made in China 2025 (Nature portfolio). La reetiquetación de "autonomía decisional" a **"autonomía operativa acotada"** responde exactamente al reto de C sobre autonomía embebida. Reto de C sobre autonomía embebida: **cerrado** en términos reformulados.
+
+**Balance de advertencia formal: LEVANTADA.** De nueve afirmaciones sin documentar en R6, a cuatro en R7, a **cero deudas pendientes de R7 al cierre de R8**.
+
+### 1.2 Cumplimiento de retos vinculantes
+
+**Reto de D (compute de inferencia para razonamiento extendido) — CUMPLIDO, con la concesión más costosa de A en el debate.**
+
+A aceptó íntegramente la acotación de D sobre los benchmarks de CloudMatrix384 (inferencia autoregresiva estándar, no razonamiento extendido). Para la estrategia concreta, ofreció tres componentes: (A) roadmap Ascend con fechas y especificaciones verificables (Ascend 950DT agosto 2026: 144GB HBM, 4.0 TB/s, Dual-Die UMA; Atlas 950 Q4 2026: 8.192 chips por nodo); (B) innovación algorítmica (DeepSeek V4 sobre Ascend 910C); (C) segmentación explícita del mercado objetivo con concesión honesta: "para aplicaciones de alta precisión en los nichos de mayor retorno, China enfrenta un déficit de compute real en el horizonte 2026-2028."
+
+**Debilidad:** la sub-afirmación "esos nichos representan una fracción pequeña del mercado de despliegue total" va sin fuente. **Nueva afirmación sin documentar #1 de A en R8.** El punto no es trivial: si los nichos de alta exigencia capturan una fracción grande del valor y del aprendizaje tecnológico, el argumento de A se invierte — y eso es exactamente lo que B demostró con el Mecanismo D.
+
+La fuente del componente B (Tech Insider, tech-insider.org) es de pertinencia baja para un dato técnico de primer orden. **Evidencia débil #1 de A en R8.**
+
+**Reto de B (bifurcación arquitectónica y precedente HarmonyOS) — CUMPLIDO PARCIALMENTE.**
+
+A aceptó el precedente de HarmonyOS sin disputarlo y atacó la comparabilidad con dos razones: (1) HarmonyOS operó bajo exclusión del ecosistema de Google Play; las empresas chinas de IA tienen acceso pleno a Python, PyTorch, Hugging Face — distinción estructural fuerte y correcta; (2) el mecanismo institucional es el tamaño del mercado doméstico (1.400 millones de usuarios, mayor mercado de manufactura avanzada).
+
+**La segunda razón no satisface la forma del reto de B**, que pedía un mecanismo institucional que evite degradación diferencial. Escala de mercado es una condición favorable, no un mecanismo de corrección. La frase "la degradación diferencial en el dominio de los 1.400 millones de usuarios es un supuesto sin base empírica" invierte la carga de prueba. **El reto de B sobre bifurcación permanece parcialmente abierto para R9-R10.**
+
+**Reto de B (solar/reversión) — NO CUMPLIDO EN LOS TÉRMINOS DE B, CON ADMISIÓN EXPLÍCITA Y CONTRA-EXIGENCIA LEGÍTIMA.**
+
+A hizo tres movimientos: (1) concedió la corrección analítica de B sin disputarla; (2) admitió que el caso pedido no existe ("Acepto que ese caso no existe en los términos exactos que B define"); (3) reformuló: el reto solar pierde valor probatorio si B no articula el mecanismo causal que conecta ausencia de autocorrección con fractura o degradación.
+
+Esta contra-exigencia es analíticamente legítima y no constituye evasión — va precedida de admisión explícita. **El reto se transforma: ya no es deuda documental de A; B debe articular el mecanismo causal o el punto pierde fuerza probatoria.** Se emite instrucción explícita R9-2 para B.
+
+**No-Alineamiento tecnológico — CERRADO.** A lo abordó frontalmente en el Pilar 4 (el no-alineamiento crea demanda de alternativas donde China es el único proveedor a escala). Reto cerrado.
+
+**Hueco de financiamiento 2026-2032 — NO ABORDADO. PENDIENTE SEVERO, CUARTA RONDA.** R9 es el contexto natural y último razonable dado que demografía y trampa del ingreso medio son inseparables de la estructura de financiamiento. **Penalización si no se aborda en R9.**
+
+### 1.3 Argumento central — evaluación sustantiva
+
+**El vínculo causal con la moción está explícitamente construido y satisface la nota de foco de R8.** No se aplica la penalización de foco anunciada.
+
+**Pilar 2 (BRI) — el mejor argumento conceptual de A en el debate.** El mecanismo: "no mediante lealtad política, sino mediante costo de cambio estructural." Documentación robusta (Green FDC, informe BRI 2025). B lo reconoció explícitamente como "el argumento más inteligente de A en este debate" y E le dio respaldo teórico parcial vía Farrell y Newman y respaldo histórico vía COMECON.
+
+**Pilar 1 (BRICS+) — evidencia sólida en los agregados, con una debilidad.** El dato de "~65% del comercio BRICS en monedas locales" está en "Informedclearly", fuente no identificable con proceso de verificación. E lo desmontó parcialmente: la desdolarización está concentrada en el eje bilateral chino-ruso post-2022 y depende de swaps del PBoC. **Evidencia débil #2 de A en R8.** El dato más potente de la ronda: $1,6B al Sur Global vs. $1B a EE.UU.+UE combinados (LSE Business Review, marzo 2026). Es el mejor argumento de A en toda la Ronda 8.
+
+**Pilar 3 (OCS) — el más débil.** A presentó la OCS sin mencionar el fallo del comunicado conjunto de Tianjin 2025, que B documentó inmediatamente. Omisión de evidencia adversa conocida. No llega a tergiversación — A no afirmó que hubiera comunicado — pero es selectividad en la presentación. **Debilidad de selección de evidencia #1 de A en R8.**
+
+**Pilar 4 (No-Alineamiento tecnológico) — argumento fuerte con inferencia sobreextendida.** El dato de "130 acuerdos de cooperación en estándares con 75 países" está en Modern Diplomacy (pertinencia media-baja) y E señaló con precisión que **el dato no distingue entre acuerdo de cooperación bilateral y adopción de estándar como referencia regulatoria vinculante**. Sin esa distinción el dato no es operativo para el Canal 2. **Evidencia débil #3 de A en R8.**
+
+### 1.4 Ataque al oponente — uso del recurso comparativo
+
+A enumeró fragilidades occidentales (TPP, Acuerdo de París, intra-OTAN, aranceles de Trump). **Determinación: NO constituye evasión en este caso.** El recurso comparativo es evasión cuando sustituye una carga de prueba sobre el modelo chino; es argumentación legítima cuando el propio oponente ha introducido una comparación como premisa. Aquí la premisa atacada ("las alianzas de valores son *más* duraderas *que* las transaccionales") es explícitamente comparativa.
+
+**Criterio precisado para R9-R10:** el recurso "Occidente hace lo mismo" será computado como evasión si aparece en respuesta a un reto sobre un mecanismo interno del modelo chino (autocorrección, disciplina del capital, sucesión, demografía, deuda). Será admitido si responde a una premisa comparativa introducida por el rival.
+
+E confirmó después que A tenía razón: la literatura ATOP (Leeds 2003) no respalda la superioridad estructural de las alianzas normativas cuando se controla por amenaza común. A ganó ese intercambio.
+
+**Debilidad del ataque:** A no distinguió entre estrés y fractura de alianza — distinción que E introdujo después y que debilita retroactivamente la fuerza del ejemplo.
+
+### 1.5 Concesiones y nuevas afirmaciones sin documentar
+
+**Cinco concesiones adversas explícitas:** (1) límite de India en BRICS/OCS; (2) BRI produjo sobreendeudamiento con backlash; (3) China no tiene acceso ilimitado al Sur Global sino acceso preferencial; (4) déficit de compute de inferencia en nichos de alta precisión 2026-2028; (5) riesgo de degradación diferencial en bifurcación 2035-2040. Puntuación máxima en reconocimiento honesto de debilidades.
+
+**Tres nuevas afirmaciones sin documentar en R8:**
+1. "Los nichos de alta precisión representan una fracción pequeña del mercado de despliegue total."
+2. "Los modelos sobre el mercado doméstico reciben retroalimentación suficiente para mantenerse en la frontera de aplicación."
+3. "El valor de las sanciones de hardware occidentales se reduce en proporción al peso de ese mercado" — proporcionalidad sin mecanismo.
+
+**Seguimiento ligero a A en R9:** estas tres deben documentarse, acotarse o retirarse.
+
+### 1.6 Puntaje desglosado — A R8
+
+| Criterio | Puntaje |
+|---|---:|
+| Claridad de tesis | 9.0 |
+| Respuesta directa al rival | 9.0 |
+| Calidad de evidencia | 7.0 |
+| Pertinencia de fuentes | 7.0 |
+| Fuerza lógica | 8.0 |
+| Capacidad de refutación | 8.5 |
+| Reconocimiento honesto de debilidades | 10.0 |
+| Consistencia interna | 8.5 |
+| Foco en el tema | 9.5 |
+| Relevancia práctica | 9.0 |
+| Sostenimiento de posición | 9.0 |
+| **Promedio** | **8.7** |
+
+---
+
+## 2. Evaluación del Agente B (Crítico) — Ronda 8
+
+### Puntuación: 8.9/10
+
+Es la mejor intervención de B en el debate. La razón: **cerró las tres deudas vinculantes acumuladas, incluida la de cuarta ronda bajo amenaza de penalización severa**; produjo el reencuadre más importante del debate hasta la fecha (la especificación del Régimen 2); y respondió el reto central de A con una arquitectura causal de cuatro mecanismos que ataca el punto exacto donde A dejó su flanco abierto.
+
+### 2.1 Cumplimiento de retos vinculantes
+
+**Reto de D (fotónica/neuromórfico/cuántica, segunda ronda) — CUMPLIDO CON EJEMPLARIDAD METODOLÓGICA.**
+
+B estructuró la respuesta en cuatro capas: cadena causal bajo evaluación, estado empírico de cada tecnología, tres escenarios con probabilidad estimada explícitamente etiquetada, conclusión sobre opcionalidad. Construyó el Escenario B (favorable a A) con el mismo rigor que los que le favorecen, y luego identificó su límite: **"La fotónica no elimina la dependencia de litografía avanzada: la desplaza a una capa distinta del chip."** Es el argumento causal más preciso y no anticipado por A de la ronda. Reubica el cuello de botella en lugar de negar la disrupción. La conclusión incorpora explícitamente la opcionalidad al horizonte largo, que es exactamente lo que D exigió. Reto cerrado.
+
+**Debilidad:** la afirmación "Shanghai tiene un clúster fotónico financiado por el Estado desde 2020" va sin fuente, y es el único dato chino específico de toda la sección. **Afirmación sin documentar #1 de B en R8.**
+
+**Reto de C (colapso sistémico vs. equilibrio de menor eficiencia, segunda ronda, penalizable) — CUMPLIDO. ES EL MOVIMIENTO MÁS IMPORTANTE DE LA RONDA Y POSIBLEMENTE DEL DEBATE.**
+
+B entregó una tripartición operativa:
+- *Régimen 1 — Colapso sistémico:* descartado explícitamente. "La probabilidad es baja en cualquier horizonte. China tiene resiliencia institucional real, como A ha documentado."
+- *Régimen 2 — Equilibrio de menor eficiencia sostenible:* el sistema político persiste, pero la PTF crece por debajo del umbral de convergencia; China llega a $20.000-$25.000 PPP per cápita sin alcanzar los $50.000-$60.000 del bloque avanzado.
+- *Régimen 3 — Competitividad sostenida:* posición de A.
+
+**Por qué es decisivo:** B ancló su posición al **estándar de la moción**, no a supervivencia. "El estándar no es supervivencia del sistema; es competitividad comparada con el bloque avanzado de democracias." Efectos simultáneos: (1) neutraliza retroactivamente buena parte del arsenal de resiliencia de A; (2) convierte la posición en falsable con umbral numérico; (3) traslada la carga de prueba a A.
+
+**No es cambio de tesis:** B especificó una posición que mantenía ambigua. La especificación bajo reto arbitral es cumplimiento, no desplazamiento. Sin embargo, **B queda desde ahora vinculado al Régimen 2**. Cualquier reintroducción de lenguaje de colapso en R9-R10 se computará como inconsistencia.
+
+**Deuda severa de cuarta ronda (bloqueo de estándares chinos en la UE) — CERRADA, con calificación.**
+
+*Caso 1 — EU 5G Toolbox:* Huawei y ZTE como "proveedores de alto riesgo"; regulación vinculante en camino (noviembre 2025); prohibición alemana desde 2026. Fuentes: IEEE Spectrum, TechCrunch, Ifri.
+*Caso 2 — Panel OMC UE-China sobre SEPs (24-feb-2026):* anti-suit injunctions chinas con multas hasta €130.000/día; tribunal chino fijando tasas de licencia bajo mercado. Fuente: Comisión Europea — fuente primaria institucional.
+
+**Calificación:** el pendiente pedía un TLC; ninguno de los dos casos es un TLC. Pero cumplen la función probatoria con evidencia superior. Además, el reto original estaba mal formulado por el árbitro (asumía un instrumento que no es el vehículo típico de exclusión de estándares en la UE). **Penalización no aplicada.** La vinculación con la moción es correcta: "los estándares chinos penetran mercados de bajo margen y no acceden a mercados de alto margen."
+
+### 2.2 La especificación del Régimen 2 y sus consecuencias
+
+**El movimiento de mayor consecuencia estratégica del debate.** Al descartar el colapso y anclar al estándar de la moción con umbral numérico ($20-25k PPP), B logró: hacer su posición falsable, neutralizar retroactivamente el arsenal de resiliencia de A, trasladar la carga de exhibir mecanismo de escape.
+
+**La maniobra más inteligente del debate:** B estrechó voluntariamente el alcance de su tesis y a cambio la hizo más defendible.
+
+### 2.3 Los cuatro mecanismos causales del desacoplamiento
+
+**Arquitectura lógica excelente; base documental insuficiente en tres de los cuatro mecanismos.**
+
+- *Mecanismo A (arquitectura financiera):* corresponsalía bancaria en dólares, seguros (Lloyd's), mercados de deuda en NY y Londres. "El Sur Global como mercado de ventas no sustituye Occidente como proveedor de arquitectura financiera." Argumento fuerte, evidencia ausente — ninguna cifra sobre qué proporción del comercio se compensa en infraestructura occidental. **Afirmación sin documentar #3 de B.** E salvó este mecanismo aportando el caso NDB/Rusia-Bielorrusia marzo 2022.
+- *Mecanismo B (tecnología de frontera):* EDA (Cadence, Synopsys, Mentor), ASML, materiales japoneses y alemanes. "China no puede rodear las sanciones de semiconductores comprándole a Brasil." **Golpe directo y no respondido contra el Canal 2 de A.** Es el mecanismo mejor construido y documentado.
+- *Mecanismo C (legitimidad medida contra estándar occidental):* Analíticamente potente, empíricamente indocumentado. Las cifras de crecimiento (4%, 3%, 2,5%) son ilustrativas sin fuente. **Afirmación sin documentar #4 de B.**
+- *Mecanismo D (densidad de valor añadido):* Las exportaciones a Occidente tienen mayor intensidad tecnológica y externalidades de aprendizaje que las del Sur Global. Entra exactamente por el flanco abierto por A. Sin descomposición por intensidad tecnológica. **Afirmación sin documentar #5 de B.**
+
+**Evaluación conjunta:** la arquitectura lógica es la mejor construida del debate; la base documental de tres mecanismos es insuficiente. B lo reconoce en su nota metodológica final ("proposiciones analíticas que pueden ser refutadas con evidencia contraria"), lo cual cumple el estándar epistémico de transparencia pero **no convierte una proposición en evidencia**.
+
+### 2.4 Objeción 4 — Asimetría de estándar
+
+B argumenta que las democracias tienen mecanismos de autocorrección institucional. Pero usa para Occidente el mismo tipo de argumento de interés material que rechaza para China. **La asimetría de estándar más clara de B en la ronda.** E dio soporte parcial a B (la arquitectura occidental no se fracturó) pero también le quitó base (el mecanismo de durabilidad en la literatura ATOP es la amenaza común, no la institucionalidad normativa).
+
+### 2.5 Concesiones y nuevas afirmaciones sin documentar
+
+**Tres concesiones de peso:** (1) el desacoplamiento no es condición suficiente para colapso sistémico en ningún horizonte analizado; (2) los costos de cambio BRI son activo real en 2026-2030; (3) la opcionalidad fotónica/cuántica reduce la certeza en el horizonte 2040-2050.
+
+**Cinco afirmaciones nuevas sin documentar vs. tres deudas cerradas.** Balance negativo en volumen. **Se abre ADVERTENCIA FORMAL a B por densidad documental de los mecanismos causales.** B debe documentar en R9 al menos el Mecanismo D (descomposición por intensidad tecnológica de exportaciones, accesible vía OCDE-TiVA, UNCTAD o Atlas of Economic Complexity). Incumplimiento en R9 se computará con descuento.
+
+### 2.6 Puntaje desglosado — B R8
+
+| Criterio | Puntaje |
+|---|---:|
+| Claridad de tesis | 10.0 |
+| Respuesta directa al rival | 9.5 |
+| Calidad de evidencia | 7.5 |
+| Pertinencia de fuentes | 8.5 |
+| Fuerza lógica | 9.5 |
+| Capacidad de refutación | 9.5 |
+| Reconocimiento honesto de debilidades | 9.0 |
+| Consistencia interna | 8.5 |
+| Foco en el tema | 9.0 |
+| Relevancia práctica | 9.5 |
+| Sostenimiento de posición | 9.0 |
+| **Promedio** | **8.9** |
+
+---
+
+## 3. Evaluación del Agente E (Especialista en Geopolítica) — Ronda 8
+
+### Puntuación: 9.3/10
+
+**Es la mejor intervención especializada del debate**, por encima de D en R7. Cumple el estándar que este debate necesita de sus especialistas: no arbitra, no declara ganadores, aporta literatura que ninguno de los debatientes había movilizado, y corrige a ambos con la misma severidad.
+
+**Aportes de mayor valor:**
+
+**(1) Leeds 2003 / base de datos ATOP:** La ideología compartida pierde significancia estadística cuando se controla por amenaza común. Desactiva la premisa implícita de B sobre superioridad estructural de las alianzas normativas, convirtiendo la intuición de A en resultado de literatura. Fuente: *American Journal of Political Science* 47(3), 427-439.
+
+**(2) Precedente COMECON con su límite preciso:** Los costos de cambio de infraestructura soviética persistieron 15-25 años post-1991, mientras el Pacto de Varsovia colapsó casi instantáneamente en 1989-1991. Favorece a A. Pero E impone el límite decisivo: "Lo que produjeron fue una reorientación más lenta y costosa, no una retención del alineamiento estratégico." **La formulación más precisa que se ha producido en el debate sobre el mecanismo de costo de cambio.**
+
+**(3) El precedente OCS 2001-2021 que B omitió:** 20 años de coordinación en seguridad entre China, Rusia y las repúblicas de Asia Central (RATS, ejercicios Misión de Paz, intercambio de inteligencia) sin enforcement coercitivo formal. Satisface el criterio temporal de B (>dos décadas). **Es el aporte de mayor valor de E** — un especialista que encuentra el caso que ninguno buscó.
+
+**(4) Farrell y Newman aplicados con bidireccionalidad:** *chokepoint* y *panopticon* (favorece a A) + *insulation* y *rebalancing* (favorece a B). Concepto de "deterrence by interdependence" con caso australiano 2020-2023. La síntesis convierte la disputa A vs. B sobre la BRI en variable observable con indicadores identificables.
+
+**(5) La distinción funcional sobre India:** "Si la función evaluada es BRICS como instrumento de política exterior china, India lo fragmenta (B tiene razón). Si es BRICS como plataforma de multipolaridad que reduce el costo del aislamiento normativo, India lo potencia (A tiene razón)." El debate necesita precisar cuál función está bajo evaluación — corrección metodológica dirigida a ambos por igual.
+
+**(6) El caso NDB:** El Nuevo Banco de Desarrollo suspendió operaciones con Rusia y Bielorrusia en marzo 2022 para preservar acceso a mercados de capital en dólares. **Es la mejor evidencia individual de la ronda para la posición de B, y la aportó E, no B.** La fuerza probatoria del Mecanismo A de B es en buena medida deuda con E.
+
+**Asimetría honesta documentada por E:** los puntos a favor de A son predominantemente teóricos y de precedente histórico (Leeds, COMECON, OCS 2001-2021, deterrence); los puntos a favor de B son predominantemente empíricos y recientes (Tianjin 2025, NDB, insulation 2020-2026, India en Quad). La posición de A tiene mejor respaldo en teoría y precedente histórico; la de B, mejor respaldo en evidencia contemporánea observada.
+
+**Observación documental:** datos empíricos (capital NDB, sustitución COMECON) sin fuente enlazada. Citas académicas bibliográficamente completas — aceptable; datos empíricos verificables — deberían tener fuente.
+
+### Puntaje desglosado — E R8
+
+| Criterio | Puntaje |
+|---|---:|
+| Pertinencia de literatura | 10.0 |
+| Aporte no anticipado por los debatientes | 10.0 |
+| Bidireccionalidad y equilibrio | 9.5 |
+| Documentación de datos empíricos | 7.5 |
+| Cumplimiento del rol (no arbitrar) | 10.0 |
+| Vínculo con la moción | 9.5 |
+| Declaración de límites del campo | 10.0 |
+| Utilidad para rondas siguientes | 9.5 |
+| **Promedio** | **9.3** |
+
+---
+
+## 4. Resultado de la Ronda 8
+
+**Ganador de ronda: Agente B (Crítico)**
+**Puntajes: B 8.9 — A 8.7**
+**Margen: MUY ESTRECHO (0.2 puntos). Es la ronda más disputada del debate.**
+
+### Justificación
+
+**Por qué A estuvo muy cerca de ganar:** cerró cuatro deudas llevando su pasivo a cero, cumplió el reto técnico más exigente de D, admitió sin reservas que el caso solar no existe, cerró No-Alineamiento tecnológico, hizo cinco concesiones adversas explícitas, y construyó el argumento conceptual de mayor valor de la ronda: el mecanismo de costo de cambio estructural como sustituto de la lealtad política. E confirmó que A había identificado correctamente una premisa oculta de B (superioridad de alianzas normativas) que la literatura ATOP no respalda.
+
+**Por qué B gana igualmente — cuatro razones en orden de peso:**
+
+1. **La especificación del Régimen 2** es el movimiento de mayor consecuencia estratégica del debate: neutralizó retroactivamente el arsenal de resiliencia de A, hizo su posición falsable con umbral numérico y trasladó la carga de prueba.
+2. **La distinción condición necesaria / suficiente:** "A no ha demostrado que sea suficiente: ha demostrado que es creciente." Aplicado canal por canal con precisión quirúrgica.
+3. **El Mecanismo B** (tecnología de frontera): "China no puede rodear las sanciones de semiconductores comprándole a Brasil." Completamente documentado, golpe directo y no respondido contra el Canal 2 de A.
+4. **Cierre de la deuda de cuarta ronda** con la mejor cartera de fuentes de la ronda, incluyendo fuente primaria institucional de la Comisión Europea.
+
+**Por qué el margen es solo 0.2 y no mayor:** B introdujo cinco afirmaciones sin documentar frente a las tres de A; la mejor evidencia del Mecanismo A la aportó E, no B; B incurre en asimetría de estándar en la Objeción 4; y E confirmó un precedente (OCS 2001-2021) que responde parcialmente el propio reto que B formuló.
+
+---
+
+## 5. Retos vinculantes para la Ronda 9
+
+**R9-1 — Reto de B a A (VINCULANTE).** A debe demostrar UNO de los dos: (a) que el renminbi y la arquitectura financiera alternativa china pueden sustituir la función del dólar y SWIFT para las transacciones China-Sur Global en el horizonte 2030-2040 — respondiendo al caso NDB/Rusia-Bielorrusia (marzo 2022) aportado por E y a la desagregación de la desdolarización (concentrada en el eje bilateral chino-ruso, dependiente de swaps del PBoC, mBridge procesando una fracción mínima); o (b) que China puede producir internamente los insumos de la cadena de frontera que hoy provee Occidente (EDA, fotorresistentes avanzados, equipos de inspección de obleas) antes de que el diferencial de PTF se vuelva estructuralmente insalvable. **Evasión en R9 se computará como penalización.**
+
+**R9-2 — Reto de A a B, transformado por el arbitraje (VINCULANTE).** B debe articular el mecanismo causal explícito por el cual la ausencia de autocorrección estratégica reconocida produce el Régimen 2, y no meramente lo acompaña. Si no puede exhibir ese eslabón, el reto solar pierde valor probatorio.
+
+**R9-3 — Reto de E a A (VINCULANTE).** ¿Cuál es el mecanismo institucional concreto que produce credibilidad duradera del compromiso chino de no weaponizar sus posiciones de chokepoint en la BRI a lo largo de décadas de rivalidad? A debe responder a los episodios de Australia (2020-2023), Zambia (complicación de reestructuración) y Lituania (presiones comerciales 2021-2022).
+
+**R9-4 — Reto de E a B (VINCULANTE).** Malasia y Sri Lanka renegociaron condiciones pero no salieron de la red BRI. B debe especificar el mecanismo causal que convierte insulation parcial (renegociación) en desalineamiento estratégico completo (salida), y el horizonte temporal bajo las alternativas de financiamiento disponibles en 2026 — incluyendo la capacidad real de desembolso de PGII frente a sus compromisos formales.
+
+**R9-5 — Reto de E a ambos (VINCULANTE).** La mayoría del Sur Global está en hedging. Ambos deben especificar la condición de umbral bajo la cual el hedging se convierte en alineamiento estratégico suficiente para sostener el modelo (A) o para erosionarlo (B). **La pieza ausente en ambos argumentos.**
+
+**R9-6 — Reto a A (VINCULANTE).** Distinguir cuántos de los 130 acuerdos de estándares son cooperación bilateral y cuántos implican adopción de estandares chinos como referencia regulatoria nacional vinculante. Sin esa distinción, el dato queda descartado como indicador del Canal 2 en el veredicto final.
+
+**R9-7 — Reto del árbitro a ambos (VINCULANTE).** Ambos deben declarar explícitamente en R9 cuál función de BRICS sostienen: instrumento de política exterior china (India fragmenta) o plataforma de multipolaridad que reduce el costo del aislamiento normativo (India potencia). Deben atenerse a ella el resto del debate.
+
+**R9-8 — Advertencia formal a B (VINCULANTE).** B debe documentar al menos el Mecanismo D (descomposición por intensidad tecnológica de exportaciones: OCDE-TiVA, UNCTAD o Atlas of Economic Complexity). Los Mecanismos A y C deben documentarse o reetiquetarse explícitamente como hipótesis no probadas. Incumplimiento se computará con descuento.
+
+**Pendientes que se mantienen de rondas anteriores:**
+- **Reto de B a A (bifurcación arquitectónica): PARCIALMENTE ABIERTO.** El componente institucional sigue vivo. Puede diferirse a R10 si R9 no lo permite temáticamente.
+- **Pendiente severo de A (financiamiento 2026-2032): CUARTA RONDA.** R9 es el contexto natural y último razonable. Penalización si no se aborda.
+- **Seguimiento ligero a A:** las tres nuevas afirmaciones sin documentar de R8 deben documentarse, acotarse o retirarse.
+
+**Se cierran formalmente tras R8:** deudas documentales de A de R7 (todas); reto de C sobre disciplina continua (componente b), autonomía embebida y colapso vs. equilibrio; reto de D sobre compute de inferencia y opcionalidad fotónica; pendiente severo de B sobre estándares chinos en la UE; No-Alineamiento tecnológico; reto solar en su formulación original (transformado en R9-2 contra B).
+
+---
+
+## 6. Instrucciones para la Ronda 9
+
+**Tema de Ronda 9:** Demografía y trampa del ingreso medio — ¿puede el modelo chino sostener crecimiento y convergencia bajo contracción demográfica acelerada, envejecimiento y desaceleración de la productividad?
+
+**Especialista de Ronda 9:** Agente F (Demografía y Desarrollo)
+
+**Orden:** A abre, B responde, F cierra con aporte especializado.
+
+**Instrucciones a Agente A para R9:**
+1. **Prioridad absoluta: R9-1.** Elegir (a) o (b) y responderlo con evidencia, no con proposición analítica.
+2. **Cerrar el pendiente severo de financiamiento 2026-2032.** La demografía determina la base contributiva del sistema de pensiones y la capacidad fiscal. Penalización si no se aborda.
+3. Responder R9-3, R9-6 y R9-7. Documentar o retirar las tres afirmaciones de seguimiento.
+4. **Sobre demografía:** A debe abordar frontalmente la tasa de fecundidad, relación de dependencia proyectada, déficit del sistema de pensiones y contracción de la fuerza laboral, con fuentes institucionales (ONU WPP, Banco Mundial, NBS China), etiquetando explícitamente qué es dato y qué es proyección.
+5. **El recurso "Occidente hace lo mismo" está específicamente prohibido en R9** salvo que B introduzca una premisa comparativa explícita. El envejecimiento europeo y japonés no exime a China de exhibir su propio mecanismo de ajuste.
+
+**Instrucciones a Agente B para R9:**
+1. **Prioridad absoluta: R9-8 (advertencia formal).** Documentar el Mecanismo D.
+2. **R9-2:** articular el mecanismo causal ausencia de autocorrección → Régimen 2, o aceptar que el punto es descriptivo.
+3. Responder R9-4 y R9-7. Conectar la demografía con el umbral numérico del Régimen 2 con aritmética explícita (cuánto del diferencial proyectado es atribuible a contracción de fuerza laboral, cuánto a desaceleración de PTF).
+4. **Prohibición de reintroducir lenguaje de colapso.** B queda vinculado al Régimen 2.
+
+**Instrucciones a Agente F para R9:**
+1. Informar, no arbitrar. Modelo: E en R8.
+2. Aportar lo que los debatientes no movilizarán: Eichengreen, Park y Shin; Gill y Kharas sobre trampa del ingreso medio; literatura sobre transiciones demográficas; casos comparados de Japón, Corea del Sur y Taiwán.
+3. **Instrucción específica derivada de R8:** E identificó el reequilibrio demográfico interno de BRICS 2040-2050 (India, Nigeria, Etiopía) como factor no incorporado. F debe evaluarlo, ya que conecta demografía china con arquitectura geopolítica de R8.
+4. Datos empíricos con fuente enlazada verificable.
+5. Identificar al menos un precedente o cuerpo de evidencia que ningún debatiente haya considerado.
+
+**Advertencias generales para R9:**
+- El estándar de suficiencia probatoria es ahora exigible a ambos: etiquetado transparente es condición necesaria pero no suficiente.
+- Foco: la demografía corre riesgo de deriva descriptiva. Se penalizará la acumulación de datos demográficos sin mecanismo causal explícito hacia la sostenibilidad del modelo.
+- Precisión de horizontes: dado que B ancló su posición a un umbral de PIB per cápita en PPP, ambos deben referir sus argumentos a horizontes datados (2030, 2040, 2050).
+
+---
+
+**Nota de alcance:** esta es una evaluación parcial de Ronda 8, no un veredicto. El resultado de esta ronda es un insumo entre varios para el veredicto final de Fase 5.
+
+**Nota de revisión humana:** el debate versa sobre materia económica, geopolítica y regulatoria de alto impacto. Tanto las evaluaciones parciales como el veredicto final requieren revisión humana antes de ser utilizados como base de decisión.
+
+---
+
+## Ronda 9 — Demografía y trampa del ingreso medio
+
