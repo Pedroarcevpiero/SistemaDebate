@@ -2292,3 +2292,116 @@ Si la política industrial estatal suprime la eficiencia de mercado y produce as
 - [SESEC — China Reconfirmed International Standards as ISO/IEC/ITU](https://sesec.eu/2025/04/27/china-reconfirmed-international-standards-as-iso-iec-itu-standards/)
 - [USCC — PRC Representation in International Organizations, abril 2026](https://www.uscc.gov/sites/default/files/2026-04/PRC_Representation_in_International_Organizations_April2026.pdf)
 
+
+### Agente B (Crítico) — Ronda 6
+
+---
+
+#### Respuesta directa al reto de A (Ronda 6)
+
+El reto de A es el mejor que ha planteado en el debate y merece una respuesta honesta, no evasiva. La pregunta es exacta: si la política industrial suprime la eficiencia, ¿por qué IRA, CHIPS Act, European Chips Act y los subsidios japoneses a TSMC la están adoptando masivamente?
+
+La respuesta no es que la política industrial sea ilegítima. Es que el mecanismo diferencial entre las democracias liberales y China importa más que la existencia de los subsidios.
+
+Las democracias liberales tienen política industrial con corrección de errores incorporada. Solyndra quebró en 2011 tras recibir 535 millones de dólares en garantías federales — y esa quiebra fue un escándalo político que costó políticamente a la administración Obama, generó audiencias del Congreso y forzó una revisión del Departamento de Energía. El mecanismo funcionó: el Estado pagó el costo, rindió cuentas públicamente y ajustó. La CHIPS Act tiene cláusulas de auditoría obligatoria, prohibición de inversión en China por diez años para los beneficiarios, y está sujeta a revisión del GAO. La IRA asigna créditos fiscales —no transferencias directas a empresas elegidas— lo que significa que el mercado filtra quién los captura y en qué volumen.
+
+El modelo chino de política industrial carece de ese mecanismo. No porque el Estado chino sea estúpido — sino porque la corrección de errores requiere que alguien con poder suficiente tenga incentivo para señalar que el error ocurrió. En China, señalar que una apuesta estatal falló es políticamente costoso. Las SOEs zombi no mueren; consumen. El Gran Fondo de Semiconductores I produjo corrupción sistémica: su director, Ding Wenwu, fue arrestado en 2023 junto con ejecutivos de múltiples empresas beneficiarias. El Fondo II tiene investigaciones activas. El Fondo III acaba de lanzarse. El patrón no es accidental: es estructural.
+
+Concedo, sin reservas, que la política industrial es una herramienta legítima del capitalismo moderno. El debate se desplaza, como A propone, hacia cuál modelo la ejecuta mejor. Mi posición es que la ejecución sin corrección de errores produce acumulación de mala asignación que se vuelve sistémica a medida que el modelo madura. Eso es exactamente lo que el horizonte 2030-2040 revelará.
+
+---
+
+#### Objeción principal: El modelo chino de política industrial no corrige sus errores
+
+La diferencia decisiva entre la política industrial china y la de las democracias liberales no es la escala de los subsidios ni la ambición estratégica. Es el mecanismo de corrección de errores: las democracias liberales lo tienen incorporado de forma imperfecta pero funcional; el modelo chino lo ha ido eliminando sistemáticamente bajo Xi.
+
+**Las SOEs zombi no tienen mecanismo de salida real.** El Banco Mundial documentó en 2020 que las SOEs manufactureras tienen una productividad total de factores entre un 15% y un 25% inferior a empresas privadas comparables. Pero más revelador que la brecha de productividad es el hecho de que esa brecha persiste y se amplía: entre 2021 y 2024, la participación de las SOEs en el top-100 de empresas listadas en China por valor de mercado creció del 31% al 54% (PIIE, enero 2026). Las SOEs no están siendo disciplinadas por el mercado; están siendo preservadas por captura política. Cuando el Estado es simultáneamente el accionista controlador, el regulador, el árbitro de crédito bancario y el que define qué sectores son "estratégicos", no existe la presión exógena que fuerza la salida de activos improductivos.
+
+**La centralización bajo Xi eliminó la retroalimentación interna que antes permitía autocorrección.** El modelo chino de los años 1990-2010 tenía un mecanismo de corrección parcial: competencia entre gobiernos locales por inversión, espacio para que técnicos del Consejo de Estado contradijeran apuestas sectoriales fallidas, y cierta tolerancia a la experimentación descentralizada. Ese mecanismo no era democrático, pero generaba señales de precio sobre qué funcionaba. La concentración de decisiones económicas estratégicas en el liderazgo central desde 2013, acelerada desde 2021, ha eliminado ese canal. La intervención en Alibaba, Tencent y el sector educativo privado en 2021 no fue un ajuste de mercado — fue una señal política que destruyó 1,5 billones de dólares de capitalización bursátil en meses y deprimió la inversión privada durante tres años.
+
+**El caso del Gran Fondo de Semiconductores es evidencia directa, no anecdótica.** El Fondo I (22.000 millones de dólares) produjo malversación sistémica con arrestos de alto perfil confirmados por el propio sistema judicial chino en 2023. El Fondo II tiene investigaciones activas. El Fondo III acaba de ser lanzado con 47.500 millones de dólares bajo las mismas estructuras institucionales que produjeron la corrupción en los anteriores. En una democracia liberal, el equivalente habría producido una revisión legislativa y un rediseño del mecanismo antes de lanzar el siguiente fondo. En China, el Estado lanza el Fondo III sin haber publicado un análisis independiente del rendimiento del Fondo I.
+
+---
+
+#### Evidencia con fuentes — cierre de deudas pendientes
+
+**Deuda 1 — Dependencia en materiales críticos (70-80%):**
+
+Según el IEA Global Critical Minerals Outlook 2024-2025, China es el principal refinador de 19 de los 20 minerales estratégicos más importantes, con una cuota promedio del 70% en procesamiento. Específicamente: China produce aproximadamente el 70% de las tierras raras mundiales en extracción y controla más del 90% de la cadena aguas abajo (separación de óxidos, refinamiento de metales, producción de imanes). China produce casi el 80% del grafito natural global (fundamental para baterías). Para galio y germanio —materiales críticos para semiconductores— China controla más del 90% de la producción mundial de refinería. Fuente: [IEA — With new export controls on critical minerals, supply concentration risks become reality](https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality). Datos adicionales en [Statista — China's Monopoly on Critical Minerals](https://www.statista.com/chart/35398/china-dominant-share-in-global-mining-production-of-critical-minerals/).
+
+**Corrección de formulación:** B había argumentado que los occidentales dependen del 70-80% de los materiales críticos controlados por China. La formulación correcta es que China controla entre el 70% y el 90%+ del procesamiento de materiales críticos, lo que significa que los países occidentales tienen esa dependencia respecto de China. La dirección del argumento era correcta; la formulación necesitaba precisión.
+
+**Deuda 2 — Patentes triádicas (OCDE):**
+
+Los datos de la OCDE sobre familias de patentes triádicas (registradas simultáneamente en EPO, JPO y USPTO, el estándar para medir innovación de alto valor real versus volumen de registro doméstico) muestran que China alcanzó aproximadamente el 11,9% de participación global en 2022, frente al 21-22% de EE.UU. y el 21-22% de Japón. Fuente: [OECD Data — Triadic Patent Families](https://data.oecd.org/Rd/Triadic-Patent-Families.Htm); análisis en [ChinaPower/CSIS — Are Patents Indicative of Chinese Innovation?](https://chinapower.csis.org/patents/). La relevancia: el volumen de patentes chinas es enorme en registros domésticos, pero la fracción que pasa el filtro triádico es proporcionalmente mucho menor, indicando que la política industrial genera volumen de patentes pero aún no proporcional en patentes de frontera de alto valor económico.
+
+**Deuda 3 — Rendimientos decrecientes de innovación algorítmica:**
+
+La evidencia de rendimientos decrecientes en el escalado de modelos de IA está documentada en literatura revisada por pares. Un paper de diciembre de 2025 ("The AI Scaling Wall of Diminishing Returns", arXiv:2512.20264) documenta que modelos de mayor escala ya no entregan mejoras proporcionales en benchmarks de razonamiento más allá de ciertos umbrales. El PNAS publicó en 2025 evidencia de que el escalado de modelos de lenguaje produce "diminishing returns" en tareas específicas ([PNAS, 2025](https://www.pnas.org/doi/10.1073/pnas.2413443122)). Fuente: [arXiv 2512.20264](https://arxiv.org/pdf/2512.20264).
+
+**Deuda 4 — Corrección del dato de clase media:**
+
+B retira formalmente la afirmación "80% de la clase media global en el Sur Global hacia 2030". La fuente UNDP citada dice "Asia-Pacífico: dos tercios de la clase media global hacia 2030". Son cifras y universos distintos. El argumento de B sobre la insuficiencia del mercado del Sur Global como ciclo de retroalimentación de I+D no depende de esa cifra — depende del diferencial de margen y composición de la demanda, que se mantienen con o sin esa corrección.
+
+**Deuda 5 — Proveedores de equipamiento CATL:**
+
+La dependencia de CATL en equipamiento europeo está confirmada: Dürr AG suministra tecnología de producción de electrodos a CATL ([Dürr — Battery Production for CATL](https://www.durr.com/en/media/news/news-detail/view/battery-production-duerr-provides-catl-with-innovative-technology-for-electrode-production-86889)); Manz AG es parte del consorcio Dürr-Manz-Grob que provee tecnología de ensamblaje de celdas ([electrive.com, diciembre 2022](https://www.electrive.com/2022/12/15/durr-is-supply-battery-machinery-for-catl/)). B retira la mención de Tokyo Electron de la lista de proveedores de CATL —fue un error de categoría: Tokyo Electron provee equipamiento para semiconductores, no baterías. La afirmación de fondo se mantiene: CATL depende de equipamiento de precisión europeo (Dürr, Manz, Grob) para sus líneas de producción de mayor escala.
+
+---
+
+#### Ataque específico: el mercado doméstico como ciclo de retroalimentación autónomo no cierra la brecha en sectores de frontera
+
+A argumenta, de forma legítima, que BYD y Huawei demuestran que el ciclo margen→I+D puede operar desde el mercado doméstico chino. El ciclo existe. La concesión es genuina.
+
+Pero el argumento de A confunde dos ciclos de retroalimentación distintos: el ciclo de escala y el ciclo de frontera.
+
+El ciclo de escala — producir más volumen con tecnología conocida, reducir costos unitarios, reinvertir en optimización — funciona perfectamente desde el mercado doméstico chino. BYD es la prueba.
+
+El ciclo de frontera — generar conocimiento genuinamente nuevo en la frontera global — no puede cerrarse solo con escala doméstica. El conocimiento tácito de frontera en semiconductores de 2nm no está en Shanghái: está en los laboratorios de TSMC en Hsinchu, en IMEC en Lovaina, en los equipos de ASML en Veldhoven. Ese conocimiento no se transmite por patentes — se transmite por movilidad de talento, colaboración de laboratorio y acceso a herramientas que solo existen en esos ecosistemas. El desacoplamiento tecnológico coordinado bloquea el ciclo de frontera, no el ciclo de escala.
+
+La pregunta correcta es si los sectores donde China depende del ciclo de frontera son suficientemente centrales para la sostenibilidad del modelo en 2030-2040. B sostiene que sí: la IA de aplicaciones militares, los sistemas de armas autónomos y la infraestructura de control que sostiene la legitimidad del modelo dependen de esos nodos de frontera. El ciclo BYD-Huawei es real y robusto; no alcanza para los sectores donde la frontera está físicamente fuera de China y el acceso está siendo sistemáticamente cerrado.
+
+---
+
+#### Eslabón 3 — Reformulación con evidencia
+
+Tras la acotación de Agente E en R5, B reformula el Eslabón 3. La premisa fuerte original — el Sur Global elige infraestructura según credibilidad de protección sistémica occidental — fue correctamente debilitada por E.
+
+La reformulación: el Sur Global como mercado de retroalimentación de I+D es insuficiente no porque rechace la tecnología china, sino porque su demanda está concentrada en el segmento de precio bajo a medio, que no genera las rentas de margen alto que financian I+D de frontera. India adopta infraestructura Huawei 4G en zonas rurales a precios que Ericsson no puede igualar — pero ese contrato no financia investigación de 6G de frontera. El mecanismo de insuficiencia es económico, no político. E tiene razón en que el eslabón político era débil; el eslabón económico se mantiene.
+
+---
+
+#### Concesión
+
+A hizo en R6 su mejor intervención del debate en tres dimensiones que B reconoce sin reservas.
+
+Primero, la distinción entre política industrial de "picking winners" y política industrial de "creating markets" (Amsden, Mazzucato) es analíticamente correcta y B la acepta. El Estado chino en VE no eligió a BYD — creó el mercado y dejó que la competencia interna seleccionara al ganador.
+
+Segundo, el precedente histórico de TSMC como empresa de origen estatal es un golpe directo a cualquier argumento que atribuya el éxito de TSMC al liberalismo de mercado puro. A tiene razón.
+
+Tercero, la concesión de A sobre nodos sub-2nm — sin evasión ni redefinición — es el movimiento más honesto del debate y le da a A credibilidad en lo que sí defiende.
+
+---
+
+#### Reto para Agente A — Ronda 6
+
+A ha documentado que el modelo chino tiene una versión de corrección de errores: competencia entre empresas privadas en sectores no estratégicos, experimentación local en algunas políticas, y la autocorrección que el propio A ejecutó en este debate.
+
+El reto concreto: identifica un caso, desde 2013, en que el liderazgo central del PCCh haya reconocido públicamente que una apuesta de política industrial estratégica fue un error, retirado el apoyo estatal a esa apuesta, y permitido que las empresas beneficiarias fracasaran sin rescate. No casos de corrupción individual — esos terminan en arrestos que refuerzan el control, no en corrección de política. Un caso de reversión de política estratégica con salida real de activos mal asignados.
+
+Si A no puede identificar ese caso desde 2013 — cuando la centralización bajo Xi comenzó — eso es evidencia directa de que el mecanismo de corrección de errores que hace funcionar la política industrial en democracias liberales ha sido eliminado estructuralmente del modelo chino, no como anomalía, sino como rasgo de diseño del sistema actual.
+
+---
+
+**Fuentes:**
+
+- [IEA — With new export controls on critical minerals, supply concentration risks become reality](https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality)
+- [Statista — China's Monopoly on Critical Minerals](https://www.statista.com/chart/35398/china-dominant-share-in-global-mining-production-of-critical-minerals/)
+- [OECD Data — Triadic Patent Families](https://data.oecd.org/Rd/Triadic-Patent-Families.Htm)
+- [ChinaPower/CSIS — Are Patents Indicative of Chinese Innovation?](https://chinapower.csis.org/patents/)
+- [arXiv 2512.20264 — The AI Scaling Wall of Diminishing Returns](https://arxiv.org/pdf/2512.20264)
+- [PNAS 2025 — Scaling language model size yields diminishing returns](https://www.pnas.org/doi/10.1073/pnas.2413443122)
+- [Dürr — Battery Production for CATL](https://www.durr.com/en/media/news/news-detail/view/battery-production-duerr-provides-catl-with-innovative-technology-for-electrode-production-86889)
+- [electrive.com — Dürr is supplying battery machinery for CATL](https://www.electrive.com/2022/12/15/durr-is-supply-battery-machinery-for-catl/)
+- [PIIE — China's private-sector rebound continued in 2025](https://www.piie.com/research/piie-charts/2026/chinas-private-sector-rebound-continued-2025-fueled-new-economy)
+
