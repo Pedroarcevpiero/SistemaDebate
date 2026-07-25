@@ -3219,3 +3219,440 @@ La moción no se cumple. La trayectoria de China es real. Son cosas distintas.
 - DoD China Military Power Report 2024: ~600 ojivas operativas, proyección ~1,000 para 2030.
 - Enmarcado del Árbitro H — definición vinculante: "primera potencia = IPNI agregado más alto".
 - Sin evidencia web nueva en esta intervención: toda evidencia tomada del registro acumulado del debate.
+
+---
+
+## Veredicto del Árbitro — Debate China vs. EE.UU. Primera Potencia 2050
+
+**Árbitro H — 25 de julio de 2026**
+
+---
+
+### Sección 1 — Declaración de competencia y método
+
+Como Árbitro H declaro que he leído el registro verbatim completo en disco (`outputs/debate-full-2026-07-25-china-vs-eeuu-potencia-2050.md`, 3.221 líneas): enmarcado, apertura formal, 20 intervenciones (10 del Proponente A, 10 del Oponente B) y las evaluaciones del panel de especialistas C, D, E, F y G en las rondas 2–9. La compuerta de conteo se verifica: 10 intervenciones de A (R1–R10) y 10 de B (R1–R10), más 8 bloques de análisis especializado.
+
+**Método aplicado:**
+
+1. **No reponderación.** Los pesos del IPNI fijados en el enmarcado son vinculantes y no se alteran (12.5 / 12.5 / 20 / 15 / 10 / 10 / 10 / 5 / 5).
+2. **Deferencia técnica al panel.** Las siete dimensiones puntuadas por especialistas (3, 4, 5, 6, 7, 8, 9) se toman sin modificación. El árbitro no sustituye juicio técnico cerrado.
+3. **Puntuación arbitral solo donde el panel no cerró.** Dimensiones 1 y 2, con justificación explícita y anclada en evidencia del expediente (Especialista C, R2; Penn World Tables; Conference Board).
+4. **No introducción de evidencia nueva.** Ninguna fuente ajena al expediente entra en el cómputo.
+5. **Doble evaluación.** Se distingue el **resultado sustantivo** (¿se cumple la moción según el IPNI?) del **resultado argumentativo** (¿quién debatió mejor?). Ambos se resuelven, y en este debate convergen.
+6. **Umbral de empate técnico.** Diferencia agregada ponderada inferior a 0.15 puntos → empate técnico. Se aplica mecánicamente.
+
+Declaro que no tuve posición previa, no anticipé resultados y apliqué las mismas reglas de penalización y bonificación a ambos debatientes.
+
+---
+
+### Sección 2 — Resumen del debate (10 rondas + panel)
+
+**R1 — Tesis y escenario base.** A abre con probabilidad central del 62% para la moción, articulando nueve dimensiones con mecanismos causales (crecimiento diferencial, apreciación del RMB, PTF vía automatización, fusión militar-civil, e-CNY/CIPS, arquitectura BRI/BRICS). B responde con tesis de persistencia estructural americana: frontera tecnológica, hegemonía financiera, alianzas, autocorrección institucional; probabilidad de apertura del 35% para la moción.
+
+**R2 — Economía y productividad (Esp. C).** El especialista C establece el dato más incómodo para A: la brecha de PBI nominal **se amplió** entre 2021 y 2025 (China cayó de ~76% a ~64–65% del PBI estadounidense) y la dispersión de fechas de cruce va de 2033 a "nunca". Con crecimiento chino del 2.5% sin apreciación del RMB, el cruce no ocurre antes de 2050 en la mayoría de simulaciones. En productividad, China está en ~40–45% del nivel estadounidense en PTF y ~20–30% en productividad laboral por hora.
+
+**R3 — Tecnología (Esp. D).** D documenta la restricción mecánica del DUV multi-patterning (~34 exposiciones frente a ~9 con EUV), la producción real de SMIC en clase 7nm (Kirin 9000S) y el cuello de botella real: no es conocimiento, es **escala económica** (coste por wafer bueno 2–3× superior, throughput de escáner colapsado). Introduce el caso DeepSeek R2 (retorno a Nvidia tras fracaso sobre Ascend).
+
+**R4 — Poder militar (Esp. E).** Conclusión técnica: China como potencia regional dominante con alcance global limitado; EE.UU. como única potencia con capacidad expedicionaria global pero sin capacidad de imponer voluntad en el litoral chino. Señala la condicionalidad del basing japonés y filipino como vulnerabilidad americana real.
+
+**R5 — Moneda y finanzas (Esp. C).** Puntuación cerrada China 3.75 / EE.UU. 8.65. La brecha más extrema del índice. Mecanismo de la trampa: internacionalizar el yuan exige apertura de cuenta de capital; abrirla sin fuga masiva exige institucionalidad independiente incompatible con el sistema de partido único.
+
+**R6 — Demografía (Esp. F).** China 4.7 / EE.UU. 7.3. Contracción poblacional china estructural; ventaja americana condicionada a la persistencia del sistema migratorio.
+
+**R7 — Instituciones (Esp. F).** China 6.28 / EE.UU. 5.68. **Única dimensión donde China gana según el panel** — reconocimiento de capacidad de ejecución y continuidad estratégica china frente a polarización y parálisis americana.
+
+**R8 — Alianzas y energía (Esps. E+G).** Empate sustancial (China ~5.05 / EE.UU. ~4.95): China gana energía/cadenas (7.0 vs 4.5), EE.UU. queda casi a la par en alianzas por la erosión de fiabilidad, con ligera ventaja china neta agregada en el bloque combinado.
+
+**R9 — Escenarios disruptivos (Esps. D, E, G).** Ronda decisiva. D cierra Tecnología (6.2 / 8.4) y E cierra Militar (6.3 / 7.8). G ejecuta la **auditoría aritmética** que rompe el debate: demuestra que la cifra de A (China 54–57% del IPNI) **no es derivable** de las puntuaciones del panel que A invocó como fuente; el cómputo correcto arroja China 42–45% / EE.UU. 55–58%. Se registran ocho penalizaciones contra A y dos bonificaciones.
+
+**R10 — Cierre.** A **acepta la penalización grave sin reservas**, corrige su aritmética en público, presenta tabla IPNI completa que arroja China 46.9% / EE.UU. 53.1% y revisa su probabilidad de la moción del 62% al **28%**. B rechaza con argumento los dos ajustes al alza de A (Tecnología y Militar) por selectividad analítica, presenta tabla que arroja China 45.0% / EE.UU. 55.0%, refuta el argumento meta-IPNI de A como desplazamiento de tesis, y fija su probabilidad de la moción en **25%**.
+
+**Patrón global:** convergencia adversarial. Las estimaciones de apertura (62% vs 35%) convergen a 28% vs 25%. Es el indicador más fuerte de que el debate funcionó epistémicamente.
+
+---
+
+### Sección 3 — Tabla IPNI de síntesis (base: puntuaciones del panel + puntuación arbitral en Dim. 1 y 2)
+
+| # | Dimensión | Peso | China | EE.UU. | Contrib. China | Contrib. EE.UU. | Origen |
+|---|---|---:|---:|---:|---:|---:|---|
+| 1 | Economía total y PBI nominal | 12.5% | **7.00** | **5.75** | 0.8750 | 0.7188 | **Árbitro H** |
+| 2 | PBI PPP, productividad, per cápita | 12.5% | **6.00** | **7.25** | 0.7500 | 0.9063 | **Árbitro H** |
+| 3 | Tecnología, IA y semiconductores | 20% | 6.20 | 8.40 | 1.2400 | 1.6800 | Esp. D, R9 |
+| 4 | Poder militar | 15% | 6.30 | 7.80 | 0.9450 | 1.1700 | Esp. E, R9 |
+| 5 | Moneda, finanzas y sanciones | 10% | 3.75 | 8.65 | 0.3750 | 0.8650 | Esp. C, R5 |
+| 6 | Demografía, educación y talento | 10% | 4.70 | 7.30 | 0.4700 | 0.7300 | Esp. F, R6 |
+| 7 | Instituciones y autocorrección | 10% | 6.28 | 5.68 | 0.6280 | 0.5680 | Esp. F, R7 |
+| 8+9 | Alianzas + Energía/Cadenas | 10% | 5.05 | 4.95 | 0.5050 | 0.4950 | Esps. E+G, R8 |
+| | **TOTAL PONDERADO** | **100%** | | | **5.788** | **7.133** | |
+| | **Normalizado** | | | | **44.8%** | **55.2%** | |
+
+**Diferencia agregada ponderada: 1.345 puntos a favor de EE.UU.** (umbral de empate técnico: 0.15). La diferencia es **8.97 veces** el umbral.
+
+---
+
+### Sección 4 — Evaluación dimensión por dimensión
+
+**Dim. 1 — Economía nominal (12.5%) — Puntuación arbitral: China 7.00 / EE.UU. 5.75.**
+A propuso 7.5/6.0; B propuso 6.5/5.5. Ambos concedieron ventaja china, lo que reduce la disputa a magnitud. El expediente sostiene el cruce nominal en la ventana 2035–2042 como escenario central bajo crecimiento chino del 3.5–4%, pero el Especialista C documentó (a) que la brecha se **amplió** 2021–2025 y (b) que con crecimiento del 2.5% el cruce no ocurre. Fijo China en 7.00 —punto medio ligeramente inferior al de A— porque la evidencia de divergencia reciente es [DO] y las proyecciones de cruce son [PI] con dispersión extrema. EE.UU. en 5.75 porque una economía nominal de ~$45–50T en 2050 no es "débil": es la segunda mayor del mundo con enorme capacidad de compra internacional. **Ventaja China: +1.25.**
+
+**Dim. 2 — PPP/Productividad (12.5%) — Puntuación arbitral: China 6.00 / EE.UU. 7.25.**
+A propuso 6.5/7.5; B propuso 5.5/7.0. Notablemente, **A concedió la dimensión** ("no tengo base para un número más favorable a China"). La dimensión tiene tres componentes: escala PPP total (China lidera y su liderazgo crece), PTF (EE.UU. lidera ~2× según Penn World Tables [DO]) y PBI per cápita (EE.UU. lidera ~5× en 2026, ~4× proyectado a 2050). Dos de tres componentes favorecen decisivamente a EE.UU.; el promedio compuesto que el IPNI mide favorece a EE.UU. sin ambigüedad. Adopto el punto medio exacto entre las propuestas. **Ventaja EE.UU.: +1.25.** Las dimensiones 1 y 2 se cancelan aritméticamente casi con exactitud (0.8750+0.7500 = 1.6250 China; 0.7188+0.9063 = 1.6251 EE.UU.) — **el bloque económico del 25% del índice es un empate perfecto.** Este hallazgo es analíticamente importante: la moción no se decide en economía.
+
+**Dim. 3 — Tecnología (20%) — China 6.2 / EE.UU. 8.4 [Esp. D].** Dimensión decisiva por peso y por magnitud de brecha (contribuye 0.44 puntos ponderados de ventaja americana, el 33% del margen total). El desglose de D es riguroso: China gana difusión industrial (8.5 vs 6.5) —ventaja real y sostenible— pero pierde catastróficamente en fabricación de frontera (4.0 vs 9.0) y EDA/herramientas (4.0 vs 9.5). La definición operacional vinculante nombra cinco términos y cuatro favorecen a EE.UU. Sostengo la puntuación de D sin ajuste. El intento de A de subirla a 7.0/8.0 en R10 fue correctamente refutado por B como selectividad analítica.
+
+**Dim. 4 — Militar (15%) — China 6.3 / EE.UU. 7.8 [Esp. E].** La puntuación más discutible del panel, y E lo reconoce explícitamente: "si el índice ponderara exclusivamente por relevancia del teatro indopacífico, la puntuación sería China 7.5 / EE.UU. 7.0". Pero la regla 1 prohíbe reponderar y la definición dice "global". La sostengo. Registro que esta es la dimensión con mayor sensibilidad a la especificación del índice, no a la evidencia.
+
+**Dim. 5 — Moneda/Finanzas (10%) — China 3.75 / EE.UU. 8.65 [Esp. C].** La brecha más extrema del expediente (0.49 puntos ponderados, 36% del margen total). A la aceptó sin variación en R10 y calificó la cuestión de la cuenta de capital como "el talón de Aquiles más serio" de su tesis. El mecanismo de trampa identificado por C es estructural, no contingente, y ninguno de los dos debatientes lo refutó.
+
+**Dim. 6 — Demografía (10%) — China 4.7 / EE.UU. 7.3 [Esp. F].** Aceptada por ambos. B concedió honestamente que el 7.3 americano supone persistencia del sistema migratorio durante 25 años de polarización — es la puntuación del panel con mayor riesgo a la baja para EE.UU.
+
+**Dim. 7 — Instituciones (10%) — China 6.28 / EE.UU. 5.68 [Esp. F].** Única victoria china del panel. Es una conclusión contraintuitiva y por eso valiosa: el panel no operó con sesgo pro-americano.
+
+**Dim. 8+9 — Alianzas + Energía (10%) — China 5.05 / EE.UU. 4.95 [Esps. E+G].** Empate con ventaja china marginal. China domina energía limpia y cadenas (7.0 vs 4.5); EE.UU. compensa con alianzas formales, pero descontadas por fiabilidad. Nota crítica de G no explotada por ninguno: **la vulnerabilidad energética china (70% de petróleo por Malaca) es más aguda e inmediata que la vulnerabilidad occidental de minerales**, porque el petróleo se consume a diario y las tierras raras se inventarían.
+
+---
+
+### Sección 5 — Calidad argumentativa de A (Proponente China)
+
+**Fortalezas.**
+1. **Estructura impecable de apertura.** A fue el único que asignó probabilidad explícita desde R1 (62%), especificó mecanismos causales por dimensión y declaró condiciones de falsación — cumplió los cuatro requisitos del artículo 7 de la apertura antes de que se los exigieran.
+2. **Etiquetado epistémico disciplinado.** Uso consistente de [DO]/[PI]/[EC]/[EI] durante diez rondas.
+3. **Honestidad intelectual excepcional en el cierre.** Aceptar la penalización más grave del debate, corregir la aritmética en público, presentar una tabla que refuta su propia tesis y revisar la probabilidad del 62% al 28% es la conducta epistémica más meritoria del expediente. El Especialista E ya lo había señalado en R9 ("el reconocimiento de debilidad más honesto de las nueve rondas").
+4. **Un argumento geopolítico de primer orden:** la cohesión aliada como variable endógena y asincrónica, no como activo fijo. Reconocido por E como el mejor argumento geopolítico del debate y no refutado en su núcleo.
+
+**Debilidades.**
+1. **Sobreestimación sistemática de probabilidades conjuntas.** El Escenario 1 (52%) requería cuatro condiciones simultáneas cuya probabilidad conjunta A no computó correctamente. A lo concedió en R10.
+2. **Asimetría analítica reiterada.** Aplicó el mecanismo de "efecto demostración" a favor de China (sanciones a Rusia → diversificación del yuan) pero se negó a aplicarlo en contra (controles chinos de tierras raras de abril 2025 → diversificación occidental). Doble estándar también en deuda (ahorro chino como amortiguador válido, privilegio del dólar como amortiguador inválido).
+3. **Error aritmético dentro del marco que aceptó.** Presentó la fragmentación como intercambio favorable cuando beneficia a China en una dimensión del 5% y la perjudica en una del 20%.
+4. **Atribución incorrecta al panel** — la falta más grave, reconocida.
+5. **Desplazamiento de tesis en el cierre** (argumento meta-IPNI). Ver Sección 8.
+
+---
+
+### Sección 6 — Calidad argumentativa de B (Oponente EE.UU.)
+
+**Fortalezas.**
+1. **Disciplina de marco.** B nunca ajustó una puntuación del panel a su conveniencia. Aceptó las siete dimensiones cerradas sin modificación —incluida la dimensión 7, la única que pierde— y solo puntuó las dos que el panel dejó abiertas. Esta consistencia le dio autoridad decisiva en R10 para rechazar los ajustes de A.
+2. **Réplica directa sistemática.** Cumplió la obligación de réplica previa en las diez rondas. En R10 desmontó los tres argumentos de A para el ajuste tecnológico uno por uno con referencia a subcomponentes específicos de D.
+3. **Identificación de mecanismos, no de inercia.** Cumplió su carga de prueba: la trampa de la cuenta de capital, la irreplicabilidad del conocimiento tácito litográfico, la aceleración endógena de alianzas por amenaza china. No argumentó "EE.UU. gana porque gana hoy".
+4. **Inversión del mejor argumento de A.** El contraargumento de que las alianzas **se refuerzan** por el crecimiento chino (Japón al 2% del PIB, AUKUS $368B AUD, Corea del Sur en controles de semiconductores) es la refutación más elegante del debate: convierte la premisa de A en evidencia contraria.
+5. **Concesiones genuinas y no triviales.** Concedió el riesgo migratorio americano y el riesgo fiscal sin intentar minimizarlos.
+
+**Debilidades.**
+1. **Presentación tardía de tabla IPNI completa** (R9). Durante ocho rondas argumentó cualitativamente mientras A ya operaba con aritmética explícita, aunque errónea.
+2. **Menor riqueza escenarial.** B construyó menos escenarios alternativos que A y en las primeras rondas trató las alianzas como activo relativamente fijo — vulnerabilidad que A explotó correctamente y que B solo corrigió en R8–R10.
+3. **Dependencia del trabajo del panel.** Buena parte de la fuerza del cierre de B proviene de puntuaciones que él no generó. Es un uso legítimo del marco, pero reduce el mérito argumentativo propio en las dimensiones técnicas.
+
+---
+
+### Sección 7 — Calidad del panel de especialistas (C, D, E, F, G)
+
+**Especialista C (Economía R2, Finanzas R5) — Excelente.** Aportó el dato que estructuró todo el debate económico (la brecha nominal se amplió 2021–2025) y el mecanismo de trampa de la cuenta de capital, que ninguno de los debatientes pudo desactivar. Su puntuación de la dimensión 5 es la más consecuente del índice.
+
+**Especialista D (Tecnología R3, R9) — Sobresaliente.** El desglose en siete subcomponentes con justificación física y económica es el trabajo técnico más sólido del expediente. Su distinción entre yield en dies pequeños (75–80% de probabilidad) y dies grandes de acelerador (45–55%) desactivó la variable bisagra central de A por mala especificación. Mantuvo neutralidad: reconoció explícitamente que chiplets/CloudMatrix es "el argumento más fuerte del lado de A y es técnicamente sólido".
+
+**Especialista E (Militar R4, R9; Alianzas R8) — Excelente y notablemente equilibrado.** Su análisis del Escenario 2 identificó tanto el acierto de A (elección de la modalidad de bloqueo) como el defecto central (tratar Taiwán como cálculo local cuando es un test del perímetro completo). Emitió las dos bonificaciones a favor de A. Declaró explícitamente la contrafactualidad de su puntuación militar bajo otra ponderación — máxima transparencia metodológica.
+
+**Especialista F (Demografía R6, Instituciones R7) — Sólido y valioso por contraintuitivo.** Su puntuación institucional a favor de China (6.28 vs 5.68) es la mejor prueba de la ausencia de sesgo del panel.
+
+**Especialista G (Energía R8, auditoría R9) — Decisivo.** G produjo la intervención que resolvió el debate: la auditoría aritmética que demostró que la cifra de A no era derivable de las puntuaciones del panel. Además identificó el problema lógico del horizonte (la ventaja china de cadenas se disipa 6–14 años antes del año de medición, según los propios números de A) y aportó la nota de equilibrio que salva el análisis de la unilateralidad ("esta inconsistencia no falsa la tesis de A"). Ejemplar.
+
+**Evaluación global del panel: alta calidad y neutralidad verificable.** El panel repartió victorias dimensionales (EE.UU. en 3, 4, 5, 6; China en 7, 9; empate en 1+2 agregado y en 8), emitió penalizaciones y bonificaciones a A, declaró barras de error explícitas de ±1.0 punto y advirtió sobre la necesidad de revisión humana. No detecto captura ideológica.
+
+---
+
+### Sección 8 — Penalizaciones aplicadas (A y B)
+
+**Contra A (Proponente):**
+
+| # | Penalización | Regla | Gravedad | Fuente |
+|---|---|---|---|---|
+| A1 | Atribución incorrecta al panel: cifra IPNI 54–57% declarada "derivada de puntuaciones de especialistas" cuando el cómputo arroja 42–45% | R5 (fuentes mal atribuidas) + R2 (evidencia débil como decisiva) | **Grave** | Esp. G, R9 |
+| A2 | Variable bisagra mal especificada (">60% yield en 7nm" sin tamaño de die), inflando la robustez del Escenario 1 | R3 (determinismo sin mecanismo) | Media-alta | Esp. D, R9 |
+| A3 | Cifra sin fuente: "85% de aplicaciones industriales operan en nodos ≥5nm", usada para descartar la ventaja de frontera | R5 + Nivel F de evidencia | Media | Esp. D, R9 |
+| A4 | Error aritmético intra-IPNI: intercambia ventaja de peso 5% por desventaja de peso 20% presentándolo como favorable | R7 (falacia) | Media-alta | Esp. D, R9 |
+| A5 | Probabilidad no asignada a condición necesaria del Escenario 2; la rama favorable resulta 7–10% frente a 12–15% adversa | R2 | Media | Esp. E, R9 |
+| A6 | Ejemplo autocontradictorio: Italia saliendo del BRI citada como erosión del bloque americano cuando evidencia erosión del chino | R7 | Media | Esp. E, R9 |
+| A7 | Asimetría analítica en tierras raras: efecto demostración aplicado a favor pero no en contra | R7 (doble estándar) | Media | Esp. G, R9 |
+| A8 | Doble estándar en deuda: ahorro chino del 45% aceptado como amortiguador, privilegio del dólar rechazado como tal | R7 | Media | Esp. G, R9 |
+| A9 | Imprecisión de datos: "30–40% del comercio de Japón y Corea con China", redondeado al alza sin fuente puntual | R5 | Menor | Esp. E, R9 |
+| A10 | Evasión acumulada: no respondió desde R3 a la objeción de eficiencia energética por operación (que escala con el nodo, no con el empaquetado) | R1 (evasión de pregunta crítica) | Media-alta | Esp. D, R9 |
+| A11 | **Desplazamiento de tesis en el cierre:** argumento meta-IPNI ("EE.UU. puede ganar el IPNI y perder el orden") introducido en R10, tras aceptar el IPNI como vinculante durante nueve rondas | R6 (cambio de tesis a mitad de debate) | **Alta** | Árbitro H, sobre alegato de B en R10 |
+
+**Sobre A11 — resolución arbitral.** Confirmo la penalización solicitada por B. El enmarcado declaró vinculante que "primera potencia mundial en 2050 significa obtener el puntaje agregado más alto en el IPNI" y listó explícitamente "reduccionismo" y "confusión de marcos" entre los riesgos de desviación. A tuvo nueve rondas para impugnar el instrumento y en cambio lo utilizó activamente para construir su caso. Impugnarlo en la décima, cuando su propia tabla arroja 46.9%, es desplazamiento de tesis. **No obstante, atenúo la gravedad** por dos razones: (i) A presentó el argumento explícitamente como observación sobre los límites del índice, no como sustitución de la moción, y no reclamó victoria sobre esa base; (ii) A mantuvo simultáneamente la concesión de que no puede demostrar el 50%+ del IPNI. Es desplazamiento, no evasión.
+
+**Contra B (Oponente):**
+
+| # | Penalización | Regla | Gravedad |
+|---|---|---|---|
+| B1 | Presentación tardía de tabla IPNI completa (R9), habiendo la obligación de aritmética explícita desde el enmarcado | Incumplimiento procedimental | Menor-media |
+| B2 | Tratamiento de las alianzas como activo cuasi-fijo en R1–R7, sin modelar erosión, hasta ser forzado por A y por el Esp. E | R3 (mecanismo insuficiente) | Menor-media |
+| B3 | Uso ocasional de la cifra de inversión privada en IA (285.9B vs 12.4B, 23×) sin desagregar inversión estatal china ni I+D corporativa no reportada, presentándola como comparación limpia | R2 (evidencia parcialmente asimétrica) | Menor |
+
+**No detecto en B:** evasión de preguntas críticas, falacias formales, contradicción interna entre rondas, cambio de tesis ni fuentes inventadas.
+
+---
+
+### Sección 9 — Bonificaciones reconocidas
+
+**A favor de A:**
+1. **Bonificación máxima por reconocimiento honesto de debilidades (regla de bonificación del enmarcado).** A aceptó la penalización más grave del debate "sin reservas", corrigió públicamente su aritmética y revisó su probabilidad del 62% al 28%. Esta conducta es la que el reglamento premia explícitamente y es la contribución epistémica individual más valiosa del expediente.
+2. **Bonificación por mantenimiento de condiciones de falsación** desde R1 hasta R10 sin reformularlas oportunistamente (reconocido por Esp. E, R9).
+3. **Bonificación por el mejor argumento geopolítico del debate:** cohesión aliada como variable endógena (Esp. E, R9).
+4. **Bonificación por rigor epistémico formal:** único debatiente que asignó probabilidades explícitas a escenarios desde la primera ronda.
+5. **Bonificación por concesión de la dimensión 2:** "no tengo base para un número más favorable a China". Conceder una dimensión de peso 12.5% cuando podía haber regateado es integridad analítica.
+
+**A favor de B:**
+1. **Bonificación por disciplina de marco:** aceptó sin modificación las siete puntuaciones del panel, incluida la dimensión 7 que pierde. Esta consistencia es lo que hizo insostenible el ajuste selectivo de A.
+2. **Bonificación por concesiones genuinas:** el riesgo migratorio americano y el riesgo fiscal fueron concedidos en su forma fuerte, no en versión debilitada.
+3. **Bonificación por calibración final:** aceptó explícitamente que el 28% de A "está bien calibrado", renunciando a reclamar una victoria más amplia de la que la evidencia sostiene.
+4. **Bonificación por refutación estructural:** la inversión del argumento de alianzas (se refuerzan por la amenaza china, no se erosionan) es la refutación técnicamente más limpia del debate.
+
+---
+
+### Sección 10 — Análisis de concesiones y su impacto
+
+**Concesión decisiva (A, R10):** *"No puedo demostrar que China supere el 50% del IPNI con ninguna tabla honesta."*
+
+Esta es la concesión que resuelve el debate. La moción afirma que China **superará** a EE.UU. La carga de prueba de A, fijada en el enmarcado, era demostrar IPNI chino > IPNI estadounidense en 2050. A declara explícitamente que no puede hacerlo con ninguna construcción honesta del índice, y su propia tabla —construida con las puntuaciones más favorables a China que puede justificar— arroja 46.9%. **Un proponente que presenta una tabla que refuta su propia moción ha fallado en su carga de prueba por confesión propia.** Ninguna atenuación posterior modifica ese hecho.
+
+**Concesión de la dimensión 2 (A, R10):** al aceptar China 6.5 / EE.UU. 7.5 en PPP/productividad, A renunció a la última dimensión donde podría haber disputado peso económico. Impacto: cierra el bloque económico del 25% como empate, eliminando el vector por el cual la masa china podría compensar el déficit tecnológico-financiero.
+
+**Concesión de la dimensión 5 sin variación (A, R10):** aceptar China 3.75 / EE.UU. 8.65 y calificar la cuenta de capital como "talón de Aquiles" bloquea matemáticamente cualquier camino chino al 50%, como el propio A reconoce.
+
+**Concesión de la rama de fracaso del Escenario 2 (A, R9):** A asignó 12–15% a un resultado donde su tesis "colapsa con probabilidad del 80%". El Especialista E extrajo la implicación que A no extrajo: su propio Escenario 2 es **netamente destructivo** para su tesis.
+
+**Concesiones de B (R10):** el riesgo migratorio americano y el riesgo fiscal. Impacto real pero acotado: la primera pone presión a la baja sobre el 7.3 de la dimensión 6 (peso 10%); la segunda es, según el Esp. G, real pero sin punto de quiebre datable en el expediente. Ninguna de las dos, ni combinadas, mueve 1.345 puntos ponderados.
+
+**Concesión de B sobre el argumento de alianzas de A:** "A tiene razón en que las alianzas no son un activo fijo". Concesión honesta que le cuesta poco porque la neutraliza con evidencia contraria en el mismo párrafo.
+
+**Balance:** las concesiones de A son estructurales y afectan al núcleo de su tesis. Las de B son periféricas y afectan a márgenes de dimensiones ya ganadas o empatadas.
+
+---
+
+### Sección 11 — Evidencia decisiva del debate
+
+Ordenada por impacto sobre el resultado:
+
+1. **[Nivel A — DO] La brecha de PBI nominal China/EE.UU. se amplió entre 2021 y 2025** (de ~76% a ~64–65% del PBI estadounidense) [Esp. C, R2]. Destruye la premisa de convergencia mecánica y establece que el cruce nominal es condicional, no inercial. Sin esta evidencia, la dimensión 1 habría sido una victoria china holgada.
+
+2. **[Nivel A/C — DO+EC] La restricción litográfica: ~34 exposiciones DUV frente a ~9 con EUV; coste por wafer bueno 2–3× superior; throughput de escáner colapsado** [Esp. D, R3/R9]. Reformula el problema chino de "capacidad" a "escala económica", que es una restricción mucho más persistente. Sostiene el 4.0 vs 9.0 en fabricación de frontera.
+
+3. **[EC — auditoría aritmética] El cómputo de G que demuestra que China necesitaría ~9.5–10.0 en ambas dimensiones económicas contra ~1.5–2.5 de EE.UU. para alcanzar el 54–57% que A reclamaba** [Esp. G, R9]. Evidencia formal, no empírica, pero decisiva: convierte la tesis de A en aritméticamente inalcanzable bajo su propio marco.
+
+4. **[Nivel A — DO] IMF COFER Q1 2026: yuan en 2.85% de reservas globales**, combinado con el mecanismo de trampa de la cuenta de capital [Esp. C, R5]. Sostiene la brecha más extrema del índice (0.49 puntos ponderados, el 36% del margen).
+
+5. **[Nivel A — DO] Controles chinos de exportación de tierras raras pesadas de abril de 2025, con paradas de línea verificadas en Ford y fabricantes europeos** [Esp. G, R8]. **Es la mejor evidencia de A en todo el debate**: demostración empírica de capacidad coercitiva ejercida y exitosa. Sostiene el 7.0 chino en energía/cadenas.
+
+6. **[EC — Reuters/Tom's Hardware, no confirmado oficialmente] El fracaso del entrenamiento de DeepSeek R2 sobre Huawei Ascend y el retorno a Nvidia.** Evidencia de nivel medio pero direccionalmente potente: autonomía de la pila china no demostrada en el segmento más exigente seis años antes del horizonte. **Advertencia: B la usó con más peso del que su nivel epistémico permite.**
+
+7. **[Nivel A — DO] Compromisos aliados verificables: Japón al 2% del PIB, AUKUS $368B AUD, integración surcoreana en controles de semiconductores.** Sostiene la refutación estructural de B sobre alianzas endógenas.
+
+8. **[Nivel A — DO] CBO 2024-2025: intereses de la deuda federal >$880B anuales, deuda >120% del PIB.** La mejor evidencia cuantitativa de A contra EE.UU., calificada por G como "el argumento cuantitativamente mejor sostenido de A" — pero sin punto de quiebre datable.
+
+---
+
+### Sección 12 — Argumento más fuerte del Proponente
+
+**"La cohesión del bloque americano es una variable endógena y asincrónica, no un activo fijo."**
+
+Formulación: las alianzas americanas requieren decisiones políticas simultáneas de múltiples capitales democráticas bajo presión, mientras China coordina un solo actor. Ese asincronismo estructural no es modelable como ventaja constante; es una vulnerabilidad que se activa precisamente en los momentos de máxima tensión, que son los que el IPNI intenta medir.
+
+**Por qué es el más fuerte:** (i) fue reconocido como tal por el Especialista E, la autoridad técnica de la dimensión; (ii) está respaldado por evidencia independiente del propio panel (E estableció en R4 y R8 que el acceso a bases japonesas y filipinas es **condicional, no automático** [EI]); (iii) identifica un mecanismo causal genuino, no una tendencia extrapolada; (iv) **B nunca refutó su núcleo** —solo mostró evidencia contraria en la dirección de la tendencia agregada, lo que es una refutación empírica pero no conceptual.
+
+**Su límite, correctamente identificado por E:** A sobreextiende la premisa hasta convertir una vulnerabilidad condicional en un colapso asumido. La premisa es correcta; la inferencia es excesiva.
+
+**Menciones honoríficas:** (a) la evidencia de coerción de tierras raras de abril 2025, que es su mejor evidencia empírica; (b) chiplets y empaquetado avanzado (CloudMatrix) como ruta de compensación de densidad de cómputo por rack, calificado por D como "técnicamente sólido".
+
+---
+
+### Sección 13 — Argumento más fuerte del Oponente
+
+**"Las alianzas americanas se aceleran precisamente porque China crece; el estímulo de cada compromiso reciente fue la amenaza china, no la americana."**
+
+Formulación: Japón legisló y ejecuta el 2% del PIB en defensa; Australia comprometió $368.000 millones AUD en AUKUS; Corea del Sur se integró en los controles de semiconductores. En los tres casos el detonante es China. Por tanto, el argumento de que las alianzas se erosionarán a medida que China crezca **contradice la evidencia observable de que se refuerzan por esa misma razón**.
+
+**Por qué es el más fuerte:** es una refutación estructural, no un contraargumento paralelo. Toma el mejor argumento del rival y demuestra que el mecanismo que A invoca opera en dirección contraria en el rango observable. Está anclado en tres hechos [DO] verificables, no en proyección. Y neutraliza el vector por el cual A podía erosionar la dimensión 8 y el componente aliado de la dimensión 4 simultáneamente.
+
+**Menciones honoríficas:** (a) **La trampa de la cuenta de capital** — para internacionalizar el yuan China debe abrir la cuenta de capital; para abrirla sin fuga masiva necesita institucionalidad independiente y transparente que el partido único no puede proveer sin disolver sus propios cimientos. Es un mecanismo estructural en forma de dilema cerrado, y A lo concedió expresamente. (b) **La irreplicabilidad del conocimiento tácito:** "se puede abrir una mina y una refinería en una década con dinero suficiente; no se puede comprar tres décadas de curva de aprendizaje litográfico" (formulación de D adoptada por B) — establece la asimetría temporal decisiva entre las dos vulnerabilidades cruzadas.
+
+---
+
+### Sección 14 — Variables bisagra identificadas
+
+Ordenadas por impacto potencial sobre el resultado del IPNI en 2050:
+
+| # | Variable bisagra | Estado en el expediente | Impacto si se invierte |
+|---|---|---|---|
+| 1 | **Ruptura del monopolio EUV de ASML antes de ~2035** | [EI] — calificada por el Esp. D como "la mayor incógnita individual del expediente"; sin verificación independiente | D declara que movería la dim. 3 a China 7.5 / EE.UU. 8.0 → +0.26 ponderados para China. Necesaria pero **no suficiente** por sí sola |
+| 2 | **Apertura parcial de la cuenta de capital china sin fuga masiva** | Concedida por A como "talón de Aquiles"; mecanismo de trampa sin solución en el expediente | Movería la dim. 5 a ~5.5 / ~7.5 → +0.175 ponderados. **Insuficiente aislada**, imprescindible en combinación |
+| 3 | **Crisis fiscal americana con crowding out sostenido del I+D federal antes de ~2038** | [DO] déficits y carga de intereses documentados; [EI] punto de quiebre no datable | Vector identificado por G como el que A no explotó: efecto compuesto sobre la frontera tecnológica durante dos décadas. Potencialmente el de mayor impacto indirecto |
+| 4 | **Colapso o persistencia del sistema migratorio de talento STEM americano** | Concedido por B; el 7.3 del Esp. F supone continuidad durante 25 años de polarización | Comprime la dim. 6 y, con retardo, la dim. 3 vía ecosistema de talento |
+| 5 | **Crecimiento chino sostenido ≥3.5% hasta 2045 pese a la contracción demográfica** | [PI] con dispersión extrema; el Esp. C documenta que a 2.5% el cruce nominal no ocurre | Determina si la dim. 1 es victoria china (7.0) o empate (~6.0/6.5). Base necesaria de todo lo demás |
+| 6 | **Contingencia Taiwán y respuesta americana** | [EI] — Esp. E asigna 20–30% a una respuesta limitada a suministro de armas, condicional al bloqueo | Bifurcación de máxima varianza: la rama favorable a China es solo 7–10% de probabilidad conjunta según la propia aritmética de A |
+| 7 | **Yield >60% en dies grandes de acelerador de IA (>600 mm²) antes de 2035** | [EC] Esp. D: 45–55% (frente a 75–80% para dies medios) | La especificación correcta de la variable bisagra que A formuló mal |
+| 8 | **Velocidad de replicación occidental de cadenas de minerales críticos** | [EC] Esp. G: replicación sustancial probable para 2040, muy probable para 2050 | Determina si la ventaja china de la dim. 9 sobrevive al año de medición |
+
+**Observación arbitral crítica:** las variables 1, 2 y 3 son **conjuntamente necesarias** para invertir el resultado. Ninguna aislada mueve 1.345 puntos ponderados. Las tres simultáneamente sí. Ese es exactamente el espacio de probabilidad que ambos debatientes acotaron independientemente en el rango 25–28%.
+
+---
+
+### Sección 15 — Tabla de puntaje final (calidad argumentativa, 0–10)
+
+**Proponente A (China):**
+
+| Criterio | Puntaje | Justificación |
+|---|---:|---|
+| Claridad de tesis | 8.0 | Tesis explícita con probabilidad asignada desde R1 y mecanismos por dimensión; enturbiada en el cierre por el argumento meta-IPNI |
+| Réplica directa al rival | 7.0 | Cumplió en general, pero evasión acumulada no resuelta sobre eficiencia energética por operación desde R3 (Esp. D) |
+| Calidad de evidencia | 6.0 | Excelente en tierras raras y CBO; cifras sin fuente (85% de aplicaciones), redondeos al alza (comercio Japón/Corea) y una atribución falsa al panel |
+| Pertinencia de fuentes | 6.0 | Fuentes de Nivel A bien elegidas cuando las usó; la falta grave es de atribución, no de invención |
+| Fuerza lógica | 5.0 | Tres fallos estructurales: doble estándar en deuda, asimetría del efecto demostración e intercambio 5%-por-20% presentado como favorable |
+| Capacidad de refutación | 6.0 | Refutó bien el determinismo demográfico y el activo fijo de alianzas; no refutó ni la trampa de cuenta de capital ni la asimetría del conocimiento tácito |
+| Reconocimiento honesto de debilidades | 10.0 | **Máximo.** Aceptó la penalización más grave sin reservas, corrigió en público, presentó tabla contraria a su tesis y revisó 62%→28%. Conducta ejemplar |
+| Consistencia interna | 6.0 | Consistente en las condiciones de falsación durante nueve rondas; rota por el desplazamiento meta-IPNI en R10 y por los ajustes selectivos al panel |
+| Foco en el tema | 7.0 | Se mantuvo en el IPNI nueve rondas; el cierre roza el riesgo de desviación nº 6 del enmarcado |
+| Relevancia práctica | 8.0 | Identificó las variables bisagra correctas y produjo conocimiento reutilizable de primer orden |
+| Capacidad de sostener la posición | 5.0 | No la sostuvo: concedió que no puede demostrar el 50%+ del IPNI con ninguna tabla honesta. Honesto, pero es fallo de carga de prueba |
+| **TOTAL** | **74.0 / 110 → 6.73** | |
+
+**Oponente B (EE.UU.):**
+
+| Criterio | Puntaje | Justificación |
+|---|---:|---|
+| Claridad de tesis | 8.0 | Tesis de persistencia estructural clara con probabilidad asignada; tabla completa tardía (R9) |
+| Réplica directa al rival | 9.0 | Cumplió la obligación de réplica previa en las diez rondas; desmontaje punto por punto de los tres argumentos de A en R10 |
+| Calidad de evidencia | 8.0 | Fuentes de Nivel A verificables y consistentes; uso algo sobredimensionado del caso DeepSeek R2 (nivel [EC]) y de la comparación 23× en inversión en IA |
+| Pertinencia de fuentes | 8.0 | Bien alineadas con las dimensiones que debía sostener; sin invención ni mala atribución detectada |
+| Fuerza lógica | 9.0 | Mecanismos de dilema cerrado (cuenta de capital) y asimetría temporal (conocimiento tácito vs. capital); sin falacias formales detectadas |
+| Capacidad de refutación | 9.0 | La inversión del argumento de alianzas y el rechazo fundado de los ajustes selectivos de A son las dos mejores refutaciones del expediente |
+| Reconocimiento honesto de debilidades | 8.0 | Concedió en forma fuerte el riesgo migratorio y el fiscal, y validó la calibración del 28% de A renunciando a una victoria mayor |
+| Consistencia interna | 9.0 | No ajustó una sola puntuación del panel a su favor, incluida la que pierde. Sin contradicción entre rondas |
+| Foco en el tema | 9.0 | Permaneció íntegramente dentro del IPNI y defendió activamente la integridad del marco frente al desplazamiento de A |
+| Relevancia práctica | 8.0 | Mecanismos accionables; menor riqueza escenarial que A |
+| Capacidad de sostener la posición | 9.0 | Sostuvo la misma tesis diez rondas, reforzándola con la aritmética del panel; solo ajustó a la baja su probabilidad, sin cambiar de posición |
+| **TOTAL** | **94.0 / 110 → 8.55** | |
+
+---
+
+### Sección 16 — Resultado IPNI agregado
+
+**Cómputo arbitral definitivo (pesos vinculantes, sin reponderación):**
+
+| Componente | China | EE.UU. |
+|---|---:|---:|
+| Bloque económico (dims. 1+2, 25%) | 1.625 | 1.625 |
+| Bloque tecnológico-militar (dims. 3+4, 35%) | 2.185 | 2.850 |
+| Bloque financiero-demográfico (dims. 5+6, 20%) | 0.845 | 1.595 |
+| Bloque institucional-sistémico (dims. 7+8+9, 20%) | 1.133 | 1.063 |
+| **IPNI TOTAL 2050** | **5.788** | **7.133** |
+| **Normalizado** | **44.8%** | **55.2%** |
+
+**Diferencia: 1.345 puntos ponderados a favor de EE.UU. (10.4 puntos porcentuales normalizados).**
+
+**Convergencia de las tres tablas del expediente:**
+
+| Fuente | China | EE.UU. | Margen |
+|---|---:|---:|---:|
+| Tabla del Proponente A (R10, máximo favorable a China) | 46.9% | 53.1% | 6.2 pp |
+| **Tabla del Árbitro H (punto medio en dims. 1–2)** | **44.8%** | **55.2%** | **10.4 pp** |
+| Tabla del Oponente B (R10) | 45.0% | 55.0% | 10.0 pp |
+| Cómputo del Esp. G (R9, supuestos generosos a China) | 44.2% | 55.8% | 11.6 pp |
+
+**Robustez.** Las cuatro construcciones independientes —incluida la del propio proponente— sitúan a China en el rango 44–47% del IPNI. **Ninguna construcción posible del expediente coloca a China por encima del 50%.** Con las barras de error del panel (±1.0 punto por dimensión), un movimiento adverso máximo simultáneo en las tres dimensiones más pesadas (3, 4 y 5, que suman el 45% del peso) generaría 0.45 puntos ponderados — insuficiente frente a 1.345. **El resultado es robusto a la incertidumbre declarada.**
+
+**Bloque económico como empate:** hallazgo analítico relevante. Con mis puntuaciones, las dimensiones 1 y 2 se cancelan con precisión (1.625 vs 1.625). La moción no se pierde por economía: se pierde por tecnología de frontera (−0.44 ponderados) y por finanzas (−0.49 ponderados), que juntas explican el 69% del margen total.
+
+---
+
+### Sección 17 — DECLARACIÓN DE GANADOR
+
+# **GANADOR: OPONENTE (Agente B — Estados Unidos)**
+
+**Diferencia agregada ponderada: 1.345 puntos.** El umbral de empate técnico (0.15 puntos) se supera por un factor de 8.97. **No procede empate técnico.**
+
+**Fundamentación en tres niveles convergentes:**
+
+**Nivel 1 — Resultado sustantivo del IPNI.** El cómputo arbitral con los pesos vinculantes arroja China 5.788 / EE.UU. 7.133 (44.8% vs 55.2%). La moción afirma que China **superará** a EE.UU. Requería IPNI chino > IPNI estadounidense en 2050. No se cumple bajo ninguna construcción del expediente, incluida la más favorable a China producida por el propio proponente.
+
+**Nivel 2 — Carga de prueba.** El enmarcado asignó a A la obligación de demostrar la superación con mecanismos específicos. A declaró expresamente en R10: *"No puedo demostrar que China supere el 50% del IPNI con ninguna tabla honesta."* Es un incumplimiento de la carga de prueba por reconocimiento propio. B, por su parte, cumplió su carga: especificó mecanismos de persistencia (trampa de la cuenta de capital, irreplicabilidad del conocimiento tácito litográfico, endogeneidad reforzadora de las alianzas) y no se apoyó en la mera inercia.
+
+**Nivel 3 — Calidad argumentativa.** B obtiene 8.55/10 frente a 6.73/10 de A en los once criterios reglamentarios. B acumula tres penalizaciones menores; A acumula once, una de ellas grave (atribución falsa al panel) y una alta (desplazamiento de tesis en el cierre).
+
+**Lo que esta declaración NO significa.** No declaro que China no será una gran potencia, ni que el resultado sea cierto, ni que el margen sea holgado en términos históricos. China al 44.8% del IPNI en 2050 —frente al ~35% del año 2000 según la referencia usada en el debate— representa la mayor reconfiguración de poder nacional del siglo XXI. El sistema resultante es genuinamente bipolar. Pero la moción, tal como fue definida operacionalmente y aceptada por ambas partes, **no se cumple**.
+
+**Mención especial.** Registro que el Proponente A perdió el debate mientras ejecutaba la conducta epistémica más meritoria del expediente. Su reconocimiento honesto de debilidades obtiene la única puntuación de 10.0 del veredicto. Perder un debate corrigiendo el propio error en público es un resultado superior a ganarlo sosteniendo un error. Esta observación no altera el veredicto, pero debe constar.
+
+---
+
+### Sección 18 — Nivel de confianza
+
+# **CONFIANZA: ALTA — sobre el resultado del debate. MEDIA-BAJA — sobre el estado del mundo en 2050.**
+
+Esta distinción es esencial y no debe colapsarse.
+
+**Alta confianza (≈95%) en que el Oponente ganó el debate.** Justificación: (i) el proponente concedió expresamente que no puede demostrar su tesis; (ii) las cuatro tablas independientes del expediente convergen en el rango China 44–47%; (iii) el margen supera el umbral de empate en casi un orden de magnitud; (iv) el margen es robusto a las barras de error declaradas por el propio panel; (v) la asimetría de penalizaciones (11 vs 3, con una grave y una alta contra A) es inequívoca. No hay lectura razonable del expediente que produzca otro ganador.
+
+**Confianza media-baja (≈60–70%) en que EE.UU. sea efectivamente la primera potencia por IPNI en 2050.** Justificación de la rebaja: (i) el panel declaró barras de error de ±1.0 punto por dimensión, lo que sobre nueve dimensiones y 24 años es una incertidumbre sustancial; (ii) la mayor incógnita individual del expediente —la ruptura del monopolio EUV— está clasificada [EI], sin verificación independiente; (iii) las puntuaciones a 2050 son proyecciones [EC], no observaciones; (iv) ambos debatientes convergieron independientemente en asignar 25–28% de probabilidad a la moción, lo que es un espacio de riesgo material, no residual; (v) el expediente no contiene evidencia que permita datar un punto de quiebre fiscal americano, lo que deja un vector de riesgo abierto y no cuantificado; (vi) ninguna metodología de proyección geopolítica a 24 años tiene un historial de acierto que justifique alta confianza.
+
+**Barras de error explícitas del veredicto:** IPNI China 2050 = **44.8% ± 4.5 pp**. IPNI EE.UU. 2050 = **55.2% ± 4.5 pp**. Probabilidad arbitral de la moción: **26%** (intervalo plausible 18–35%), en convergencia con las estimaciones finales de A (28%) y B (25%).
+
+---
+
+### Sección 19 — Recomendaciones prácticas para tomadores de decisión
+
+**Para analistas de política internacional:**
+1. **Abandonar el marco de "cruce" en favor del marco de "bipolaridad asimétrica".** El debate demuestra que la pregunta operativa no es "¿cuándo supera China a EE.UU.?" sino "¿en qué dimensiones específicas domina cada uno y cómo interactúan?". China domina manufactura, cadenas de suministro, difusión industrial de IA, capacidad de ejecución institucional y poder militar regional. EE.UU. domina frontera tecnológica, finanzas, proyección global y talento. Ese reparto es más informativo que cualquier índice agregado.
+2. **Dejar de usar el PBI nominal como proxy de poder.** El bloque económico completo (25% del índice) resultó un empate perfecto. El poder se decidió en tecnología y finanzas.
+3. **Monitorizar las tres variables conjuntamente necesarias** (EUV, cuenta de capital, fiscalidad americana), no aisladamente. Ninguna basta por separado.
+
+**Para decisores en tecnología e industria:**
+4. **La ventaja americana en frontera es real pero concentrada en un único punto de fallo:** ASML. Cualquier estrategia que asuma su permanencia hasta 2050 debe declarar explícitamente ese supuesto y su probabilidad.
+5. **La ventaja china en cadenas de minerales críticos es decreciente, no creciente,** según los propios números del proponente: replicación occidental sustancial probable hacia 2040. Las estrategias de dependencia deben tener horizonte, no permanencia.
+6. **Distinguir frontera de difusión.** China gana claramente la difusión industrial de IA y robótica (8.5 vs 6.5). Para la mayoría de decisiones industriales concretas —no de defensa nacional—, esa es la variable relevante.
+
+**Para decisores financieros e inversores:**
+7. **La desdolarización antes de 2050 requiere apertura de la cuenta de capital china.** Mientras ese hecho no ocurra, cualquier tesis de inversión basada en desdolarización acelerada carece de mecanismo. Vigilar ese indicador específico, no los titulares sobre acuerdos bilaterales en yuanes.
+8. **El riesgo fiscal americano es real y no falsado, pero sin punto de quiebre datable.** Tratarlo como riesgo de cola con horizonte largo, no como escenario central.
+
+**Para decisores de defensa y seguridad:**
+9. **La asimetría teatral es el hallazgo militar clave:** con ponderación indopacífica, la dimensión militar se invertiría (China 7.5 / EE.UU. 7.0). La primacía global americana coexiste con la incapacidad de imponer voluntad en el litoral chino.
+10. **La condicionalidad del basing aliado ([EI] en el expediente) es la incógnita militar más consecuente y la peor documentada.** Debe ser objeto de investigación prioritaria, no de supuesto.
+
+**Meta-recomendación:**
+11. **Adoptar la práctica de convergencia adversarial.** Dos posiciones que abren en 62% y 35% y cierran en 28% y 25% tras diez rondas de auditoría mutua producen una estimación mucho mejor calibrada que cualquiera de las dos aisladas. Este es el activo metodológico más transferible del ejercicio.
+
+---
+
+### Sección 20 — Advertencia epistémica y límites del análisis
+
+**⚠ ESTE VEREDICTO REQUIERE REVISIÓN HUMANA ANTES DE CUALQUIER ACTUACIÓN.**
+
+El objeto de este debate es **financiero, geopolítico, militar y regulatorio de alto impacto**. Conforme a las reglas del sistema y a la advertencia nº 12 emitida por el propio panel de especialistas en R9, se declara explícitamente:
+
+**Ninguna decisión de inversión, asignación de capital, política pública, postura de defensa o estrategia corporativa debe adoptarse sobre la base de este veredicto sin revisión, validación y contraste por analistas humanos cualificados con acceso a fuentes primarias actualizadas.**
+
+**Límites específicos del análisis:**
+
+1. **El veredicto evalúa argumentación, no verdad histórica futura.** Declarar ganador al Oponente significa que sostuvo mejor su posición con la evidencia disponible en julio de 2026, **no** que EE.UU. será efectivamente la primera potencia en 2050. La probabilidad arbitral de que la moción se cumpla es del 26% — un espacio de riesgo material.
+
+2. **El IPNI es un constructo del debate, no un índice validado externamente.** Sus nueve dimensiones y pesos fueron acordados en el enmarcado por conveniencia analítica. Un índice con pesos distintos produciría resultados distintos: el Especialista E declaró explícitamente que con ponderación indopacífica la dimensión militar se invertiría. **El resultado es sensible a la especificación del instrumento.**
+
+3. **Todas las puntuaciones a 2050 son estimaciones calibradas [EC], no datos.** Barras de error de ±1.0 punto por dimensión declaradas por el panel. Ninguna es observación.
+
+4. **Incógnitas críticas sin resolver en el expediente:** ruptura del monopolio EUV [EI, "la mayor incógnita individual"]; condicionalidad del basing aliado [EI]; punto de quiebre fiscal americano [EI, no datable]; ponderación interna del Escenario 2 de Taiwán [EI].
+
+5. **Evidencia de nivel medio usada con peso alto:** el caso DeepSeek R2 procede de reportes de prensa técnica sin confirmación oficial [EC] y fue empleado por B con más peso del que su nivel epistémico estrictamente permite. Los reportes de yields de SMIC son estimaciones de terceros, no datos auditados; el propio Especialista D advirtió contra su uso como dato duro.
+
+6. **Sesgo de disponibilidad documental.** Los datos chinos son sistemáticamente menos verificables y menos auditables que los estadounidenses. Esta asimetría de transparencia puede producir un sesgo estructural en cualquier índice comparativo, en dirección no determinable a priori. Ningún debatiente abordó este problema y el árbitro lo registra como límite no corregido.
+
+7. **Horizonte de 24 años.** No existe metodología de proyección geopolítica con historial de acierto validado a este horizonte. Los debates de 2000 sobre 2025 fallaron sistemáticamente en ambas direcciones.
+
+8. **Exclusiones deliberadas del marco:** guerra nuclear directa, colapso civilizatorio, disolución política de cualquiera de los dos actores, y terceros actores como candidatos al primer puesto (India, UE). Cualquiera de estas contingencias invalidaría el análisis completo.
+
+9. **Este documento no constituye asesoramiento de inversión, asesoramiento legal, ni recomendación de política pública o de defensa.**
+
+---
+
+**Fin del veredicto. Árbitro H — 25 de julio de 2026.**
+**Registro completo: 3.221 líneas de expediente verbatim + veredicto de 20 secciones.**
