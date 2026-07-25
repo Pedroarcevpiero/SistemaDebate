@@ -2781,3 +2781,88 @@ Las empresas tecnológicas que han intentado mantener ecosistemas bifurcados por
 - [OpenAI — Data residency en Asia / Grab](https://openai.com/index/introducing-data-residency-in-asia/)
 - [Asia Tech Lens — Sudeste Asiático elige modelos chinos](https://www.asiatechlens.com/p/the-ai-battleground-how-southeast-asia)
 
+
+### Agente D (Tecnología/IA) — Ronda 7
+
+#### Evaluación técnica: China en IA sin chips de frontera
+
+---
+
+**1. La distinción entrenamiento/aplicación: dónde es analíticamente sólida y dónde colapsa**
+
+A propone la distinción correctamente como heurística de primer orden, y B la ataca con razón en el plano de la transmisión de calidad. Ambos omiten el factor que más la complicó desde 2024: el paradigma de **compute en tiempo de inferencia** (*test-time compute scaling*).
+
+Los modelos de la clase o1, o3 de OpenAI, Gemini 2.0 Thinking y DeepSeek-R1 utilizan razonamiento extendido por cadena de pensamiento (chain-of-thought) durante la inferencia: generan decenas de miles de tokens intermedios antes de producir una respuesta. Cada consulta compleja en estos modelos consume GPU-horas de la misma clase de hardware que el entrenamiento, solo que en clusters de inferencia en lugar de clusters de entrenamiento. El paper fundacional de este paradigma — "Scaling LLM Test-Time Compute Optimally" (Snell et al., arXiv 2408.03314, 2024) — demuestra que el cómputo de inferencia puede compensar parcialmente diferencias de parámetros en el preentrenamiento, pero requiere clusters de alta densidad para ser económicamente viable.
+
+La implicación técnica directa para este debate: **la distinción entrenamiento/aplicación colapsa exactamente en los dominios de mayor valor económico**. Diagnóstico médico de alta precisión, diseño de fármacos, modelado financiero complejo y síntesis de código avanzado son precisamente las aplicaciones donde los modelos de razonamiento extendido entregan mayor retorno diferencial —y donde el cómputo de inferencia a escala requiere hardware que la generación actual de Ascend 910C no provee en densidad equivalente a clusters B200. La capa de aplicación de mayor valor no es independiente del hardware de frontera; la depende indirectamente a través de la economía de la inferencia.
+
+La distinción sí sostiene para IA embebida en manufactura, logística, procesamiento de lenguaje en contextos de baja exigencia de precisión, y sistemas de recomendación: segmentos de alto volumen donde China compite efectivamente. Es en los **nichos de mayor retorno por consulta** donde la brecha no se ha cerrado.
+
+---
+
+**2. DeepSeek V3/R1: análisis arquitectural y límites de replicabilidad**
+
+Las innovaciones de DeepSeek-V3 (arXiv 2412.19437) son técnicamente genuinas. MLA (*Multi-head Latent Attention*) comprime el cache KV en un espacio latente de baja dimensión, reduciendo el ancho de banda de memoria durante la inferencia. MoE con 256 expertos (64 activos por token) permite 671B parámetros totales con solo ~37B activos por paso forward, reduciendo el cómputo por token sin reducir la capacidad representacional. FP8 para entrenamiento reduce a la mitad el uso de memoria. Son contribuciones al estado del arte en eficiencia, adoptadas ya por laboratorios occidentales.
+
+El límite crítico que este debate no ha analizado: **MoE requiere ancho de banda de interconexión extremadamente alto entre expertos cuando se distribuye entre GPUs**. DeepSeek-V3 usa paralelismo de expertos que funciona bien sobre los 2.048 H800 con NVLink (900 GB/s). Cuando este mismo patrón se intenta replicar sobre Ascend 910C con la red de interconexión actual de Huawei, el cuello de botella no es el cómputo matricial sino la latencia de comunicación entre expertos. El CloudMatrix384 (arXiv 2506.12708) resuelve esto parcialmente con interconexión óptica de muy alta velocidad —una innovación de arquitectura de sistema notable— pero los benchmarks publicados son predominantemente de inferencia autoregresiva, no de entrenamiento distribuido de alta escala.
+
+El patrón DeepSeek **es parcialmente replicable en PLN y modelos de lenguaje**. Es significativamente más difícil de transferir a IA para robótica (donde se necesita precisión de simulación física), modelos de predicción de estructura proteica post-AlphaFold3, o aprendizaje por refuerzo en entornos continuos —dominios donde el paradigma MoE ofrece menores ventajas de eficiencia.
+
+---
+
+**3. Ascend 910B/C vs. Blackwell: la brecha técnica real**
+
+Más allá del dato "~80% del H100" que A citó (aproximadamente correcto para inferencia FP16), la brecha técnica con la arquitectura Blackwell tiene dos dimensiones que el debate no ha cuantificado.
+
+Primera: **el salto de H100 a B200 no es incremental**. El B200/GB200 con arquitectura NVL72 introduce memoria unificada GPU-CPU a 900 GB/s vía NVLink C2C, y NVLink Switch que provee ~1.8 TB/s de ancho de banda de reducción-total entre 72 GPUs en un rack. Esto no es solo más cómputo; es una arquitectura de memoria que permite entrenar modelos con densidad paramétrica imposible sobre la generación anterior sin graduación de precisión. Comparado con Ascend 910C sobre interconexión Huawei, la diferencia ya no es 20% sino un múltiplo significativo para cargas de trabajo de entrenamiento de alta escala.
+
+Segunda: **el proceso SMIC N+2 (7nm equivalente) vs. TSMC 4nm/3nm implica diferencias sustanciales en eficiencia energética por FLOP**, no solo en densidad de transistores. Los chips producidos en SMIC N+2 consumen aproximadamente 2-3x más energía por operación equivalente que los de TSMC 4nm (estimación conservadora basada en comparaciones de proceso; no existe benchmark publicado oficial). Para un centro de datos a escala, la eficiencia energética traduce directamente en costo operativo. Este es un costo estructural que no resuelve el algoritmo.
+
+---
+
+**4. Bifurcación de ecosistemas: precedentes históricos y su lección**
+
+La bifurcación de ecosistemas tecnológicos tiene dos precedentes relevantes que ni A ni B han articulado con precisión técnica.
+
+El primero es la bifurcación de internet: la Gran Muralla Cortafuegos produjo un ecosistema separado que generó innovación genuina en capas de aplicación (WeChat, Alipay, TikTok/Douyin). La clave: la bifurcación ocurrió en la **capa de software y aplicación** sobre infraestructura de red estándar (TCP/IP, fibra óptica). China no tuvo que fabricar su propio protocolo de internet; solo filtró el contenido.
+
+El segundo, directamente análogo al presente, es la bifurcación de Android tras las sanciones a Huawei en 2019. HarmonyOS existe, pero en 2026 sigue siendo un ecosistema con brechas en compatibilidad de aplicaciones empresariales y carece del volumen de desarrolladores de Android global. El costo de la bifurcación en la **capa de sistema operativo y APIs de desarrollador** ha sido sustancial y todavía no resuelto.
+
+La diferencia estructural entre ambos casos y el actual: la bifurcación en IA ocurre simultáneamente en la **capa de fabricación de hardware** (donde no es posible "forkear" un proceso litográfico) y en la **capa de ecosistema de modelos y datos**. El primero es irreducible; el segundo es manejable. La bifurcación que A describe como respuesta al Efecto Bruselas es viable en la capa de modelos y datos, no en la capa de silicio.
+
+---
+
+**5. El espacio que el debate bipolar GPU/EUV ignora: computación alternativa**
+
+El punto analítico más importante que ninguno de los dos debatientes ha articulado es que **la hegemonía computacional de la próxima generación puede no estar determinada por GPUs de silicio CMOS ni por litografía EUV**. China tiene posiciones de investigación fuertes en tres paradigmas alternativos:
+
+**Computación fotónica cuántica**: El grupo de Pan Jianwei en USTC produjo los resultados de ventaja cuántica fotónica más robustos publicados hasta 2024 con los procesadores Jiuzhang (Jiuzhang 1.0: *Science*, 2020; Jiuzhang 2.0: *Physical Review Letters*, 2021). Boson sampling fotónico no entrena LLMs, pero sienta bases de ingeniería en fotónica integrada relevantes para computación clásica también.
+
+**Aceleradores fotónicos clásicos para IA**: Multiplicación matricial óptica puede realizarse a la velocidad de la luz con consumo energético cuasi-nulo. La limitación técnica actual es la implementación de no-linealidades y memoria. China tiene grupos de investigación activos en fotónica integrada para IA (Zhejiang University, PKU, Fudan). Esta tecnología no está comercialmente disponible en 2026 pero puede ser relevante en el horizonte 2030-2035.
+
+**Computación neuromórfica híbrida**: El chip Tianjic de Tsinghua (Shi Luping et al., *Nature*, 2019) fue el primer chip neuromórfico híbrido analógico-digital publicado en una revista de primer nivel. Las versiones Darwin continúan el trabajo. Ofrecen eficiencia energética 100-1000x superior para cargas de inferencia dispersa —exactamente el segmento de IA embebida donde China compite.
+
+La cuestión analítica relevante: **si la arquitectura computacional dominante en 2035 no es GPU CMOS fabricada en TSMC, entonces las sanciones actuales pueden estar optimizando para una batalla tecnológica que ya no será la central**. China fue forzada por las sanciones a invertir en diversificación computacional; ese imperativo puede producir, accidentalmente, ventajas en paradigmas donde EE.UU. y sus aliados tienen menos base industrial acumulada.
+
+---
+
+**Reto técnico para Agente A**
+
+A ha argumentado que la eficiencia algorítmica (DeepSeek) compensa la brecha de hardware. El reto técnico concreto: el paradigma de *test-time compute scaling* —actualmente el vector de mayor mejora de rendimiento en modelos de razonamiento— requiere clusters de inferencia de alta densidad para ser económicamente viable a escala. ¿Cuál es la estrategia de China para proveer compute de inferencia suficiente para modelos de razonamiento extendido en aplicaciones de alta precisión, dado que los clusters de inferencia para modelos clase o3/R1 en 2026 corren sobre B200? La brecha no está solo en entrenamiento.
+
+**Reto técnico para Agente B**
+
+B argumenta que la brecha de hardware se transmite inexorablemente a la capa de aplicación. El reto: ¿cuál es su evaluación del riesgo de que los paradigmas alternativos —fotónica, neuromórfico, computación cuántica aplicada— quiebren la cadena causal que va de "TSMC + EUV → H100/B200 → modelos de frontera → ventaja económica sostenida"? Si China invierte ahora en estos paradigmas alternativos precisamente porque fue excluida del mainstream, ¿cómo incorpora B esa opcionalidad en su análisis de largo plazo?
+
+---
+
+**Fuentes técnicas:**
+
+- Snell et al. (2024). "Scaling LLM Test-Time Compute Optimally." arXiv 2408.03314
+- DeepSeek-AI (2024). "DeepSeek-V3 Technical Report." arXiv 2412.19437
+- DeepSeek-AI (2025). "DeepSeek-R1." arXiv 2501.12948
+- Huawei CloudMatrix384 (2026). arXiv 2506.12708
+- Zhong et al. (2020). "Quantum computational advantage using photons." *Science* 370(6523), 1460-1463 [Jiuzhang 1.0]
+- Zhong et al. (2021). "Phase-Programmable Gaussian Boson Sampling." *Physical Review Letters* 127, 180502 [Jiuzhang 2.0]
+- Pei et al. (2019). "Towards artificial general intelligence with hybrid Tianjic chip architecture." *Nature* 572, 106-111
+
