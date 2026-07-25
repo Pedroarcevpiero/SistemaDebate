@@ -340,3 +340,140 @@ Sources:
 - [USCC — Made in China 2025: Evaluating China's Performance, noviembre 2025](https://www.uscc.gov/sites/default/files/2025-11/Made_in_China_2025--Evaluating_Chinas_Performance.pdf)
 - [Worldometers — GDP (PPP) by Country 2025, IMF](https://www.worldometers.info/gdp/gdp-by-country/?year=2025&metric=ppp)
 - [Sage Journals — The anatomy of Chinese capitalism, 2026](https://journals.sagepub.com/doi/10.1177/10245294251336510)
+
+---
+
+## Agente B (Crítico) — Ronda 1
+
+---
+
+#### Respuesta directa al Agente A
+
+El Agente A ha presentado una definición cuidadosa y conceptualmente ordenada del modelo chino. Reconozco su valor descriptivo: el marco "party-state capitalism" de Pearson, Rithmire y Tsai es analíticamente superior al término genérico "capitalismo de Estado", y la distinción con la URSS tiene sustancia. Donde el Agente A falla no es en la descripción de los componentes — falla en la inferencia que hace desde esos componentes hacia la sostenibilidad. Describe el modelo como una combinación funcional coherente, pero no examina si los mecanismos que producen la cohesión en el corto plazo son precisamente los que producen fragilidad en el mediano y largo plazo. Esa omisión es estructural, no coyuntural. Mi intervención en esta ronda no cuestiona que el modelo chino existe como entidad diferenciada: cuestiona que su arquitectura interna sea competitivamente robusta cuando se la somete a estrés sostenido.
+
+---
+
+#### Contra-definición estructural del modelo chino
+
+Si el Agente A ofrece una definición por sus componentes de fortaleza, yo ofrezco una definición por sus mecanismos de contradicción — que es la prueba relevante para el debate sobre sostenibilidad.
+
+El modelo chino en 2026 puede definirse con mayor precisión analítica como: **un sistema de capitalismo dirigido por partido único en el que la fuente de toda asignación de autoridad —regulatoria, financiera, de propiedad, judicial y política— converge en un solo actor sin árbitro externo, sin mecanismo vinculante de autocorrección y sin sucesión institucionalizada**, lo que produce cuatro contradicciones estructurales interdependientes:
+
+**Contradicción 1: La paradoja del control productivo.**
+El modelo necesita al sector privado para generar crecimiento, innovación y empleo —la famosa fórmula "60/70/80/90" que el Agente A cita—, pero simultáneamente necesita controlarlo para preservar el monopolio político del Partido. Estas dos necesidades son incompatibles a escala de frontera tecnológica. El control que mantiene al Partido en el poder es el mismo control que suprime la toma de riesgo empresarial que genera innovación de frontera. No se puede tener ambas cosas al máximo. La represión regulatoria de 2020-2023 no fue un "accidente de política" sino la expresión natural de esta tensión estructural.
+
+**Contradicción 2: La trampa de la legitimidad por desempeño.**
+La legitimidad del PCCh descansa exclusivamente en la entrega de bienestar material creciente. Esto crea una dependencia radical: cualquier desaceleración prolongada no produce "ajuste político", produce crisis de legitimidad sin mecanismo de salida. A diferencia de las democracias liberales —donde la pérdida de apoyo al partido gobernante se canaliza hacia la oposición dentro del sistema—, en China la insatisfacción con el desempeño del PCCh no tiene salida institucional legítima. Esto convierte lo que en una democracia sería una crisis de gobierno en una potencial crisis de régimen.
+
+**Contradicción 3: La esclerosis del éxito.**
+El argumento del Agente A sobre "adaptación institucional continua" (de Mao a Deng a Jiang a Hu a Xi) oculta una discontinuidad crucial: cada una de esas transiciones fue posible porque existían mecanismos de circulación de élites —límites de mandato, acuerdos de retiro obligatorio, distribución de poder entre facciones— que Xi Jinping ha desmantelado sistemáticamente desde 2012. La adaptación que funcionó en el pasado dependía de instituciones que ya no existen. Lo que el Agente A presenta como evidencia de capacidad adaptativa es, con precisión histórica, evidencia de la capacidad de un sistema pre-Xi para adaptarse. En 2026, ese mecanismo adaptativo ha sido reemplazado por la voluntad de un solo actor.
+
+**Contradicción 4: La doble dependencia externa.**
+El modelo asume que puede usar la integración global selectivamente: absorber tecnología, capital y mercados cuando le conviene, y cerrar cuando el Partido lo requiere. Pero las cadenas de valor globales no funcionan como un interruptor. La dependencia de China en semiconductores avanzados, software de sistema, equipos de litografía y modelos de IA de frontera es real y creciente —no decreciente— en 2026. Y el intento de reducirla mediante planificación estatal se enfrenta exactamente a la Contradicción 1: el tipo de innovación que se necesita para superar esa dependencia requiere el tipo de toma de riesgo empresarial que el modelo no puede permitir sin amenazar el control político.
+
+---
+
+#### Atacando las "ventajas comparativas"
+
+El Agente A identifica tres ventajas estructurales. Las examino una por una.
+
+**Ventaja 1 cuestionada: "Capacidad de ejecución de largo plazo sin captura electoral."**
+
+Esta ventaja asume que la ausencia de ciclos electorales produce consistencia de política. El problema es que produce algo más: produce consistencia de error. Las democracias liberales corrigen políticas fallidas mediante la alternancia en el poder; China corrige políticas fallidas mediante purgas o mediante el silenciamiento de los portadores de malas noticias. El resultado observable no es superior toma de decisiones: es sobreinversión masiva en capital fijo que no genera retornos suficientes (la tasa de retorno del capital en China lleva una década en caída sostenida según datos del FMI), un sistema inmobiliario que acumuló desequilibrios durante 15 años sin corrección porque nadie en la cadena de mando tenía incentivos para señalar el riesgo, y una respuesta a la pandemia de COVID-19 que mantuvo políticas claramente fallidas durante tres años por incapacidad institucional de reconocer públicamente el error. La ausencia de ciclos electorales no elimina los ciclos de error: los acumula silenciosamente hasta que se vuelven inmanejables.
+
+**Ventaja 2 cuestionada: "Política industrial dirigida con asignación de recursos a escala."**
+
+Los datos de robots industriales y producción manufacturera que el Agente A cita son reales. Lo que omite es el costo de esa asignación. La investigación del FMI publicada en 2025 sobre política industrial en China documenta que la distorsión de precios inducida por subsidios estatales genera misasignación de recursos a escala masiva. El caso más visible: el sector inmobiliario absorbió durante dos décadas entre el 25% y el 30% del PIB en inversión, y en 2024-2025 está en proceso de deflación con pérdidas de riqueza que el Banco Mundial estima en decenas de billones de yuanes. La capacidad de asignar capital a escala no garantiza que se asigne bien: garantiza que cuando se asigna mal, se hace a escala masiva y con consecuencias sistémicas.
+
+Más importante aún: la ventaja comparativa en manufactura de bajo y mediano valor —robots industriales, paneles solares, baterías— es real para el corto plazo, pero no resuelve el problema de largo plazo, que es la capacidad de innovar en la frontera tecnológica donde se concentran los retornos futuros. Producir el 80% de los paneles solares globales a bajo margen no es la misma posición competitiva que diseñar los chips que controlan esos paneles.
+
+**Ventaja 3 cuestionada: "Adaptación institucional sin ruptura sistémica."**
+
+Este es el argumento más débil de los tres, porque confunde historia pasada con capacidad futura. La adaptación de Deng en 1978 fue posible porque Mao había muerto y porque existía un bloque de poder reformista dentro del Partido que pudo imponerse. La adaptación que el Agente A predice para 2030-2040 requeriría que actores internos al sistema puedan imponer correcciones a Xi o a su sucesor. Pero Xi ha eliminado precisamente los mecanismos que habrían permitido eso: ha purgado las facciones internas rivales, ha concentrado el control de la agenda política, y ha eliminado los límites de mandato. El sistema ha reducido su capacidad de autocorrección, no la ha aumentado.
+
+---
+
+#### La distinción URSS fallida: ¿cuánto resiste el análisis?
+
+El Agente A tiene razón en cuatro puntos: la propiedad privada existe, China es exportadora, el pragmatismo ideológico es real, y la burocracia tiene más competencia técnica que la soviética tardía. Concedo estos puntos. Pero la distinción falla en un elemento que el Agente A subestima: **el mecanismo de autocorrección**, que es el factor causal central en el colapso soviético.
+
+La URSS no colapsó solo porque no tenía mercados. Colapsó porque no tenía mecanismo para corregir sus errores antes de que se volvieran sistémicos. El PCCh bajo Xi, aunque mantiene mercados parciales, ha replicado el problema soviético más importante: la supresión de señales de error. El colapso del mercado inmobiliario chino (Evergrande y el sector en su conjunto), el pico del desempleo juvenil al 21.3% en junio de 2023, la contracción del 27.1% en inversión extranjera directa en 2024 —estas son señales de error que, en una democracia liberal, producirían cambio de gobierno y corrección de política. En China, producen retórica de estabilidad y continuidad de las políticas que causaron el problema.
+
+El Agente A cita como evidencia de distinción con la URSS los "mecanismos institucionales de circulación de élites" —sistema de exámenes, rotación provincial, límites de edad. El problema empírico es que Xi Jinping ha debilitado o eliminado estos mecanismos: abolió el límite de dos mandatos presidenciales en 2018, marginó o purgó a las figuras de la Liga de la Juventud Comunista que representaban la principal facción rival, y ha colocado leales personales en posiciones clave del sistema de seguridad, las finanzas y la diplomacia. Citar como ventaja comparativa instituciones que el propio líder del sistema ha desmantelado es una contradicción argumentativa, no un análisis estructural.
+
+---
+
+#### Evidencia empírica (con fuentes)
+
+**Sobre concentración de poder y ausencia de sucesión:**
+
+La Fundación Jamestown documenta que "la probabilidad de una crisis de sucesión crece diariamente, dado que Xi sigue concentrando poder político y personalizando su gobierno en contravención de décadas de normas políticas establecidas. Su falta de un sucesor claro sugiere la intención de gobernar indefinidamente, lo que puede garantizar estabilidad en el corto plazo pero crea incertidumbre para el futuro." El análisis del Lowy Institute sobre "After Xi" concluye que un vacío de poder al estilo del que seguiría al retiro forzado o muerte de un líder sin sucesor designado es el escenario de riesgo sistémico más probable para el PCCh en el horizonte 2030-2040.
+Fuente: [Jamestown Foundation — Terminal Authority: Assessing the CCP's Emerging Crisis of Political Succession](https://jamestown.org/terminal-authority-assessing-the-ccps-emerging-crisis-of-political-succession/)
+Fuente: [Lowy Institute — After Xi: Future Scenarios for Leadership Succession](https://www.lowyinstitute.org/publications/after-xi-future-scenarios-leadership-succession-post-xi-jinping-era)
+
+**Sobre la represión regulatoria 2020-2023 y sus costos:**
+
+La represión regulatoria iniciada con la cancelación del IPO de Ant Group en noviembre de 2020 "eliminó billones de dólares en valor de mercado de las empresas tecnológicas chinas, paralizó uno de los sectores más dinámicos de la segunda economía más grande del mundo, y aceleró el desacoplamiento EE.UU.-China." La cancelación del IPO de Ant Group sola —que habría sido la mayor oferta pública de la historia— representó una señal estructural: el Partido puede cancelar la mayor operación financiera privada del mundo, en 24 horas, sin proceso legal, cuando considera que la empresa se ha vuelto políticamente incómoda. Eso no es "dirección estratégica del Estado"; es riesgo político de primer orden que ningún inversor privado puede ignorar.
+Fuente: [South China Morning Post — Timeline of China's 32-month Big Tech crackdown](https://www.scmp.com/tech/big-tech/article/3227753/timeline-chinas-32-month-big-tech-crackdown-killed-worlds-largest-ipo-and-wiped-out-trillions-value)
+Fuente: [East Asia Forum — Tech crackdowns rid China of entrepreneurial capitalism](https://eastasiaforum.org/2023/09/12/tech-crackdowns-rid-china-of-entrepreneurial-capitalism/)
+
+**Sobre el colapso de inversión privada y confianza empresarial:**
+
+La participación de empresas privadas entre las 100 principales empresas cotizadas de China cayó del 55% en mediados de 2021 al 33% en mediados de 2024, una contracción del 40% de representación en menos de tres años. La inversión extranjera directa cayó 27.1% en 2024, después de una caída del 8.0% en 2023. El desempleo juvenil alcanzó el 21.3% en junio de 2023 y se ha mantenido por encima del 17% desde julio de 2024.
+Fuente: [PIIE — Five big uncertainties facing the Chinese economy in 2024](https://www.piie.com/blogs/realtime-economics/2023/five-big-uncertainties-facing-chinese-economy-2024)
+Fuente: [Atlantic Council — Youth unemployment in China: New metric, same mess](https://www.atlanticcouncil.org/blogs/econographics/youth-unemployment-in-china-new-metric-same-mess/)
+
+**Sobre productividad total de los factores:**
+
+Un documento de trabajo del FMI (2022) documentó que "el declive del dinamismo empresarial privado es un factor importante para explicar el crecimiento estancado de la PTF en China, y que persisten brechas de productividad masivas entre empresas estatales y empresas privadas." Un documento del Banco Mundial (2020) identificó la desaceleración de la productividad como la principal amenaza al crecimiento futuro de China, con evidencia de que la tasa de crecimiento de la PTF ha declinado estructuralmente desde 2008.
+Fuente: [IMF Working Paper — China's Declining Business Dynamism, 2022](https://www.imf.org/en/Publications/WP/Issues/2022/02/18/China-s-Declining-Business-Dynamism-513157)
+Fuente: [World Bank — China's Productivity Slowdown and Future Growth Potential, 2020](https://documents1.worldbank.org/curated/en/839401593007627879/pdf/Chinas-Productivity-Slowdown-and-Future-Growth-Potential.pdf)
+
+**Sobre política industrial y misasignación:**
+
+La investigación del FMI publicada en 2025 sobre política industrial en China ("Industrial Policy in China: Quantification and Impact on Misallocation") documenta que los subsidios estatales a escala generan distorsiones de precios que producen misasignación de capital significativa, reduciendo la eficiencia agregada de la inversión incluso cuando aumentan el volumen de capacidad instalada en sectores objetivo.
+Fuente: [IMF Working Paper — Industrial Policy in China: Quantification and Impact on Misallocation, 2025](https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025155-source-pdf.pdf)
+
+---
+
+#### Horizonte temporal: ¿dónde se fractura el modelo?
+
+El Agente A concede correctamente que los horizontes deben tratarse de forma diferenciada. Mi análisis:
+
+**Corto plazo (2026-2030): El modelo es operativamente viable pero ya acumula tensiones.**
+
+En este horizonte, no argumento colapso. El PCCh tiene reservas fiscales, control del sistema bancario, capacidad de movilización de demanda interna, y un entorno geopolítico donde el Sur Global sigue comprando manufactura china. El crecimiento del 5.0% de 2025 es real. Pero ya en este horizonte son visibles señales de acumulación de riesgo: el desempleo juvenil estructural por encima del 17%, la deflación en precios al productor que refleja exceso de capacidad sistémico, y la caída del FDI que señala deterioro de la confianza empresarial externa. En este horizonte, el modelo funciona pero sus mecanismos de autocorrección son más débiles que hace una década. Es en este horizonte donde la decisión de Xi de abolir los límites de mandato en 2018 tendrá sus primeras consecuencias observables en términos de rigidez política.
+
+**Mediano plazo (2030-2040): Este es el horizonte de fractura probable.**
+
+La trampa demográfica comenzará a reducir la fuerza laboral de forma acelerada a partir de 2027-2028 (China ya tiene más de 300 millones de personas mayores de 60 años). El sector inmobiliario —que representó durante décadas el principal mecanismo de acumulación de riqueza de la clase media— necesitará absorber pérdidas que aún no han sido reconocidas contablemente. El techo tecnológico en semiconductores de frontera será más visible si persiste el desacoplamiento. Y, crucialmente, la pregunta de la sucesión de Xi —que en 2026 puede diferirse— se volverá aguda. En ninguno de estos vectores de estrés tiene el modelo herramientas sistémicas de corrección que no dependan de la voluntad del liderazgo central. Es en este horizonte donde la ausencia de mecanismos de autocorrección se convierte en el riesgo dominante.
+
+**Largo plazo (2040-2050+): Incertidumbre estructural, no sostenibilidad confirmada.**
+
+El Agente A argumenta que las ventajas del modelo —planificación de largo plazo, movilización industrial— son precisamente las más relevantes para este horizonte. Pero esta afirmación asume que el modelo llega a ese horizonte sin haber enfrentado una crisis de sucesión, sin haber experimentado una desaceleración prolongada que erosione su legitimidad basada en desempeño, y sin haber encontrado el techo tecnológico en innovación de frontera. La acumulación de riesgos en el horizonte mediano hace que el horizonte largo sea estructuralmente condicional: depende de que el modelo resuelva sus contradicciones en el horizonte donde son más agudas, y no tiene herramientas sistémicas demostradas para hacerlo.
+
+---
+
+#### Reto al Agente A para la Ronda 2
+
+Mi reto es específico y no retórico: el Agente A argumenta que la "capacidad de adaptación institucional sin ruptura" es una ventaja estructural demostrada por cuatro décadas de historia. Pero las transiciones que cita —de Mao a Deng, de Deng a Jiang, de Jiang a Hu, de Hu a Xi— ocurrieron todas bajo instituciones que Xi Jinping ha desmantelado: límites de mandato, circulación de facciones, acuerdos de retiro. Para la Ronda 2, el Agente A debe responder: ¿qué mecanismo institucional concreto, existente hoy en el sistema chino, puede forzar una corrección de política o una transición de liderazgo si Xi Jinping toma decisiones que producen un deterioro sostenido del desempeño económico? Si la respuesta es "la voluntad del Partido", necesita explicar cómo ese mecanismo se diferencia estructuralmente de la dependencia del liderazgo personal que el propio Agente A identifica como la debilidad fatal de la URSS tardía.
+
+---
+
+#### Concesión limitada
+
+El Agente A tiene razón en que el concepto "party-state capitalism" es analíticamente más preciso que "capitalismo de Estado clásico", y en que la distinción con la URSS en materia de propiedad privada y orientación exportadora es sustancialmente correcta. También concedo que en el corto plazo (2026-2030) el modelo tiene suficiente capacidad operativa para sostener un crecimiento moderado. Estas concesiones no debilitan mi posición central: la sostenibilidad en el corto plazo no implica sostenibilidad estructural, y los componentes que producen cohesión hoy son precisamente los que generan fragilidad en los horizontes donde la presión sistémica es mayor.
+
+---
+
+### Fuentes Agente B — Ronda 1
+
+- [Jamestown Foundation — Terminal Authority: Assessing the CCP's Emerging Crisis of Political Succession](https://jamestown.org/terminal-authority-assessing-the-ccps-emerging-crisis-of-political-succession/)
+- [Lowy Institute — After Xi: Future Scenarios for Leadership Succession](https://www.lowyinstitute.org/publications/after-xi-future-scenarios-leadership-succession-post-xi-jinping-era)
+- [South China Morning Post — Timeline of China's 32-month Big Tech crackdown](https://www.scmp.com/tech/big-tech/article/3227753/timeline-chinas-32-month-big-tech-crackdown-killed-worlds-largest-ipo-and-wiped-out-trillions-value)
+- [East Asia Forum — Tech crackdowns rid China of entrepreneurial capitalism](https://eastasiaforum.org/2023/09/12/tech-crackdowns-rid-china-of-entrepreneurial-capitalism/)
+- [PIIE — Five big uncertainties facing the Chinese economy in 2024](https://www.piie.com/blogs/realtime-economics/2023/five-big-uncertainties-facing-chinese-economy-2024)
+- [Atlantic Council — Youth unemployment in China: New metric, same mess](https://www.atlanticcouncil.org/blogs/econographics/youth-unemployment-in-china-new-metric-same-mess/)
+- [IMF Working Paper — China's Declining Business Dynamism, 2022](https://www.imf.org/en/Publications/WP/Issues/2022/02/18/China-s-Declining-Business-Dynamism-513157)
+- [World Bank — China's Productivity Slowdown and Future Growth Potential, 2020](https://documents1.worldbank.org/curated/en/839401593007627879/pdf/Chinas-Productivity-Slowdown-and-Future-Growth-Potential.pdf)
+- [IMF Working Paper — Industrial Policy in China: Quantification and Impact on Misallocation, 2025](https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025155-source-pdf.pdf)
