@@ -1739,3 +1739,157 @@ El problema demográfico chino es real, cuantificable y severo. Una tasa de fert
 
 **Reto 2:** El argumento de que la autocracia china colapsará por falta de legitimidad o por error no corregible es una predicción empírica, no una certeza lógica. Ha sido hecha repetidamente desde 1989, desde 2001, desde 2008, y desde 2012 con Xi. En cada caso, el régimen sobrevivió y consolidó. ¿Qué mecanismo específico — no teórico sino institucional y temporal — producirá el colapso o la parálisis gubernamental china antes de 2050, y por qué ese mecanismo no fue activado en los últimos 35 años de predicciones de colapso chino?
 
+
+## Análisis del Especialista F — Ronda 6 (Demografía, educación y talento)
+
+**Etiquetas:** [DO] dato objetivo verificable · [PI] proyección/inferencia · [EC] evidencia contestada · [EI] evidencia insuficiente
+
+---
+
+### 1. Demografía cuantitativa: severidad real del declive chino
+
+**[DO] Población total.** China entró en declive absoluto en 2022 (primer año negativo desde 1961) y ha caído tres años consecutivos: ~1.4092 mil millones a finales de 2023, ~1.4083 en 2024 (Buró Nacional de Estadística de China). La variante media de *World Population Prospects 2024* (ONU) sitúa a China en torno a **1.26–1.31 mil millones en 2050**, es decir, una pérdida de ~110–150 millones de personas en 25 años. EE.UU. crece de ~345 millones (2024) a ~380 millones en 2050, casi enteramente por migración neta.
+
+**[DO] Fuerza laboral (15–64).** China pasa de ~985 millones (2020) a **~760–780 millones en 2050** (ONU, variante media): una contracción de ~20–22%, equivalente a perder toda la fuerza laboral de la UE. EE.UU. se mantiene esencialmente plano (~220 millones), con la advertencia crítica de que esa estabilidad **depende de mantener flujos migratorios netos de ~1 millón/año** [PI].
+
+**[DO] Ratio de dependencia de mayores.** China: ~21 mayores de 65 por cada 100 en edad de trabajar (2024) → **~52–55 por 100 en 2050**. EE.UU.: ~30 → ~40. China envejece más rápido y desde una base de renta mucho menor (~$13,000 PIB per cápita nominal vs. ~$85,000). Es el fenómeno de "envejecer antes de enriquecerse", sin paralelo histórico a esta escala.
+
+**[DO/EC] Pensiones.** La Academia China de Ciencias Sociales (CASS, 2019) proyectó el agotamiento del fondo público de pensiones urbanas hacia **2035**. En septiembre de 2024 China elevó la edad de jubilación por primera vez desde 1978 — una confirmación institucional del problema.
+
+**[DO] Fertilidad.** TFR china 2023: ~1.0–1.09, entre las más bajas del mundo entre países grandes. EE.UU.: ~1.62 (2023, CDC) — mínimo histórico, pero 50–60% superior.
+
+**Veredicto parcial:** A **concede correctamente** que el problema es real, pero su enmarcado ("con instrumentos de mitigación") subestima la asimetría. La diferencia clave no es que EE.UU. tenga buena demografía — no la tiene —, sino que China tiene demografía **estructuralmente peor y sin la válvula migratoria**. Esta es la única dimensión del IPNI donde la ventaja estadounidense es difícilmente reversible en el horizonte 2050, porque los nacimientos de 2050 ya están casi determinados por las cohortes femeninas actuales [DO].
+
+---
+
+### 2. Doctorados STEM: precisión de CSET y calidad vs. cantidad
+
+**[DO] El dato de A es esencialmente correcto en su fuente.** El informe CSET (Georgetown) proyectó que China graduaría ~77,000 doctorados STEM/año hacia 2025 frente a ~40,000 en EE.UU.
+
+**[EC] Pero A omite tres calificaciones que el propio CSET incluye:**
+1. La proyección de 77,000 es una **extrapolación de tendencia** desde datos hasta ~2019, no una medición. Etiquetar el dato de 2025 como hecho es [PI], no [DO].
+2. CSET advierte que **no evalúa calidad ni comparabilidad**. Los programas doctorales chinos son en promedio más cortos.
+3. La cifra estadounidense incluye a los internacionales, muchos de ellos chinos.
+
+**[DO] Calidad agregada — evidencia mixta:**
+- China superó a EE.UU. en **volumen total de publicaciones** hacia 2017 y en el **1% más citado** hacia 2019–2022 (Nature Index; Leiden Ranking).
+- ASPI (*Critical Technology Tracker*, 2023–2024): China lidera en **57 de 64** tecnologías críticas por publicaciones de alto impacto.
+
+**[EC] Contrapesos:** existe evidencia de inflación por autocitación institucional y de incentivos de publicación por bonificación monetaria que degradan la señal. Citas por investigador siguen favoreciendo a EE.UU.
+
+---
+
+### 3. H-1B y talento migratorio
+
+**[EC — dato de A parcialmente engañoso].** La caída de "46.1% a 14.6%" corresponde a la **tasa de selección en la lotería de registro** del H-1B, no a la tasa de aprobación de peticiones. La caída se debe en gran medida a la eliminación de registros duplicados fraudulentos. La **tasa de aprobación de peticiones H-1B** se ha mantenido por encima del 95%.
+
+**[DO] Sin embargo, la tesis subyacente de A no es falsa:**
+- La tarifa de $100,000 por petición H-1B nueva (septiembre 2025) es un cambio de régimen material.
+- **Más del 50%** de los estudiantes de doctorado en CS, ingeniería eléctrica e ingeniería industrial en EE.UU. son internacionales (NSF/NCSES).
+- **~60%** de los investigadores de IA de máximo nivel que trabajan en EE.UU. nacieron fuera del país; **~38%** son de origen chino (MacroPolo, *Global AI Talent Tracker* 2.0, 2023).
+- **~55%** de las empresas unicornio estadounidenses tienen al menos un fundador inmigrante.
+
+**Esta es la vulnerabilidad estructural más importante y menos discutida de la posición estadounidense.** La ventaja demográfica de EE.UU. no es endógena: es una función de política migratoria. Si EE.UU. cierra el grifo, pierde simultáneamente su ventaja demográfica *y* su ventaja de talento.
+
+---
+
+### 4. Automatización como sustituto demográfico
+
+**[PI — el argumento más débil de A].** No existe evidencia de que la robotización haya compensado el declive de la fuerza laboral **a escala de país**.
+
+**[DO]** Los datos que cita A son correctos: IFR confirma ~295,000 instalaciones en China en 2024 (>50% del total mundial) y densidad de ~470 robots/10,000 empleados manufactureros en 2023.
+
+**[EC] Pero los problemas de inferencia son tres:**
+1. Los robots industriales sustituyen trabajo manufacturero, no el conjunto de la fuerza laboral. La manufactura es ~28% del empleo chino.
+2. El problema fiscal no se automatiza. Los robots no pagan cotizaciones sociales.
+3. **Japón es un contraejemplo, no un precedente favorable.** Su PIB nominal cayó del ~17% del mundial (1995) al ~4% (2024). Japón conserva excelencia tecnológica *sectorial* — que es exactamente lo que A necesita demostrar que *no* basta, porque el debate es sobre **primacía global agregada**.
+
+**El precedente Corea/Japón demuestra que se puede ser tecnológicamente excelente en declive demográfico. No demuestra que se pueda ser primera potencia mundial en declive demográfico.** A comete un salto de escala.
+
+---
+
+### 5. Puntuación IPNI provisional R6 — Demografía / Educación / Talento (10%)
+
+| Subcomponente | Peso interno | China | EE.UU. | Justificación |
+|---|---:|---:|---:|---|
+| **Demografía estructural** | 45% | 3.0 | 7.0 | Contracción laboral china ~22% a 2050 vs. estabilidad estadounidense; ratio dependencia 55 vs. 40; "envejecer antes de enriquecerse". EE.UU. no puntúa más alto porque su estabilidad es enteramente migración-dependiente. |
+| **Educación y stock de talento STEM** | 35% | 7.5 | 7.5 | China gana en volumen (doctorados STEM ~2:1, publicaciones alto impacto, liderazgo ASPI en 57/64 tecnologías); EE.UU. gana en calidad por cabeza y ciencia de frontera. Empate técnico. |
+| **Atracción y retención de talento global** | 20% | 3.5 | 7.5 | EE.UU. mantiene ventaja estructural masiva (60% IA de élite nacidos fuera; 55% unicornios con fundador inmigrante), pero erosionándose mediblemente. China mejora desde base muy baja; visa K sin datos [EI]. |
+
+**Puntaje ponderado:**
+- **China: 4.7 / 10**
+- **EE.UU.: 7.3 / 10**
+
+**Contribución al IPNI (10%):** China **0.47**, EE.UU. **0.73**. Ventaja EE.UU.: **+0.26 puntos IPNI**.
+
+**Esta es la dimensión menos favorable a China de todo el IPNI, y A no logró revertir esa asimetría en R6 — solo la atenuó.** La ventaja demográfica y la ventaja de talento de EE.UU. son la *misma variable* (migración): un endurecimiento migratorio sostenido las destruiría conjuntamente. Es el único escenario en que EE.UU. pierde esta dimensión antes de 2050.
+
+
+## Intervención del Oponente — Ronda 6
+
+### Respuesta directa al argumento anterior
+
+A construyó un argumento en tres pilares: volumen de doctorados STEM, automatización como sustituto del trabajo humano, y el precedente de Corea del Sur y Japón para minimizar el problema demográfico. Los tres pilares tienen grietas estructurales que voy a exponer con precisión.
+
+---
+
+### Objeción principal — La trampa aritmética del envejecimiento chino a escala
+
+El núcleo del argumento de A sobre demografía descansa en una premisa implícita: que China puede compensar su colapso demográfico con productividad tecnológica, como lo hizo Japón. Esa premisa falla por un factor de escala que hace la comparación inutilizable.
+
+**La ratio de dependencia en 2050 es catastrófica a una escala sin precedentes históricos:**
+
+[DO] Según proyecciones de Naciones Unidas, el ratio de dependencia de vejez en China pasará del 20% en 2022 al **51% en 2050**. Traducido a personas: habrá menos de **dos trabajadores activos por cada persona mayor de 65 años**, frente a cinco trabajadores hoy. La población mayor de 65 años superará los **400 millones de personas** — más que la población total de Estados Unidos. La población en edad de trabajar caerá de aproximadamente 900 millones a **700 millones**, una contracción del 23%.
+
+Este no es un problema de eficiencia que la IA pueda resolver: es un problema de financiamiento fiscal masivo. China tendrá que costear pensiones, salud y cuidados para 400-500 millones de personas mayores con una base contributiva que se contrae, al mismo tiempo que quiere invertir en defensa, IA y proyección global. El presupuesto tiene una restricción. Algo cede.
+
+**El precedente japonés que A invoca es aritméticamente incomparable:**
+
+[DO] Japón tiene 125 millones de habitantes y lleva décadas gestionando su envejecimiento con una red de seguridad social construida durante su auge económico de los años 70 y 80, cuando su PIB per cápita ya era de primer mundo. China en 2050 tendrá que financiar una carga de vejez de escala japonesa **multiplicada por tres**, con un PIB per cápita que, incluso en escenarios optimistas, seguirá siendo inferior al de Japón o Corea del Sur. China envejecerá antes de enriquecerse lo suficiente para pagar ese envejecimiento. Es la trampa demográfica-fiscal que ningún robot resuelve por sí solo.
+
+**La fertilidad de 1.0-1.09 no tiene marcha atrás estructural:**
+
+A concedió que la tasa de fertilidad es un problema "real y severo". Los modelos de cohorte demográfica indican que incluso si China recuperara hoy una TFR de 1.5 (lo cual no ocurrirá), el efecto en la fuerza laboral no se sentiría antes de 2040-2045. Las mujeres chinas en edad fértil de la generación actual son el producto directo de la política del hijo único: hay un déficit generacional de nacimientos que no se puede compensar. Y a diferencia de Estados Unidos, China no tiene inmigración como válvula.
+
+---
+
+### Evidencia usada
+
+- [DO] World Economic Forum — China's working-age population will fall 23% by 2050 (WEF)
+- [DO] RAND Corporation — ratio dependencia vejez del 20% al 51% para 2050; de 5 trabajadores por jubilado hoy a menos de 2 en 2050 (RAND)
+- [DO] FSI Stanford — el 83% de los PhD chinos en ciencia e ingeniería que obtuvieron su título en EE.UU. entre 2017-2019 seguían viviendo en EE.UU. en 2023 (Stanford FSI)
+- [DO] VisaVerge/Boundless — 95,384 autorizaciones STEM OPT en 2024, crecimiento del 54% en un solo año; total participantes OPT: 418,781 personas
+- [DO] Springer Nature / Nature Index 2024 — China superó a EE.UU. en volumen de publicaciones en revistas de alto impacto: 37,273 vs. 31,913 artículos
+
+---
+
+### Ataque al punto débil del proponente
+
+**La automatización no es sustituto fiscal, es multiplicador de productividad condicionado a solvencia del Estado.**
+
+A argumentó que los 295,000 robots industriales instalados en 2024 compensan el declive laboral. Pero hay una confusión de categorías: la productividad por trabajador no resuelve el problema del financiamiento de pensiones. Los robots no pagan cotizaciones a la seguridad social. El ingreso fiscal que sostiene las pensiones depende del tamaño de la nómina salarial y de los beneficios corporativos gravables. Si la base de trabajadores cotizantes cae de 900 millones a 700 millones mientras los beneficiarios de pensiones suben de 200 a 400 millones, el sistema de seguridad social entra en déficit estructural.
+
+**El H-1B y la narrativa de "EE.UU. destruye su modelo" es exageración:**
+
+A citó la caída del approval rate de H-1B de 46.1% (FY2021) a 14.6% (FY2024) como evidencia de que EE.UU. se autodestruye. Pero eso ignora deliberadamente el canal más importante: el STEM OPT. [DO] En 2024, las autorizaciones STEM OPT crecieron un **54% en un solo año**, con 95,384 graduados internacionales en posiciones STEM en empresas estadounidenses. El talento internacional sigue fluyendo hacia EE.UU. por canales alternativos al H-1B.
+
+**La "fuga de cerebros" de EE.UU. a China es anecdótica, no estructural:**
+
+Los titulares sobre "reverse brain drain" citan decenas de científicos que se mudaron de EE.UU. a China. Eso es noticiable precisamente porque es excepcional. El dato estructural apunta en dirección opuesta: [DO] el **83% de los PhD chinos en ciencia e ingeniería que obtuvieron su título en EE.UU. entre 2017-2019 seguían viviendo en EE.UU. en 2023**, seis años después. La mayoría de los mejores talentos científicos formados en élites chinas que llegan a EE.UU. no regresan. Esa es la fuga de cerebros real.
+
+---
+
+### Concesión limitada
+
+Concedo que A tiene razón en un punto que no puedo minimizar: China ha superado a EE.UU. en volumen de publicaciones en revistas de alto impacto. [DO] El Nature Index 2024 muestra 37,273 artículos chinos frente a 31,913 estadounidenses, con una tasa de crecimiento del 18% anual vs. 2.3% de EE.UU. La narrativa de "China produce cantidad pero no calidad" ya no es sostenible sin matices. Lo que disputo es la conclusión: que eso sea suficiente para compensar el colapso demográfico-fiscal descrito.
+
+---
+
+### Preguntas críticas al Proponente para R7 — Instituciones y gobernanza
+
+**Pregunta 1 — La innovación disruptiva bajo control centralizado:**
+Todos los paradigmas tecnológicos de los últimos 50 años —semiconductores, internet, biotecnología, IA generativa— emergieron en entornos de pluralismo institucional, libre flujo de información y tolerancia al fracaso experimental. China produce volumen científico creciente, pero ¿puede un sistema que bloquea información, penaliza la disidencia y subordina la academia al Partido generar la clase de innovación disruptiva que define quién lidera en 2050? ¿O está China condenada a ser un seguidor rápido de excelencia — muy valioso — pero no el generador de los próximos paradigmas?
+
+**Pregunta 2 — La trampa de la gobernanza de un solo punto de falla:**
+El modelo chino concentra la toma de decisiones estratégicas en un número reducidísimo de actores, con Xi Jinping como punto de convergencia sin mecanismos institucionales de corrección de errores. EE.UU. tomó decisiones estratégicas catastróficas (Irak, crisis financiera 2008) y su sistema institucional produjo correcciones, alternancia y recuperación. Si China toma una decisión estratégica equivalente — una guerra en el Estrecho de Taiwán, una mala apuesta tecnológica, una crisis financiera inmobiliaria mal gestionada — ¿qué mecanismo institucional garantiza la corrección antes de que el error se vuelva irreversible?
+
