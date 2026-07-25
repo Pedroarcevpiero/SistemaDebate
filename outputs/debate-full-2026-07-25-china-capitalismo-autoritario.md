@@ -6010,3 +6010,165 @@ La debilidad recurrente de B —afirmaciones sin documentar en posiciones decisi
 
 *Fin de la evaluación del Árbitro G — Ronda 10*
 
+
+---
+
+## Intervención del Defensor (A) — Ronda 11
+
+### Respuesta directa al argumento anterior del oponente
+
+B sostiene que Taiwán y el Mar del Sur de China son vectores de desestabilización estructural del modelo chino. Mi posición: el riesgo geopolítico en estos teatros es real y cuantificable, pero su existencia no refuta la moción —la condiciona. Un modelo que puede absorber y administrar ese riesgo durante décadas sin alternancia política demuestra precisamente la ventaja comparativa que defiendo. Lo que B llama vulnerabilidad estructural, yo llamo capacidad de persistencia estratégica. La distinción no es semántica; tiene consecuencias empíricas medibles.
+
+---
+
+### 1. R11-A-2 (PRIORIDAD ABSOLUTA): Elección de serie PTF con consecuencias declaradas
+
+Elijo **PWT v11.0 con GDP oficial**, que registra crecimiento PTF de aproximadamente **+2.3% anual** [EI — FRED/St. Louis Fed, serie RTFPNACNA632NRUG; Asia Society Policy Institute, 2024].
+
+Las consecuencias que acepto:
+
+- **La J-curve ya se verificó.** Si la inflexión positiva de PTF debía ocurrir entre 2015 y 2025 según mi predicción de rondas anteriores, la serie PWT v11.0 confirma que esa inflexión ocurrió. El umbral predictivo se cumplió dentro del período comprometido. No hay vulneración de mi marco.
+- **No combino series.** La serie Wu-ajustada (PTF declinante 2009-2019) es metodológicamente inconsistente con PWT v11.0 porque parte de un deflactor del PIB alternativo que el propio PWT abandonó en su versión 11.0 al sustituir la serie Maddison/Wu por las cuentas nacionales oficiales. Usar Wu implicaría rechazar el mismo PWT que B cita cuando le conviene. Esa inconsistencia metodológica le pertenece a B, no a mí.
+- **Concesión técnica limitada:** La PTF medida con GDP oficial es tan robusta como las cuentas nacionales chinas. Reconozco que existe incertidumbre de medición. Pero la misma incertidumbre socava cualquier argumento que B construya usando datos derivados del GDP oficial chino —incluyendo sus propias proyecciones de deuda, déficit y PIB nominal.
+
+---
+
+### 2. R11-A-1 (PRIORIDAD ABSOLUTA): Aritmética del PIB per cápita al umbral de $22K
+
+**Datos base:**
+- PIB per cápita nominal China 2024: **~$13,300** [DO — IMF WEO, proyección Statista 2024]
+- Proyección IMF para 2030: **~$18,600** nominal [DO — IMF, 2024]
+- Población: declinando desde 2022; pérdida neta acumulada proyectada 2024-2040: aproximadamente 25 millones de personas [DO — ONU, World Population Prospects 2024]
+- Potencial de crecimiento post-2030 proyectado: 3.7% en 2030, declinando a ~2.4% en 2040s [EI — AMRO Analytical Note 2023]
+
+**Aritmética expuesta:**
+
+Desde 2030 hasta 2040, aplicando la tasa central de potencial declarada por AMRO (~3.0% como promedio de la transición 3.7%→2.4%):
+
+$18,600 × (1.030)^10 = 18,600 × 1.344 = **$24,998**
+
+Desde 2024 hasta 2040 (16 años), la tasa mínima para alcanzar $22,000 es:
+
+(22,000 / 13,300)^(1/16) − 1 = (1.654)^0.0625 − 1 ≈ **3.2%**
+
+**Conclusión aritmética:** La tasa mínima necesaria para cruzar $22K per cápita nominal antes de 2040 es **3.2% anual**, no 4-4.5% como afirmó B. El umbral de B está sobreestimado en ~80-130 puntos básicos. Incluso la proyección conservadora de AMRO (promedio 3.0% post-2030) permite alcanzar ~$25K en 2040. La contracción poblacional —que B cita como debilidad demográfica— opera aquí como **acelerador mecánico del PIB per cápita**: menos denominador con numerador sostenido.
+
+La única condición en que B tiene razón es si el crecimiento del PIB total colapsa a ≤2% anual sostenido post-2030, escenario que corresponde a mi categoría de "desaceleración severa" (15% de probabilidad en mi distribución concedida). El escenario modal de escape o Régimen 2 (85% combinado) es compatible con el umbral $22K.
+
+---
+
+### 3. R11-A-3: Definición operativa de "competir exitosamente"
+
+El árbitro necesita esta definición para el veredicto. La propongo en términos verificables:
+
+> **"Competir exitosamente" significa que el modelo chino mantiene, entre 2025 y 2040: (i) crecimiento del PIB per cápita superior al promedio de las democracias de ingreso medio-alto del G20; (ii) participación o expansión de cuota en sectores de alta complejidad exportadora (vehículos eléctricos, energía solar, equipos de telecomunicaciones, maquinaria industrial); (iii) capacidad de sostener su arquitectura institucional sin colapso fiscal ni reconfiguración sistémica forzada.**
+
+Esta definición **no** exige convergencia con EE.UU. o la UE en PIB per cápita absoluto. Exige demostrar que el modelo autoritario produce resultados superiores a los contrafactuales democráticos comparables (India, Brasil, Indonesia, Turquía, México).
+
+¿Defiendo la moción en versión plena o acotada? **Versión plena, con esta definición.** La versión acotada ("sostenibilidad sin competitividad") sería insuficiente para la moción tal como está redactada. Pero la definición plena no requiere superar a EE.UU. nominalmente —requiere superar a sus pares democráticos de ingreso medio, lo cual los datos actuales ya soportan.
+
+---
+
+### 4. R11-A-4: Mecanismo por el que el autoritarismo es ventaja competitiva en gestión geopolítica
+
+**El mecanismo específico es: compresión del horizonte de descuento político.**
+
+Las democracias liberales con ciclos de 4-5 años enfrentan un problema estructural de descuento temporal: los costos de una estrategia coercitiva sostenida son inmediatos y electoralmente visibles; los beneficios son diferidos y difusos. Un gobierno democrático que sostenga presión militar sobre Taiwán durante 10 años sin resolución enfrenta 2-3 ciclos electorales en los que el costo económico (prima de riesgo, reconfiguración de cadenas, seguros marítimos elevados) genera presión opositora que puede revertir la estrategia.
+
+El PCCh no enfrenta ese descuento. Puede comprometer 15-20 años de presión sostenida en zona gris sin que ningún actor interno pueda revertir la política. Esto no es solo una característica del régimen: es una **ventaja de credibilidad estratégica** porque los adversarios no pueden calcular un punto de capitulación por fatiga electoral.
+
+**Distinción disuasión vs. escalada:**
+
+- *Disuasión sostenida* (zona gris): operaciones de la Guardia Costera, ejercicios navales, restricciones económicas selectivas. Coste controlable, presión acumulada.
+- *Escalada* (conflicto abierto): umbral que China no ha cruzado en 75 años pese a capacidad creciente. La racionalidad del PCCh aquí es calculable: un conflicto abierto destruye precisamente el modelo de crecimiento que legitima al partido.
+
+La disuasión sostenida **es** la estrategia del modelo autoritario. La escalada sería su negación. B confunde ambas cuando presenta el riesgo de Taiwán como desestabilizador del modelo: está describiendo el escenario que el PCCh tiene todos los incentivos para evitar.
+
+---
+
+### 5. R11-A-5: Cuantificación del costo geopolítico y ventaja neta demostrada
+
+| Indicador | Valor | Fuente | Etiqueta |
+|-----------|-------|--------|----------|
+| FDI neto China 2021 (pico) | $344 mil millones | UNCTAD/Trading Economics | [EI] |
+| FDI neto China 2024 (valle) | $18.6 mil millones | Trading Economics, 2025 | [EI] |
+| Caída absoluta FDI 2021-2024 | −$325 mil millones | Calculado | [EC] |
+| Caída % FDI 2024 vs 2023 | −27.1% | Trading Economics | [EI] |
+| % caída atribuida a riesgo geopolítico vs. ciclo económico | Compartida — geopolítica como factor pero no único | AMRO 2025, BNP Paribas AM | [EI] |
+| Proyección PIB per cápita 2030 (FMI) | $18,600 nominal | IMF WEO 2024 | [EI] |
+| Tasa PIB per cápita necesaria para $22K en 2040 | 3.2% (calculado) | — | [EC] |
+| Potencial de crecimiento AMRO promedio post-2030 | ~3.0% | AMRO Analytical Note 2023 | [EI] |
+
+La caída del FDI de $325 mil millones en tres años es el costo real más cuantificable de la prima de riesgo geopolítico. **No lo minimizo.** Pero la pregunta relevante para la ventaja neta no es si China paga costos —los paga— sino si esos costos son estructuralmente superiores a los que pagaría con un modelo democrático.
+
+**Argumento de ventaja neta:**
+
+Un modelo democrático en la posición de China enfrentaría: (a) incapacidad de sostener la presión en zona gris sin colapso de coalición de gobierno; (b) mayor vulnerabilidad a sanciones occidentales porque la ciudadanía y el Congreso/Parlamento impondrían límites al costo tolerable; (c) imposibilidad de coordinar relocalización industrial estratégica (vehículos eléctricos, paneles solares, baterías) sin captura regulatoria de intereses privados. La caída del FDI occidental es parcialmente compensada por inversión intrabloque Sur-Sur: China mantiene IED activa en ASEAN, África y LatAm que democracias no pueden replicar con la misma velocidad de despliegue estatal.
+
+---
+
+### 6. R11-A-6: Corrección PPP vs. nominal para el bloque de $27.8T
+
+El bloque de $27.8T mencionado en rondas anteriores está medido en **PPP**. Para una composición típica de países del Sur Global (ASEAN emergente, LatAm, África subsahariana, Oriente Medio no GCC, Rusia), el ratio PPP/nominal promedio es aproximadamente 1.7-1.85. Esto arroja una magnitud nominal de:
+
+$27.8T / 1.80 ≈ **$15.4T nominal** [EC]
+
+**¿Cuál es la métrica pertinente para absorción de exportaciones?**
+
+Para exportaciones de bienes de capital y tecnología (máquinas-herramienta, robots, equipos de telecomunicaciones, vehículos eléctricos), la métrica relevante es **nominal en USD**, porque: (i) los contratos se denominan en divisas duras; (ii) la capacidad de pago del importador está limitada por sus reservas en divisas; (iii) las restricciones de deuda externa del bloque importador operan en términos nominales.
+
+Concedo: $15.4T nominal es inferior a $27.8T PPP. Pero sigue siendo el tercer mercado agregado más grande del mundo después de EE.UU. (~$27T) y la UE (~$17T), y es el único en el que China opera sin la fricción arancelaria y regulatoria que enfrenta en Occidente.
+
+---
+
+### 7. Argumento central: Taiwán como validador, no como refutador del modelo
+
+La cuestión de fondo en Ronda 11 es si el riesgo de Taiwán **refuta** o **valida** el modelo autoritario. Mi posición es que lo valida en tres dimensiones:
+
+**Primera:** La estrategia de zona gris lleva décadas en ejecución y el modelo chino no ha colapsado por ella. Las incursiones sostenidas de la Guardia Costera en aguas restringidas alrededor de Kinmen y Matsu en 2024 [EI — Taiwan National Ocean Policy White Paper 2025] demuestran que China puede sostener presión coercitiva incremental sin desencadenar respuesta que altere su trayectoria económica.
+
+**Segunda:** El PCCh tiene un incentivo racional para no escalar a conflicto abierto que es más fuerte que cualquier incentivo de democracia liberal equivalente, precisamente porque su legitimidad doméstica depende del crecimiento económico. Un conflicto abierto destruiría el modelo que sostiene al régimen. Esto genera una **disciplina estratégica** que los análisis de riesgo de mercado están comenzando a reconocer como estabilizadora, no desestabilizadora.
+
+**Tercera:** La capacidad de Beijing para imponer restricciones selectivas a cadenas de suministro rivales sin equivalente democrático que pueda ejecutar con la misma velocidad y sin compensación jurídica a afectados, demuestra que el modelo autoritario tiene instrumentos de coerción económica que las democracias no pueden replicar institucionalmente.
+
+---
+
+### 8. Ataque al punto débil del oponente
+
+B asume que el riesgo de conflicto en Taiwán opera como un **riesgo binario**: o hay conflicto (desastre) o no hay conflicto (irrelevante). Ese es el supuesto equivocado. El riesgo de Taiwán es un **gradiente administrado** que China controla unilateralmente: puede aumentar o disminuir la presión en zona gris en función de sus condiciones económicas internas y la respuesta occidental.
+
+Si B sostiene que la prima de riesgo geopolítico es estructuralmente desestabilizadora, debe responder: **¿por qué el modelo chino creció de $1.2T a $18T en PIB nominal entre 1990 y 2024 mientras la "amenaza de Taiwán" estuvo presente durante todo ese período?** La coexistencia de décadas de crecimiento con décadas de tensión en el Estrecho refuta la hipótesis de incompatibilidad estructural.
+
+---
+
+### 9. Concesión táctica
+
+El colapso del FDI occidental a $18.6 mil millones en 2024 —desde $344 mil millones en 2021— es un costo real y significativo atribuible parcialmente al riesgo geopolítico. No lo minimizo. Este costo presiona el costo de capital doméstico y obliga a China a depender más de ahorro interno. Si B puede demostrar que el costo de capital ajustado por riesgo hace insostenible la inversión en sectores de alta complejidad (semiconductores, robots, biotech), ese sería un argumento serio. Hasta ahora B no ha producido esa aritmética.
+
+---
+
+### 10. Retos para B y árbitro E
+
+**Para B:**
+1. B afirmó que cruzar $22K per cápita requiere 4-4.5% de crecimiento anual. Mi aritmética muestra que el umbral real es 3.2% desde 2024. ¿Cuál es el error en el cálculo de B, o qué supuesto diferente produce su número?
+2. Si el riesgo de Taiwán es estructuralmente desestabilizador, ¿por qué ningún modelo de rating soberano (Moody's, S&P, Fitch) ha degradado a China a especulativo por ese riesgo en 75 años de tensión sostenida?
+3. B debe proponer su propia definición operativa de "competir exitosamente" o aceptar la mía como base del veredicto.
+
+**Para el árbitro E:**
+El árbitro tiene pendiente declarar si acepta la definición operativa propuesta por A: competir exitosamente = superar a pares democráticos de ingreso medio en crecimiento per cápita, cuota de exportación compleja y estabilidad institucional 2025-2040. Si E rechaza esta definición, solicito una contraoferta antes de la ronda final.
+
+---
+
+### Fuentes
+
+- [China FDI Plunges to Record Low in 2024 — Trading Economics](https://tradingeconomics.com/china/foreign-direct-investment-yoy/news/444485)
+- [Is Declining FDI into China a Cause for Concern — AMRO 2025](https://amro-asia.org/wp-content/uploads/2025/04/Analytical-Note-Is-Declining-FDI-into-China-a-Cause-for-Concern_clean-1.pdf)
+- [China Still An Attractive FDI Destination — AMRO Asia](https://amro-asia.org/china-still-an-attractive-fdi-destination)
+- [Explaining the Plunge in China's FDI — BNP Paribas AM](https://viewpoint.bnpparibas-am.com/explaining-the-plunge-in-chinas-foreign-direct-investment/)
+- [Prospects for China's Long-Term Growth — AMRO Analytical Note 2023](https://amro-asia.org/wp-content/uploads/2023/12/AN_Chinas-Long-term-Growth-Prospect-2023-12-14_amended.pdf)
+- [China's Path to Sustainable and Balanced Growth — IMF WP 2024](https://www.imf.org/-/media/files/publications/wp/2024/english/wpiea2024238-print-pdf.pdf)
+- [China TFP — Asia Society Policy Institute](https://asiasociety.org/policy-institute/chinas-total-factor-productivity-either-extremely-low-or-surging-past-united-states)
+- [FRED: TFP China](https://fred.stlouisfed.org/series/RTFPNACNA632NRUG)
+- [CCP Gray Zone Tactics — Global Taiwan Institute 2025](https://globaltaiwan.org/wp-content/uploads/2025/03/OR_CCP-Gray-Zone-Tactics-Against-TW.pdf)
+- [China Tests Gray-Zone Blockades — Taipei Times 2026](https://www.taipeitimes.com/News/editorials/archives/2026/05/03/2003856652)
+
