@@ -7066,3 +7066,160 @@ El comparador de pares de ingreso medio informa sobre si el autoritarismo produc
 ---
 
 *Fin de la evaluación del Árbitro G — Ronda 11*
+
+---
+
+## Intervención del Proponente (A) — Ronda 12
+
+---
+
+### 1. Respuesta directa a la pregunta de la ronda
+
+La pregunta es: ¿Es frágil la legitimidad del PCCh ante desaceleraciones prolongadas?
+
+La respuesta es no, con una precisión necesaria: la legitimidad del PCCh es *multidimensional*, no monocausal. El oponente ha construido su argumento sobre una premisa implícita — que la legitimidad se agota en el desempeño económico — que la evidencia empírica no sostiene. Un régimen cuya supervivencia dependiera exclusivamente del PIB habría colapsado en 2015-2016 (desaceleración a 6.7%, crisis bursátil, fuga de capitales de $700B), en 2022 (contracción efectiva bajo COVID, -0.4% en Q2), y no habría sobrevivido a treinta años de transformación estructural. Sobrevivió a todos esos episodios. Eso requiere explicación, y la explicación es que el PCCh opera con al menos cuatro reservas de legitimidad distintas, con diferente sensibilidad al ciclo económico.
+
+Reconozco, sin embargo, que el aumento de 50% en protestas en 2025 y el desempleo juvenil sostenido por encima del 17% constituyen señales de presión genuina que mi argumento debe incorporar — no ignorar. Lo hago abajo con la distinción de tipos de legitimidad y el umbral de falsación declarado.
+
+---
+
+### 2. A-11-1 RESUELTO: Supuesto de tipo de cambio declarado
+
+**Supuesto declarado:** Estabilidad nominal del tipo de cambio RMB/USD en el rango 7.0-7.5 para 2025-2030, con convergencia gradual hacia 6.8-7.2 en 2030-2040 bajo el escenario base.
+
+**Justificación:** El Banco Popular de China (PBoC) opera con un régimen de flotación administrada que históricamente limita la volatilidad anual a menos de 3-4%. Las presiones depreciadoras reales existen — déficit de cuenta corriente manufacturera vs. exportaciones de capital — pero el PBoC tiene $3.2T en reservas para gestionar la banda. FocusEconomics (julio 2025) proyecta 7.1-7.4 para 2025-2026 [DO]. XTransfer (enero 2025) proyecta 7.0-7.5 como rango base para 2025 [DO].
+
+**Concesión calibrada sobre la aritmética:** B tiene razón en que un supuesto de depreciación de 1% anual acumulado sobre 15 años (2025-2040) implica un tipo de cambio de ~8.2 RMB/USD en 2040, lo que eleva el umbral de crecimiento nominal requerido de 3.2% a aproximadamente 4.2% anual. **Acepto 4.2% como la cifra conservadora más defensible.**
+
+**Argumento de sostenibilidad:** 4.2% anual acumulado no es una tasa heroica para China. El FMI proyecta 4.0-4.5% para 2025-2027 [PI, FMI WEO abril 2025]. Si China mantiene ese ritmo cinco años adicionales y luego desacelera a 3.5% en el período 2031-2040, el diferencial con el G7 (crecimiento medio estimado: 1.8-2.0%) sigue siendo positivo y la convergencia continúa. El riesgo real es que la desaceleración sea más pronunciada — pero eso afecta el Predicado 2(c) en los márgenes, no lo destruye, porque el umbral $22K antes de 2040 no es condición eliminatoria según la definición operativa del árbitro.
+
+**[EC]:** PIB per cápita nominal China 2024: ~$13,000. Objetivo: ~$22,000. Ratio: 1.69x. Con tipo de cambio estable (7.2 RMB/USD en 2040), tasa requerida: 3.7% anual. Con depreciación de 1% anual (8.2 RMB/USD en 2040): 4.2% anual. Con depreciación de 2% anual (9.4 RMB/USD en 2040): 5.2% anual. El escenario de ruptura del Predicado 2(c) requiere una combinación de desaceleración a menos de 3.5% sostenida *y* depreciación superior al 2% anual — un escenario posible pero que no es el central de ninguna institución multilateral.
+
+---
+
+### 3. A-11-3 RESUELTO: Mecanismo de subordinación del EPL al liderazgo civil
+
+El oponente atacó mi supuesto de racionalidad unitaria del PCCh señalando al EPL como actor institucional con incentivos propios. El ataque es válido en su versión descriptiva pero no en su versión estratégica.
+
+**Mecanismo 1 — Comisión Militar Central (CMC):** El PCCh controla al EPL mediante la CMC, cuyo presidente es Xi Jinping en calidad de Secretario General, no como jefe de Estado. Esto es estructuralmente diferente a sistemas donde el jefe militar y el político son órganos separables. El EPL jura lealtad al Partido, no al Estado chino [DO, Constitución del PCCh].
+
+**Mecanismo 2 — Reestructuración de 2015-2016:** Xi dividió los cuatro departamentos generales del EPL en 15 unidades más pequeñas, con auditoría, inspección disciplinaria y mecanismos legales que reportan *directamente a la CMC* — no a la cadena de mando del EPL. Esto fragmentó los centros de poder dentro del ejército [DO, AIIA, 2024].
+
+**Mecanismo 3 — Campaña anticorrupción militar:** Xi purgó a dos jefes de departamento de cohetes, dos miembros del CMC anterior (Xu Caihou, Guo Boxiong), y en 2023-2024 destituyó a su propio ministro de defensa (Li Shangfu). La señal institucional es que nadie en el EPL es inaccesible a la disciplina civil — incluso los propios nombramientos de Xi.
+
+**Concesión real:** El hecho de que Xi haya destituido a sus propios nombramientos (Li Shangfu, Qin Gang) revela que el sistema de control no es perfecto — hay facciones y redes de lealtad que operan debajo del liderazgo formal. Esto es una debilidad real del modelo de racionalidad unitaria. Sin embargo, la pregunta correcta no es si el PCCh es un actor perfectamente unitario — no lo es — sino si el liderazgo civil tiene capacidad suficiente de control sobre el EPL para evitar que el ejército opere como veto player autónomo en decisiones estratégicas de alto costo. La evidencia sugiere que sí, al menos bajo Xi: ninguna decisión militar mayor desde 2012 contradice las directrices del liderazgo civil [DO, DoD Annual Report 2024].
+
+---
+
+### 4. Fuentes de legitimidad no dependientes del crecimiento
+
+**Tipología operativa (basada en Holbig 2011, Zhao 2024):**
+
+**Tipo 1 — Legitimidad de desempeño:** Correlaciona con crecimiento, empleo y provisión de servicios. *Sensibilidad alta* al ciclo económico. Esta es la legitimidad que B ataca correctamente.
+
+**Tipo 2 — Legitimidad nacionalista:** Correlaciona con percepciones de soberanía, integridad territorial e identidad frente a actores externos. *Sensibilidad baja* al ciclo económico; puede aumentar en períodos de adversidad económica si hay amenaza externa percibida. Las tensiones con EE.UU. desde 2018, Taiwán y la narrativa de "contención occidental" funcionan estructuralmente como amplificadores de este tipo de legitimidad.
+
+**Tipo 3 — Legitimidad de capacidad estatal:** Correlaciona con la percepción de que el Estado puede resolver problemas — desastres naturales, pandemias, infraestructura. COVID-19 fue un caso anómalo: el gobierno central recuperó parte de esta legitimidad tras la crisis inicial de Wuhan con la narrativa de "control colectivo" frente al caos occidental. *Sensibilidad media* al ciclo económico.
+
+**Tipo 4 — Legitimidad ideológica-histórica:** Correlaciona con la narrativa del "siglo de humillación" y la legitimidad del PCCh como restaurador de la grandeza nacional. *Sensibilidad muy baja* al ciclo económico en el corto-medio plazo.
+
+**Evidencia cuantitativa con matiz metodológico:** El Harvard Ash Center (survey 2003-2016, publicado 2020) reportó satisfacción superior al 80% con el gobierno central [DO]. Un estudio de 2024 en *The China Quarterly* (Truex et al.) encontró que cuando se usan experimentos de lista — que confieren mayor anonimato — el apoyo baja a 50-70% [DO]. Esto sugiere que el 90% oficial es inflado por sesgo de conformidad, pero que un piso de 50-70% de apoyo genuino persiste incluso bajo metodología más rigurosa. En perspectiva comparada, ese piso es políticamente relevante.
+
+**Sobre las protestas en 2025:** Reconozco que las protestas aumentaron 50% en 2025 [DO, Vision Times/Freedom House]. Sin embargo, el dato crítico es la composición: tres cuartas partes de los 7,000 incidentes desde 2022 son protestas económicas localizadas — salarios impagados, disputas de vivienda, tierras rurales — no demandas de cambio de régimen [DO, Freedom House 2025]. Esto es cualitativamente distinto de un desafío sistémico a la legitimidad del PCCh central.
+
+---
+
+### 5. Umbral de falsación declarado
+
+**El árbitro lo requiere. Lo entrego:**
+
+La legitimidad de desempeño del régimen entra en zona de quiebre si se dan simultáneamente las tres condiciones siguientes durante un período sostenido de 5 años o más:
+
+- **Umbral de crecimiento:** PIB real por debajo de 2.5% anual de forma sostenida (por debajo del cual el desempleo urbano supera el 7% estructuralmente y los ingresos de los hogares se estancan en términos reales).
+- **Umbral de desempleo:** Desempleo juvenil sostenido por encima de 25% durante más de tres años consecutivos (el nivel actual de ~18% es preocupante pero no aún en zona de ruptura).
+- **Umbral de legitimidad:** Pérdida de la capacidad de contener protestas mediante el aparato de seguridad interna — es decir, que los incidentes escalen de protestas económicas locales a demandas de cambio de régimen con coordinación translocal.
+
+Si las tres condiciones se cumplen simultáneamente durante 5 años, el Predicado 1 quedaría comprometido. No hay evidencia actual de que China esté en ese camino: el crecimiento en 2024 fue 5.0% [DO, NBS China], el desempleo juvenil es elevado pero no en umbral de ruptura, y las protestas son de naturaleza económica-local, no anti-régimen sistémicas.
+
+**Nota sobre falsabilidad:** Este umbral es exigente porque el sistema tiene reservas de legitimidad no-económica que operan como amortiguadores. Declaro explícitamente que si China cae por debajo de 2.5% real sostenido por cinco años consecutivos después de 2026, retiraría la defensa del Predicado 1 tal como está formulado.
+
+---
+
+### 6. Evidencia de resiliencia en períodos de bajo crecimiento
+
+**Caso 2015-2016:** Desaceleración a 6.7%, crisis bursátil (pérdida del 30% del Shanghai Composite en semanas), salida de reservas de $700B, devaluación sorpresa del RMB. Resultado: ninguna crisis de legitimidad sistémica. Las protestas en ese período fueron predominantemente laborales y locales.
+
+**Caso 2022:** COVID cero extendido. El PIB real creció apenas 3.0% y Q2 2022 tuvo contracción. Protestas de noviembre 2022 (Zhengzhou, Shanghai, "hojas en blanco"). Resultado: el PCCh revirtió la política de COVID cero en semanas — demostrando *capacidad de ajuste*, no rigidez sistémica. El régimen absorbió el descontento ajustando la política, no colapsando ante él.
+
+**Comparador institucional:** Ninguno de estos episodios generó una crisis de sucesión, un desafío militar, o una pérdida de control de las narrativas oficiales que durara más de semanas. La resiliencia no es accidental: es el producto de la combinación de legitimidad multidimensional, aparato de seguridad interna (gasto en seguridad doméstica superior al presupuesto militar en varios años), y capacidad de ajuste de política.
+
+---
+
+### 7. A-11-2: Validación externa del crecimiento
+
+**Método proxy 1 — Luminosidad nocturna:** Estudios publicados en *Remote Sensing* (MDPI, 2021) y validados hasta 2023 encuentran que el modelo de función potencia entre luminosidad NPP-VIIRS y consumo eléctrico provincial tiene R² = 0.9385 [DO]. Esto no valida el número del PIB directamente, pero sí confirma que la actividad económica espacializada — medida independientemente — no muestra colapso o fabricación masiva de datos.
+
+**Método proxy 2 — Flujos comerciales de contrapartes:** Los datos de comercio bilateral reportados por los socios de China (Eurostat, BEA, estadísticas japonesas) son metodológicamente independientes del NBS chino. La coherencia entre los datos de exportación/importación chinos y los datos espejo de sus socios ha sido el indicador más utilizado en la literatura post-2015 para detectar manipulación. La discrepancia sistemática existe pero es de magnitud modesta — en el rango del 2-5% — no suficiente para invalidar la narrativa de convergencia.
+
+**Acotación honesta:** No existen estudios post-2022 con validación robusta de luminosidad nocturna que permitan corregir el PIB chino con alta precisión. La literatura disponible (Nordhaus et al., Henderson et al.) sugiere que las estadísticas de luminosidad tienen sus propios sesgos en zonas urbanas densas. **Acoto el alcance de mi inferencia:** la evidencia de proxy no puede confirmar con precisión si China creció 5.0% o 4.2% en 2024, pero sí que creció en un rango que no es fabricación masiva. Esa es la inferencia que defiendo.
+
+---
+
+### 8. Correcciones
+
+**A-11-4 (IED):** Corrijo la cifra. El IED utilizado en China en 2024 fue $114.8-116.2B según MOFCOM, una caída del 27.1% respecto a 2023 [DO, MOFCOM vía China Briefing, 2025]. La cifra de $18.6B que usé en una intervención anterior era errónea — posiblemente confundí con flujos netos de un subsector. Retiro la cifra y la sustituyo por $114.8B (año completo 2024). La caída es real y significativa; es un dato adverso para mi posición que no minimizo.
+
+**A-11-5 (Compensación Sur-Sur):** Retiro la afirmación de compensación Sur-Sur como argumento cuantificado. No tengo evidencia suficiente para cuantificar si el aumento de exportaciones hacia mercados emergentes compensa en valor la caída del IED y la reducción de exposición de mercados occidentales. Mantengo como [EI] la hipótesis de que la diversificación geográfica reduce la dependencia, pero no la presento como hecho verificado.
+
+---
+
+### 9. Tabla de evidencia
+
+| # | Afirmación | Etiqueta | Fuente | Fecha |
+|---|-----------|---------|--------|-------|
+| 1 | PIB China 2024: 5.0% real | [DO] | NBS China, comunicado oficial | Enero 2025 |
+| 2 | Desempleo juvenil 16-24: 17.1% julio 2024, pico 18.8% agosto 2024 | [DO] | NBS China vía VOA News | 2024 |
+| 3 | Reservas PBoC: $3.2T | [DO] | PBoC, enero 2025 | Enero 2025 |
+| 4 | Protestas aumentaron 50% en 2025 | [DO] | Vision Times/Freedom House | Marzo 2026 |
+| 5 | 75% de 7,000 incidentes desde 2022: motivos económicos locales | [DO] | Freedom House 2025 | 2025 |
+| 6 | IED China 2024: $114.8-116.2B, caída 27.1% | [DO] | MOFCOM vía China Briefing | 2025 |
+| 7 | Protestas laborales H1 2025: +66% vs H1 2024 | [DO] | China Labour Bulletin vía Freedom House | 2025 |
+| 8 | Harvard Ash Center: satisfacción >80% (método directo); 50-70% (experimento lista) | [DO] | Ash Center 2020; Truex et al., China Quarterly 2024 | 2020/2024 |
+| 9 | CMC Xi Jinping: destitución Li Shangfu (ministro defensa) 2023 | [DO] | DoD Annual Report 2024 | Dic 2024 |
+| 10 | Reestructuración EPL 2015-16: 4 dptos → 15 unidades | [DO] | AIIA / Wuthnow & Saunders NDU | 2024 |
+| 11 | R² luminosidad nocturna/consumo eléctrico China 2012-2023: 0.9385 | [DO] | MDPI Remote Sensing / NCBI PMC | 2024 |
+| 12 | FMI WEO: China 4.0-4.5% 2025-2027 | [PI] | FMI World Economic Outlook | Abril 2025 |
+| 13 | Tipo de cambio RMB/USD: 7.0-7.5 rango 2025-2026 | [DO] | FocusEconomics / XTransfer | 2025 |
+| 14 | Umbral aritmético revisado con depreciación 1%: 4.2% anual para $22K en 2040 | [EC] | Cálculo propio: ($22,000/$13,000)^(1/15) × (8.2/7.2)^(1/15) − 1 ≈ 4.2% | Esta intervención |
+| 15 | Crecimiento Q2 2022 China: ~-0.4%; año completo 2022: 3.0% | [DO] | NBS China | 2023 |
+| 16 | DoD 2024: ninguna decisión militar mayor contradice directrices del liderazgo civil desde 2012 | [DO] | DoD Military Power Report PRC 2024 | Dic 2024 |
+| 17 | Zona gris Taiwán: costo $100-150B/año vs $3.17T conflicto abierto (factor 20-30x) | [DO] | Especialista E, ratificado árbitro R11 | R11 |
+
+---
+
+### 10. Retos para B en Ronda 12
+
+**Reto B-12-1 (umbral de quiebre de B):** B ha argumentado que la legitimidad del PCCh es frágil ante desaceleraciones. Exijo que B declare *su propio umbral de falsación*: ¿a qué tasa de crecimiento, durante cuántos años, y con qué indicadores sociales concurrentes, B prevé que el régimen colapse o se reconfigure sistémicamente? Sin umbral declarado, el argumento de B es igualmente infalsable.
+
+**Reto B-12-2 (mecanismo de colapso):** Las protestas en 2025 aumentaron 50% pero son predominantemente locales y económicas. ¿Qué mecanismo específico transforma protestas de salarios impagados en desafío sistémico al PCCh central? B debe describir el proceso causal, no solo correlacionar descontento con fragilidad.
+
+**Reto B-12-3 (comparador democrático):** La prohibición de simetría fácil se aplica a ambos lados. Si B usa desempleo juvenil chino (~18%) como evidencia de fragilidad, debe comparar con legitimidad de desempeño en democracias liberales avanzadas bajo crisis equivalentes: desempleo juvenil en España fue 55% en 2013, en Grecia 60% en 2013, sin colapso de régimen. ¿Por qué la misma lógica no aplica a China, y en qué es cualitativamente diferente?
+
+---
+
+### 11. Fuentes
+
+- [Harvard Ash Center — Understanding CCP Resilience (2020)](https://ash.harvard.edu/wp-content/uploads/2024/02/final_policy_brief_7.6.2020.pdf)
+- [Truex et al. — Do Chinese Citizens Conceal Opposition? China Quarterly 2024](https://www.cambridge.org/core/journals/china-quarterly/article/do-chinese-citizens-conceal-opposition-to-the-ccp-in-surveys-evidence-from-two-experiments/12A2440F948D016E8D845C492F7D0CFE)
+- [Freedom House — Protests Appear to Be Increasing in China (2025)](https://freedomhouse.org/article/protests-appear-be-increasing-china-what-can-we-learn-them)
+- [Vision Times — Social Protests in China Surged 50 Percent in 2025](https://www.visiontimes.com/2026/03/08/social-protests-in-china-surged-50-percent-in-2025.html)
+- [VOA News — Unemployment Continues to Plague China's Youth in 2024](https://www.voanews.com/a/unemployment-continues-to-plague-china-s-youth-in-2024-/7892948.html)
+- [China Briefing — China FDI Trends 2024](https://www.china-briefing.com/news/chinas-fdi-trends-2024-key-sources-destinations-and-sectors/)
+- [DoD — Military and Security Developments PRC 2024](https://media.defense.gov/2024/dec/18/2003615520/-1/-1/0/military-and-security-developments-involving-the-peoples-republic-of-china-2024.pdf)
+- [AIIA — Turmoil and Transformation: PLA Under Xi Jinping](https://www.internationalaffairs.org.au/australianoutlook/turmoil-and-transformation-the-reconfiguration-of-chinas-military-under-xi-jinping/)
+- [NCBI/PMC — Spatialisation of Electricity Consumption China 2012-2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11991154/)
+- [FocusEconomics — China Exchange Rate Outlook](https://www.focus-economics.com/country-indicator/china/exchange-rate/)
+- [XTransfer — RMB/USD Forecast 2025](https://www.xtransfer.com/knowledge-hub/67a2dd692f8b3b7e20523f22)
+- [CSMonitor — China's Sluggish Economy Prompts Protest and Social Unrest (2025)](https://www.csmonitor.com/World/Asia-Pacific/2025/0307/china-economy-xi-beijing-unrest)
+- [Holbig/Gilley — Reclaiming Legitimacy in China](https://web.pdx.edu/~gilleyb/ReclaimingLegitimacyInChina.pdf)
+- [Mapping China — China under Xi: Moving Beyond Performance Legitimacy?](https://mappingchina.org/wp-content/uploads/2020/03/MC-Working-Paper-Series-2020-No.-1.pdf)
