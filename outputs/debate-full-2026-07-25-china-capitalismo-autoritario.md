@@ -5744,3 +5744,269 @@ La evidencia técnica respalda más robustamente la posición de **B y los argum
 13. The Robot Report — "Closing the latency gap: Why physical AI requires edge-first architectures": https://www.therobotreport.com/closing-latency-gap-why-physical-ai-requires-edge-first-architectures/
 14. AIMultiple — "Top 15 Edge AI Chip Makers with Use Cases": https://aimultiple.com/edge-ai-chips
 
+
+---
+
+## Evaluación del Árbitro (G) — Ronda 10
+
+**Tema:** Renminbi y desdolarización — arquitectura financiera alternativa china frente a la weaponización del sistema financiero occidental
+**Especialista de ronda:** Agente D (Tecnología e IA)
+**Fecha:** 25 julio 2026 | Ronda 10 de 15
+
+---
+
+### 1. Resumen ejecutivo de la ronda
+
+La Ronda 10 produjo el enfrentamiento conceptualmente más maduro del debate hasta ahora, pero no en el terreno que la agenda anticipaba. El tema nominal era el renminbi; el eje real de la ronda fue **el nivel de análisis y la dirección causal**. A abrió con una arquitectura de tres piezas: (a) un mecanismo de reversión de PTF en tres canales operando sobre la economía completa —no solo manufactura—, corrigiendo el error de nivel que le costó R9; (b) una "vía intermedia" en el dilema A-1/A-2, sustentada en un bloque de mercados de ingreso medio en ascenso de ~$27.8 billones PPP; y (c) una tesis de "redundancia, no sustitución" en materia financiera, con un umbral de tres capas y una distinción rigurosa entre las tres magnitudes del RMB (pagos SWIFT 2.88%, reservas COFER ~1.95%, trade finance 7.70%), tal como el árbitro exigió. A cumplió el requisito de no extrapolar tasas de crecimiento desde bases pequeñas: presentó magnitudes absolutas, cuotas y horizontes datados.
+
+B respondió con una maniobra de alta economía argumental. En lugar de disputar los datos de A —los aceptó casi en bloque, incorporándolos a su propia tabla con etiqueta "Aceptado de A"—, atacó su **significado**: la vía intermedia, tal como A la describe (complejidad media-alta, mercados de ingreso medio, chips de 7-14nm), es una descripción precisa del **Régimen 2**, no de su superación. El punto de mayor tensión intelectual de la ronda es exactamente ese: A concede explícitamente que "el techo de la vía intermedia podría coincidir con el Régimen 2 de B" y que "no afirma que sea el escape completo", mientras sostiene que basta para la sostenibilidad del modelo en 2026-2035. B convierte esa concesión en su argumento central: la moción no dice "sobrevivir", dice "competir exitosamente con las democracias liberales", y una meseta consolidada de segunda generación tecnológica no satisface ese predicado. Un segundo foco de tensión —menos resuelto— es la respuesta causal de B sobre el RMB: al conceder que la limitación del renminbi es **consecuencia** y no causa del Régimen 2, B desactiva su propio argumento financiero como palanca causal, y lo reconoce; pero simultáneamente reduce el valor probatorio que la arquitectura CIPS/mBridge puede aportar a A, porque administrar un síntoma no cura la condición. Es una concesión que corta en ambas direcciones y ninguno de los dos la explota plenamente.
+
+El Especialista D fue el aporte técnico más valioso de la ronda y uno de los mejores del debate. No arbitró, informó, y produjo tres correcciones que ninguno de los debatientes tenía: (1) fijó un estándar de referencia verificable para "robot de tercera generación" —NVIDIA Jetson AGX Thor, TSMC 4NP, 2,070 TOPS FP4— y con él estableció que el umbral real del controlador principal está en 4-5nm, fuera del alcance de SMIC en el horizonte 2026-2030; (2) corrigió técnicamente a B en HBM, mostrando que EUV no es la barrera real porque los dies DRAM de HBM3 operan en 12-16nm compatibles con DUV, y que la restricción efectiva es TSV/bonding híbrido —un problema de know-how y yield, 2-4 años de retraso, no una barrera de litografía—; y (3) confirmó a B sin posibilidad de refutación en la distinción ISO 20022 (formato de datos) versus SWIFT (infraestructura de transporte), añadiendo el hallazgo contraintuitivo de que la adopción obligatoria de ISO 20022 por SWIFT desde noviembre de 2025 **reduce** el incentivo de migración a CIPS-Direct y puede retardar la independencia de mensajería china. D favorece netamente a B en el horizonte 2026-2030 y netamente menos a B en 2028-2035.
+
+---
+
+### 2. Evaluación de A (Defensor)
+
+#### 2.1 Cumplimiento de retos vinculantes
+
+| Reto | Estado | Observación |
+|---|---|---|
+| **R10-1** (mecanismo de reversión PTF, prioridad absoluta) | **Cumplido** | Pronunciamiento explícito sobre Hipótesis 3 y 4 de F (acepta ambas), invocación de Hipótesis 2 con sus consecuencias obligatorias, mecanismo formulado en el nivel de economía completa. |
+| **R10-4** (dilema A-1/A-2) | **Cumplido con costo** | No evade: elige y documenta la vía intermedia. Pero la elección tiene precio estructural (ver 2.3). |
+| **R10-5** (distribución de probabilidad) | **Cumplido de forma ejemplar** | 35/50/15, suma verificada a 100%, con condiciones de movimiento bidireccionales y falsables. |
+| **R10-6** (umbral hedging → alineamiento) | **Cumplido** | Tres capas con criterios operacionalizados; sin prórroga solicitada. |
+| **R10-7** (etiquetado de cuatro niveles) | **Cumplido** | 22 entradas etiquetadas DO/PI/EC/EI con aritmética expuesta en las derivaciones. |
+| Distinción de las tres magnitudes del RMB | **Cumplido** | Tabla explícita con tendencias diferenciadas y horizonte 2030. |
+| Prohibición de extrapolar tasas | **Cumplido** | Presenta el +43% de CIPS junto a la magnitud absoluta y no lo usa como evidencia de sustitución. |
+
+A respondió los cuatro retos vinculantes sin evasión. Es la ronda con mejor conducta procedimental de A en todo el debate y el pasivo documental permanece en cero por tercera ronda consecutiva.
+
+#### 2.2 Calidad del argumento de la "vía intermedia" ($27.8T)
+
+**Fortaleza real.** La construcción es empíricamente honesta: bloque desagregado en cuatro componentes, una sola cifra [DO] y tres [EC] con rangos de error declarados (±0.5tn, ±0.4tn, ±0.3tn), suma aritmética verificable ($12.3 + $6.5 + $4.2 + $4.8 = $27.8tn — correcta), y un comparador legítimo (UE-27 ~$26tn PPP). El argumento de que los segmentos de crecimiento de ese bloque —infraestructura inteligente, automotriz eléctrico, maquinaria agroindustrial, equipos médicos— no requieren nodos de frontera es sustantivamente correcto y D lo confirma parcialmente ("SMIC 7nm es suficiente para MCUs periféricos y robots gen-2.5 de manufactura estructurada").
+
+**Debilidad estructural, y es grave.** A concede en el mismo párrafo que la vía intermedia "produce un techo de complejidad más bajo que la ruta A-1 pura, y que ese techo podría coincidir con el Régimen 2 de B", y que "no afirma que sea el escape completo". Esa es una concesión de la conclusión, no un matiz. La honestidad epistémica es admirable y la puntúo alto en el criterio correspondiente, pero el efecto sobre la moción es adverso: A ha desplazado su defensa de "China compite exitosamente con las democracias liberales" a "China sostiene su modelo sin ruptura durante 2026-2035". Esos no son el mismo enunciado, y B lo detecta de inmediato. El bloque de $27.8T es además PPP, no nominal — para capacidad de compra de bienes de capital y tecnología importada la métrica relevante se acerca más al PIB nominal, donde el bloque es sustancialmente menor. A no hace esa distinción y B tampoco la explota; **queda señalada como afirmación que requiere verificación adicional en rondas posteriores.**
+
+#### 2.3 Calidad del mecanismo de reversión de PTF (tres canales)
+
+- **Canal 1 (digitalización de servicios, 2026-2033):** el mejor fundamentado en su premisa —el IMF Staff Country Report 2024 efectivamente documenta mala asignación en servicios enmascarada por alta innovación— pero el más débil en su conclusión, porque A mismo reconoce la dependencia circular: la segunda generación de automatización de servicios requiere cómputo de frontera que China no fabrica. D confirma esa restricción para el horizonte 2026-2030. El dato de "26 millones de modelos de IA entrenados y desplegados" [DO - CAICT 2024] es de dudosa pertinencia: el conteo de modelos no es una métrica de productividad y **requiere verificación adicional**, tanto en su magnitud como en su definición.
+- **Canal 2 (reducción de mala asignación):** lógicamente elegante —mayor ineficiencia inicial implica mayor rendimiento potencial— y correctamente anclado en Bai, Hsieh y Song (2016). Pero el argumento del "punto de partida de ineficiencia mayor" es simétrico: una mala asignación persistente que ninguna política ha corregido en una década es también evidencia de que la fricción institucional es la causa, no la oportunidad.
+- **Canal 3 (urbanización residual):** el más modesto y el más limpio. Aritmética expuesta y verificable (5pp × 0.35% / 10 años = +0.175%/año). A lo califica correctamente como "componente modesto pero positivo". Es un ejemplo de calibración honesta: no infla la magnitud.
+- **Umbral de falsación:** A ofrece uno explícito —si la PTF agregada no muestra reversión en Penn World Tables entre 2027 y 2030, concede el punto estructuralmente. Esto es exactamente lo que el árbitro pidió en R10-1 y merece reconocimiento.
+
+**Fallo de identificación no resuelto:** el uso de la J-curve para situar la reversión en 2020-2025 depende de qué serie de PTF se emplee, y A no lo especifica. B lo detecta con precisión en su Reto A-10-2. Es la vulnerabilidad más costosa de A en la ronda.
+
+#### 2.4 Puntos fuertes y débiles
+
+**Fuertes:** cumplimiento íntegro de los cuatro retos vinculantes; distribución de probabilidad declarada con aritmética verificada y condiciones bidireccionales de movimiento; tres capas de umbral operacionalizadas; distinción rigurosa de las tres magnitudes del RMB; reconocimiento de la dependencia circular Canal 1↔chips sin maquillaje; dos concesiones tácticas costosas y no forzadas (salida del BIS de mBridge; estancamiento del RMB en COFER desde el pico de 2.8% en 2022); el contraataque causal sobre el RMB fue certero y forzó a B a una concesión relevante.
+
+**Débiles:** la vía intermedia concede la conclusión mientras defiende la premisa; ambigüedad no resuelta sobre la serie de PTF empleada; uso de PPP sin advertir su limitación para bienes de capital; el "20% de transacciones CIPS con mensajería propia" es un [EC] sobre el cual construye el "núcleo autónomo" de $4.89tn — evidencia derivada tratada con más peso del que soporta; la asignación de 65% de probabilidad a que la moción sea falsa o parcialmente falsa, aunque honesta, es difícil de reconciliar con el rol de defensor de la moción y debilita el criterio de sostener la posición.
+
+#### 2.5 Puntaje de A — Ronda 10
+
+| Criterio | Puntaje | Justificación |
+|---|---:|---|
+| Claridad de tesis | 8.8 | "Redundancia, no sustitución" más "vía intermedia" es una tesis nítida y sostenida. |
+| Respuesta directa al rival | 9.2 | Los cuatro retos vinculantes respondidos sin evasión, en el orden exigido. |
+| Calidad de evidencia | 8.5 | 22 entradas etiquetadas; pero varios [EC] decisivos (20% CIPS autónomo, bloque PPP) soportan carga estructural. |
+| Pertinencia de fuentes | 8.7 | SWIFT RMB Tracker, IMF COFER, BIS, IMF SCR 2024 — fuentes primarias correctas para el tema. |
+| Fuerza lógica | 8.0 | El mecanismo de tres canales es coherente pero el Canal 1 tiene circularidad reconocida y no resuelta. |
+| Capacidad de refutación | 8.3 | El contraataque causal sobre el RMB fue el mejor movimiento ofensivo de A en varias rondas. |
+| Reconocimiento honesto de debilidades | 9.6 | Nivel máximo del debate: concede Hipótesis 3 y 4, el techo de la vía intermedia, mBridge/BIS y COFER. |
+| Consistencia interna | 8.2 | Tensión no resuelta entre defender la moción y asignar 65% a que sea falsa o parcialmente falsa. |
+| Foco en el tema | 8.6 | Cubre el renminbi con las tres magnitudes exigidas, aunque dedica gran extensión a PTF (justificada por R10-1). |
+| Relevancia práctica | 8.8 | Umbrales de tres capas con criterios verificables por terceros. |
+| Sostener la posición hasta el final | 7.8 | Sostiene formalmente, pero cede terreno definicional sobre qué significa "competir exitosamente". |
+
+**Puntaje total A — Ronda 10: 8.6/10**
+
+---
+
+### 3. Evaluación de B (Crítico)
+
+#### 3.1 Cumplimiento de retos vinculantes
+
+| Reto | Estado | Observación |
+|---|---|---|
+| **R10-2** (J-curve, prioridad absoluta) | **Cumplido con alta calidad** | Tres fallas de identificación bien construidas; acepta la falsabilidad del umbral temporal de A. |
+| **R10-3** (verificación de afirmaciones de R9) | **Cumplido de forma ejemplar** | Tres retiros o correcciones explícitas, incluyendo cifras que le habían dado ventaja. |
+| **R10-6** (umbral hedging → desalineamiento) | **Cumplido** | Responde por evaluación diferencial de las tres capas de A, no con umbral propio. Aceptable pero menos independiente. |
+| **R10-8** (metodología PTF explícita) | **Cumplido** | Distingue serie oficial (PWT v11.0, +2.3%/año) de serie Wu-ajustada en cada invocación. |
+| Dirección causal RMB ↔ Régimen 2 | **Cumplido** | Responde sin rodeos: consecuencia estructural. |
+| **R10-7** (etiquetado) | **Cumplido** | Tabla con columna adicional de "Estado" (Verificado / Aceptado de A / Calibrado). |
+
+#### 3.2 Calidad del ataque a la "vía intermedia"
+
+Es el mejor movimiento argumental de la ronda y probablemente uno de los cinco mejores del debate. B no disputa el bloque de $27.8T —lo concede como real— y ataca en cambio la **inferencia**: complejidad media-alta + mercados de ingreso medio + nodos de 7-14nm es la definición operativa del Régimen 2. La formulación "A acaba de describir el techo del modelo, no su escape" es precisa y está respaldada por la propia concesión de A. B añade un mecanismo secundario correcto: si el bloque intermedio sube en complejidad —que es lo que A necesita para que el mercado crezca—, sus requerimientos de chip suben con él, y China queda rezagada precisamente en el segmento que necesita liderar. Ese es un argumento dinámico, no estático, y es el tipo de razonamiento que el árbitro ha premiado a lo largo del debate.
+
+La afirmación de que esos mercados "seguirán comprando chips TSMC de 3nm para aplicaciones críticas mientras usan SMIC 7nm para las de menor exigencia" es plausible pero **no está documentada y requiere verificación adicional**: B la presenta como descripción fáctica sin fuente ni etiqueta. Es la reaparición, en forma atenuada, de su debilidad recurrente.
+
+#### 3.3 Calidad de la distinción causal del RMB
+
+B responde correctamente y con valentía: la limitación del RMB es **consecuencia estructural** del Régimen 2, no causa. La derivación es sólida —CIPS no crea liquidez en RMB que no existe; mBridge no genera demanda de activos denominados en RMB que los tenedores de reservas no quieren— y explica el dato duro del 1.95% COFER tras una década de internacionalización activa.
+
+Pero la respuesta tiene un costo que B minimiza: si la limitación financiera es consecuencia y no causa, entonces **la Ronda 10 no aporta evidencia causal independiente a la tesis del Régimen 2**. B lo reconoce parcialmente en su concesión táctica ("hace la arquitectura financiera alternativa una respuesta más coherente de lo que yo había planteado en R9"), lo cual es honesto, pero no extrae la implicación completa: el capítulo financiero queda reducido a corroboración sintomática. A tenía razón en su reto y B no logró convertir la concesión en un mecanismo causal alternativo.
+
+El contraargumento de la fragilidad —CIPS es más frágil precisamente en el escenario extremo para el que existe, porque el 80% de su mensajería pasa por SWIFT— es lógicamente potente y D lo confirma técnicamente sin reservas. La aritmética del diferencial de liquidez ($24.45T/365 = ~$67B diarios vs. ~$5T diarios de SWIFT, factor ~75×) está expuesta y es correcta.
+
+El argumento de la Capa 3 como estructuralmente inalcanzable —requeriría que EE.UU. sancionara simultáneamente a China y a todo el bloque intermedio, destruyendo su propia economía antes de completarse— es razonamiento de equilibrio bien construido. La cifra de "probabilidad condicional inferior al 8%" está correctamente etiquetada [EI], sin pretensión de precisión.
+
+#### 3.4 Verificación honesta de afirmaciones previas (R10-3)
+
+Esta es la sección que más credibilidad agrega a B en todo el debate. Tres actos de autocorrección:
+
+1. **VC tech:** retira la precisión de "$33B" y la reemplaza por "$33-40B" [EC], reconociendo que carece de acceso a la desagregación premium de PitchBook. Mantiene la dirección (-69% a -75%) documentada.
+2. **Componentes de robots:** **retira íntegramente** la afirmación de R9 y la marca [EI], reconociendo que no puede cuantificarla. Conserva solo el punto estructural cualitativo.
+3. **Umbral 30-40% del EXPY:** retira el umbral numérico tras no poder recuperarlo en la literatura Hausmann-Hidalgo, y lo reemplaza por una formulación cualitativa correctamente derivada.
+
+El árbitro señaló en R9 que la introducción de afirmaciones sin documentar en posiciones decisivas era la debilidad persistente de B, presente en cuatro rondas consecutivas. R10-3 la cierra de forma sustantiva. **El pasivo documental de B queda saldado.** Notablemente, los tres retiros operan contra su propio interés argumental — es autocorrección genuina, no cosmética.
+
+#### 3.5 Puntos fuertes y débiles
+
+**Fuertes:** el desmontaje de la J-curve en tres fallas de identificación, con la distinción crucial entre "maduración del capital robótico" y "creación de nuevas tareas" en Acemoglu-Restrepo (2019) —B tiene razón: la rama ascendente de la J requiere innovación endógena de frontera, exactamente la variable comprimida—; el Reto A-10-2 (dilema de la serie de PTF: no se pueden usar ambas simultáneamente) es una trampa lógica bien construida de la que A no tiene salida fácil; la triple autocorrección de R10-3; la reconducción de la vía intermedia al Régimen 2; la economía argumental de aceptar los datos del rival y disputar solo su significado.
+
+**Débiles:** la respuesta a R10-6 es evaluativa sobre los umbrales de A, no constructiva —B no propuso un umbral propio de desalineamiento, que era lo pedido—; la afirmación sobre TSMC 3nm en el bloque intermedio carece de fuente; D corrigió técnicamente su premisa sobre HBM y EUV, mostrando que la barrera fundamental no es litográfica; el argumento del PIB combinado de los cinco bancos centrales de mBridge (<3% del PIB mundial) está etiquetado [EC] sin aritmética expuesta, incumpliendo parcialmente el estándar de R10-7; y la concesión causal sobre el RMB, aunque honesta, vacía parcialmente el capítulo financiero de valor probatorio para su propia tesis.
+
+#### 3.6 Puntaje de B — Ronda 10
+
+| Criterio | Puntaje | Justificación |
+|---|---:|---|
+| Claridad de tesis | 9.3 | El Régimen 2 permanece como marco central, aplicado con precisión al material nuevo de A. |
+| Respuesta directa al rival | 9.2 | Responde la pregunta causal sin rodeos y desmonta la vía intermedia en su punto exacto. |
+| Calidad de evidencia | 8.6 | Fuerte y verificada, pero la afirmación TSMC 3nm queda sin fuente y el [EC] de mBridge sin aritmética. |
+| Pertinencia de fuentes | 9.0 | Acemoglu-Restrepo (2019), Zhang et al. (2025), Asia Society/PWT, PitchBook — exactamente las adecuadas. |
+| Fuerza lógica | 9.4 | Las tres fallas de identificación de la J-curve y el dilema de la serie PTF son lo más riguroso de la ronda. |
+| Capacidad de refutación | 9.4 | "A describe el techo, no el escape" reordena el significado de toda la intervención de A. |
+| Reconocimiento honesto de debilidades | 9.5 | Tres retiros contra su propio interés más tres concesiones tácticas explícitas. Cierra su pasivo documental. |
+| Consistencia interna | 8.8 | Coherente; pero la concesión causal reduce el valor probatorio del capítulo financiero sin que B lo compense. |
+| Foco en el tema | 8.4 | Sólido en RMB/CIPS/mBridge, aunque el centro de gravedad se desplaza hacia complejidad y chips. |
+| Relevancia práctica | 8.9 | El criterio de falsación post-2025 con serie especificada es directamente verificable. |
+| Sostener la posición hasta el final | 9.3 | El Régimen 2 sale de la ronda reforzado por la propia formulación del rival. |
+
+**Puntaje total B — Ronda 10: 9.1/10**
+
+---
+
+### 4. Evaluación del Especialista D (Tecnología/IA)
+
+**Suficiencia del nodo SMIC 7nm para robots gen-3.** D hizo lo que ningún debatiente había hecho: fijar un estándar de referencia comercial verificable en lugar de discutir en abstracto. El Jetson AGX Thor (TSMC 4NP, ~5nm EUV, 2,070 TOPS FP4 a 130W, 128GB) como referencia gen-3, contra el Orin (Samsung 8nm, ~100 TOPS a 25W) como gen-2, convierte una disputa cualitativa en un umbral medible. La conclusión —el controlador principal requiere 4-5nm; los MCUs periféricos de 14-45nm sí están al alcance de SMIC; "la restricción es el cerebro AI, no los actuadores"— es una desagregación técnica de primer orden que ambas partes deberán respetar. El matiz de arquitectura híbrida (chiplets, enfoque Kirin 9000s, ~60-70% de eficiencia funcional para manufactura estructurada) está correctamente etiquetado [EC] y evita el error simétrico de declarar la brecha insalvable.
+
+**Corrección técnica sobre HBM.** Es el hallazgo más valioso de la ronda. B implicaba que la ausencia de EUV bloquea el HBM chino; D demuestra que la premisa es errónea: los dies DRAM internos de HBM3 operan en 12-16nm, plenamente compatibles con DUV, y CXMT ya opera a 17nm en DRAM convencional. La complejidad real está en TSV (diámetro ~5µm, pitch ~8-10µm), bonding híbrido con tolerancias sub-micrónicas y yield de apilamiento de 8-12 dies — un problema de know-how de empaquetado y curva de aprendizaje, no de litografía. La conclusión calibrada (2026 sampling; 2027-2028 producción inicial 10-15K wpm por debajo de SK Hynix; 2029-2032 posible 40-60% del ancho de banda de frontera; retraso de 3-5 años) es exactamente el tipo de gradación temporal que el debate necesitaba. **Corrección técnica correcta y bien fundamentada.** Nota: las proyecciones de capacidad de Morgan Stanley (10,000 wpm fin 2026; 40,000 wpm fin 2028) están correctamente etiquetadas [PI]/[EI] y **requieren verificación adicional** por su alta incertidumbre.
+
+**Corrección sobre ISO 20022 / SWIFT.** D confirma a B "sin posibilidad de refutación técnica" y ancla la distinción con precisión de protocolo: ISO 20022 es un estándar de datos (formato, semántica, esquema); SWIFT es red de transporte (autenticación, routing, entrega garantizada). La analogía HTML/CDN es didácticamente exacta. Esto resuelve el reto que A dirigió a D en contra de A: adoptar ISO 20022 en CIPS no produce independencia de mensajería. D documenta además qué sí hace la actualización de febrero 2026 —arquitectura de liquidación mixta RTGS/TNS, extensión multi-divisa, ampliación de tipos de negocio— y qué no hace: no toca la arquitectura de mensajería, y la relación CIPS-Direct / participantes indirectos vía SWIFT permanece intacta.
+
+**Nuevos hallazgos que cambian el debate:**
+1. **CXMT puede alcanzar HBM3 sin EUV** — reduce el peso de una barrera que B había tratado como estructural y favorece a A en el horizonte 2028-2032.
+2. **La brecha de compute gen-2→gen-3 es de ~20×** (100 TOPS vs. 2,070 TOPS), y D afirma explícitamente que no se cierra con chiplets a nodo inferior. Esto es más severo de lo que A admitía y cuantifica por primera vez la magnitud del rezago.
+3. **La convergencia de SWIFT hacia ISO 20022 (obligatoria desde noviembre 2025) reduce el incentivo de migración a CIPS-Direct** y puede *retardar* la independencia de mensajería china. Es un efecto paradójico que ningún debatiente había considerado y que satisface el mandato de aportar un cuerpo de evidencia nuevo.
+4. **Horizonte 2030-2035 para que CIPS supere el 50% sin SWIFT**, con aritmética expuesta y dos condiciones necesarias declaradas.
+
+**Conducta de rol.** D informó y no arbitró. Su cierre —"la evidencia técnica respalda más robustamente a B en el horizonte 2026-2030... pero la brecha es más superable de lo que sugiere B y mayor de lo que sugiere A", y "los datos técnicos no resuelven la pregunta de valor sobre qué significa competir exitosamente"— es exactamente la postura correcta: delimita lo que la técnica decide y lo que no. Etiquetado de cuatro niveles íntegro, 14 fuentes verificables, aritmética expuesta en las derivaciones.
+
+**Puntaje del Especialista D — Ronda 10: 9.4/10.** Segundo aporte especializado más alto del debate, tras F en R9 (9.5). Descuenta levemente por el horizonte "2030-2035" para CIPS, cuya aritmética de conversión de participantes es más cualitativa que la de sus otras estimaciones.
+
+---
+
+### 5. Ganador de la ronda
+
+**Ganador de Ronda 10: Agente B (Crítico)**
+**Puntajes: B 9.1 — A 8.6 · Margen: 0.5**
+**Nivel de confianza: Alto**
+
+**Razón principal.** B gana por tres factores convergentes. Primero, cumplió el reto más exigente de la ronda (R10-2) con el análisis lógicamente más riguroso presentado: la distinción entre maduración del capital robótico y creación de nuevas tareas invalida la inferencia temporal de A tal como fue formulada, y el dilema de la serie de PTF (Reto A-10-2) deja a A sin salida sin coste. Segundo, la reconducción de la vía intermedia al Régimen 2 es una refutación que opera sobre la concesión que el propio A hizo — B no necesitó evidencia nueva para ganar terreno decisivo. Tercero, R10-3 saldó el único pasivo estructural que B arrastraba desde R6, mediante tres retiros contra su propio interés, lo que eleva su credibilidad probatoria de cara al veredicto final.
+
+**Por qué el margen no es mayor.** A tuvo su mejor ronda procedimental del debate: cumplió los cuatro retos vinculantes, produjo la distribución de probabilidad más disciplinada presentada por cualquier debatiente, y su contraataque causal sobre el RMB obtuvo una concesión relevante de B que reduce el valor probatorio del capítulo financiero para la tesis del Régimen 2. Además, D corrigió a B en HBM, mostrando que una de sus barreras estructurales es superable. El margen de 0.5 refleja que B ganó el terreno conceptual mientras A ganó el terreno de conducta epistémica.
+
+**Nota de valor.** El nudo real de la ronda no es empírico sino definicional: si "competir exitosamente con las democracias liberales" significa igualar la frontera tecnológica, B tiene razón; si significa sostener un modelo económico-político viable y dominante en un bloque de $27.8T, A tiene un caso. D lo declaró explícitamente: "los datos técnicos no resuelven esa pregunta de valor". El veredicto final deberá resolver esa ambigüedad definicional de forma expresa y tratar los dos componentes de la moción por separado.
+
+---
+
+### 6. Marcador acumulado — Rondas 1 a 10
+
+| Ronda | Tema | Especialista | Ganador | Puntajes (A — B) | Margen |
+|---|---|---|---|---|---|
+| 1 | Enmarcado y tesis centrales | — | Empate técnico | 8.0 — 8.0 | 0.0 |
+| 2 | Desempeño económico y crecimiento | — | B | 8.1 — 8.5 | 0.4 |
+| 3 | Estabilidad política y legitimidad | C | A | 8.6 — 8.2 | 0.4 |
+| 4 | Innovación y capacidad tecnológica | D | B | 8.3 — 8.8 | 0.5 |
+| 5 | Instituciones, corrupción y Estado de derecho | C | B | 8.2 — 8.9 | 0.7 |
+| 6 | Modelo social y desigualdad | — | A | 8.7 — 8.4 | 0.3 |
+| 7 | Semiconductores y control tecnológico | D | B | 8.4 — 9.0 | 0.6 |
+| 8 | Geopolítica de alianzas | E | B | 8.7 — 8.9 | 0.2 |
+| 9 | Demografía y trampa del ingreso medio | F | B | 8.6 — 9.1 | 0.5 |
+| 10 | Renminbi y desdolarización | D | **B** | **8.6 — 9.1** | **0.5** |
+
+**Marcador de rondas: B 7 — A 2 — Empates 1**
+
+**Suma acumulada de puntajes (R1-R10): A 84.2 — B 87.9**
+**Promedio acumulado tras diez rondas: A 8.42 — B 8.79**
+**Ventaja media de B por ronda: 0.37**
+
+**Aportes especializados:** C (R3, R5), D (R4, R7, R10 — 9.4 en R10), E (R8 — 9.3), F (R9 — 9.5).
+
+**Lectura del acumulado.** B consolida su liderazgo: siete rondas de diez, con la ventaja media creciendo de 0.24 (tras R9) a 0.37 (tras R10). El patrón identificado tras R9 se confirma: A gana las rondas de dimensión social e interna (R3, R6) y pierde sistemáticamente las de dimensión tecnológica, estructural y financiera (R2, R4, R5, R7, R8, R9, R10). El problema estratégico de A —ser riguroso sin ser cedente— sigue sin resolverse: su conducta epistémica es la mejor del debate y su pasivo documental es cero por tercera ronda consecutiva, pero cada concesión honesta transfiere terreno probatorio. En R10 la transferencia fue máxima: A entregó la definición operativa de su propio techo.
+
+La debilidad recurrente de B —afirmaciones sin documentar en posiciones decisivas, presente en cuatro rondas consecutivas— quedó **saldada en R10-3** mediante tres retiros verificables. Con ese pasivo cerrado, el factor que más podía erosionar la ventaja de B en el veredicto final ha sido neutralizado por el propio B. Persiste, atenuada, una nueva instancia menor (TSMC 3nm en el bloque intermedio, sin fuente) que queda anotada.
+
+**Estado de la moción tras diez rondas.** El componente de **sostenibilidad** sigue resistiendo mejor: ningún especialista ha respaldado un escenario de ruptura, y A y F convergen en asignar solo 10-20% al escenario de desaceleración severa. El componente de **competir exitosamente con las democracias liberales** se ha deteriorado en R10 por vía inesperada: no por evidencia nueva de B, sino porque la mejor formulación de A resultó describir el Régimen 2. Los dos componentes siguen apuntando en direcciones distintas y el veredicto final deberá resolverlos por separado, con una definición operativa expresa de "competir exitosamente".
+
+---
+
+### 7. Apertura de Ronda 11 — Taiwán, Mar del Sur de China y riesgo de conflicto
+
+**Especialista de Ronda 11: Agente E (Geopolítica).**
+**Orden de intervención:** A abre → B responde → E cierra con aporte especializado.
+
+#### Pregunta central de R11
+
+¿El riesgo de conflicto en Taiwán y el Mar del Sur de China es un factor que **valida** el modelo autoritario chino —por su capacidad de sostener una estrategia coercitiva de largo plazo sin ciclos electorales, movilizar recursos sin restricción parlamentaria y absorber costos de corto plazo— o un factor que **lo desestabiliza estructuralmente**, por la prima de riesgo geopolítico que impone sobre inversión extranjera, cadenas de suministro y acceso a mercados? Y, en cualquiera de los dos casos, ¿cómo se integra ese riesgo con el marco del Régimen 2: la meseta de ingreso medio-alto hace el conflicto más probable, menos probable, o es independiente de él?
+
+#### Retos específicos para A en Ronda 11
+
+1. **R11-A-1 (prioridad absoluta) — Responder el Reto A-10-1 pendiente de B.** ¿A qué tasa de crecimiento del PIB per cápita conduce el escenario de exportación de complejidad media-alta al bloque de $27.8T? Si no supera el 4-4.5% anual sostenido post-2030, China no cruza los $22K per cápita antes de 2040 con su estructura demográfica actual. A debe producir la aritmética o conceder el punto.
+2. **R11-A-2 (prioridad absoluta) — Responder el Reto A-10-2 pendiente de B.** Declarar con qué serie de PTF fundamenta la inferencia de J-curve. Si usa PWT v11.0 con GDP oficial (+2.3%/año), acepta que la reversión ya ocurrió y pierde la predicción de umbral 2020-2025. Si usa la serie Wu-ajustada, la J-curve no está verificada. **No puede usar ambas.** Elegir una, con las consecuencias.
+3. **R11-A-3 — Recuperar la distinción entre sostenibilidad y competitividad.** A concedió en R10 que el techo de la vía intermedia puede coincidir con el Régimen 2. Debe declarar expresamente si sigue defendiendo la moción en su sentido pleno o si la defiende en la versión acotada "sostenibilidad sin convergencia". Si es lo segundo, debe argumentar por qué esa versión acotada satisface el predicado "competir exitosamente con las democracias liberales".
+4. **R11-A-4 — Sobre el tema.** Especificar el mecanismo por el cual la capacidad de sostener una estrategia coercitiva multidécada sin alternancia electoral constituye una **ventaja competitiva del modelo**, y no meramente una característica del régimen. Debe distinguir entre disuasión sostenida y escalada, y cuantificar el costo económico que China ya paga hoy por la prima de riesgo geopolítico (inversión extranjera directa, relocalización de cadenas de suministro, costo de seguros marítimos).
+5. **R11-A-5 — Prohibición de simetría fácil.** No basta con señalar que las democracias también incurren en costos de política exterior. A debe demostrar la ventaja **neta** del modelo chino en gestión de riesgo geopolítico prolongado, con evidencia.
+6. **R11-A-6 — Corregir la métrica PPP.** El bloque de $27.8T está medido en PPP. A debe declarar la magnitud nominal equivalente aproximada y argumentar cuál es la métrica pertinente para la absorción de exportaciones de bienes de capital y tecnología.
+7. Etiquetado de cuatro niveles obligatorio; horizontes datados 2027, 2030, 2035.
+
+#### Retos específicos para B en Ronda 11
+
+1. **R11-B-1 (prioridad absoluta) — Mecanismo causal explícito conflicto → Régimen 2.** Tras conceder en R10 que la limitación del RMB es consecuencia y no causa, B debe evitar repetir el patrón: debe declarar desde el inicio si el riesgo de conflicto es causa, consecuencia o concomitante del Régimen 2, y sostener esa elección con mecanismo. Si vuelve a ser "consecuencia", B debe reconocer que R11, como R10, aporta corroboración sintomática y no evidencia causal independiente.
+2. **R11-B-2 — Cuantificar la prima de riesgo.** B ha invocado la restricción geopolítica en cuatro rondas. Debe cuantificarla: ¿en cuántos puntos porcentuales del crecimiento potencial, o en qué magnitud de flujos de IED y de costo de capital, se traduce el riesgo Taiwán? Sin cifra con fuente y aritmética expuesta, el argumento no podrá ser tratado como decisivo en el veredicto final.
+3. **R11-B-3 — Documentar la afirmación TSMC 3nm.** La afirmación de R10 sobre que el bloque intermedio comprará TSMC 3nm para aplicaciones críticas y SMIC 7nm para las de menor exigencia quedó sin fuente ni etiqueta. Documentarla o retirarla, con el mismo estándar de R10-3.
+4. **R11-B-4 — Incorporar la corrección de D sobre HBM.** D demostró que EUV no es la barrera fundamental para HBM y que la restricción es TSV/bonding, con retraso de 3-5 años y no permanente. B debe reformular su argumento de restricción tecnológica incorporando esa corrección, o explicar por qué un retraso de 3-5 años en HBM sigue siendo suficiente para sostener el Régimen 2 en el horizonte 2030-2040.
+5. **R11-B-5 — Riesgo simétrico.** El Régimen 2 predice meseta, no ruptura. B debe explicar cómo un escenario de conflicto o de coerción prolongada es compatible con una meseta y no con una desaceleración severa — es decir, mantener la disciplina de su propio marco y no importar el escenario de cola.
+6. **R11-B-6 — Sin lenguaje de colapso.** Aplica con especial rigor en R11: el tema invita a la retórica catastrofista. La tesis de B es la meseta, no la ruptura.
+7. Etiquetado de cuatro niveles obligatorio, con aritmética expuesta en todos los [EC], incluida la corrección del [EC] de mBridge (<3% del PIB mundial) que quedó sin derivación en R10.
+
+#### Reto para el Especialista E (Geopolítica)
+
+1. **R11-E-1** — Informar, no arbitrar. Estándar de referencia: F en R9 (9.5) y D en R10 (9.4). Etiquetado de cuatro niveles y aritmética expuesta.
+2. **R11-E-2** — Evaluar el estado material de la disuasión en el Estrecho: capacidad anfibia y logística real, ventana temporal de modernización del EPL, papel de la ambigüedad estratégica estadounidense y de las capacidades de Japón, Australia y Filipinas. Distinguir **capacidad** de **intención** y de **probabilidad**, tres magnitudes que se confunden sistemáticamente en este debate.
+3. **R11-E-3** — Producir una **distribución de probabilidad datada** de escenarios para el horizonte 2026-2035: statu quo con coerción de zona gris; bloqueo/cuarentena; conflicto abierto; resolución negociada. Con condiciones observables que moverían cada asignación, al estilo de F en R9.
+4. **R11-E-4** — Cuantificar, en la medida en que la literatura lo permita, el **costo económico del escenario de zona gris sostenida** (el más probable) para China: IED, seguros marítimos, controles de exportación adicionales, fragmentación de cadenas. Es el insumo que B necesita para R11-B-2 y que A necesita para R11-A-4; E debe proveerlo de forma neutral.
+5. **R11-E-5** — Pronunciarse sobre la **interacción entre semiconductores y geopolítica**: si el riesgo de Taiwán acelera o retarda el desacoplamiento tecnológico documentado por D, y qué implica para el horizonte 2028-2032 de CXMT/SMIC.
+6. **R11-E-6** — Identificar al menos un cuerpo de evidencia que ningún debatiente haya considerado, y declarar expresamente cualquier límite de su mandato disciplinar.
+
+#### Qué debe establecerse en Ronda 11 para avanzar el debate
+
+1. **La dirección causal del riesgo geopolítico respecto del Régimen 2**, declarada por ambas partes al inicio y sostenida con mecanismo.
+2. **Una magnitud, no una dirección.** El riesgo geopolítico ha sido invocado cualitativamente durante diez rondas. R11 debe producir al menos una cifra defendible de su costo económico, con fuente y aritmética.
+3. **La resolución de los dos retos pendientes de A (A-10-1 y A-10-2).** Son los únicos retos vinculantes no cerrados del debate. Si A no los resuelve en R11, el árbitro los computará como concedidos en el veredicto final.
+4. **La definición operativa de "competir exitosamente".** R10 demostró que el desacuerdo central ya no es empírico sino definicional. Ambas partes deben ofrecer su definición operativa expresa, con criterios verificables.
+5. **La distinción capacidad / intención / probabilidad** en materia militar, establecida por E y respetada por ambos debatientes.
+
+---
+
+**Nota de alcance:** esta es una evaluación parcial de Ronda 10, no un veredicto. El resultado de esta ronda es un insumo entre varios para el veredicto final de Fase 5.
+
+**Afirmaciones que requieren verificación adicional:** (1) el dato de A sobre "26 millones de modelos de IA entrenados y desplegados" [CAICT 2024], en magnitud y definición; (2) la métrica PPP vs. nominal del bloque de $27.8T para absorción de bienes de capital; (3) la afirmación de B sobre TSMC 3nm en el bloque intermedio, sin fuente; (4) el [EC] de A del 20% de mensajería CIPS autónoma, base del "núcleo autónomo" de $4.89tn; (5) las proyecciones de capacidad HBM de CXMT (Morgan Stanley), etiquetadas [PI]/[EI] por D con alta incertidumbre declarada.
+
+**Nota de revisión humana:** el debate versa sobre materia económica, geopolítica, tecnológica y regulatoria de alto impacto. Tanto las evaluaciones parciales como el veredicto final **requieren revisión humana** antes de ser utilizados como base de decisión. Esta advertencia se refuerza para la Ronda 11, cuyo objeto —riesgo de conflicto militar— es de máxima sensibilidad.
+
+---
+
+*Fin de la evaluación del Árbitro G — Ronda 10*
+
