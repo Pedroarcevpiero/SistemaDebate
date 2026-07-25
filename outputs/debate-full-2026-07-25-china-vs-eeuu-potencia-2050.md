@@ -2192,3 +2192,169 @@ Sin embargo, eso no es necesario para ser la primera potencia económica y tecno
 
 **Reto 2:** Si en 2035 se cumplen simultáneamente: (a) China mantiene crecimiento de 3-4% anual; (b) el dólar pierde 5 puntos porcentuales adicionales de participación en reservas globales; (c) la transición energética global alcanza el 60% de energías renovables con cadenas de suministro chinas como columna vertebral — ¿bajo qué escenario específico EE.UU. mantiene la primacía global en 2050? ¿Qué variable bisagra cambia el resultado?
 
+
+## Análisis Especialistas E+G — Ronda 8 (Alianzas/Soft Power 5% + Energía/Cadenas de Suministro 5%)
+
+**Leyenda:** [DO] Dato objetivo verificable · [PI] Proyección incierta · [EC] Evidencia contestada · [EI] Evidencia insuficiente
+
+---
+
+### 1. Verificación factual: BRI y BRICS
+
+**BRI — alcance real vs. alcance nominal**
+
+- [DO] ~149-152 países han firmado algún MoU de BRI. **Pero un MoU de BRI no es un tratado**: no genera obligación vinculante, no tiene cláusula de defensa, y es rescindible unilateralmente. Italia salió del BRI en diciembre de 2023 sin costo material — **prueba empírica de la baja fricción de salida**.
+- [EC] "$1.3T comprometidos": la cifra depende de si se cuentan compromisos acumulados desde 2013 (contratos de construcción + inversión no financiera) o desembolsos reales. Fudan/GFDC estima ~$1.17-1.34T acumulado 2013-2024 en *engagement* (contratos + inversión), no en capital desembolsado. **A infla al presentar compromiso como capacidad desplegada.**
+- [DO] El pico BRI fue 2016-2019; el promedio anual actual está por debajo del pico, con reorientación a proyectos "small and beautiful". Esto es una **corrección estructural**, no expansión.
+
+**BRICS expandido — poder real vs. agregación estadística**
+
+- [DO] ~40% del PIB mundial en PPP correcto. **Pero en PIB nominal (métrica relevante para poder financiero), BRICS+ ronda ~28-29%, frente a ~43-45% del G7.** La elección de PPP por parte de A maximiza su caso.
+- [DO] El bloque **no tiene secretaría permanente, presupuesto común, ni mecanismo de decisión vinculante**. El Nuevo Banco de Desarrollo **suspendió préstamos a Rusia en 2022 por temor a sanciones secundarias del Tesoro** — evidencia directa de que el bloque no puede aún operar fuera del perímetro del dólar. Este es el hecho más dañino para la tesis de A en esta dimensión.
+- [DO] Arabia Saudita **nunca confirmó formalmente su adhesión plena** al BRICS — estatus ambiguo.
+
+### 2. Cadenas de suministro de energía limpia — verificación
+
+Los datos de A aquí son los **más sólidos de toda su presentación en R8**:
+
+- [DO] Manufactura solar: China concentra **>80% en cada etapa** (polisilicio ~93%, obleas ~97%, celdas ~85%, módulos ~80%+). Fuente: IEA Solar PV Global Supply Chains. El dato "4 de 5 módulos" es correcto y conservador.
+- [DO] Baterías: ~75-80% de la capacidad global de celdas; ~90%+ de ánodos de grafito; ~70-80% de cátodos. CATL+BYD ≈ >50% del mercado global.
+- [DO] Tierras raras: ~60-70% de la minería, pero **~90% de la separación/refinación** y ~90-93% de imanes permanentes NdFeB. **El cuello de botella real es refinación e imanes, no mineral** — A lo formula correctamente.
+- [DO] Concentración de suministro subiendo de ~82% a ~86% (2020-2024): consistente con IEA Global Critical Minerals Outlook 2025. **La política industrial occidental aún no ha revertido la tendencia.**
+
+**¿Diversificable a 2050? [PI]** Los horizontes de sustitución son de 5-15 años. A 2050 hay espacio temporal suficiente para 2-3 ciclos completos de sustitución en refinación, aunque no necesariamente en minería. Evidencia de que la sustitución ya ocurre: MP Materials escalando separación con contrato del DoD; Lynas (Australia/Texas); capacidad de celdas de batería en EE.UU. multiplicándose por IRA.
+
+**Contrafactual fuerte**: la ventaja china no es solo capacidad instalada, es **estructura de costos**. Módulos solares chinos operan por debajo de costos occidentales por factores de 2-3x; capacidad occidental sobrevive solo con aranceles y subsidios.
+
+### 3. Controles de exportación chinos — efectividad
+
+- [DO] **Tierras raras pesadas + imanes (abril 2025)**: el episodio más consecuente. Provocó paradas de línea documentadas en fabricantes automotrices en Europa, India y EE.UU. (Ford, Suzuki). Fue factor central en la tregua de Ginebra/Londres de mayo-junio 2025. Demuestra **apalancamiento coercitivo real y de acción rápida**.
+- [DO] Contrapunto: los controles estadounidenses sobre litografía EUV/DUV avanzada han impuesto un techo tecnológico a China que China no ha podido eludir en el nodo de vanguardia. **Ambos lados tienen puntos de estrangulamiento de naturaleza distinta**: el chino es de insumos materiales (sustituible con capital y tiempo); el estadounidense es de conocimiento tácito y equipos de capital (más difícil de replicar).
+- [EC] **Efecto de segundo orden en contra de China**: cada activación de controles acelera la diversificación de los compradores. El uso del arma reduce su vida útil. Simétrico al efecto de weaponización del dólar.
+
+### 4. Alianzas americanas vs. redes chinas
+
+| Dimensión | EE.UU. | China |
+|---|---|---|
+| Tratados de defensa mutua | ~5 tratados que cubren >30 países (OTAN, Japón, Corea, Australia/ANZUS, Filipinas) [DO] | 1: Corea del Norte (Tratado de 1961) [DO] |
+| Tropas en el exterior | ~170,000-200,000 en ~80 países; ~750 instalaciones [DO] | ~1 base plena (Yibuti) + acceso en Camboya/Tayikistán [DO] |
+| Redes económicas | Acuerdos comerciales, alianza tecnológica, control de nodos financieros | BRI, RCEP, SCO, BRICS+; **China es el mayor socio comercial de ~120-140 países** [DO] |
+
+- [DO] El activo relacional real de China es **comercial, no militar**: ser el principal socio comercial de la mayoría del mundo genera influencia estructural sostenida. Este es un poder genuino y **subestimado por marcos centrados en tratados**.
+- [DO] El activo relacional de EE.UU. es **agregativo en poder duro**: OTAN + Japón + Corea + Australia suma ~50%+ del PIB nominal mundial y ~55-60% del gasto militar global. **China no tiene nada remotamente equivalente y no hay ruta visible para construirlo a 2050** dado que sus vecinos de mayor capacidad (Japón, India, Corea, Vietnam) se equilibran contra ella.
+
+### 5. Puntuación IPNI provisional R8
+
+**Sub-dimensión: Alianzas y Soft Power (5%)**
+
+| Actor | Puntaje /10 |
+|---|---:|
+| **EE.UU.** | 7.6 |
+| **China** | 5.4 |
+
+EE.UU. mantiene el único sistema mundial de alianzas de defensa vinculantes e interoperables. Penalizado desde ~8.7 hasta 7.6 por **riesgo de credibilidad autoinfligido**: volatilidad de compromiso y deterioro medible de la confianza aliada 2024-2026. China obtiene puntaje sólido-medio por amplitud sin profundidad: liderazgo comercial con ~120-140 países y presencia institucional real; penalizada por una sola alianza de defensa, NDB inhibido por sanciones secundarias del dólar, y percepción negativa persistente en economías avanzadas.
+
+**Sub-dimensión: Energía y Cadenas de Suministro (5%)**
+
+| Actor | Puntaje /10 |
+|---|---:|
+| **China** | 8.3 |
+| **EE.UU.** | 5.9 |
+
+China domina de forma verificada y documentada prácticamente todas las etapas de la cadena de energía limpia, con concentración creciente y apalancamiento coercitivo demostrado (abril 2025). No alcanza 9+ por tres factores: (a) **China importa ~70-73% de su petróleo por rutas marítimas vulnerables (Malaca) que no controla militarmente — omisión significativa de A en R8**; (b) el arma de exportación tiene vida útil decreciente; (c) horizonte 2050 permite múltiples ciclos de sustitución.
+
+**Agregado R8 (10% del IPNI)**
+
+| Actor | Puntos IPNI de 10 |
+|---|---:|
+| **China** | 6.85 |
+| **EE.UU.** | 6.75 |
+
+**R8 es prácticamente un empate (+0.10 a favor de China).** China gana claramente energía/cadenas; EE.UU. gana claramente alianzas. El factor de mayor varianza a 2050 es la credibilidad sostenida del compromiso de alianza estadounidense: si se degrada estructuralmente, R8 pasa a favorecer claramente a China.
+
+**Nota:** A debe ser penalizado por la omisión de la dependencia de importación de petróleo del ~70% de China y la vulnerabilidad del Estrecho de Malaca en una dimensión titulada "Energía".
+
+
+## Intervención del Oponente — Ronda 8
+
+### Respuesta directa al argumento anterior
+
+A presenta un argumento en dos ejes: influencia estructural vía BRI/BRICS/SCO, y dominio de cadenas de suministro en energía limpia. Ambos son reales pero están severamente sobreextendidos.
+
+Sobre el eje de alianzas: A equipara presencia geográfica con poder vinculante. Son categorías distintas. 149 países firmaron documentos BRI — muchos de ellos son acuerdos de cooperación, no compromisos de defensa. Que Arabia Saudita y EAU estén en BRICS no significa que defenderían a China militarmente. Los foros políticos amplifican el voto en la ONU; no reemplazan las obligaciones del Artículo 5 de la OTAN ni los tratados bilaterales con Japón, Corea del Sur o Filipinas.
+
+---
+
+### Argumento central
+
+**Primero: 32 alianzas formales vs. cero alianzas de China.**
+
+[DO] EE.UU. mantiene 31 aliados OTAN con obligación legal de defensa mutua (Artículo 5), más tratados bilaterales legalmente vinculantes con Japón (Tratado de Seguridad de 1960), Corea del Sur (Tratado de Defensa Mutua de 1953), Australia (ANZUS), Filipinas (MDT de 1951) y Tailandia. Estos tratados movilizan fuerzas reales, bases reales y disuasión nuclear creíble.
+
+La SCO no tiene cláusula de defensa colectiva. El BRICS no tiene mecanismo de respuesta militar. [DO] Cuando India tuvo un choque fronterizo con China en Galwan en 2020, la SCO fue irrelevante. La diferencia entre una alianza formal y un foro político es la diferencia entre un contrato y una declaración de intenciones.
+
+**Segundo: El soft power americano resiste.**
+
+La Universidad Abierta de Internet está en inglés. El sistema financiero global opera en dólares y bajo ley de Nueva York o Londres. [DO] En 2023-24, EE.UU. recibió más de 1.1 millones de estudiantes internacionales, un récord histórico (IIE). India, que A presenta como pivote hacia China, envió 331,602 estudiantes a EE.UU. — un aumento del 23% en un solo año.
+
+**Tercero: El BRI de 2026 no es el BRI de 2016.**
+
+[DO] El flujo de nuevos préstamos chinos a través del BRI se ha reducido drásticamente. Según AidData, el 60% de los países BRI estaban en sobreendeudamiento en 2023, frente al 5% antes de 2013. China ya negoció reestructuraciones con Zambia, Etiopía, Kenia, Sri Lanka, Pakistán e Indonesia. El total de deuda en servicio a bancos chinos supera ya el total de nuevos préstamos — China está en modo de recuperación de cartera, no de expansión estratégica.
+
+A concedió resistencia en Sri Lanka, Zambia y Pakistán, pero no extrajo la consecuencia lógica: si los países pilares del BRI están en reestructuración, el modelo de dependencia operacional que A describe ya está erosionado desde adentro.
+
+**Cuarto: La respuesta americana a la dependencia en minerales críticos es concreta.**
+
+[DO] El IRA comprometió $369B en manufactura limpia, generando más de $388B en inversiones anunciadas en baterías, VE, solar y semiconductores. La Minerals Security Partnership — 15 naciones incluyendo Australia, Canadá, India, Japón, Corea del Sur y la UE — ya tiene 32 proyectos activos, con 7 alcanzando hitos clave en 2024. [DO] El proyecto de Lynas Rare Earths (Australia-EE.UU.) combinó financiamiento de $250-300M para procesamiento de tierras raras en Texas.
+
+**Quinto: La dependencia en energía limpia es bilateral.**
+
+A plantea un "dilema americano" sobre aranceles. Pero el dilema existe en ambas direcciones. [DO] China exporta el 80% de su producción de paneles solares y baterías. EE.UU. y Europa son sus mercados más grandes. Si EE.UU. impone aranceles y construye capacidad propia, China pierde acceso al mercado más solvente del mundo para su sector industrial más estratégico.
+
+---
+
+### Evidencia usada
+
+- [DO] Council on Foreign Relations — "The Rise and Fall of the BRI": contracción del modelo de financiamiento chino.
+- [DO] Stanford FSI — Debt Distress on China's BRI: 60% de países BRI en sobreendeudamiento en 2023.
+- [DO] IIE — 1.1 millones de estudiantes internacionales en EE.UU. en 2023-24, récord histórico.
+- [DO] Manufacturing Dive / EESI — $388B en inversiones anunciadas vía IRA; capacidad solar proyectada para 2025 más que duplicada vs. línea base pre-IRA.
+- [DO] U.S. State Department — MSP Principals' Meeting 2024: 32 proyectos activos de minerales críticos.
+- [DO] CSIS — U.S.-Australia Critical Minerals Framework: proyecto Lynas Texas $250-300M.
+
+---
+
+### Ataque al punto débil del proponente
+
+El argumento de A sobre el BRI descansa en un supuesto que sus propios datos refutan: que 149 países firmantes equivalen a 149 dependencias estratégicas consolidadas. El flujo de nuevos préstamos chinos a través del BRI cayó más del 50% desde su pico en 2016. China ya no puede financiar el modelo original — está en modo de recuperación de deuda con 60+ países. Un instrumento que genera más renegociaciones que construcciones no crea dependencia: crea resentimiento. 
+
+La pregunta que A no respondió: si el BRI genera la dependencia que describes, ¿por qué los países más endeudados con China son los que más activamente buscan salida del modelo?
+
+---
+
+### Concesión limitada
+
+El dominio de China en manufacturas de energía limpia es real, masivo y no se revierte en un quinquenio. Cuatro de cada cinco módulos solares del mundo se fabrican en China. El control del 90% del refinamiento de tierras raras no desaparece por decreto. Los controles de exportación de galio, germanio y grafito ya causaron disrupciones verificables. La Minerals Security Partnership y el IRA son respuestas en construcción, no soluciones consolidadas. Concedo que el intervalo 2025-2035 será de vulnerabilidad real para EE.UU. en este eje.
+
+---
+
+### Respuesta a los retos de A para R9
+
+**Reto 1 — Ruta concreta para descarbonizar EE.UU. sin China:**
+
+No existe ruta de cero dependencia en el corto plazo. La estrategia americana es diversificación de riesgo, no autarquía. Tres pilares simultáneos: (a) manufactura doméstica acelerada vía IRA — ya duplicó la capacidad solar proyectada para 2025; (b) abastecimiento aliado — Australia, Canadá, Chile y Congo como proveedores alternativos bajo contratos de largo plazo garantizados por la MSP; (c) reciclaje y eficiencia — la UE y EE.UU. tienen programas activos de reciclaje de baterías que reducen la dependencia en extracción primaria.
+
+**Reto 2 — Variables bisagra para mantener primacía americana:**
+
+Tres variables con poder causal directo: Primera, el desempeño de la economía china 2026-2032 — si cae por debajo del 3-4% por la trampa de la renta media y la crisis demográfica, el modelo de primacía pierde su premisa. Segunda, la cohesión de las alianzas americanas — si Japón, Corea del Sur e India mantienen su alineación estratégica, el cerco tecnológico y financiero se sostiene. Tercera, la gobernanza de IA — quien establezca los estándares regulatorios globales (EE.UU. con el AI Safety Institute tiene ventaja) determina quien controla el próximo ciclo tecnológico.
+
+---
+
+### Preguntas críticas para R9 — Variables bisagra disruptivas
+
+**Pregunta 1 — El escenario de fragmentación tecnológica:**
+Si para 2030 el mundo opera con dos internets parcialmente desconectadas, dos sistemas de pago digital y dos cadenas de suministro en semiconductores, ¿cuál de los dos bloques tiene mayor masa crítica de PIB, población y recursos para sostener ese sistema dual? ¿Puede China sostener tecnológicamente un bloque que incluye a Rusia, Irán, Venezuela y partes de África subsahariana, pero excluye a Europa, Japón, Corea del Sur, India e Indonesia?
+
+**Pregunta 2 — El factor Taiwán como variable de colapso o consolidación:**
+Si China intenta una acción militar o de bloqueo sobre Taiwán antes de 2035 — ya sea exitosa o fallida — ¿cómo cambia la ecuación de poder? Si falla o genera un conflicto prolongado, las consecuencias económicas para China (sanciones, corte de acceso a semiconductores TSMC, ruptura de cadenas de exportación) podrían eliminar una década de ventaja acumulada. A debe especificar en qué escenario de Taiwán su tesis de primacía china en 2050 es más o menos probable.
+
