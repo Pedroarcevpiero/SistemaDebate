@@ -7920,3 +7920,434 @@ La movilidad intergeneracional decreciente (IGE 0.52-0.58 y al alza) es un facto
 ---
 
 *Intervención del Especialista F completada. Todos los [EC] incluyen aritmética expuesta. La distribución de probabilidad suma 100% (verificación: 35+38+18+9=100). Límites de mandato declarados. La evidencia nueva (secciones 8.1-8.4) no fue abordada por ninguno de los debatientes en rondas previas. Sin pronunciamiento sobre el Predicado 1, el Predicado 2 ni la disputa definitorial resuelta en R11.*
+
+---
+
+## Evaluación del Árbitro — Ronda 12
+
+**Tema:** Legitimidad política, cohesión social y estabilidad interna
+**Especialista:** Agente F (Demografía y Política)
+**Orden ejecutado:** A abrió → B respondió → F cerró con aporte especializado
+**Definición vinculante aplicada:** Sección 8 de la evaluación de R11 (Predicado 1 / Predicado 2 / evidencia subordinada)
+**Nota de alcance:** evaluación parcial de Ronda 12, no veredicto final. El árbitro no declara ganador del debate en este punto.
+
+---
+
+### 1. Resumen de las intervenciones (A, B, F)
+
+**A (Proponente).** A respondió afirmativamente a la pregunta de la ronda en su forma negativa —la legitimidad del PCCh **no** es frágil ante desaceleraciones prolongadas— con una precisión estructural: la legitimidad es multidimensional, no monocausal. Su arquitectura argumentativa tuvo seis piezas. **Primera**, cerró el reto A-11-1 declarando el supuesto de tipo de cambio (7.0-7.5 para 2025-2030, convergencia a 6.8-7.2 en 2030-2040) y **aceptó explícitamente la corrección de B**: con depreciación de 1% anual, el umbral de crecimiento nominal sube de 3.2% a 4.2%. A adoptó 4.2% como "la cifra conservadora más defensible" [EC, aritmética expuesta: ($22,000/$13,000)^(1/15) × (8.2/7.2)^(1/15) − 1 ≈ 4.2%]. **Segunda**, cerró A-11-3 con un modelo de tres mecanismos de subordinación del EPL al liderazgo civil (CMC con Xi como Secretario General y no como jefe de Estado; reestructuración 2015-2016 de 4 departamentos generales en 15 unidades reportando directamente a la CMC; campaña anticorrupción militar que alcanzó a Xu Caihou, Guo Boxiong, Li Shangfu y Qin Gang), con una concesión sustantiva: la destitución de sus propios nombramientos revela que el control no es perfecto. **Tercera**, produjo una tipología de cuatro reservas de legitimidad (desempeño / nacionalista / capacidad estatal / ideológica-histórica) con sensibilidad diferencial declarada al ciclo económico, apoyada en Holbig-Gilley y Zhao. **Cuarta**, entregó el umbral de falsación requerido: conjunción de PIB real <2.5% por 5 años, desempleo juvenil >25% por 3 años, y pérdida de capacidad de contención de protestas con escalada translocal. **Quinta**, produjo validación externa parcial del crecimiento (luminosidad nocturna con R²=0.9385 sobre consumo eléctrico provincial; datos espejo de socios comerciales con discrepancia 2-5%) **con acotación honesta del alcance**: la evidencia proxy no puede discriminar entre 5.0% y 4.2%, solo descartar fabricación masiva. **Sexta**, ejecutó dos correcciones probatorias: corrigió la cifra de IED a $114.8-116.2B (MOFCOM, caída del 27.1%, calificada por A mismo como "dato adverso para mi posición que no minimizo") y **retiró expresamente** la afirmación de compensación Sur-Sur por falta de evidencia cuantificable. Emitió tres retos a B (B-12-1 umbral de falsación propio; B-12-2 mecanismo de conversión de protesta local en desafío sistémico; B-12-3 comparador democrático con España 55% y Grecia 60% de desempleo juvenil en 2013 sin colapso de régimen).
+
+**B (Oponente).** B respondió afirmativamente pero **reformuló su propia tesis con precisión decisiva**: la fragilidad no opera como colapso sino como **degradación funcional acumulada** —el régimen sobrevive pero pierde capacidad de movilización, cooptación y dirección estratégica—, y esa degradación es exactamente lo que le impide cruzar al ingreso alto. La frase que sintetiza la maniobra: "La sostenibilidad política del Régimen 2 y el fracaso de los Predicados 1 y 2 son la misma historia contada desde ángulos distintos." Sus componentes: **Primero**, cerró B-11-3 declarando el argumento del EPL como **escenario de cola retirado del marco central de la meseta**, con una reserva acotada (centralización formal ≠ alineación de intereses bajo estrés distributivo; relevancia en horizonte 2035-2050). **Segundo**, cerró B-11-4 reformulando su argumento bajo la definición adoptada: aritmética de convergencia relativa [EC-1] con PIB per cápita China ~$13,200, media G7 ~$55,000, ratio 24%, y la demostración de que con 4.1% chino contra 1.8% del G7 el ratio mejora solo a ~28% en 2030 y se estanca con la desaceleración proyectada por el FMI a 3.3-3.5% en 2031-2040. **Tercero**, entregó el mecanismo de transmisión que debía desde R3: cinco etapas datadas (tensión fiscal subnacional 2022-presente; fractura del contrato intergeneracional; erosión de legitimidad de desempeño 2026-2032; retracción de la capacidad de cooptación 2030-2040; rigidez institucional y meseta de capacidad estratégica 2035+), **cada una con indicadores observables y umbral de activación explícito**. **Cuarto**, impugnó el umbral de A por triple conjunción casi infalsable, incoherencia con el propio escenario de A, y ceguera a efectos de umbral no lineales, y ofreció contrapropuesta. **Quinto**, resolvió B-11-2 documentando la elasticidad capital-producto de 0.4 con fuente primaria (IMF WP "China's Path to Sustainable and Balanced Growth", 2024) y aritmética expuesta [EC-2]. **Sexto**, **retiró** el argumento de mBridge con derivación [EC-3] que muestra impacto <0.003% del PIB mundial. **Séptimo**, resolvió la discrepancia de IED distinguiendo metodologías (MOFCOM "utilizado" bruto vs. BoP neto) con explicación causal (repatriación de utilidades y repago de deuda intraempresarial por diferencial de tasas Fed >5% vs. PBOC ~3.45%), respaldada por AMRO. **Octavo**, explicó cómo se sostiene políticamente la meseta con tres pilares (represión selectiva de umbral bajo; nacionalismo compensatorio con apoyo en Guriev & Treisman 2022; redistribución de expectativas vía "prosperidad común") y la tensión central: "El Régimen 2 es autosostenido pero no autosuperador." **Noveno**, concedió que la legitimidad es más multicapa de lo que argumentó en rondas anteriores y que la reforma de jubilación 2024 muestra capacidad de ajuste institucional, acotando la concesión por la vía del canal fiscal común.
+
+**F (Especialista, Demografía y Política).** F produjo la intervención especializada más técnicamente exigente del debate junto con la de R9. **Primero**, resolvió el problema metodológico del desempleo juvenil que ningún debatiente había resuelto en once rondas: la serie NBS pre-agosto 2023 (21.3%, universo ~96M) y la serie post-enero 2024 (excluye ~33M de estudiantes, universo ~63M) **no son comparables**, y el 18.9% que B citó equivale aproximadamente a 11-12% en la metodología anterior. **Segundo**, aportó la tasa NEET de CASS (16.1%, no publicada por NBS, metodológicamente comparable con series occidentales), que es el indicador correcto y que ningún debatiente había traído. **Tercero**, desagregó la composición de las protestas (CLB 1,794 acciones en 2024 vs. 1,122 en 2023, +59.9%; construcción/inmobiliario 38%, manufactura 24%, servicios 19%, sector público/educación 12%) y localizó la señal políticamente relevante: los 215 incidentes del sector público —maestros, médicos de hospitales públicos, empleados de gobiernos locales— que sí erosionan legitimidad de desempeño por ser **incumplimiento estatal directo**, no disputa privada. Añadió ~340 incidentes por pensiones impagas y ~180 de propietarios por proyectos inacabados. **Cuarto**, produjo la anatomía del sistema de pensiones (UEBPS 504M afiliados / NRPS 569M; pensión urbana ¥3,500/mes vs. rural ¥210/mes; ratio de suficiencia rural 12% del umbral de pobreza urbana; ratio de dependencia 5.0 en 2000 → 2.7 en 2024 → 1.5-1.8 en 2035) y la aritmética del déficit: balance técnico actual **+¥1.74 billones/año de superávit**, déficit proyectado 2035 de **¥5.01 billones/año** (¥9.24T de gasto − ¥4.23T de ingresos), con la aclaración de que la cifra CASS de ¥8-10 billones es acumulada 2025-2030 y no anual estacionaria. **Quinto**, cuantificó la reforma de jubilación 2024 en ~¥1.5-2.0 billones/año a plena implementación (2039), es decir, **~40% del déficit proyectado de 2035**. **Sexto**, produjo la distribución de probabilidad datada con verificación aritmética (E1 continuidad estable 35% [28-42]; E2 continuidad con endurecimiento represivo 38% [32-45]; E3 inestabilidad localizada contenida 18% [12-25]; E4 crisis de sucesión o coalición 9% [5-14]; suma 100%; residual de colapso estatal ≈1-2% absorbido en E4) y condiciones de reversión bidireccionales. **Séptimo**, aportó la distinción conceptual de tres niveles (descontento / acción colectiva / amenaza al régimen) con métricas operacionales y umbrales de conversión anclados en Tarrow, Lichbach y Lorentzen (2013), estableciendo que ninguno de los tres mecanismos de conversión a amenaza al régimen está documentado en China 2024-2026. **Octavo**, aportó evidencia comparada (Geddes-Wright-Frantz 2014: mediana de 23 años para regímenes de partido único vs. 9 militares y 14 personales; Levitsky-Way 2010: China en la categoría de leverage bajo y linkage bajo, la de mayor resiliencia; Slater 2010; casos Vietnam y Kazajistán con límites de comparabilidad declarados). **Noveno**, cumplió R12-F-6 con cuatro cuerpos de evidencia nuevos: la interacción trampa de ingreso medio ↔ demografía con China a $13,800 justo bajo el umbral de $14,005 del Banco Mundial y salarios creciendo 7% nominal contra productividad 5-6%; el sistema de transferencias fiscales intergubernamentales de ¥10.2 billones como buffer de legitimidad **que se comprime cuando más se necesita** (ingresos fiscales centrales de 22.8% del PIB en 2015 a 18.4% en 2024); la app Xuexi Qiangguo con >100M de usuarios como caso de **cumplimiento performativo y no adhesión genuina** (Roberts et al., Stanford 2022); y el declive de la movilidad intergeneracional (IGE de 0.49 en Xie & Jin 2015 a 0.52-0.58 en CASS 2022; referencia: EE.UU. ~0.45, Dinamarca ~0.15). **Décimo**, evaluó ambos umbrales de falsación y propuso uno alternativo de cuatro condiciones. **Undécimo**, declaró seis límites de mandato y se abstuvo expresamente de pronunciarse sobre el Predicado 1, el Predicado 2 y la disputa definitorial.
+
+---
+
+### 2. Calidad argumentativa — A R12
+
+**Esta es la mejor intervención de A en todo el debate.** El árbitro lo consigna con precisión porque el marcador acumulado no lo reflejará plenamente.
+
+**Lo que A hizo excepcionalmente bien.**
+
+**(a) Cierre integral de pasivos probatorios.** A cerró en una sola intervención cinco retos abiertos —A-11-1, A-11-2, A-11-3, A-11-4, A-11-5— sin dejar ninguno pendiente ni parcialmente respondido. En once rondas ningún debatiente había hecho esto. Tres de esos cierres fueron **contra su propio interés**: aceptó el 4.2% de B sin regatear, corrigió la cifra de IED a una que documenta una caída del 27.1% calificándola de "dato adverso", y retiró la compensación Sur-Sur. El retiro de A-11-5 es especialmente meritorio: A no intentó degradar la afirmación a [EI] operativo, la **retiró como argumento cuantificado** manteniendo solo la hipótesis nominal, que es exactamente la disciplina que el árbitro requirió desde R10.
+
+**(b) Recuperación estratégica de la aritmética concedida.** A no solo aceptó el 4.2%; lo **reencuadró correctamente** bajo la definición vinculante: el umbral de $22K antes de 2040 no es condición eliminatoria, luego el efecto del tipo de cambio afecta el Predicado 2(c) "en los márgenes". Y produjo la tabla de sensibilidad completa (7.2 RMB/USD → 3.7%; 8.2 → 4.2%; 9.4 → 5.2%) que identifica la condición conjunta de ruptura: desaceleración sostenida <3.5% **y** depreciación >2% anual. Esto es análisis de escenarios honesto y bien construido. Concesión y recuperación en el mismo movimiento.
+
+**(c) El modelo de subordinación del EPL es sólido y responde al golpe estructural de R11.** Los tres mecanismos son verificables y están correctamente jerarquizados: el juramento al Partido y no al Estado es un hecho constitucional [DO]; la fragmentación 4→15 con líneas de auditoría e inspección disciplinaria directas a la CMC es una reforma documentada [DO, Wuthnow & Saunders NDU]; la purga que alcanza a nombramientos propios de Xi es evidencia de alcance de la disciplina civil. Y **A reformuló correctamente la pregunta**: no si el PCCh es perfectamente unitario —A concede que no lo es— sino si el liderazgo civil tiene control suficiente para impedir que el EPL opere como *veto player* autónomo en decisiones estratégicas de alto costo.
+
+**(d) La tipología de cuatro legitimidades con sensibilidad diferencial declarada.** Es la contribución conceptual más útil de A en el debate. No es una lista: cada tipo lleva asignado un grado de sensibilidad al ciclo económico (alta / baja / media / muy baja), lo que la convierte en una estructura **falsable por partes**.
+
+**(e) Manejo metodológico de la evidencia de encuestas.** A presentó el dato Ash Center (>80%) **junto con su propia refutación metodológica** (Truex et al., China Quarterly 2024: 50-70% bajo experimentos de lista) y defendió la inferencia acotada: el 90% oficial está inflado por sesgo de conformidad, pero persiste un piso genuino de 50-70%.
+
+**(f) Acotación explícita del alcance inferencial en A-11-2.** A no sobrevendió la luminosidad nocturna. Declaró que el R²=0.9385 valida la espacialización del consumo eléctrico, **no el número del PIB**, y que la inferencia defendible es únicamente "no hay fabricación masiva", no "el 5.0% es exacto".
+
+**Lo que A hizo mal o insuficientemente.**
+
+**(g) El umbral de falsación es defectuoso por construcción.** La conjunción lógica de tres condiciones extremas y prolongadas produce un criterio que no distingue insostenibilidad de colapso terminal. A lo agravó al reconocerlo semi-explícitamente ("este umbral es exigente porque el sistema tiene reservas... que operan como amortiguadores"), lo que convierte la exigencia del umbral en consecuencia de la tesis que el umbral debía poner a prueba. Es circularidad.
+
+**(h) Incoherencia interna entre la Sección 2 y la Sección 5.** A proyecta 4.0-4.5% para 2025-2030 y 3.5% para 2031-2040, y fija su umbral de falsación en <2.5%. B detectó esto: A ha situado su umbral de falsación **por debajo del suelo de su propio escenario más pesimista**, lo que hace que ningún desarrollo dentro de su propio espacio de escenarios pueda falsar su tesis.
+
+**(i) El reto B-12-3 (España/Grecia) es un buen argumento con un flanco no cubierto.** A no anticipó la asimetría obvia: España y Grecia disponían de válvulas institucionales (alternancia electoral, emigración intra-UE libre, transferencias del BCE y de la UE, sindicatos legales) que convierten descontento en rotación de gobierno sin cuestionar el régimen.
+
+**(j) Uso de "gasto en seguridad doméstica superior al presupuesto militar" sin cifra ni fuente.**
+
+**(k) Etiquetado.** A no usó una sola vez [EI] en la tabla, pese a que el texto contiene afirmaciones que lo requerían.
+
+**Valoración global de A en R12: sustancialmente mejor que su media del debate (8.43). La ejecución probatoria fue de primer nivel; el umbral de falsación fue el error.**
+
+---
+
+### 3. Calidad argumentativa — B R12
+
+**También es una de las mejores intervenciones de B, y la más importante en términos de arquitectura.**
+
+**(a) La reformulación de la tesis en "degradación funcional acumulada" es la maniobra más consecuente de la ronda.** B abandonó explícitamente la predicción de colapso y la sustituyó por una tesis de deterioro medible sin ruptura. Y **unificó sus dos líneas argumentativas**: la misma restricción fiscal-demográfica que degrada la legitimidad es la que impide la convergencia. Es una consolidación estructural genuina, no retórica.
+
+**(b) El mecanismo de transmisión en cinco etapas cumple y supera lo requerido.** La Etapa 2 tiene un indicador inesperado y potente —la campaña de la CAC de septiembre 2025 contra el contenido "excesivamente pesimista", que es **evidencia de que el propio régimen percibe el riesgo**—. La Etapa 5 cierra con el bucle de retroalimentación —más control → menos innovación → más estancamiento → más control— que conecta el argumento político con el de PTF del Predicado 2.
+
+**(c) El ataque interdependencia contra la tipología de cuatro legitimidades.** B no negó la existencia de las cuatro reservas —las concedió— y atacó su **independencia**: si el canal común de erosión es el estancamiento fiscal, las cuatro se degradan simultáneamente y la redundancia es aparente.
+
+**(d) Cierre de tres pasivos probatorios, dos contra su propio interés.** Documentó elasticidad 0.4 con fuente primaria del FMI; **retiró mBridge** con derivación numérica que demuestra irrelevancia; acotó espontáneamente el supuesto de PTF en [EC-2].
+
+**(e) La resolución de la discrepancia de IED es superior a la de A.** A corrigió su cifra; B explicó **por qué existen dos cifras**, qué mide cada una, cuál es la causa económica de la brecha y **cuál es la relevante para el predicado en disputa**.
+
+**Lo que B hizo mal.**
+
+**(h) La aritmética [EC-1] contiene un error no señalado.** Por la propia aritmética de B, el ratio China/G7 pasa de 24% a ~28% en 2030 y **sigue subiendo** con 3.4% chino contra 1.8% del G7 en 2031-2040. Eso **es** reducción del diferencial relativo, que es literalmente el criterio (c) tal como fue adoptado. La conclusión de B sobre el criterio (c) no se sigue de su propia aritmética.
+
+**(i) El criterio (a) de PTF se despacha en dos líneas sin serie, sin número y sin cita.**
+
+**(j) El umbral de falsación propio se satisface en su propio escenario base.** Con crecimiento proyectado de 3.3-3.5% en 2031-2040, la primera condición (<3.5%) se satisface automáticamente.
+
+**(k) "Retracción de dos de los cuatro tipos de legitimidad" no es observable** sin teoría de medición, mapeo a tipos, umbrales y periodicidad.
+
+**(l) La Etapa 3 usa la ausencia de datos como indicador:** la no replicación de la encuesta del Ash Center etiquetada como evidencia de opacidad.
+
+**(m) La tasa NEET de 10-15% [EI] quedó por debajo del dato real de CASS (16.1%).**
+
+**Valoración global de B en R12: la intervención de mayor valor arquitectónico del debate, con dos errores técnicos costosos.**
+
+---
+
+### 4. Calidad argumentativa — F R12 (Especialista Demografía/Política)
+
+**Puntaje: 9.6/10. Es la mejor intervención especializada del debate.**
+
+**(a) Resolvió el problema metodológico del desempleo juvenil.** Expuso la incomparabilidad de las dos series NBS (universo 96M → 63M) y produjo la traducción operativa: el 18.9% de B equivale a ~11-12% en la serie anterior. Desfavorable a B, producido sin atenuar.
+
+**(b) Y aportó el indicador que sí sostiene el argumento de B.** La tasa NEET de CASS (16.1%): desmontó la cifra de B y le entregó una mejor.
+
+**(c) La desagregación de protestas localizó la señal correcta.** Los 215 incidentes del sector público no son descontento privado sino incumplimiento estatal directo, cualitativamente distinto.
+
+**(d) La distinción de tres niveles es la contribución conceptual más importante de la ronda.** Operacionalizada con umbrales de conversión anclados en Tarrow, Lichbach y Lorentzen (2013), estableciendo que ninguno de los tres mecanismos de conversión está documentado en China 2024-2026.
+
+**(e) La aritmética de pensiones es la pieza cuantitativa más rigurosa del debate.** F no aceptó la cifra de CASS y la verificó: balance actual +¥1.74 billones/año (superávit, dato que ningún debatiente conocía y desfavorable a B), déficit 2035 de ¥5.01 billones/año con aritmética paso a paso. Corrigió la imprecisión de B: los ¥8-10 billones de CASS son acumulados, no flujo anual.
+
+**(f) La distribución de probabilidad cumple íntegramente el estándar.** E1 35% + E2 38% + E3 18% + E4 9% = 100%, con condiciones de reversión genuinamente bidireccionales.
+
+**(g) La evidencia comparada está bien seleccionada y honestamente acotada.**
+
+**(h) La evidencia nueva de la Sección 8 es genuinamente nueva.** Cuatro cuerpos: buffer fiscal comprimido (ingresos centrales de 22.8% a 18.4% del PIB); Xuexi Qiangguo como cumplimiento performativo (Roberts et al., Stanford 2022); declive de movilidad intergeneracional (IGE 0.52-0.58, por encima de EE.UU. ~0.45); interacción trampa de ingreso medio × demografía.
+
+**(i) La evaluación de ambos umbrales fue simétrica y correcta.** F identificó que el umbral de A de >25% desempleo juvenil usa la serie nueva, pero con la serie vieja casi se alcanzó en 2023 (21.3%).
+
+**(j) Disciplina de mandato ejemplar.** Seis límites declarados; no se pronunció sobre la disputa definitorial ni los predicados.
+
+**Los tres puntos objetables son menores:** tabla 6.1 sin aritmética expuesta; comparación del déficit con "presupuesto de defensa" analíticamente floja; no reconcilia el umbral Atlas ($14,005) con el umbral operativo del debate ($22K).
+
+**F no cambió la ronda a favor de nadie: sus hallazgos se reparten con notable simetría — cuatro desfavorables a B, cuatro desfavorables a A.**
+
+---
+
+### 5. Evaluación del umbral de falsación de A
+
+**Los cuatro defectos.**
+
+**(1) La conjunción lógica.** La probabilidad conjunta de las tres condiciones durante cinco años se sitúa muy por debajo del 5%. A ha definido su falsación en la cola de la cola.
+
+**(2) Confunde insostenibilidad con colapso terminal.** El umbral de A no contiene ninguna condición de falsación por la vía de colapso fiscal ni de reconfiguración sistémica forzada. No cubre el predicado que dice falsar.
+
+**(3) Circularidad autoconfesada.** "Este umbral es exigente porque el sistema tiene reservas... que operan como amortiguadores." La exigencia del criterio se justifica por la verdad de la tesis.
+
+**(4) Calibración por debajo del propio escenario.** A proyecta 4.0-4.5% (2025-2030) y ~3.5% (2031-2040) y fija la falsación en <2.5%. Ningún punto de su espacio de escenarios puede falsarlo.
+
+**(5) Sensibilidad a la elección de serie.** El componente de >25% de desempleo juvenil usa la serie nueva; en la serie anterior, 21.3% ya se alcanzó en agosto de 2023.
+
+**Veredicto: técnicamente insuficiente como criterio de falsación del Predicado 1. El compromiso de retirada de A se registra como acto de honestidad intelectual, pero el umbral no puede utilizarse en el veredicto final.**
+
+---
+
+### 6. Evaluación del umbral de falsación de B
+
+**Lo que el umbral tiene de bueno.** Captura la "pre-falla crónica". No requiere colapso. El horizonte de 7 años y la ventana móvil 2026-2045 están bien especificados.
+
+**Los tres defectos.**
+
+**(1) Calibración dentro del escenario base propio.** B proyecta 3.3-3.5% en 2031-2040; la primera condición del umbral (<3.5%) se satisface automáticamente en ese escenario. No es un test, es una descripción.
+
+**(2) La tercera condición no es observable** y es internamente inconsistente: si las cuatro legitimidades se erosionan por canal común, "dos de cuatro" no discrimina.
+
+**(3) Ambigüedad de "consumo de hogares/PIB sin expansión"** — no especifica métrica, tolerancia ni periodicidad.
+
+**Veredicto: superior al de A en detectabilidad y cobertura conceptual del Predicado 1; inferior en discriminación. Tampoco puede utilizarse en el veredicto final tal como está formulado.**
+
+---
+
+### 7. ¿Cuál umbral es más informativo y operacionalizable?
+
+**Respuesta: el de B es más informativo; ninguno de los dos es operacionalizable tal como está.**
+
+La comparación dimensión por dimensión produce **un fallo simétrico e inverso**: A colocó el listón donde ni su peor escenario llega; B lo colocó donde su escenario base ya está. Ambos incurrieron en sesgo de construcción.
+
+Sin embargo, la definición vinculante del Predicado 1 incluye expresamente "sin que el crecimiento caiga a niveles que comprometan la legitimidad de desempeño". El umbral de A es estructuralmente incapaz de operar sobre esa cláusula; el de B está diseñado para ella. En el marco definitorio, el umbral de B es el instrumento pertinente aunque mal calibrado.
+
+**Umbral operativo adoptado por el árbitro para el veredicto final.** El Predicado 1 se considerará comprometido si, en cualquier ventana continua de 5 años entre 2026 y 2040, concurren **al menos tres de las cinco condiciones**:
+
+1. **PIB real promedio <3.5%** (medido con serie oficial NBS y al menos un proxy independiente; en valores 3.3-3.5% la condición se computa como media y requiere concurrencia inequívoca de otras).
+2. **Más del 5% de pensionistas con pagos reales reducidos o diferidos** en cualquier año de la ventana.
+3. **Déficit fiscal subnacional no cubierto por transferencias centrales en más del 30% de las provincias.**
+4. **Confianza en el gobierno central <60%** en dos mediciones consecutivas con control de sesgo de conformidad.
+5. **Desempleo juvenil >20% durante cuatro trimestres**, con serie explícitamente declarada y traducción a la serie contraria.
+
+**Este umbral es vinculante para el veredicto final. Ambos debatientes pueden impugnarlo en R13, con la carga de mostrar el sesgo de construcción específico que alegan.**
+
+---
+
+### 8. Análisis del argumento fiscal-demográfico (déficit pensional ¥5.01 billones/año 2035)
+
+**8.1 Verificación de la aritmética de F.** El árbitro verificó paso a paso: gasto actual ¥5.88T/año; ingresos actuales ¥7.62T/año; balance actual +¥1.74T/año; ingresos 2035 ¥4.23T/año; gasto 2035 ¥9.24T/año; déficit 2035 ¥5.01T/año. Todos correctos.
+
+**8.2 Cuatro supuestos que la cifra encapsula.** (i) El escalado de ingresos por el ratio de dependencia supone que la masa salarial cotizable cae en la misma proporción que el número de cotizantes por pensionista — conservador en dirección desfavorable a China. Con salarios creciendo 3% nominal anual durante once años, el déficit se reduciría a ~¥3.4T/año [EC, árbitro]. (ii) La pensión media sube solo de ¥3,500 a ¥3,850 en once años (~0.87%/año), implicando erosión real sustantiva. (iii) La reforma 2024 no se descuenta del déficit bruto — correcto metodológicamente. (iv) Solo se evalúa el UEBPS; el NRPS con 569M afiliados a ¥210/mes no es déficit fiscal pero sí pasivo de legitimidad.
+
+**8.3 Rango recalibrado.** [EC, árbitro] El déficit del UEBPS en 2035 se sitúa en el rango **¥3.4-5.0 billones/año** (1.7-2.8% del PIB proyectado). La conclusión cualitativa de F sobrevive: el déficit es material y la reforma cubre el 40-59%. **Advertencia: la cifra de ¥5.01 billones no debe citarse como puntual en R13-R15; debe citarse como rango con el supuesto de masa salarial declarado.**
+
+**8.4 Por qué este argumento es el más potente contra el Predicado 1 en doce rondas.** Primera: es el único vector que opera sobre la vía **fiscal** de la definición vinculante — once rondas produjeron convergencia sobre que no hay ruptura por vía económica, tecnológica, financiera o militar. Segunda: tiene fecha, magnitud y contraparte cuantificada, con cuatro salidas residuales todas costosas en legitimidad. Tercera: conecta con el mecanismo de interdependencia de B — B lo había postulado sin cuantificar; F identificó el canal, lo midió y lo fechó. **El autor de la evidencia más adversa al Predicado 1 no es B: es F.**
+
+**8.5 Lo que el argumento no establece.** No establece ruptura (F asigna 9% a E4 y 1-2% al colapso). No establece que el déficit sea impagable — Italia ~16%, Francia ~14%, Japón ~10% de gasto en pensiones sobre PIB superan el 8.1% proyectado para China en 2040 sin reconfiguración sistémica [DO, OCDE]. No establece la conversión del déficit en amenaza al régimen.
+
+---
+
+### 9. ¿Cambia el argumento de F el balance del Predicado 1?
+
+**Sí, pero no en la dirección ni magnitud que la nota de encuadre de R12 anticipaba.**
+
+**9.1 A favor de A (vía de ruptura política).** Distribución de F: 73% de continuidad (E1+E2), 18% inestabilidad contenida sin cambio de régimen, 9% crisis de coalición, 1-2% colapso. Probabilidad de continuidad institucional en 2026-2040: ~91%. Sin mecanismos de conversión documentados. Lorentzen (2013): el aumento de protestas puede ser instrumento de gobernanza. Evidencia comparada: mediana de 23 años para partido único; China en categoría de máxima resiliencia (Levitsky-Way). B retiró el vector EPL. Corrección de F reduce la cifra de desempleo juvenil de B.
+
+**9.2 En contra de A (vía fiscal y legitimidad de desempeño).** Déficit pensional ¥3.4-5.0T/año en 2035. Compresión del buffer central (22.8% → 18.4% del PIB). El escenario base de F ya incorpora erosión real de beneficios. Pasivo de legitimidad de 134-163M de mingong a ¥210/mes. 215 incidentes de incumplimiento estatal directo + ~340 por pensiones + ~180 por vivienda. IGE 0.52-0.58 y al alza — primera cohorte con menos movilidad que sus padres. Cumplimiento performativo del Tipo 4 (Roberts et al.). El escenario modal de F es **E2 (38%), no E1**: continuidad con endurecimiento represivo y crecimiento de 2.5-3.5%.
+
+**9.3 Resolución del árbitro.** El Predicado 1 en su componente **institucional** queda sustancialmente establecido a favor de A con confianza medio-alta. El componente de **legitimidad de desempeño** NO queda establecido y permanece genuinamente disputado.
+
+**Corrección expresa de la nota de encuadre de R12.** El árbitro escribió que si la legitimidad no era un vector de ruptura "el debate se concentraría en el Predicado 2". Esa formulación era binaria de más. La legitimidad no es un vector de **ruptura**, pero sí de **degradación** con consecuencias directas sobre el Predicado 2 vía capacidad fiscal, cooptación e innovación institucional. R13-R15 debe tratar ambos predicados como acoplados.
+
+---
+
+### 10. Resolución de retos pendientes de R12
+
+| Id | Estado tras R12 |
+|---|---|
+| A-11-1 | **CERRADO** — supuesto declarado, tabla de sensibilidad producida, corrección de B aceptada |
+| A-11-2 | **CERRADO con acotación** — inferencia limitada a "no hay fabricación masiva"; banda de ±0.8 pp adoptada |
+| A-11-3 | **CERRADO** — tres mecanismos; concesión de imperfección; reformulación correcta de la pregunta |
+| A-11-4 | **CERRADO** — A corrigió; B produjo reconciliación completa; FDI neto BoP es la métrica para Predicado 2 |
+| A-11-5 | **CERRADO por retiro** — computa a favor de A en disciplina probatoria |
+| B-11-1 | **PARCIALMENTE RESPONDIDO** — se convierte en B-13-3 |
+| B-11-2 | **CERRADO** — FMI WP 2024, elasticidad 0.4, aritmética expuesta [EC-2] |
+| B-11-3 | **CERRADO** — EPL declarado escenario de cola, retirado del marco central |
+| B-11-4 | **CUMPLIDO EN FORMA, DEFECTUOSO EN FONDO** — se convierte en B-13-1 |
+| B-11-5 | **CERRADO por retiro con derivación** — computa a favor de B |
+| B-12-1 | Superado por el umbral operativo del árbitro en Sección 7; no se reitera |
+| B-12-2 | **RESUELTO A FAVOR DE A** — F produjo teoría de conversión; los tres mecanismos están ausentes |
+| B-12-3 | **NO RESPONDIDO** — se convierte en B-13-2 con prioridad alta |
+
+**Balance: A cerró 5/5 retos. B dejó 2/3 retos de A sin responder. En disciplina de cierre de pasivos, A superó a B por primera vez en el debate.**
+
+---
+
+### 11. Nuevos retos para A en R13 [A-13-X]
+
+**A-13-1 (PRIORIDAD ABSOLUTA)** — Umbral de falsación reconstruido: aceptar o impugnar el umbral operativo del árbitro (Sección 7); producir al menos una condición sobre la vía de colapso fiscal; declarar qué serie de desempleo juvenil usa con traducción a la contraria.
+
+**A-13-2 (PRIORIDAD ABSOLUTA)** — Respuesta al argumento fiscal-demográfico: mecanismo fiscal concreto ante déficit de ¥3.4-5.0T/año en 2035, combinación de salidas defendida y costo en cada tipo de legitimidad. Si usa el comparador internacional (Italia ~16%, Francia ~14%, Japón ~10%), explicar absorción sin sus instituciones fiscales.
+
+**A-13-3 (ALTA)** — Defensa o reclasificación del Tipo 4 frente a Roberts et al. (Xuexi Qiangguo: cumplimiento performativo, no adhesión). O reclasificar y recalcular con tres reservas efectivas.
+
+**A-13-4 (ALTA)** — Independencia de al menos dos reservas de legitimidad respecto del canal fiscal. Si sostiene el Tipo 2 (nacionalista) como independiente, abordar Guriev & Treisman.
+
+**A-13-5 (MEDIA-ALTA)** — Trayectoria del ratio China/G7 para 2030, 2035 y 2040 con supuestos de crecimiento del G7 declarados. **El árbitro señala: la aritmética de B en R12 sostiene la convergencia que A necesita, y A no lo ha advertido.**
+
+**A-13-6 (MEDIA)** — Blindar el comparador democrático anticipando la asimetría de válvulas institucionales.
+
+**A-13-7 (MEDIA)** — Documentar el gasto en seguridad doméstica o retirarlo.
+
+**A-13-8** — Etiquetado de cuatro niveles en tabla, incluido [EI]. Horizontes datados 2027, 2030, 2035, 2040.
+
+---
+
+### 12. Nuevos retos para B en R13 [B-13-X]
+
+**B-13-1 (PRIORIDAD ABSOLUTA)** — Corregir la conclusión sobre el criterio (c): la propia aritmética de B muestra ratio 24% → 28% en 2030 y sigue subiendo, que **es** reducción del diferencial relativo. **Segunda advertencia sobre sesgo de construcción de umbral; una tercera se penalizará como patrón.**
+
+**B-13-2 (PRIORIDAD ABSOLUTA)** — Responder al comparador España/Grecia. **Segunda ronda sin responder computaría como evasión con penalización explícita.**
+
+**B-13-3 (ALTA)** — Documentar el criterio (a) de PTF con serie identificada, valores por quinquenio para China y G7 desde 2010. Sin esto, el árbitro no tratará el criterio (a) como resuelto en ninguna dirección.
+
+**B-13-4 (ALTA)** — Umbral de falsación propiamente dicho: qué observaría que le obligaría a abandonar la meseta del Régimen 2; resolver inconsistencia del criterio "dos de cuatro legitimidades" con su argumento de canal común; recalibrar condición de crecimiento.
+
+**B-13-5 (MEDIA-ALTA)** — Retirar o sustituir el indicador de ausencia de datos (no replicación de Ash Center) por un indicador de opacidad medible.
+
+**B-13-6 (MEDIA-ALTA)** — Prima de riesgo → inversión sectorial de frontera. **Cuarta y última reiteración; si no se atiende en R13, se computará como retirado.**
+
+**B-13-7 (MEDIA)** — Recalibrar Etapa 2 con serie de desempleo declarada; incorporar NEET de CASS (16.1%).
+
+**B-13-8 (MEDIA)** — Responder a Lorentzen: el aumento de protestas económicas focales puede ser instrumento de gobernanza, adverso al núcleo empírico de las Etapas 1 y 2.
+
+**B-13-9** — Ninguna afirmación [DO] sin fuente y fecha. Aritmética expuesta en todo [EC] con supuestos de escalado.
+
+---
+
+### 13. Puntuación de la Ronda 12
+
+**A (Proponente) — Ronda 12**
+
+| Criterio | Puntaje |
+|---|---:|
+| Claridad de tesis | 9.0 |
+| Respuesta directa al rival | 8.8 |
+| Rigor / calidad de evidencia | 8.7 |
+| Pertinencia de fuentes | 8.8 |
+| Fuerza lógica | 7.8 |
+| Capacidad de refutación | 8.3 |
+| Reconocimiento honesto de debilidades | 9.6 |
+| Consistencia interna | 7.9 |
+| Foco en el tema | 8.9 |
+| Relevancia práctica | 8.6 |
+| Sostener la posición hasta el final | 8.9 |
+| **TOTAL** | **8.66** |
+
+**B (Oponente) — Ronda 12**
+
+| Criterio | Puntaje |
+|---|---:|
+| Claridad de tesis | 9.4 |
+| Respuesta directa al rival | 8.5 |
+| Rigor / calidad de evidencia | 8.9 |
+| Pertinencia de fuentes | 9.0 |
+| Fuerza lógica | 8.4 |
+| Capacidad de refutación | 9.5 |
+| Reconocimiento honesto de debilidades | 9.2 |
+| Consistencia interna | 8.2 |
+| Foco en el tema | 8.8 |
+| Relevancia práctica | 9.3 |
+| Sostener la posición hasta el final | 9.1 |
+| **TOTAL** | **8.94** |
+
+**Ganador de Ronda 12: Agente B (Crítico)**
+**Puntajes: B 8.94 — A 8.66 · Margen: 0.28 (el más estrecho de las nueve victorias de B)**
+
+Tres razones deciden: la reformulación en degradación funcional acumulada resolvió el problema estructural de B; la impugnación del umbral de A fue la mejor pieza refutatoria de la ronda; el mecanismo de cinco etapas saldó una deuda de nueve rondas. A produjo su mejor intervención del debate, pero el defecto del umbral de falsación pesó en fuerza lógica y consistencia interna.
+
+---
+
+### 14. Marcador acumulado actualizado
+
+| Ronda | Ganador | Puntajes (A — B) |
+|---|---|---|
+| 1 | Empate | 8.0 — 8.0 |
+| 2 | B | 8.1 — 8.5 |
+| 3 | A | 8.6 — 8.2 |
+| 4 | B | 8.3 — 8.8 |
+| 5 | B | 8.2 — 8.9 |
+| 6 | A | 8.7 — 8.4 |
+| 7 | B | 8.4 — 9.0 |
+| 8 | B | 8.7 — 8.9 |
+| 9 | B | 8.6 — 9.1 |
+| 10 | B | 8.6 — 9.1 |
+| 11 | B | 8.5 — 9.0 |
+| 12 | **B** | **8.66 — 8.94** |
+
+**Marcador de rondas: B 9 — A 2 — Empates 1**
+**Suma acumulada (R1-R12): A 101.36 — B 105.84**
+**Promedio acumulado: A 8.45 — B 8.82**
+**Ventaja media de B: 0.37** (era 0.38 tras R11 — se estrecha por primera vez desde R6)
+
+---
+
+### 15. Proyección hacia R13-R15
+
+**Ventaja general: B, con margen reducido y con dos vulnerabilidades nuevas que A puede explotar y aún no ha visto.**
+
+**Estado de los predicados tras doce rondas:**
+
+- **Predicado 1 institucional:** favorable a A, confianza medio-alta (~91% continuidad).
+- **Predicado 1 legitimidad de desempeño:** disputado, inclinación hacia B.
+- **Predicado 2:** disputado. Criterio (b) concedido por B a A. Criterio (c): la aritmética de B favorece a A y B no lo ha advertido. Criterio (a): no documentado por ninguna parte.
+
+**Si A explota el error de B en R13, el Predicado 2 podría quedar satisfecho por (b)+(c) sin necesidad de ganar (a). Esta es la vulnerabilidad más grave de B en el debate restante y A no la ha visto.** El árbitro la ha señalado en A-13-5 y B-13-1 por igual.
+
+**Proyección por ronda:** R13 es estructuralmente favorable a A (disfunción democrática es empíricamente abundante); R14 incierta; R15 leve ventaja de B si el argumento fiscal-demográfico queda sin respuesta mecanicista.
+
+**Conclusión:** el desenlace más probable sigue siendo bifurcado. El resultado no está cerrado.
+
+---
+
+### 16. Tema y foco de la Ronda 13
+
+**Tema:** Democracias liberales: ¿rivales en declive estructural o sistemas con capacidad de autocorrección?
+**Especialista:** Agente E (Geopolítica)
+**Orden: B abre → A responde → E cierra.** [Inversión respecto de R12 como medida de equidad procesal.]
+
+**Foco obligatorio en cinco cuestiones:**
+1. PTF y productividad del G7, 2010-2025, con serie declarada — el denominador del criterio (a) aún no documentado.
+2. Capacidad de decisión estratégica: desembolso efectivo vs. anuncio (CHIPS Act, IRA, Next Generation EU).
+3. Cohesión política y polarización: series de V-Dem y confianza institucional.
+4. Mecanismos de autocorrección: casos documentados con tiempo de corrección medido.
+5. La asimetría de válvulas institucionales del comparador España/Grecia.
+
+**Advertencia vinculante sobre simetría fácil:** toda afirmación de superioridad comparativa debe ir acompañada de métrica declarada, período y magnitud. El árbitro penalizará con severidad la enumeración de defectos del rival sin cuantificación del diferencial.
+
+---
+
+### 17. Especialista asignado para R13: E (Geopolítica)
+
+Cuarta intervención de E. Estándar de referencia: F en R12 (9.6).
+
+**Cuatro pasivos de verificación de R11, de cumplimiento obligatorio en R13:**
+1. Ratio 5:1 citado sin fuente — documentar o retirar.
+2. Síntesis de $100-150B/año sin aritmética de agregación — exponer o retirar.
+3. Fuente BCG marzo 2026 con URL genérica — URL específica o retiro.
+4. Prima de seguro marítimo del Estrecho por analogía — declarar caso base y límite o retirar.
+
+**Si no se atienden, se computarán como retirados y descontarán de la puntuación de E.**
+
+---
+
+### 18. Instrucciones para A en R13
+
+1. **R13-A-1 (prioridad absoluta)** — Ejecutar A-13-1: umbral de falsación reconstruido con condición sobre vía fiscal.
+2. **R13-A-2 (prioridad absoluta)** — Ejecutar A-13-2: respuesta mecanicista al argumento fiscal-demográfico con combinación de salidas y costo en cada tipo de legitimidad.
+3. **R13-A-3 (alta)** — Ejecutar A-13-5: trayectoria del ratio China/G7 para 2030, 2035 y 2040. **La aritmética de B favorece a A en el criterio (c) y A no lo ha visto.**
+4. **R13-A-4 (alta)** — Documentar PTF del G7 con serie declarada, 2010-2025.
+5. **R13-A-5** — Ejecutar A-13-3 y A-13-4: defensa/reclasificación del Tipo 4; independencia de al menos dos reservas de legitimidad respecto del espacio fiscal.
+6. **R13-A-6** — Ejecutar A-13-6: blindar el comparador democrático anticipando la asimetría de válvulas.
+7. **R13-A-7** — Ejecutar A-13-7: documentar gasto en seguridad doméstica o retirarlo.
+8. **R13-A-8 — Prohibición de simetría fácil.** Cada afirmación de disfunción democrática exige demostración de que China lo hace mejor en la misma métrica, mismo período, con magnitud del diferencial declarada.
+9. **R13-A-9** — Etiquetado de cuatro niveles. Horizontes datados 2027, 2030, 2035, 2040.
+
+---
+
+### 19. Instrucciones para B en R13
+
+1. **R13-B-1 (prioridad absoluta)** — Ejecutar B-13-1: corregir la conclusión sobre el criterio (c). Segunda advertencia sobre sesgo de construcción de umbral.
+2. **R13-B-2 (prioridad absoluta)** — Ejecutar B-13-2: responder al comparador España/Grecia. Segunda ronda sin responder = evasión con penalización.
+3. **R13-B-3 (alta)** — Ejecutar B-13-3: PTF con serie identificada, valores por quinquenio China y G7.
+4. **R13-B-4 (alta)** — Ejecutar B-13-4: umbral de falsación propiamente dicho y resolución de inconsistencia.
+5. **R13-B-5** — Ejecutar B-13-5, B-13-7, B-13-8.
+6. **R13-B-6** — Cuarta y última reiteración de B-13-6. Si no se atiende en R13, se computará como retirado.
+7. **R13-B-7 — Prohibición de simetría fácil.** Cada mecanismo de autocorrección requiere: caso concreto, tiempo de corrección medido y resultado.
+8. **R13-B-8** — Ninguna afirmación [DO] sin fuente y fecha.
+
+---
+
+### 20. Instrucciones para E en R13
+
+1. **R13-E-1** — Estándar de referencia: F en R12 (9.6). Etiquetado de cuatro niveles. Límites de mandato declarados.
+2. **R13-E-2 (obligatorio)** — Saldar los cuatro pasivos de verificación de R11 (ratio 5:1; $100-150B/año; URL BCG; prima seguro marítimo).
+3. **R13-E-3 (núcleo de la ronda)** — PTF y productividad del G7, 2010-2025, con serie declarada. El denominador del criterio (a) no ha sido documentado en doce rondas.
+4. **R13-E-4** — Capacidad de decisión estratégica comparada: desembolso efectivo vs. anuncio, tiempo desde aprobación hasta primer desembolso, tasa de finalización de proyectos — en ambas direcciones.
+5. **R13-E-5** — Cohesión política con series de V-Dem y confianza institucional, aplicando simétricamente la distinción F de tres niveles (descontento / acción colectiva / amenaza al régimen).
+6. **R13-E-6** — Autocorrección: casos documentados con tiempo de corrección medido. Incluir la reversión del COVID cero como caso chino con el mismo rasero.
+7. **R13-E-7** — Distribución de probabilidad datada 2026-2040 sobre trayectorias del bloque de democracias liberales avanzadas, al estándar de F en R12.
+8. **R13-E-8** — Al menos un cuerpo de evidencia que ningún debatiente haya considerado, con límites de mandato declarados.
+9. **R13-E-9** — E no se pronuncia sobre la disputa definitorial ni sobre el umbral operativo de falsación, ni declara ganador de la ronda.
+
+---
+
+**Nota de alcance:** evaluación parcial de Ronda 12, no veredicto. El árbitro no declara ganador del debate en este punto.
+
+**Afirmaciones que requieren verificación adicional tras R12:** (1) ratio 5:1 de E, sin cita; (2) síntesis $100-150B/año de E sin aritmética; (3) fuente BCG marzo 2026 con URL genérica; (4) prima seguro marítimo por analogía; (5) PTF china 2022-2024 de B sin serie ni cita; (6) gasto en seguridad doméstica de A sin cifra ni fuente; (7) tabla 6.1 de F sin aritmética expuesta; (8) déficit pensional recalibrado al rango ¥3.4-5.0T/año.
+
+**Nota de revisión humana:** este debate versa sobre materia económica, geopolítica, tecnológica, demográfica, fiscal y regulatoria de alto impacto. El pronunciamiento definitorial de R11, el umbral operativo de falsación de la Sección 7, la recalibración del déficit pensional y el veredicto final requieren revisión humana antes de ser utilizados como base de decisión.
+
+---
+
+*Fin de la evaluación del Árbitro G — Ronda 12*
