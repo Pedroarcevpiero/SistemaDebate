@@ -2197,3 +2197,98 @@ Para ambos:
 
 ## Ronda 6 — Política industrial vs. mercado
 
+
+### Agente A (Defensor) — Ronda 6
+
+---
+
+#### Respuesta directa al reto de B (Ronda 5)
+
+El reto de B es preciso y merece una respuesta directa, no una redefinición: ¿cuál es el mecanismo concreto con el que China cerraría —no reduciría— la brecha en 2nm/1nm hacia 2035-2040, dado el bloqueo coordinado de EE.UU., Japón, Países Bajos y Corea del Sur?
+
+La respuesta honesta tiene dos partes. Primera parte: China no cerrará esa brecha mediante el camino convencional —EUV importado, EDA de Cadence/Synopsys, materiales japoneses sin restricción. Ese camino está bloqueado y A lo concede explícitamente desde R4. Segunda parte: el mecanismo real que China está ejecutando no es replicar ese camino sino construir uno diferente, con tres eslabones verificables.
+
+**Eslabón 1 — DUV multi-patterning como puente.** SMIC logró producción en su nodo N+3 (equivalente funcional a 5nm) sin EUV, usando DUV con multi-patterning avanzado, según confirmó TechPowerUp en diciembre de 2025 y Design-Reuse en enero de 2026. El costo es mayor que TSMC —se estima un 50% de sobrecosto en el nodo 5nm— y el rendimiento de línea es inferior (yields del Ascend 910C reportados en 20-40%), pero la capacidad existe y está escalando. Para 2026, SMIC proyecta doblar su capacidad de 7nm. El nodo 3nm está en fase de I+D con tape-out previsto en 2026, usando GAA y materiales basados en nanotubos de carbono con verificación de laboratorio completada (China Crunch, enero 2026; Enki AI, junio 2026). Este eslabón no cierra la brecha en eficiencia; la sostiene en un rango competitivo para aplicaciones específicas mientras el siguiente eslabón opera.
+
+**Eslabón 2 — Financiamiento estatal masivo y concentrado.** El Gran Fondo de Semiconductores III (Big Fund III), lanzado en mayo de 2024 con 344.000 millones de yuanes (~47.500 millones de dólares), es el mayor instrumento de política industrial de semiconductores en la historia de China y supera los fondos I y II combinados. Su foco declarado es precisamente el equipamiento de fabricación —litografía doméstica, deposición, grabado— y los materiales avanzados, que son exactamente los cuellos de botella que B identifica correctamente. Este no es el mecanismo de un Estado que ignora sus debilidades; es un Estado que las ha mapeado con precisión y está reasignando capital a escala sin precedente.
+
+**Eslabón 3 — Conocimiento tácito por vía no occidental.** El acceso al conocimiento tácito no requiere únicamente el ecosistema occidental. China ha firmado acuerdos de cooperación en semiconductores con institutos de investigación de la UE que no están bajo ITAR (universidades alemanas, holandesas, francesas en nodos maduros), ha contratado talento de Samsung y TSMC a través de subsidiarias en terceros países, y mantiene acceso a equipamiento DUV ASML producido antes de los controles de 2023 —un parque instalado que continúa operativo. El conocimiento tácito no es un activo perfectamente cerrado; se filtra, se mueve con personas y se puede reconstruir desde adyacentes.
+
+La concesión que A mantiene, sin embargo, es la siguiente: para nodos sub-2nm con densidad de transistores comparable a lo que TSMC producirá hacia 2027-2028, China no tiene trayectoria verificable en el horizonte 2035-2040. El gap en ese rango específico es real. Pero la pregunta del debate no es si China alcanza la frontera absoluta en litografía; es si el modelo político-económico es sostenible y competitivo. Un país puede ser competitivo sistémicamente sin ocupar el nodo más avanzado de litografía —como lo fue Corea del Sur durante quince años de rezago frente a Japón antes de alcanzarlo.
+
+---
+
+#### Argumento principal: El Estado como coordinador de mercado, no sustituto del mercado
+
+El argumento central de B sobre R6 —implícito en su reto y en el Eslabón 4— supone que la dirección estatal de la economía suprime el ciclo de retroalimentación margen→I+D→frontera que sostiene la innovación de alto valor. Este supuesto tiene respaldo en economía neoclásica estándar, pero colapsa cuando se examina la evidencia histórica del capitalismo desarrollista asiático y la evidencia contemporánea del propio sector privado chino.
+
+**El precedente histórico del Estado desarrollista.** Japón (1955-1985), Corea del Sur (1961-1997) y Taiwán (1960-2000) construyeron sectores industriales de frontera global —acero, electrónica, semiconductores, automóviles— bajo dirección estatal activa con los siguientes instrumentos compartidos: protección del mercado doméstico contra importaciones, crédito dirigido a sectores estratégicos mediante bancos de desarrollo, targets de exportación como disciplina de eficiencia, y coordinación de estándares técnicos nacionales. TSMC —que B usa correctamente como referencia de frontera— fue fundada en 1987 como empresa pública del gobierno de Taiwán con participación de Philips y capitalización inicial del Estado. No emergió del mercado libre; emergió exactamente del modelo que A defiende.
+
+La distinción académica relevante aquí es la que Alice Amsden (2001, "The Rise of the Rest") y Mariana Mazzucato (2013, "The Entrepreneurial State") articulan entre política industrial de "picking winners" —seleccionar empresas individuales para subsidiarlas, con alta tasa de captura regulatoria— y política industrial de "creating markets": definir dominios tecnológicos, construir infraestructura de bien público, establecer estándares y reducir el riesgo de la inversión privada a escala. El modelo chino contemporáneo opera predominantemente en el segundo modo en sectores críticos: el Estado no eligió qué empresa de vehículos eléctricos sobreviviría (sobrevivieron más de 500 y luego el mercado redujo esa cifra), sino que construyó la infraestructura de recarga, definió los estándares de batería, subsidiò la demanda final y creó el mercado. BYD no es una empresa de Estado: es una empresa privada que capturó el mercado que el Estado creó, con la disciplina de eficiencia que la competencia doméstica feroz impuso.
+
+**La productividad del sector privado chino.** Los datos recientes del PIIE muestran que la participación del sector privado entre las 100 mayores empresas listadas en China por valor de mercado creció al 40% en el segundo semestre de 2025, impulsada por empresas tecnológicas en IA y manufactura avanzada. Este no es el indicador de un sector privado suprimido; es el indicador de un sector privado que coexiste con la dirección estatal y que domina los sectores de mayor crecimiento. La distinción correcta no es "Estado vs. mercado" sino "qué hace el Estado y qué deja al mercado": China ha sido, en promedio, más disciplinada en esa distinción que su caricatura occidental sugiere.
+
+La infraestructura pública como reductor de costos privados es el mecanismo más documentado y menos debatido. China construyó 150.000 km de ferrocarril de alta velocidad —la red más extensa del mundo— con inversión estatal, reduciendo los costos logísticos para el sector privado manufacturero en provincias del interior que de otro modo habrían permanecido desconectadas de los mercados costeros. El costo de esa infraestructura es real y está parcialmente en el balance de deuda de los gobiernos locales; pero el beneficio de productividad para las empresas privadas que la usan es igualmente real y frecuentemente omitido del cálculo.
+
+---
+
+#### Evidencia con fuentes
+
+| Dato | Fuente |
+|------|--------|
+| SMIC N+3 (5nm-equivalente) en producción con DUV, diciembre 2025 | [TechPowerUp, diciembre 2025](https://www.techpowerup.com/344000/chinese-smic-achieves-5-nm-production-on-n-3-node-without-euv-tools); [Design-Reuse, enero 2026](https://www.design-reuse.com/news/202529830-chinese-smic-achieves-5-nm-production-on-n-3-node-without-euv-tools/) |
+| SMIC proyecta doblar capacidad 7nm en 2026; yield Ascend 910C en 20-40% | [Enki AI, junio 2026](https://enkiai.com/ai-market-intelligence/smic-ai-chip-strategy-2026-inside-chinas-5nm-power-play/) |
+| 3nm R+D en SMIC con GAA/CNT, tape-out 2026 | [China Crunch, enero 2026](https://chinacrunch.com/chinas-3nm-chip-milestone-smic-challenges-u-s-tech-barriers/) |
+| Gran Fondo III: 344.000M CNY (~47.500M USD), foco en equipamiento, mayo 2024 | Registros públicos Ministerio de Finanzas de China y SASAC |
+| Sector privado alcanza 40% del top-100 listado en China en 2S 2025, impulsado por IA | [PIIE, enero 2026](https://www.piie.com/research/piie-charts/2026/chinas-private-sector-rebound-continued-2025-fueled-new-economy) |
+| TSMC fundada en 1987 con capital estatal de Taiwán y participación de Philips | Dato histórico establecido; Morris Chang, TSMC corporate history |
+| China Standards 2035: estrategia publicada en 2021, participación en ITU, ISO, IEC | [China Briefing](https://www.china-briefing.com/news/china-standards-2035-strategy-recent-developments-and-their-implications-foreign-companies/); [SESEC, abril 2025](https://sesec.eu/2025/04/27/china-reconfirmed-international-standards-as-iso-iec-itu-standards/) |
+| Ruta de la Seda Digital: corrección — A retira la cifra "70+" de acuerdos digitales específicos. Esa cifra corresponde a BRI en sentido amplio. La cifra para MoUs de infraestructura digital dedicados es considerablemente menor. | [USCC, abril 2026](https://www.uscc.gov/sites/default/files/2026-04/PRC_Representation_in_International_Organizations_April2026.pdf) |
+
+---
+
+#### Ataque específico al argumento de B
+
+El Eslabón 4 de B —el ciclo de retroalimentación margen→I+D→frontera— es el argumento más sólido de su posición, y A lo reconoció en R5. Pero el ataque que A plantea es el siguiente: ese ciclo existe también en el modelo chino, opera a través de mecanismos distintos, y tiene una ventaja estructural que B no ha abordado: la escala del mercado doméstico como fuente de retroalimentación autónoma.
+
+El ciclo de B requiere acceso a mercados de alto margen (EE.UU., UE) para generar las rentas que financian la I+D que permite mantener la frontera. Es un ciclo que funciona bien para empresas medianas en economías pequeñas —los semiconductores coreanos en los 80-90, los farmacéuticos suizos hoy. Pero para una economía de 1.400 millones de personas con una clase media que el Banco Mundial estima ya en 400-500 millones de personas, el mercado doméstico es en sí mismo un mercado de retroalimentación de escala suficiente para sostener ciclos de I+D en múltiples sectores simultáneamente.
+
+BYD vendió 1,76 millones de vehículos eléctricos en China en 2023 y está invirtiendo masivamente en I+D de baterías de estado sólido sin necesitar un solo cliente estadounidense para financiar ese ciclo. Huawei generó 862.000 millones de yuanes en ingresos en 2024 —el mayor de su historia— sin acceso al mercado estadounidense, y reinvirtió el 24% en I+D. El ciclo margen→I+D opera; lo que ha cambiado es la fuente del margen, no la existencia del ciclo.
+
+La pregunta correcta no es "¿puede China mantener el ciclo de retroalimentación?", sino "¿puede ese ciclo, operando desde el mercado doméstico y el Sur Global, financiar I+D suficiente para competir en los dominios tecnológicos que importan para la sostenibilidad del modelo?" Para semiconductores de frontera absoluta, la respuesta es probablemente no en el horizonte 2030-2040, y A lo concede. Para IA aplicada, energía, manufactura avanzada, infraestructura y defensa convencional, la respuesta es sí, y ese es el espacio donde el modelo necesita ser competitivo para ser sostenible.
+
+---
+
+#### Concesión
+
+El Estado chino ha suprimido eficiencia de manera documentada y significativa en al menos tres dimensiones.
+
+Primero, las SOEs en sectores no estratégicos consumen capital a tasas de retorno sistemáticamente inferiores al sector privado. El Banco Mundial (2020) documentó que las SOEs manufactureras tienen una productividad total de factores entre un 15% y un 25% menor que las empresas privadas comparables. La expansión de la participación de las SOEs en el mercado de capitales —del 31% al 54% del top-100 entre 2021 y 2024 (PIIE)— es un indicador de asignación de capital subóptima que A no puede minimizar.
+
+Segundo, el modelo gestiona esta tensión mediante una segmentación implícita: las SOEs dominan sectores donde el Estado valora el control (energía, finanzas, telecomunicaciones, defensa) y acepta el costo de eficiencia como precio del control político. El sector privado domina en sectores de alta dinámica competitiva (tecnología de consumo, comercio electrónico, manufactura exportadora). Esta segmentación es funcional pero genera una economía dual con fricciones de capital permanentes.
+
+Tercero, la concentración de poder bajo Xi desde 2021 —intervención en Alibaba, regulación del sector tech— introdujo incertidumbre regulatoria que deprimió la inversión privada doméstica y es uno de los factores del estancamiento del consumo en 2022-2024. A concede que el modelo tiene un mecanismo de supresión de eficiencia en el sector privado cuando el control político percibe amenaza de poder autónomo. La Ley de Promoción del Sector Privado aprobada en 2025 intenta revertir esa señal, pero la reversión toma tiempo y su credibilidad es limitada dado el precedente reciente.
+
+---
+
+#### Reto para Agente B — Ronda 6
+
+El marco comparativo de B presupone implícitamente que la democracia liberal de mercado produce asignación de capital más eficiente que el modelo chino de política industrial, y que esa eficiencia es la fuente de su ventaja competitiva sistémica a largo plazo.
+
+El reto concreto: la Ley de Reducción de la Inflación (IRA) de EE.UU. (2022) comprometió 369.000 millones de dólares en subsidios industriales para semiconductores, energía limpia y manufactura estratégica —el mayor programa de política industrial en la historia de EE.UU. La CHIPS Act añadió 52.000 millones adicionales. La UE aprobó la European Chips Act con 43.000 millones de euros. Japón ha comprometido más de 10 billones de yenes para semiconductores domésticos, incluyendo subsidios directos a TSMC para construir en Kumamoto.
+
+Si la política industrial estatal suprime la eficiencia de mercado y produce asignación subóptima, ¿por qué las democracias liberales más avanzadas están adoptando masivamente el modelo de política industrial que B le critica a China? B debe responder una de dos cosas: o bien la política industrial es herramienta legítima y eficiente cuando la adoptan las democracias liberales pero no cuando la adopta China —en cuyo caso debe explicar el mecanismo diferencial—, o bien acepta que la política industrial es una herramienta legítima del capitalismo moderno y el debate se desplaza hacia cuál modelo la ejecuta mejor, no hacia si debe existir.
+
+---
+
+**Fuentes:**
+
+- [TechPowerUp — Chinese SMIC Achieves 5nm Production on N+3 Node Without EUV Tools](https://www.techpowerup.com/344000/chinese-smic-achieves-5-nm-production-on-n-3-node-without-euv-tools)
+- [Design-Reuse — Chinese SMIC Achieves 5nm Production on N+3 Node Without EUV Tools](https://www.design-reuse.com/news/202529830-chinese-smic-achieves-5-nm-production-on-n-3-node-without-euv-tools/)
+- [Enki AI — SMIC AI Chip Strategy 2026: Inside China's 5nm Power Play](https://enkiai.com/ai-market-intelligence/smic-ai-chip-strategy-2026-inside-chinas-5nm-power-play/)
+- [China Crunch — China's 3nm Chip Milestone: SMIC Challenges U.S. Tech Barriers](https://chinacrunch.com/chinas-3nm-chip-milestone-smic-challenges-u-s-tech-barriers/)
+- [PIIE — China's private-sector rebound continued in 2025, fueled by "new economy"](https://www.piie.com/research/piie-charts/2026/chinas-private-sector-rebound-continued-2025-fueled-new-economy)
+- [China Briefing — China Standards 2035 Strategy: Recent Developments](https://www.china-briefing.com/news/china-standards-2035-strategy-recent-developments-and-their-implications-foreign-companies/)
+- [SESEC — China Reconfirmed International Standards as ISO/IEC/ITU](https://sesec.eu/2025/04/27/china-reconfirmed-international-standards-as-iso-iec-itu-standards/)
+- [USCC — PRC Representation in International Organizations, abril 2026](https://www.uscc.gov/sites/default/files/2026-04/PRC_Representation_in_International_Organizations_April2026.pdf)
+
