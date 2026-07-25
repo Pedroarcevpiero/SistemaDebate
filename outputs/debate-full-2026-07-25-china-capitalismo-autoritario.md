@@ -477,3 +477,216 @@ El Agente A tiene razón en que el concepto "party-state capitalism" es analíti
 - [IMF Working Paper — China's Declining Business Dynamism, 2022](https://www.imf.org/en/Publications/WP/Issues/2022/02/18/China-s-Declining-Business-Dynamism-513157)
 - [World Bank — China's Productivity Slowdown and Future Growth Potential, 2020](https://documents1.worldbank.org/curated/en/839401593007627879/pdf/Chinas-Productivity-Slowdown-and-Future-Growth-Potential.pdf)
 - [IMF Working Paper — Industrial Policy in China: Quantification and Impact on Misallocation, 2025](https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025155-source-pdf.pdf)
+
+---
+
+## Agente C (Especialista en Economía Política Comparada) — Ronda 1
+
+---
+
+### Marcos teóricos relevantes
+
+La intervención de ambos agentes debatientes se desarrolla con solvencia descriptiva pero sin anclar explícitamente el modelo chino en los marcos teóricos disponibles en la literatura comparada. Antes de evaluar la solidez de sus argumentos, es necesario establecer ese andamiaje conceptual, porque el marco elegido determina qué variables son relevantes, qué mecanismos causales son plausibles y qué comparaciones históricas son legítimas.
+
+**1. Variedades de Capitalismo (VoC) — Hall y Soskice (2001)**
+
+El marco VoC canónico distingue entre Economías de Mercado Liberales (LME, como EE.UU. y Reino Unido) y Economías de Mercado Coordinadas (CME, como Alemania y Japón), basándose en cómo las empresas coordinan sus decisiones estratégicas: a través del mercado (precios) o a través de instituciones no mercantiles (asociaciones empresariales, sindicatos, redes bancarias relacionales). China no encaja en ninguna de estas categorías, lo que ha generado un debate extenso en la literatura. Streeck y Thelen (2005) propusieron la categoría de "capitalismo jerárquico" para economías donde la coordinación se impone desde arriba por el Estado o grandes conglomerados, no emerge de la negociación horizontal. China, en esta taxonomía, sería el caso más extremo de capitalismo jerárquico jamás observado a escala continental.
+
+El problema del marco VoC es que fue diseñado para economías capitalistas avanzadas de Europa Occidental y no captura adecuadamente el papel del partido-Estado como actor dominante. Autores como Nölke et al. (2015) propusieron la categoría de "capitalismo de mercado estatalmente permeado" (*State-Permeated Market Economy*, SME) específicamente para BRICS, distinguiéndolo del capitalismo de Estado clásico por la persistencia del mercado como mecanismo de asignación con penetración estatal profunda pero selectiva. Esta categorización se aproxima más al modelo chino que las categorías VoC originales.
+Fuente: Nölke, A. et al. (2015). "Dominated by large firms: The state-permeated market economies of the BRIC countries." *Economy and Society*, 44(1), 1-28.
+
+**2. Estado Desarrollista — Johnson (1982), Amsden (1989), Wade (1990)**
+
+La teoría del Estado Desarrollista, elaborada a partir del caso japonés (Johnson, *MITI and the Japanese Miracle*, 1982) y generalizada a Corea del Sur (Amsden, *Asia's Next Giant*, 1989) y Taiwán (Wade, *Governing the Market*, 1990), establece que el crecimiento liderado por el Estado requiere cuatro condiciones: (a) una burocracia técnicamente competente y autónoma de grupos de presión particulares, (b) relaciones Estado-empresa densas pero no capturadoras, (c) orientación exportadora que impone disciplina competitiva externa, y (d) autonomía política para implementar políticas industriales sin alternancia electoral disruptiva. El modelo chino cumple claramente (a), (c) y (d), y cumple (b) de manera ambigua — la relación Estado-empresa en China es más de subordinación que de "reciprocidad embebida" (*embedded autonomy*) en el sentido de Peter Evans (1995).
+
+La distinción crucial entre el Estado Desarrollista clásico asiático y China es la escala y la naturaleza del actor político. En Corea del Sur y Taiwán, el Estado Desarrollista operó bajo regímenes autoritarios pero con una tecnocracia relativamente aislada de la ideología de partido. En China, la tecnocracia está orgánicamente integrada en el PCCh, lo que introduce una dimensión de control político que los modelos clásicos del Estado Desarrollista no capturan.
+Fuente: Johnson, C. (1982). *MITI and the Japanese Miracle*. Stanford University Press. / Evans, P. (1995). *Embedded Autonomy: States and Industrial Transformation*. Princeton University Press.
+
+**3. Capitalismo de Estado — Musacchio y Lazzarini (2014)**
+
+Musacchio y Lazzarini (*Reinventing State Capitalism*, 2014) distinguen tres formas de capitalismo de Estado moderno: (i) el Estado como accionista mayoritario que gestiona directamente empresas; (ii) el Estado como accionista minoritario que usa participaciones para influir sin gestión directa; y (iii) el Estado como financiador a través de bancos de desarrollo. China emplea las tres formas simultáneamente, lo que la hace cualitativamente distinta de cualquier otro capitalismo de Estado analizado en la literatura. Esta superposición de instrumentos es una fuente de flexibilidad — pero también de opacidad sobre la magnitud real de la intervención estatal.
+
+**4. Capitalismo de Partido-Estado — Pearson, Rithmire y Tsai (2021)**
+
+El concepto utilizado por el Agente A es el más preciso disponible en la literatura académica reciente. Pearson, Rithmire y Tsai identifican que bajo Xi, el PCCh no solo regula la economía desde afuera sino que penetra la estructura interna de empresas privadas y públicas mediante comités de partido, convirtiendo la frontera entre Estado y mercado en algo cualitativamente diferente de cualquier capitalismo de Estado previo. El artículo publicado en *Current History* (2021) es una referencia sólida. Sin embargo, los propios autores advierten que la categoría no predice sostenibilidad: describe arquitectura, no trayectoria.
+Fuente: Pearson, M., Rithmire, M., & Tsai, K. (2021). "Party-State Capitalism in China." *Current History*, 120(827), 207-213.
+
+**5. Capitalismo Político — Milanovic (2019)**
+
+Branko Milanovic en *Capitalism Alone* (2019) propone la categoría "capitalismo político" (*political capitalism*) para describir sistemas como China, Vietnam y algunos estados del Sudeste Asiático, caracterizados por: (a) una burocracia técnicamente eficiente; (b) autonomía estatal de la ley (el Estado está por encima de la ley, no vinculado por ella); y (c) alta corrupción como rasgo sistémico, no accidental. Milanovic argumenta que el capitalismo político puede ser competitivo con el capitalismo liberal a largo plazo si mantiene tasas de crecimiento suficientes para compensar sus costos de arbitrariedad. Este marco es especialmente relevante para el debate porque posiciona la sostenibilidad como función del desempeño económico sostenido — exactamente el mecanismo de legitimación que el Agente B critica como "trampa".
+Fuente: Milanovic, B. (2019). *Capitalism Alone: The Future of the System That Rules the World*. Harvard University Press.
+
+---
+
+### Análisis comparado histórico
+
+La literatura comparada ofrece cinco casos relevantes para evaluar la arquitectura y las proyecciones del modelo chino. Cada comparación ilumina dimensiones distintas.
+
+**Caso 1: Corea del Sur, 1963-1987 — Estado Desarrollista autoritario con política industrial dirigida**
+
+El "milagro coreano" bajo Park Chung-hee es el precedente más citado en discusiones sobre capitalismo de Estado autoritario. El Estado coreano dirigió el crédito hacia los chaebols (conglomerados familiares), impuso metas de exportación vinculadas a subsidios, y coordinó la industrialización pesada y química (HCI) de los años 70. El PIB per cápita creció de aproximadamente 100 dólares en 1963 a más de 3,000 dólares en 1987.
+
+Los paralelismos con China son parciales y los límites son cruciales. En primer lugar, la economía coreana en su fase de alto crecimiento era órdenes de magnitud más pequeña que la China actual, lo que hace que las comparaciones directas de capacidad de política industrial sean problemáticas. En segundo lugar, y más importante, Corea del Sur logró la transición democrática en 1987 sin ruptura sistémica del modelo económico. La transición democrática coreana fue posible porque: (a) existía una clase media empresarial con intereses distintos del Estado, (b) la tecnocracia estatal tenía suficiente autonomía para sobrevivir el cambio político, y (c) la presión de EE.UU. como garante de seguridad creó incentivos externos para la liberalización. Ninguna de estas condiciones existe para China en el mismo grado.
+
+En tercer lugar, el Estado Desarrollista coreano no fue inmune a la misasignación: la política HCI de los años 70 generó sobreinversión masiva en sectores pesados que produjo la crisis de 1979-1980, corregida solo mediante un shock deflacionario severo. Este precedente es directamente relevante para el argumento del Agente B sobre misasignación de capital a escala. La diferencia con China es que la corrección coreana fue posible porque existían actores externos al Estado (FMI, EE.UU.) con capacidad de imponer ajuste. Para China, no existe un actor externo equivalente con capacidad coercitiva de ajuste — lo que puede hacer que la corrección de misasignaciones sea más difícil y más tardía.
+Fuente: Amsden, A. (1989). *Asia's Next Giant: South Korea and Late Industrialization*. Oxford University Press. / Woo-Cumings, M. ed. (1999). *The Developmental State*. Cornell University Press.
+
+**Caso 2: Singapur, 1965-presente — Capitalismo tecnocrático de partido dominante**
+
+Singapur es la referencia que ambos agentes mencionan, y el Agente A la descarta correctamente por razones de escala. Sin embargo, la comparación tiene valor analítico más allá de la escala. El Partido de Acción Popular (PAP) ha mantenido el monopolio político efectivo en Singapur desde la independencia con un modelo que combina: elecciones formales (pero con desventajas sistemáticas para la oposición), tecnocracia altamente remunerada y meritocrática, política industrial activa canalizada principalmente a través de Temasek Holdings y GIC, y legitimidad basada en desempeño material.
+
+El contraste más relevante con China es la institucionalidad legal: Singapur mantiene un estado de derecho formal que vincula al gobierno en materias contractuales y comerciales, lo que crea un entorno predecible para el sector privado internacional. Esta es la diferencia que Milanovic captura con su categoría de "capitalismo político" — la autonomía del Estado respecto a la ley en China crea costos de arbitrariedad que Singapur no tiene. El argumento del Agente B sobre el riesgo político de primer orden ilustrado por la cancelación del IPO de Ant Group es precisamente este costo.
+
+En cuanto a planificación multigeneracional, el contraste es también significativo: Lee Kuan Yew diseñó explícitamente mecanismos de sucesión institucional que aseguraron la continuidad del modelo más allá de su persona. Xi Jinping ha hecho lo opuesto.
+Fuente: Low, L. (2001). "The Singapore developmental state in the new economy and polity." *Pacific Review*, 14(3), 411-441.
+
+**Caso 3: Japón, 1950-1990 — El Estado Desarrollista con democracia formal**
+
+El modelo MITI japonés de Johnson es el archétipo del Estado Desarrollista exitoso. El MITI coordinó inversión, protección arancelaria y política de crédito para impulsar sectores de alto valor en acero, astilleros, automóviles y electrónica. Pero hay tres lecciones comparadas que la literatura subraya y que son directamente relevantes:
+
+Primera: El modelo MITI funcionó bajo democracia formal de partido dominante (el PLD), no bajo partido único sin elecciones. La presión electoral, aunque mediatizada por el sistema de partido dominante, impuso cierta disciplina de resultados a la burocracia. Cuando el modelo MITI comenzó a generar resultados subóptimos en los años 80 (protección de sectores no competitivos), existía presión política para su modificación.
+
+Segunda: La burbuja inmobiliaria y de activos japonesa de los años 80, que culminó en el "decenio perdido" de los 90, fue producida en parte por la misma estructura de coordinación Estado-banca que había generado el milagro. Los bancos principales (*main banks*) financiaron expansión de empresas sin suficiente escrutinio de retornos, con el aval implícito del Estado. El resultado fue exactamente lo que el Agente B describe para China: acumulación silenciosa de deuda no productiva en el sistema bancario hasta que se volvió inmanejable. La diferencia es que Japón pudo absorber el ajuste porque tenía un PIB per cápita de más de 30,000 dólares cuando llegó la crisis. China enfrenta riesgos similares con un PIB per cápita de aproximadamente 13,000 dólares — más cerca de la "trampa del ingreso medio".
+
+Tercera: La innovación en Japón fue inicialmente de adaptación e imitación (como China hoy), pero la transición a innovación de frontera fue posible en parte porque el sistema no suprimía la toma de riesgo empresarial a nivel de firma — Sony, Honda y Toyota desarrollaron capacidad innovadora autónoma. La Contradicción 1 del Agente B (la paradoja del control productivo) encuentra aquí un precedente histórico relevante.
+Fuente: Johnson, C. (1982). *MITI and the Japanese Miracle*. Stanford University Press. / Pempel, T.J. (1999). "The developmental regime in a changing world economy." En Woo-Cumings (ed.), *The Developmental State*. Cornell University Press.
+
+**Caso 4: Alemania — Economía de Mercado Coordinada sin Estado Desarrollista**
+
+El modelo alemán es relevante para el debate porque ilustra una forma alternativa de coordinación de largo plazo que no requiere dirección estatal autoritaria: la coordinación a través de instituciones de consenso (Mitbestimmung, bancos relacionales, asociaciones sectoriales, formación dual). Alemania ha mantenido una base manufacturera exportadora de alta tecnología sin política industrial dirigida de tipo chino, mediante instituciones que alinean incentivos de largo plazo de empresas, trabajadores y bancos.
+
+El contraste con el argumento del Agente A sobre la "ventaja de planificación de largo plazo sin ciclos electorales" es directo: Alemania demuestra que los ciclos electorales no impiden necesariamente la inversión de largo plazo cuando existen instituciones de coordinación adecuadas. El problema de las democracias liberales que el Agente A identifica no es inherente a la democracia — es específico de las democracias liberales desinstitucionalizada (EE.UU., Reino Unido) que carecen de instituciones de coordinación robustas. Generalizar desde EE.UU. hacia "las democracias liberales" como clase homogénea es una simplificación que la literatura comparada no sostiene.
+Fuente: Hall, P. & Soskice, D. (2001). *Varieties of Capitalism: The Institutional Foundations of Comparative Advantage*. Oxford University Press.
+
+**Caso 5: Taiwán — Estado Desarrollista con transición exitosa**
+
+Taiwán merece mención separada de Corea porque ilustra un caso de Estado Desarrollista que logró dos transiciones simultáneas sin ruptura sistémica: transición democrática (1996) y transición hacia la frontera tecnológica (semiconductores, TSMC). La experiencia taiwanesa sugiere que la transición desde un modelo de política industrial dirigida hacia uno de innovación endógena es posible, pero históricamente ha requerido liberalización política como condición facilitadora — no como obstáculo. TSMC no habría surgido bajo un partido único con comités de partido incrustados en sus decisiones de ingeniería.
+
+---
+
+### Evaluación de la definición del Agente A desde perspectiva comparada
+
+El Agente A construye una definición del modelo chino que es descriptivamente sólida y está bien respaldada por la literatura académica reciente. Los siguientes elementos tienen respaldo comparado firme:
+
+**Bien respaldado:**
+
+1. La distinción entre "capitalismo de partido-Estado" y "capitalismo de Estado clásico" es académicamente correcta y necesaria. Pearson, Rithmire y Tsai (2021) ofrecen el marco más preciso disponible, y el Agente A lo cita apropiadamente.
+
+2. La distinción con la URSS basada en propiedad privada, orientación exportadora y pragmatismo ideológico tiene respaldo sólido en la literatura. Huang (2008) en *Capitalism with Chinese Characteristics* documenta extensamente que la supervivencia del sector privado fue la clave de la diferenciación del modelo chino respecto a los socialismos del siglo XX.
+
+3. El argumento sobre la coherencia temporal de la planificación de largo plazo tiene base en la literatura comparada. Rodrik (2004) en "Industrial Policy for the Twenty-First Century" argumenta que los Estados con capacidad de implementación de largo plazo tienen ventajas reales en política industrial cuando la política está bien calibrada.
+
+**Parcialmente respaldado, con matizaciones necesarias:**
+
+4. La "fórmula 60/70/80/90" del sector privado debe leerse con cautela metodológica. La literatura académica (Huang, 2008; Tsai, 2007) advierte que la frontera entre empresa "privada" y "estatal" en China es porosa, porque muchas empresas nominalmente privadas tienen participación estatal indirecta o son funcionalmente dependientes de acceso privilegiado al crédito bancario estatal. El dato puede ser técnicamente correcto y al mismo tiempo exagerar la autonomía real del sector privado respecto al Estado.
+
+5. La "capacidad de adaptación institucional sin ruptura sistémica" es un argumento que la evidencia histórica respalda para el período 1978-2012, pero que el Agente A extiende hacia el futuro sin justificar por qué la eliminación de los mecanismos que produjeron esa adaptación no afecta la proyección. Desde la perspectiva comparada, ningún caso histórico de Estado Desarrollista muestra adaptación sostenida cuando los mecanismos de circulación de élites y autocorrección fueron eliminados. Este es el punto más débil del argumento del Agente A.
+
+**No suficientemente respaldado:**
+
+6. La afirmación de que China tiene una "ventaja estructural de planificación de largo plazo" frente a "las democracias liberales" como clase homogénea sobreestima la uniformidad del problema. Como ilustra el caso alemán, las democracias con instituciones de coordinación robustas pueden sostener inversión de largo plazo sin dirección autoritaria. El argumento del Agente A es válido comparado con las democracias liberales más desinstitucionalizada (EE.UU., Reino Unido) pero no como generalización universal frente a "las democracias liberales".
+
+---
+
+### Evaluación de la crítica del Agente B desde perspectiva comparada
+
+El Agente B construye una crítica estructuralmente más sofisticada que una simple enumeración de debilidades. Su marco de "contradicciones interdependientes" tiene respaldo en la literatura sobre regímenes híbridos.
+
+**Bien respaldado:**
+
+1. La "paradoja del control productivo" (Contradicción 1) tiene respaldo sólido en la literatura comparada. Acemoglu y Robinson en *Why Nations Fail* (2012) argumentan que las instituciones extractivas suprimen la innovación incluso cuando inicialmente facilitan el crecimiento por acumulación. La represión regulatoria 2020-2023 que el Agente B documenta es exactamente el tipo de evento que Acemoglu y Robinson predicen como consecuencia de instituciones no pluralistas a medida que la economía se vuelve más compleja. Esta predicción tiene base teórica sólida, no solo evidencia anecdótica.
+
+2. El argumento sobre el debilitamiento de los mecanismos de autocorrección bajo Xi tiene respaldo en la literatura sobre "sultanización" de regímenes autoritarios (término de Linz y Stepan, 1996). La concentración de poder en un actor personal sin instituciones intermediarias que puedan imponer correcciones es históricamente asociada a ciclos de error acumulativo — exactamente lo que el Agente B describe.
+
+3. La distinción entre el colapso soviético como fracaso de autocorrección (no solo fracaso de mercado) está bien fundamentada en la literatura revisionista sobre el colapso de la URSS. Gaidar (2007) en *Collapse of an Empire* y Kotkin (2001) en *Armageddon Averted* coinciden en que el problema soviético terminal fue la incapacidad del sistema para corregir errores de política antes de que alcanzaran escala sistémica — exactamente el paralelo que el Agente B establece.
+
+**Parcialmente respaldado, con matizaciones:**
+
+4. La "trampa de legitimidad por desempeño" (Contradicción 2) tiene base teórica en la literatura sobre autoritarismo de rendimiento (Nathan, 2003; Tsai, 2007), pero la literatura también documenta que los regímenes autoritarios tienen más capacidad de gestionar la deslegitimación que los modelos democráticos asumen. Escribà-Folch (2013) en "Repression, Political Threats, and Survival under Autocracy" muestra que los regímenes con alta capacidad coercitiva pueden sobrevivir desaceleraciones prolongadas sin transición — al costo de intensificar la represión. El Agente B subestima la capacidad del PCCh de gestionar la insatisfacción por vías no institucionales.
+
+**Simplificación identificada:**
+
+5. El Agente B afirma que la represión regulatoria 2020-2023 "fue la expresión natural de esta tensión estructural" (la paradoja del control productivo). Esto es analíticamente sólido como mecanismo, pero omite que el PCCh también "aprendió" de ese episodio: la Ley de Promoción de la Economía Privada de 2025 representa una reversión táctica que la evidencia histórica sugiere que el modelo puede hacer cuando el costo del control excede sus beneficios. La literatura sobre el Estado Desarrollista asiático muestra que los Estados con alta capacidad técnica pueden ajustar su mezcla de control y autonomía empresarial de forma cíclica. El Agente B trata la represión 2020-2023 como evidencia de trayectoria irreversible cuando la evidencia también es compatible con ciclo ajustable.
+
+---
+
+### Datos y evidencia comparada
+
+Los siguientes datos de la literatura comparada son relevantes para las afirmaciones de ambos agentes:
+
+**Sobre tiempos de convergencia:**
+
+La literatura de crecimiento comparado (Barro y Sala-i-Martin, 1992) documenta que la convergencia de economías en desarrollo hacia la frontera produce tasas de crecimiento elevadas durante las fases de acumulación de capital y adopción tecnológica, pero estas tasas declinan naturalmente al acercarse a la frontera, independientemente del sistema político. Corea del Sur creció al 8-10% durante 1963-1990 y luego se estabilizó en 3-5% tras la democratización y la crisis de 1997-98. Taiwán muestra un patrón similar. Esto significa que parte de la desaceleración del crecimiento chino que el Agente B señala como "señal de crisis estructural" es también consistente con convergencia natural. Distinguir entre desaceleración natural de convergencia y deterioro estructural es metodológicamente difícil y ambos agentes deberían ser más cuidadosos al respecto.
+Fuente: Barro, R. & Sala-i-Martin, X. (1992). "Convergence." *Journal of Political Economy*, 100(2), 223-251.
+
+**Sobre misasignación de capital en Estados Desarrollistas:**
+
+Dixit (1996) en *The Making of Economic Policy* documenta que la misasignación de capital es una característica endémica de la política industrial dirigida en todos los casos estudiados — no solo en China. Corea del Sur tuvo su propia crisis de sobreinversión en los años 70 (la política HCI) y en 1997 (vulnerabilidades en el sector corporativo chaebol). La pregunta relevante no es si existe misasignación — existe en todos los casos — sino si el sistema tiene mecanismos para absorber y corregir la misasignación antes de que alcance escala sistémica. Esta es exactamente la pregunta del Agente B sobre mecanismos de autocorrección, y es la correcta.
+
+**Sobre la relación entre autoritarismo e innovación:**
+
+Un análisis de Acemoglu, Aghion y Zilibotti (2006) en "Distance to Frontier, Selection, and Economic Growth" establece una predicción que es relevante: las instituciones extractivas no son igualmente costosas en todas las fases del desarrollo. En la fase de adopción tecnológica (lejos de la frontera), la extracción puede coexistir con crecimiento porque la adopción no requiere innovación endógena. Cerca de la frontera, las instituciones extractivas suprimen la innovación y divergen. Esta predicción implica que el momento en que la "paradoja del control productivo" se vuelve decisiva es exactamente cuando China más lo necesita — en la transición hacia la frontera tecnológica en semiconductores de frontera e IA de base. Esta predicción teórica respalda el argumento del Agente B sobre el horizonte mediano (2030-2040) como el período de mayor tensión.
+Fuente: Acemoglu, D., Aghion, P., & Zilibotti, F. (2006). "Distance to Frontier, Selection, and Economic Growth." *Journal of the European Economic Association*, 4(1), 37-74.
+
+**Sobre legitimidad del régimen y desempeño:**
+
+Magaloni (2006) en *Voting for Autocracy* documenta el dilema del partido dominante: la fuente de su legitimidad (entrega de bienes materiales) crea dependencia estructural del crecimiento que reduce la resiliencia ante shocks externos. Esta investigación respalda la "trampa de legitimidad" del Agente B. Sin embargo, también documenta que los partidos dominantes con alta penetración organizacional en la sociedad (como el PCCh) tienen más capacidad de sobrevivir desaceleraciones que los regímenes personalistas sin organización de partido. China combina ambos rasgos — partido de alta penetración organizacional Y creciente personalización bajo Xi — creando una tensión interna al aparato que la literatura no ha resuelto empíricamente.
+Fuente: Magaloni, B. (2006). *Voting for Autocracy: Hegemonic Party Survival and Its Demise in Mexico*. Cambridge University Press.
+
+---
+
+### Conclusión comparada: ¿qué nos dice la literatura?
+
+La literatura comparada permite extraer cinco conclusiones que deben guiar el debate en rondas posteriores:
+
+**Primera conclusión: El modelo chino es genuinamente novedoso pero no sin precedentes parciales.**
+
+Ningún caso histórico replica exactamente la combinación china de escala continental, partido único de alta penetración, capitalismo de mercado parcial, política industrial dirigida y orientación exportadora. Los precedentes más cercanos — Corea del Sur, Taiwán, Singapur, Japón — son todos aproximaciones parciales. Esto significa que las predicciones sobre sostenibilidad basadas en comparaciones históricas tienen un límite metodológico real que ambos agentes deberían reconocer explícitamente. El Agente A sobreestima la comparabilidad favorable, y el Agente B sobreestima la comparabilidad desfavorable.
+
+**Segunda conclusión: La literatura comparada sobre Estados Desarrollistas muestra que el éxito histórico de la política industrial no predice sostenibilidad automática.**
+
+Todos los casos exitosos de Estado Desarrollista (Corea, Taiwán, Singapur, Japón) eventualmente tuvieron que gestionar transiciones — hacia economías de mayor valor agregado, hacia más autonomía del sector privado, o hacia liberalización política. El modelo chino enfrenta estas mismas presiones de transición en el horizonte mediano. La literatura no ofrece ejemplos de Estados Desarrollistas que hayan mantenido el mismo modelo de dirección estatal intensa a través de estas transiciones sin cambios sustanciales.
+
+**Tercera conclusión: El mecanismo de autocorrección es el factor causal más importante que la literatura identifica para diferenciar modelos sostenibles de los que colapsan.**
+
+Este punto respalda la línea de ataque del Agente B más que la defensa del Agente A. La literatura comparada sobre colapso de regímenes (Linz y Stepan, 1996; Levitsky y Ziblatt, 2018) consistentemente identifica la ausencia de mecanismos de autocorrección institucionalizada como el predictor más robusto de crisis sistémica a largo plazo. El Agente B tiene razón en que este es el vector crítico, aunque puede estar equivocado sobre el horizonte temporal en que se vuelve decisivo.
+
+**Cuarta conclusión: La literatura no respalda la tesis de convergencia hacia el modelo occidental.**
+
+El argumento implícito detrás de algunas críticas al modelo chino — que la presión de la modernización económica eventualmente producirá liberalización política — no tiene respaldo en la evidencia comparada reciente. Brownlee (2007) en *Authoritarianism in an Age of Democratization* y Levitsky y Way (2010) en *Competitive Authoritarianism* documentan que los regímenes autoritarios con alta organización de partido, alta capacidad estatal y renta de crecimiento tienen trayectorias de larga duración sin liberalización. El PCCh cumple todas estas condiciones. El Agente B no debe apoyarse implícitamente en una teoría de convergencia que la evidencia no respalda.
+
+**Quinta conclusión: El horizonte mediano (2030-2040) es el de mayor incertidumbre analítica.**
+
+La literatura sobre trampas del ingreso medio (Gill y Kharas, 2007; Eichengreen, Park y Shin, 2012) identifica el umbral de 10,000-16,000 dólares PIB per cápita (PPA) como el rango donde la transición desde crecimiento por acumulación hacia crecimiento por innovación se vuelve decisiva. China está en ese umbral ahora. La literatura predice que esta transición es el punto de mayor estrés para cualquier modelo de Estado Desarrollista. Que ambos agentes identifiquen el horizonte mediano como el de mayor tensión es analíticamente correcto y está respaldado por la evidencia comparada.
+
+**Nota metodológica para el debate:** En rondas posteriores, sugiero que ambos agentes distingan explícitamente entre argumentos que aplican al modelo chino como tipo de sistema (respaldados por literatura comparada) y argumentos que aplican a la coyuntura específica de Xi Jinping (respaldados por evidencia de 2012-2026). Son predicciones de nivel diferente y deben tratarse con distintos estándares de evidencia.
+
+---
+
+**Fuentes principales — Agente C, Ronda 1:**
+
+- Acemoglu, D., Aghion, P., & Zilibotti, F. (2006). "Distance to Frontier, Selection, and Economic Growth." *Journal of the European Economic Association*, 4(1), 37-74.
+- Acemoglu, D. & Robinson, J. (2012). *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*. Crown Publishers.
+- Amsden, A. (1989). *Asia's Next Giant: South Korea and Late Industrialization*. Oxford University Press.
+- Barro, R. & Sala-i-Martin, X. (1992). "Convergence." *Journal of Political Economy*, 100(2), 223-251.
+- Brownlee, J. (2007). *Authoritarianism in an Age of Democratization*. Cambridge University Press.
+- Evans, P. (1995). *Embedded Autonomy: States and Industrial Transformation*. Princeton University Press.
+- Gill, I. & Kharas, H. (2007). *An East Asian Renaissance: Ideas for Economic Growth*. World Bank Publications.
+- Hall, P. & Soskice, D. eds. (2001). *Varieties of Capitalism: The Institutional Foundations of Comparative Advantage*. Oxford University Press.
+- Johnson, C. (1982). *MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925-1975*. Stanford University Press.
+- Levitsky, S. & Way, L. (2010). *Competitive Authoritarianism: Hybrid Regimes After the Cold War*. Cambridge University Press.
+- Linz, J. & Stepan, A. (1996). *Problems of Democratic Transition and Consolidation*. Johns Hopkins University Press.
+- Low, L. (2001). "The Singapore developmental state in the new economy and polity." *Pacific Review*, 14(3), 411-441.
+- Magaloni, B. (2006). *Voting for Autocracy: Hegemonic Party Survival and Its Demise in Mexico*. Cambridge University Press.
+- Milanovic, B. (2019). *Capitalism Alone: The Future of the System That Rules the World*. Harvard University Press.
+- Musacchio, A. & Lazzarini, S. (2014). *Reinventing State Capitalism*. Harvard University Press.
+- Nölke, A. et al. (2015). "Dominated by large firms: The state-permeated market economies of the BRIC countries." *Economy and Society*, 44(1), 1-28.
+- Pearson, M., Rithmire, M., & Tsai, K. (2021). "Party-State Capitalism in China." *Current History*, 120(827), 207-213.
+- Wade, R. (1990). *Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization*. Princeton University Press.
+- Woo-Cumings, M. ed. (1999). *The Developmental State*. Cornell University Press.
+
+---
+
+## Evaluación Parcial del Árbitro (G) — Ronda 1
+
+El Agente A presentó la definición estructural más precisa y operacionalizable del modelo (cinco componentes con delimitación comparada frente a URSS, Rusia, Singapur y Corea), pero su punto más débil fue inferir sostenibilidad desde la mera coherencia descriptiva y apoyarse en la circulación de élites como ventaja sin abordar su erosión post-2018; el Agente B, con definición menos precisa por ser derivativa —construida sobre los componentes de A y no de forma autónoma—, tuvo su punto más fuerte en aislar el mecanismo causal correcto (ausencia de autocorrección vinculante y de sucesión institucionalizada) y en detectar esa contradicción interna de A. Ninguno incurrió en hombre de paja —B citó a A con fidelidad y A concedió preventivamente los desafíos— ni en confusión de horizontes: ambos diferenciaron los tres plazos con disciplina y ambos concedieron viabilidad operativa en 2026-2030. Señalo dos puntos de evidencia débil: A cita "estudios sobre polarización" y ventajas de ejecución de largo plazo sin fuente identificable (dato descartado del cómputo por Regla 7), y B usa el desempleo juvenil de junio 2023 y el FDI 2024 como señales estructurales sin controlar por cambio metodológico ni por efecto de base, además de invocar el Lowy Institute con una atribución de "escenario más probable" que excede lo verificable en la fuente.
