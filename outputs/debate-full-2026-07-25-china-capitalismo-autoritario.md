@@ -7223,3 +7223,260 @@ Si las tres condiciones se cumplen simultáneamente durante 5 años, el Predicad
 - [CSMonitor — China's Sluggish Economy Prompts Protest and Social Unrest (2025)](https://www.csmonitor.com/World/Asia-Pacific/2025/0307/china-economy-xi-beijing-unrest)
 - [Holbig/Gilley — Reclaiming Legitimacy in China](https://web.pdx.edu/~gilleyb/ReclaimingLegitimacyInChina.pdf)
 - [Mapping China — China under Xi: Moving Beyond Performance Legitimacy?](https://mappingchina.org/wp-content/uploads/2020/03/MC-Working-Paper-Series-2020-No.-1.pdf)
+
+---
+
+## Intervención del Oponente (B) — Ronda 12
+
+---
+
+### 1. Respuesta directa a la pregunta de la ronda
+
+Sí: la legitimidad del PCCh es frágil ante desaceleraciones prolongadas, pero no de forma lineal ni inmediata. La fragilidad opera a través de un mecanismo de erosión gradual que no produce colapso sino **degradación funcional acumulada**: el régimen sobrevive pero pierde capacidad de movilización, cooptación y dirección estratégica. Eso es precisamente lo que le impide cruzar al ingreso alto. La sostenibilidad política del Régimen 2 y el fracaso de los Predicados 1 y 2 son la misma historia contada desde ángulos distintos.
+
+---
+
+### 2. B-11-3 RESUELTO: Estatuto del argumento EPL
+
+**Declaro el argumento del EPL como actor no unitario como escenario de cola, no como parte del marco central de la meseta.**
+
+La razón es concisión analítica, no capitulación. A documentó correctamente que la reestructuración 2015-2016 (4 departamentos → 15 unidades bajo la CMC) aumentó la centralización formal del mando civil sobre el EPL, y que no hay decisión militar mayor que contradiga directrices del PCCh desde 2012. Acepto esto como evidencia suficiente para el período 2012-2026.
+
+Sin embargo, la concesión tiene límites precisos:
+
+- **Centralización formal ≠ alineación de intereses en contextos de estrés.** Los mecanismos CMC funcionan bien cuando el régimen crece y hay recursos para distribuir entre las 15 unidades nuevas. Bajo desaceleración fiscal sostenida — exactamente el escenario del Régimen 2 — la competencia presupuestaria entre unidades militares y las tensiones de carrera entre facciones se intensifican. A no ha documentado cómo la CMC gestiona esas tensiones distributivas bajo restricción fiscal; solo documentó que los mecanismos de mando existen.
+- El argumento del actor no unitario sigue siendo **relevante como amplificador del Predicado 1** en el horizonte 2035-2050, no en 2026-2030.
+
+**Estatuto final: escenario de cola con relevancia en el horizonte largo. Retirado del marco central de la meseta.**
+
+---
+
+### 3. B-11-4 RESUELTO: Argumento bajo la definición operativa del árbitro
+
+Bajo la definición adoptada, el criterio (iii) mide **convergencia relativa**: reducción del diferencial PIB per cápita China vs. media de democracias liberales avanzadas. No requiero que China no llegue a $22K antes de 2040.
+
+**Mi argumento reformulado:**
+
+El diferencial relativo China/G7 no se reduce de forma sostenida en el período relevante porque:
+
+**(a)** La tasa de crecimiento necesaria para reducir ese diferencial no es 4.0-4.2% sino considerablemente mayor, dado que el G7 también crece.
+
+**Aritmética [EC-1]:**
+- PIB per cápita China 2024: ~$13,200 (corrientes USD).
+- Media PIB per cápita G7 2024: ~$55,000.
+- Diferencial actual: $41,800. Ratio China/G7: ~24%.
+- Para reducir ese diferencial a 35% en 2040 (convergencia genuina), China necesita crecer a ~6.5% real anual mientras el G7 crece a ~1.8%.
+- Con el 4.0-4.2% que acepta A para 2025-2030, el diferencial relativo **no se cierra**: China crece a 4.1%, G7 a 1.8% → el ratio mejora de 24% a ~28% en 2030. Pero el FMI proyecta desaceleración adicional de China a 3.3-3.5% en 2031-2040 [PI], lo que detiene o revierte la convergencia.
+- Conclusión: el criterio (iii) del Predicado 2 no se satisface de forma sostenida porque la convergencia se estanca en la meseta del Régimen 2.
+
+**(b)** El criterio (a) de PTF tampoco se satisface: los datos disponibles muestran que la PTF china cayó en 2022-2023 y la recuperación de 2024 es parcial [DO]. Satisfacer PTF > media G7 en dos quinquenios requiere reforma institucional que el modelo autoritario no puede producir.
+
+**(c)** El criterio (b) de cuota de exportaciones de alta complejidad: este es el único indicador donde A tiene el argumento más fuerte — concesión reconocida en sección 12.
+
+**Veredicto sobre Predicado 2:** Con los datos actuales, China satisface de forma robusta solo el criterio (b) del Predicado 2, y el (iii) con tendencia que se detiene antes del 2040. Eso no alcanza los dos criterios sostenidos que la definición exige.
+
+---
+
+### 4. Mecanismo de transmisión: desaceleración → erosión de legitimidad
+
+Presento el mecanismo en cinco etapas con indicadores observables por etapa. **No predigo colapso; predigo degradación funcional acumulada.**
+
+---
+
+**ETAPA 1 — Tensión fiscal subnacional (ya observable, 2022-presente)**
+
+*Mecanismo:* La desaceleración reduce ingresos del suelo y tributarios provinciales. Los gobiernos locales recortan servicios y retrasan pagos a contratistas y funcionarios.
+
+*Indicadores observables:*
+- Déficit de pensiones provinciales: proyectado en déficit sistémico ~2028 [PI]; el shortfall acumulado 2025-2030 ya estimado en ¥8-10 billones [DO].
+- Protestas por salarios impagos: 3/4 de los ~7,000 incidentes registrados desde 2022 tienen origen en disputas económicas (salarios, vivienda, tierra) [DO].
+- Recorte de personal en gobiernos locales: detectable en presupuestos publicados por provincias deficitarias.
+
+*Umbral de activación:* Dos o más provincias de nivel A (Guangdong, Jiangsu, Shandong, Zhejiang) reportan déficit de pensiones no cubierto por transferencias centrales.
+
+---
+
+**ETAPA 2 — Fractura del contrato intergeneracional (observable ahora, amplificándose)**
+
+*Mecanismo:* El desempleo juvenil estructural rompe el contrato implícito "estudia, trabaja, prospera". La generación de graduados universitarios (12.2 millones en 2025) no absorbe el ascenso prometido. Emerge desinversión cívica.
+
+*Indicadores observables:*
+- Desempleo juvenil (16-24, excluyendo estudiantes): 18.9% en agosto 2025 [DO].
+- Movimientos culturales de desinversión: "tang ping" (tumbarse), "bai lan" (dejar pudrir), "run" (emigrar) — indexados por prevalencia en redes sociales censuradas y emigración neta de jóvenes calificados.
+- Tasa NEET: en aumento pero sin cifra oficial publicada; estimada en 10-15% de jóvenes 16-24 [EI].
+- El gobierno lanzó en septiembre 2025 una campaña de la Administración del Ciberespacio para suprimir contenido "excesivamente pesimista" que argue que "trabajar duro no tiene sentido" [DO].
+
+*Umbral de activación:* Desempleo juvenil sostenido >20% por cuatro trimestres consecutivos, con emigración neta de universitarios >200,000/año.
+
+---
+
+**ETAPA 3 — Erosión de la legitimidad de desempeño (2026-2032, proyectado)**
+
+*Mecanismo:* Cuando el crecimiento cae por debajo de la "tasa de expectativa" internalizada por hogares y empresas (~5-6%), la brecha entre promesas y realidad se vuelve visible y repetida. Los 4 tipos de legitimidad de A son interdependientes: la legitimidad de desempeño sostiene la ideológica-histórica, porque el "sueño chino" de Xi requiere evidencia material. Sin ella, el marco ideológico se vacía.
+
+*Indicadores observables:*
+- Encuestas de satisfacción gubernamental: la más citada (Ash Center, Harvard) mostró alta aprobación hasta 2020 pero no ha sido replicada con acceso amplio post-pandemia. La ausencia de datos actualizados es en sí un indicador de opacidad creciente [EI].
+- Consumo de hogares como porcentaje del PIB: estancado en ~37-38%, 20 puntos por debajo de la media de economías de ingreso alto [DO].
+- Flujos de capitales de élites chinas: proxy observable de confianza interna en el régimen.
+
+*Umbral de activación:* Crecimiento <3.5% por tres años consecutivos con consumo de hogares sin expansión.
+
+---
+
+**ETAPA 4 — Retracción de la capacidad de cooptación (2030-2040)**
+
+*Mecanismo:* El régimen copta a los descontentos mediante acceso a empleo público, contratos con SOEs, y movilidad ascendente partidaria. Bajo restricción fiscal, estos instrumentos de cooptación se contraen. La red clientelar del PCCh se vuelve competitiva y excluyente en lugar de expansiva.
+
+*Indicadores observables:*
+- Ratio empleo público/PEA: si decrece, indica retracción de la red de cooptación.
+- Número de miembros del PCCh: estancamiento del reclutamiento entre jóvenes universitarios.
+- Incidentes de corrupción en niveles medios: indicador de competencia por rentas escasas dentro del aparato.
+
+*Umbral de activación:* Reducción de >10% en empleo de SOEs y gobierno en cinco años consecutivos.
+
+---
+
+**ETAPA 5 — Rigidez institucional y meseta de capacidad estratégica (2035+)**
+
+*Mecanismo:* Para contener la erosión anterior, el régimen intensifica el control político, lo que reduce el espacio de experimentación institucional necesario para la innovación de frontera. El resultado es una trampa: más control = menos innovación = más estancamiento = más control. Esto consolida el Régimen 2 como estado estable, no como tránsito.
+
+*Indicadores observables:*
+- Índice de libertad académica: medido por CIVICUS/V-Dem, en descenso continuo desde 2013 [DO].
+- Patentes triádicas originadas en China (no de filiales extranjeras): ratio de patentes de alta calidad vs. volumen bruto.
+- Salidas de investigadores senior a universidades extranjeras.
+
+---
+
+### 5. Impugnación del umbral de falsación de A
+
+A declaró su umbral: PIB <2.5% por 5 años + desempleo juvenil >25% por 3 años + protestas escalando a nivel sistémico — **simultáneamente**.
+
+**Esta construcción es metodológicamente deficiente por tres razones:**
+
+**Primera: el umbral de triple conjunción es estructuralmente casi infalsable.** Exige que tres variables independientes superen simultáneamente umbrales extremos durante períodos prolongados. Eso no es un criterio de falsación, es un criterio de colapso terminal. Ningún analista serio define la insostenibilidad de un modelo político por su colapso; lo define por su degradación funcional. Un régimen puede operar en estado de "pre-falla" crónica durante décadas: crecimiento mediocre (3-4%, no <2.5%), desempleo juvenil elevado (18-22%, no >25%), y protestas frecuentes pero localizadas (miles/año, no "nivel sistémico"). Ese es exactamente el Régimen 2.
+
+**Segunda: el umbral de 2.5% de PIB es incoherente con el propio argumento de A.** Si A acepta 4.0-4.2% como proyección conservadora para 2025-2030, y la meseta se estabiliza en 3.0-3.5% en 2031-2040, nunca se alcanzará el umbral de <2.5%. Pero eso no significa que el modelo sea sostenible en el sentido del Predicado 1 — significa que A definió su umbral de falsación por debajo del nivel de daño que B argumenta.
+
+**Tercera: el umbral ignora efectos de umbral no lineales.** En sistemas políticos autoritarios, la pérdida de legitimidad no es gradual: tiene puntos de inflexión donde pequeñas perturbaciones producen efectos desproporcionados. La erosión acumulada puede parecer manejable hasta que no lo es.
+
+**Contrapropuesta de umbral de B:** El Predicado 1 se falsifica si China exhibe, en cualquier período continuo de 7 años entre 2026-2045: crecimiento real promedio <3.5% + consumo de hogares/PIB sin expansión + retracción de al menos dos de los cuatro tipos de legitimidad de A medidos por indicadores observables (encuestas, NEET, emigración calificada, membresía PCCh entre jóvenes). Ninguna de estas condiciones requiere colapso.
+
+---
+
+### 6. Discrepancia IED: $114.8B "utilizado" vs. $4.5B balanza de pagos
+
+La discrepancia es real y metodológicamente significativa.
+
+**Dos metodologías, dos preguntas distintas:**
+
+| Métrica | Fuente | Cifra 2024 | Qué mide |
+|---|---|---|---|
+| FDI "utilizado" (实际利用外资) | MOFCOM | ~$114-116B | Flujos brutos entrantes, incluye reinversión de utilidades y deuda intraempresarial |
+| FDI neto (BoP) | SAFE/BIS | ~$4.5-18.6B | Flujos netos: entradas menos salidas de capital extranjero real |
+
+La discrepancia se explica porque las empresas extranjeras en China **repatriaron utilidades retenidas y repagaron deuda a matrices** a ritmo acelerado en 2023-2024, motivadas por el diferencial de tasas de interés (Fed >5% vs. PBOC ~3.45%) y por la depreciación del RMB. El FDI "utilizado" de MOFCOM captura las entradas brutas pero no deduce esas salidas.
+
+**¿Cuál es más relevante para este debate?**
+
+Para evaluar el Predicado 2 (competitividad), la cifra relevante es el **FDI neto en BoP**, porque mide el flujo real de capital extranjero que financia inversión adicional, tecnología y empleo en China. El FDI "utilizado" que cita A incluye dinero que ya estaba en China (utilidades no distribuidas de años anteriores), lo que infla la percepción de atractivo inversor. El AMRO confirma que el grueso de la caída refleja reversión de reinversiones y repago de deuda intraempresarial, no nueva inversión entrante [DO].
+
+**Implicación:** La caída del FDI neto a niveles históricos mínimos en 2024 es evidencia de que el capital extranjero **está saliendo en términos netos**, lo que reduce la transferencia tecnológica y la integración en cadenas de valor globales que A necesita para sostener el criterio (b) del Predicado 2 a largo plazo.
+
+---
+
+### 7. Cómo se sostiene políticamente la meseta del Régimen 2
+
+**La meseta se sostiene políticamente a través de la represión selectiva, el nacionalismo compensatorio y la sustitución de movilidad económica por adscripción identitaria.**
+
+**Pilar 1 — Represión selectiva de umbral bajo:** El PCCh no necesita reprimir a toda la población; solo necesita reprimir a los organizadores. La tecnología de vigilancia (reconocimiento facial, redes sociales monitoreadas, sistema de crédito social) permite identificar y neutralizar liderazgos emergentes antes de que consoliden redes. Las ~7,000 protestas registradas desde 2022 son protestas atomizadas, no movimientos: el régimen las tolera mientras no conecten [DO]. Este mecanismo es costoso en términos de capital político pero es operativamente efectivo.
+
+**Pilar 2 — Nacionalismo compensatorio:** Cuando el desempeño económico declina, el régimen eleva la intensidad del discurso nacionalista (Taiwán, mar del Sur de China, "siglo de humillaciones"). La investigación sobre autoritarismo de desempeño (Guriev & Treisman, 2022) documenta que los regímenes modernos sustituyen crecimiento por identidad nacional cuando la legitimidad de desempeño se erosiona. Este es el mecanismo de sostenimiento más duradero y el más costoso externamente: produce conflictos con vecinos y socios comerciales que alimentan el argumento de riesgo geopolítico.
+
+**Pilar 3 — Redistribución de expectativas:** El régimen activamente redefinió el "sueño chino" hacia contenido más modesto y colectivo: "prosperidad común" (共同富裕) no como enriquecimiento individual sino como reducción de desigualdad gestionada por el Estado. El problema es que este reencuadre es creíble solo si va acompañado de redistribución real, lo que requiere recursos fiscales que la desaceleración erosiona. Es un mecanismo que se autocontradice bajo restricción.
+
+**Tensión central:** Ninguno de los tres pilares genera la capacidad de innovación institucional necesaria para salir de la meseta. El Régimen 2 es autosostenido pero no autosuperador.
+
+---
+
+### 8. B-11-2: Elasticidad inversión-crecimiento — RESUELTO
+
+El IMF Working Paper "China's Path to Sustainable and Balanced Growth" (2024) utiliza coeficientes convencionales de elasticidad del capital de **0.4** (capital output elasticity) [DO].
+
+**Aritmética [EC-2]:**
+- Elasticidad del capital en el PIB: 0.4
+- Inversión/PIB constante en ~40%
+- Tasa de depreciación económica del stock de capital: ~5%; stock de capital creciendo a ~4%/año
+- Contribución del capital al crecimiento del PIB: 0.4 × 4% = 1.6 pp
+- Con PTF contribuyendo 0-0.5 pp (2022-2023) y trabajo ~0.5 pp → crecimiento resultante: ~2.1-2.6%
+- Para sostener 4% de crecimiento con PTF estancada, China necesita acelerar el stock de capital al ~7%/año → ratio inversión/PIB superior a 45%, ya en territorio de fuerte retorno decreciente [EC]
+
+**Acotamiento honesto:** Esta aritmética asume PTF estancada, que es el escenario de meseta. Si A tiene razón en que la PTF se recupera vía digitalización e IA, el argumento se debilita. Pero la carga probatoria de demostrar aceleración sostenida de PTF recae en A, dado que los datos 2020-2024 muestran tendencia declinante.
+
+---
+
+### 9. B-11-5: [EC] de mBridge — ÚLTIMO REQUERIMIENTO, RESUELTO
+
+**Retiro la afirmación de impacto macroeconómico significativo de mBridge a corto plazo.**
+
+No existen datos públicos suficientes para derivar una estimación calibrada del volumen de transacciones de mBridge como porcentaje del PIB mundial. El BIS congeló su participación en mBridge en 2024.
+
+**[EC-3] acotado:**
+- mBridge en su fase piloto procesó ~$22M en transacciones (BIS, 2022) [DO].
+- Comercio bilateral China-miembros mBridge: ~$400B/año [DO].
+- Con crecimiento de 10x en 5 años, mBridge procesaría ~$220M/año: <0.06% del comercio China con esos socios, <0.003% del PIB mundial.
+
+**Conclusión [EC-3]:** El impacto macroeconómico de mBridge es **negligible en el horizonte 2026-2035**. Retiro el argumento de mBridge como evidencia de amenaza al sistema dólar en el período relevante. El argumento de desdolarización se sostiene en otros vectores (acuerdos bilaterales RMB, comercio en moneda local con ASEAN y Gulf), pero ninguno alcanza escala sistémica antes de 2040.
+
+---
+
+### 10. Tabla de evidencia
+
+| # | Afirmación | Tipo | Fuente | Fecha |
+|---|---|---|---|---|
+| 1 | Desempleo juvenil China 18.9% (16-24, excl. estudiantes) | [DO] | Caixin Global / NBS | Agosto 2025 |
+| 2 | 7,000 incidentes de protesta desde 2022; 75% por causas económicas | [DO] | China Labour Bulletin vía CSMonitor | Marzo 2025 |
+| 3 | Protestas aumentaron 21% en Q4 2024 vs Q4 2023 | [DO] | VOA News / China Labour Bulletin | 2024-2025 |
+| 4 | Campaña del Ciberespacio contra "pesimismo excesivo" | [DO] | Caixin Global | Septiembre 2025 |
+| 5 | Shortfall pensiones China 2025-2030: ¥8-10 billones | [DO] | Insurance Association of China vía IMF WP 2026 | Feb 2026 |
+| 6 | Sistema de pensiones en déficit sistémico ~2028 | [PI] | IMF Working Paper "Population Aging and Pension Reforms in China" | Feb 2026 |
+| 7 | FDI neto BoP 2024: ~$4.5-18.6B (mínimo en 3 décadas) | [DO] | SAFE/BIS / AMRO Analytical Note | 2025 |
+| 8 | FDI "utilizado" (MOFCOM) 2024: $114-116B | [DO] | MOFCOM / China Briefing | 2025 |
+| 9 | Discrepancia FDI: repatriación de utilidades y repago deuda intraempresarial | [DO] | AMRO Analytical Note (Abr 2025) | Abril 2025 |
+| 10 | Elasticidad capital-PIB: 0.4 convencional, con distorsiones en China | [DO] | IMF WP "China's Path to Sustainable and Balanced Growth" | 2024 |
+| 11 | Inversión/PIB China 2024: 40.6% | [DO] | CEIC / China Briefing | 2024 |
+| 12 | Población 15-59 años China: cayó 80M desde 2011, 60.9% del total en 2024 | [DO] | NBS China | 2024 |
+| 13 | Reforma edad de retiro 2024: +0.2pp PIB, reduce gasto pensiones 15.3%→11.9% del PIB para 2050 | [PI] | IMF WP 2026 | Feb 2026 |
+| 14 | V-Dem: libertad académica en China en descenso continuo desde 2013 | [DO] | V-Dem Institute | 2024 |
+| 15 | Consumo de hogares como % del PIB China: ~37-38% | [DO] | World Bank | 2024 |
+
+---
+
+### 11. Retos para A en Ronda 13
+
+**Reto A-12-1 (PRIORIDAD ALTA — Umbral de falsación):** Tu umbral de triple conjunción requiere condiciones que nunca han coexistido en ninguna economía de tamaño medio sin colapso previo. ¿Puedes ofrecer un umbral de falsación del Predicado 1 que sea observable *antes* del colapso terminal, o admites que tu argumento de sostenibilidad no es falsable en el período relevante?
+
+**Reto A-12-2 (ALTA — Convergencia relativa bajo desaceleración IMF):** Aceptas 4.0-4.5% para 2025-2027, pero el FMI proyecta desaceleración a ~3.3-3.5% en 2031-2040. Con el G7 creciendo a ~1.8%, el diferencial relativo China/G7 se cierra muy lentamente y se detiene antes de 2040. ¿Cómo sostienes que el criterio (iii) de convergencia del Predicado 2 se satisface de forma *sostenida* si la desaceleración estructural detiene la convergencia en la segunda mitad del período?
+
+**Reto A-12-3 (ALTA — Sostenibilidad fiscal de la cooptación):** Con el shortfall de pensiones proyectado en ¥8-10 billones para 2025-2030, déficit subnacional creciente, y caída del FDI neto, ¿de dónde proviene la capacidad fiscal para sostener la red de cooptación del PCCh bajo el Régimen 2? Proporciona el mecanismo fiscal concreto.
+
+---
+
+### 12. Concesión limitada
+
+A tiene razón en que la legitimidad del PCCh es más multicapa de lo que argumenté en rondas anteriores. Los cuatro tipos de legitimidad ofrecen redundancia genuina. También concedo que la reforma de edad de retiro de 2024 muestra capacidad del régimen para ajustar instituciones bajo presión.
+
+Pero la concesión es estructuralmente limitada: esa redundancia funciona hasta el punto en que las cuatro bases se erosionan por la misma causa — el estancamiento fiscal. Las pensiones conectan legitimidad de desempeño (promesas económicas) con capacidad estatal (puede cumplirlas) y con legitimidad ideológica (el PCCh cuida al pueblo). Cuando el déficit de pensiones se vuelve sistémico ~2028, las cuatro bases sufren simultáneamente.
+
+---
+
+### Fuentes
+
+- [Analysis: Youth Unemployment Surge Exposes Cracks in China's Economic Transition — Caixin Global](https://www.caixinglobal.com/2025-09-19/analysis-youth-unemployment-surge-exposes-cracks-in-chinas-economic-transition-102363893.html)
+- [China's sluggish economy prompts protest and social unrest — Christian Science Monitor](https://www.csmonitor.com/World/Asia-Pacific/2025/0307/china-economy-xi-beijing-unrest)
+- [Bai Lan movement: Why Chinese youth are 'lying flat' — Business Standard](https://www.business-standard.com/world-news/china-youth-unemployment-bai-lan-tang-ping-economic-shift-xi-jinping-125030500829_1.html)
+- [Analytical Note: Is Declining FDI into China a Cause for Concern? — AMRO Asia](https://amro-asia.org/wp-content/uploads/2025/04/Analytical-Note-Is-Declining-FDI-into-China-a-Cause-for-Concern_clean-1.pdf)
+- [China — Foreign Direct Investment, Net (BoP) — Trading Economics](https://tradingeconomics.com/china/foreign-direct-investment-net-bop-us-dollar-wb-data.html)
+- [Population Aging and Pension Reforms in China — IMF Working Paper](https://www.imf.org/en/publications/wp/issues/2026/02/19/population-aging-and-pension-reforms-in-china-574061)
+- [As China Ages, a Pension Crisis Looms — The Diplomat](https://thediplomat.com/2026/02/as-china-ages-a-pension-crisis-looms/)
+- [China's Path to Sustainable and Balanced Growth — IMF Working Paper 2024](https://www.imf.org/-/media/files/publications/wp/2024/english/wpiea2024238-print-pdf.pdf)
+- [Total Investment as Share of GDP in China 1980-2030 — Statista](https://statista.com/statistics/1197064/china-total-investment-as-gdp-share)
