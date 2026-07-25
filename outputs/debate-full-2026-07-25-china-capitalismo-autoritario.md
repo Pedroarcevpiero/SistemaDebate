@@ -2405,3 +2405,83 @@ Si A no puede identificar ese caso desde 2013 — cuando la centralización bajo
 - [electrive.com — Dürr is supplying battery machinery for CATL](https://www.electrive.com/2022/12/15/durr-is-supply-battery-machinery-for-catl/)
 - [PIIE — China's private-sector rebound continued in 2025](https://www.piie.com/research/piie-charts/2026/chinas-private-sector-rebound-continued-2025-fueled-new-economy)
 
+
+### Agente C (Economía Política Comparada) — Ronda 6
+
+#### Evaluación comparada: el Estado chino como actor económico
+
+---
+
+**1. El modelo Amsden/Mazzucato y su transferibilidad al caso chino post-2013**
+
+A cita con corrección la distinción de Alice Amsden entre "picking winners" y "creating markets," y usa el marco de Mazzucato sobre el Estado emprendedor. Ambas referencias son legítimas, pero A extrae de ellas una conclusión que ninguna de las dos autoras sostiene en plenitud.
+
+Amsden, en *The Rise of the Rest* (Oxford University Press, 2001), no argumenta simplemente que el Estado crea mercados. Su argumento central es que los Estados desarrollistas de alto desempeño —Corea del Sur, Taiwán, Brasil, India, México— disciplinaron el capital mediante lo que ella denomina "reciprocal control mechanism": los subsidios, el crédito dirigido y la protección estaban condicionados a indicadores de desempeño verificables y exigibles, típicamente ligados a exportaciones. El Estado subsidiaba, pero el mercado externo actuaba como árbitro de eficiencia independiente. Sin ese mecanismo de disciplina, Amsden predice explícitamente lo que llama "learning without discipline" —crecimiento de capacidad sin innovación de frontera, exactamente el patrón que B describe para los sectores SOE chinos.
+
+Mazzucato, en *The Entrepreneurial State* (Anthem Press, 2013) y especialmente en *Mission Economy* (Allen Lane, 2021), es más explícita aún: el Estado emprendedor no solo toma riesgos que el mercado rechaza, sino que debe diseñar mecanismos para socializar tanto los riesgos como los retornos, e incluye la evaluación de resultados como condición de la legitimidad de la intervención. Mazzucato critica explícitamente la política industrial sin evaluación como "socialización de riesgos sin socialización de retornos."
+
+La pregunta que emerge del marco comparado —y que ni A ni B han formulado con precisión— es: **¿cuál es el mecanismo de disciplina del capital en el modelo chino post-2013?** No el mecanismo de salida (que B discute), sino el mecanismo de disciplina continua: ¿qué métricas de desempeño vinculan el apoyo estatal al beneficiario, con consecuencias reales si el benchmark no se cumple? En Corea del Sur, Park Chung-hee retiraba el acceso al crédito subsidiado de los chaebols que no alcanzaban los objetivos de exportación. En Taiwán, el ITRI mantenía benchmarks tecnológicos para sus spin-offs. La literatura no ha documentado un mecanismo equivalente, exigible y sistemático en la política industrial estratégica china post-2013. Esa ausencia —no solo la ausencia de mecanismos de salida— es donde el modelo Amsden/Mazzucato diverge del modelo chino real.
+
+---
+
+**2. Corrección de errores en Japón, Corea del Sur y Taiwán: lo que la evidencia comparada dice**
+
+B tiene razón en señalar el problema de la corrección de errores, pero el argumento comparado es más matizado de lo que B presenta.
+
+**Japón:** El MITI implementó en los años 1970 y 1980 carteles de recesión estructurada (*tokushu fukyō sangyō* y *kozo fukyo sangyō*) para acero, aluminio y construcción naval —sectores donde la política industrial había sobreinvertido. Estas políticas implicaron reducción coordinada de capacidad, con compensaciones a trabajadores pero sin rescates perpetuos a empresas individuales. La evidencia (Uriu, *Troubled Industries*, Cornell University Press, 1996) muestra que Japón sí desarrolló mecanismos de salida ordenada, aunque tardíos. El problema japonés no fue la ausencia de corrección, sino que la corrección llegó después de que el "decenio perdido" cristalizara la sobreinversión en sectores no estratégicos —un rezago, no una ausencia.
+
+**Corea del Sur:** El caso más relevante. El colapso del chaebol Daewoo en 1999 —con 25 billones de won en deuda— fue permitido y gestionado bajo presión del FMI. El gobierno Kim Dae-jung rechazó el rescate y forzó la venta de activos. Esa es la corrección con "salida real de activos" que el reto de B a A solicita para China —y en Corea existió, aunque requirió una crisis sistémica (1997) y presión externa para activarse. La lección comparada es que la corrección fue posible no porque el sistema coreano tuviera mecanismos endógenos de salida bien desarrollados, sino porque la crisis externa forzó la apertura de esos mecanismos.
+
+**Taiwán:** El modelo ITRI-spin-off es el más relevante y el menos discutido en el debate. El Estado creaba capacidad tecnológica en el ITRI, luego la privatizaba mediante spin-offs (TSMC, UMC, Acer, en diferentes formas), retirándose de la propiedad operativa una vez establecida la base tecnológica. Ese modelo incorpora la salida como diseño institucional, no como respuesta a crisis.
+
+La implicación para el caso chino es que los modelos comparados exitosos activaron sus mecanismos de corrección bajo presión externa (Corea), la diseñaron desde el inicio (Taiwán), o la implementaron tardíamente pero de forma sectorial (Japón). China bajo Xi no muestra ninguno de estos patrones en sectores estratégicos: no hay presión externa institucional equivalente al FMI de 1997, el diseño institucional no contempla la privatización por spin-off como mecanismo de salida, y la corrección sectorial requiere una capacidad de crítica interna que la centralización política ha reducido.
+
+---
+
+**3. La paradoja de la doble velocidad: estabilidad analítica y evidencia comparada**
+
+A ofrece la "economía dual" como rasgo funcional: SOEs en sectores de control estratégico, privados en sectores dinámicos. La literatura comparada sugiere que esta coexistencia es posible en el mediano plazo pero genera tensiones de acumulación.
+
+Los casos comparados —la India pre-1991, México post-NAFTA, Europa del Este en transición— muestran que las economías de doble velocidad persisten, pero producen invariablemente presiones redistributivas que el sistema político debe resolver. En la India, la crisis de balanza de pagos de 1991 forzó la liberalización. En México, la dualidad persiste porque hay separación territorial entre los dos sectores. En Europa del Este, la integración a la UE forzó convergencia de regulación.
+
+El caso chino tiene una particularidad sin paralelo directo en la literatura: el Estado es simultáneamente el actor que sostiene la velocidad lenta (SOEs) y el que regula la velocidad rápida (privados). Cuando los intereses de control político entran en conflicto con la dinámica del sector privado —como en 2021 con el sector tecnológico— el Estado puede frenar la velocidad rápida sin el costo político que esa decisión tendría en una democracia. Eso hace la paradoja analíticamente estable en el corto plazo, pero introduce una fuente de riesgo sistémico sin precedente comparado: la velocidad de la economía dual no está determinada por dinámicas de mercado sino por la percepción del liderazgo sobre qué concentración de poder autónomo es tolerable.
+
+---
+
+**4. El reto de B evaluado desde la literatura comparada**
+
+El reto de B —identificar un caso de reversión de política industrial estratégica desde 2013 con salida real de activos— es un reto bien formulado, pero enfoca el criterio de evaluación de la calidad de la política industrial en una dimensión sola (la salida) cuando la literatura comparada sugiere que la disciplina continua es el mecanismo más importante.
+
+El criterio de Amsden no es "¿puede el Estado retirar el apoyo?", sino "¿tiene el Estado incentivos estructurales para hacerlo cuando los benchmarks no se cumplen?" El reto de B es una proxy razonable, pero no el criterio definitivo. Dicho esto, el reto es válido porque en ausencia de evidencia de salida real, la presunción comparada es que el mecanismo de disciplina tampoco existe: si el Estado nunca retira el apoyo cuando los resultados fallan, los actores anticipan eso y el mecanismo de disciplina se neutraliza ex ante.
+
+---
+
+**5. Poder explicativo comparado: A vs. B**
+
+La literatura comparada asigna mayor poder explicativo a **B en el horizonte 2030-2040, con una calificación**: B tiene razón en el problema estructural, pero lo atribuye a la ausencia de mecanismo de salida cuando la literatura sugiere que el problema más fundamental es la ausencia de mecanismo de disciplina continua —distinto y previo a la salida.
+
+A tiene mayor poder explicativo para el período 2013-2026, donde el modelo chino ha demostrado la capacidad que el Estado desarrollista histórico tuvo en sus fases de alta velocidad: movilización de capital a escala, creación de mercados, construcción de infraestructura de bien público. El problema es que A usa esa evidencia como prueba de sostenibilidad a largo plazo, cuando la literatura comparada sugiere que el período de alta velocidad sin mecanismo de disciplina siempre produce sobreinversión que eventualmente requiere corrección —y la calidad de esa corrección determina si el modelo produce un TSMC o un sector de semiconductores zombi.
+
+---
+
+**Reto comparado para A y B — punto no planteado en el debate**
+
+Tanto A como B han debatido el modelo chino como si la variable institucional crítica fuera la presencia o ausencia de mecanismos de salida. Pero Amsden y Evans (*Embedded Autonomy*, Princeton University Press, 1995) señalan que el factor institucional más determinante es la calidad de la burocracia de implementación: su autonomía de la captura de intereses privados y su densidad de vínculos informativos con el sector privado —lo que Evans llama "autonomía embebida."
+
+La pregunta que ninguno ha planteado: **¿cómo ha evolucionado la autonomía embebida de la burocracia económica china desde 2013?** La anticorrupción de Xi aumentó la autonomía formal del Estado respecto a intereses privados, pero la centralización política ha reducido los canales de retroalimentación informativa: los funcionarios que reportan fracasos en políticas estratégicas asumen riesgos políticos que los incentivan al silencio. El modelo desarrollista histórico requería burócratas que pudieran informar al liderazgo que una apuesta falló sin consecuencias políticas.
+
+El reto concreto: A debe identificar un mecanismo institucional en el sistema político-económico chino post-2013 que preserve la densidad de retroalimentación informativa ("embeddedness") mientras centraliza la autoridad decisional. B debe explicar si la ausencia de ese mecanismo produce colapso sistémico o simplemente un equilibrio de menor eficiencia que el modelo puede sostener. La literatura comparada sugiere que la segunda opción es más probable a 2030 y la primera más probable a 2040-2050, pero ninguno ha examinado ese horizonte con evidencia institucional específica.
+
+---
+
+**Fuentes:**
+
+- Amsden, A. (2001). *The Rise of the Rest: Challenges to the West from Late-Industrializing Economies*. Oxford University Press.
+- Evans, P. (1995). *Embedded Autonomy: States and Industrial Transformation*. Princeton University Press.
+- Johnson, C. (1982). *MITI and the Japanese Miracle*. Stanford University Press.
+- Mazzucato, M. (2013). *The Entrepreneurial State: Debunking Public vs. Private Sector Myths*. Anthem Press.
+- Mazzucato, M. (2021). *Mission Economy: A Moonshot Guide to Changing Capitalism*. Allen Lane.
+- Uriu, R. (1996). *Troubled Industries: Confronting Economic Change in Japan*. Cornell University Press.
+- Wade, R. (1990). *Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization*. Princeton University Press.
+- World Bank. (2020). *China's Productivity Slowdown and Future Growth Potential*. [https://documents.worldbank.org/en/publication/documents-reports/documentdetail/350771607670595559](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/350771607670595559)
+
