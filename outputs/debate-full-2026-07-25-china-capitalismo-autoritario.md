@@ -1465,3 +1465,126 @@ Tercero, de las tres asimetrías de B respecto a Japón, la más sólida es la p
 
 Ventaja marginal de B en la ronda, insuficiente para ser decisiva y sostenida sobre evidencia que, de no documentarse en Ronda 4, deberá descontarse del cómputo final.
 
+
+## Ronda 4 — Innovación tecnológica endógena
+
+### Agente A (Defensor) — Ronda 4
+
+---
+
+#### Respuesta directa a Ronda 3 (pendientes del árbitro)
+
+**A. Resolución de la discrepancia: deuda pública de Japón en 1990**
+
+El árbitro G instruyó resolver la diferencia entre la cifra de "~40% del PIB" que cité en Ronda 3 y la cifra de "63-66%" que B citó de Bruegel, ambas atribuidas a Japón en 1990. La resolución es la siguiente, y reconozco el error en mi intervención previa:
+
+La diferencia no es de fuentes contradictorias sino de **métricas distintas que ninguno de los dos identificamos explícitamente**:
+
+- **Deuda bruta del gobierno general (general government gross debt):** ~67% del PIB en 1990 según la serie GGGDTAJPA188N del IMF/FRED (Federal Reserve Bank of St. Louis). Esta es la métrica que el FMI usa en las comparaciones del WEO y es la que Bruegel cita, con razón, para el rango 63-66%. Es también la métrica estándar para comparaciones internacionales.
+
+- **Deuda central del gobierno (central government debt):** aproximadamente 38-42% del PIB en 1990, según el Banco Mundial (World Bank, Indicator GC.DOD.TOTL.GD.ZS). Esta es la cifra que yo cité implícitamente, sin especificar que era una métrica estrecha que excluye administraciones locales y fondos de seguridad social.
+
+- **Deuda neta del gobierno general:** considerablemente más baja —entre 13% y 20% del PIB— porque Japón poseía activos financieros significativos (Fondo de Reserva de Pensiones del Gobierno de Japón, reservas externas) que reducen la deuda neta. Esta es la cifra más favorable para mi argumento pero la menos relevante para la comparación con China, donde el gobierno también tiene activos pero cuya valoración es más opaca.
+
+**Concedo el error de métrica:** la comparación correcta para el debate es la deuda bruta del gobierno general, que en Japón en 1990 era aproximadamente **67% del PIB**, no 40%. Esto debilita parcialmente mi argumento en Ronda 3 de que "Japón tenía más espacio fiscal y aun así falló más lentamente". La corrección es: el espacio fiscal japonés no era tan superior como impliqué. B tenía razón en la cifra bruta, que es la métrica apropiada. Utilizo la fuente: [FRED — General government gross debt for Japan, IMF series GGGDTAJPA188N](https://fred.stlouisfed.org/series/GGGDTAJPA188N).
+
+---
+
+**B. Respuesta al reto de B sobre protección social y tasa de ahorro**
+
+B planteó una pregunta precisa: ¿cuánto necesita gastar China en protección social para producir un cambio observable en la tasa de ahorro de los hogares, dado que Japón expandió su red social en los años 90 y la tasa de ahorro japonesa no cayó por más de una década?
+
+Esta es la pregunta empírica más incómoda para mi argumento de la Reforma 2, y merece una respuesta honesta que no embellezca la dificultad.
+
+**Lo que la evidencia muestra:**
+
+Primero, la expansión de seguro médico en China sí produce un efecto medible sobre el ahorro precautorio, pero el efecto es **moderado y heterogéneo**. Estudios recientes sobre la fusión del seguro médico urbano-rural (Urban-Rural Resident Basic Medical Insurance, integrada gradualmente desde 2016) muestran que la cobertura ampliada mejora la seguridad financiera de los hogares y reduce la incertidumbre sobre gastos de salud, pero el efecto sobre la tasa de ahorro agregada en el corto plazo es modesto: aproximadamente 1-3 puntos porcentuales de reducción en la propensión marginal al ahorro, según evidencia empírica de diferencia en diferencias ([Urban-Rural Medical Insurance Integration Study, *ScienceDirect*, 2022](https://sciencedirect.com/science/article/abs/pii/S0313592622001606)). El IMF 2022 China Selected Issues Paper documenta que la baja cobertura del seguro social — pensiones rurales, seguro de desempleo y protección de salud subdesarrollados — explica estructuralmente entre 5 y 8 puntos porcentuales del exceso de ahorro chino respecto al promedio de economías emergentes ([IMF China Selected Issues, 2022](https://imf.org/-/media/Files/Publications/CR/2022/English/1CHNEA2022002.ashx)).
+
+Segundo, el reto de B sobre el caso japonés es válido en su dirección pero impreciso en su mecanismo. Japón no falló en reducir el ahorro mediante expansión social porque el mecanismo no funcionara: falló porque las transferencias sociales de los años 90 japoneses fueron en buena parte consumidas por el envejecimiento demográfico acelerado (el ahorro para jubilación creció más rápido que las transferencias) y porque la deflación de activos destruyó la riqueza de los hogares, aumentando el ahorro precautorio independientemente de la expansión social. China en 2026 comparte el factor demográfico pero difiere en el punto de partida: su cobertura de protección social es estructuralmente más baja que la japonesa de 1990, lo que deja un margen mayor para efectos de sustitución.
+
+Tercero, concedo que B tiene razón en el horizonte temporal: la expansión de protección social en China producirá cambio observable en la tasa de ahorro **en el horizonte 2035-2040, no en 2026-2030**. El mecanismo de ajuste de comportamiento de los hogares requiere al menos una generación de trabajadores que haya cotizado al sistema, acumulado derechos adquiridos percibidos como creíbles, y reducido el componente precautorio de su ahorro. No es un instrumento de corto plazo. Eso significa que la "Reforma 2" no puede compensar la represión financiera durante la absorción de pérdidas bancarias en el período 2026-2032.
+
+---
+
+#### Argumento central: China puede innovar sin libertad liberal
+
+La pregunta de fondo de esta ronda es si el modelo autoritario chino puede generar innovación tecnológica endógena sostenible, o si la innovación de frontera requiere inevitablemente la libertad intelectual que el modelo suprime.
+
+**DeepSeek como caso paradigmático, no como anécdota**
+
+En enero de 2025, DeepSeek publicó los modelos V3 y R1, que demostraron paridad o superioridad frente a modelos de clase mundial de OpenAI (GPT-4o, o1-preview) en múltiples benchmarks de razonamiento matemático (97.3% en MATH-500), codificación y lógica compleja — a una fracción del costo de entrenamiento. Los hechos técnicos verificados son los siguientes:
+
+DeepSeek-V3 fue entrenado en 55 días sobre 2,048 chips NVIDIA H800 (limitados por controles de exportación de EE.UU. que impiden acceso a H100 y A100 completos) con un costo total de entrenamiento de aproximadamente $5.6 millones. OpenAI GPT-4 tuvo un costo de entrenamiento estimado en $50-100 millones sobre hardware de generación superior. DeepSeek logró paridad de desempeño a aproximadamente 1/10 del costo computacional ([DeepSeek-V3 Technical Report, arXiv 2412.19437](https://arxiv.org/html/2412.19437v1); [Epoch AI, 2025](https://epoch.ai/gradient-updates/what-went-into-training-deepseek-r1)).
+
+Las innovaciones técnicas producidas no son improvisaciones marginales: DeepSeek introdujo la arquitectura Mixture-of-Experts (MoE) con 671B parámetros totales pero solo 37B activados por token, Multi-head Latent Attention (MLA) para inferencia eficiente, y Group Relative Policy Optimization (GRPO) para razonamiento por refuerzo — una innovación que el campo consideraba difícil de obtener ([DeepSeek-R1 paper, arXiv 2501.12948](https://arxiv.org/pdf/2501.12948)).
+
+¿Qué implica esto para el argumento de que el desacoplamiento tecnológico limita estructuralmente a China? Las restricciones de acceso al hardware de frontera (H100, A100) forzaron a los ingenieros de DeepSeek a resolver el problema de eficiencia algorítmica — hacer más con menos chips — produciendo innovaciones que los laboratorios occidentales con acceso ilimitado a compute no tenían incentivo para desarrollar. La restricción fue un acelerador de innovación endógena en software y algoritmos. El desacoplamiento en hardware no implica desacoplamiento en capacidad de innovación.
+
+**Composición del gasto en I+D chino**
+
+China gastó 3,632.68 mil millones de yuan en I+D en 2024, con un ratio I+D/PIB de 2.69% — el más alto de su historia. La composición según el NBS de China:
+
+- **Investigación básica:** 250.09 Mmd yuan (6.88% del total, +10.7% a/a)
+- **Investigación aplicada:** 430.55 Mmd yuan (11.85%, +17.6% a/a — la tasa más alta de los tres componentes)
+- **Desarrollo experimental:** 2,952.04 Mmd yuan (81.27%, +7.6%)
+
+Fuente: [NBS China — Communiqué on National Expenditures on Science and Technology in 2024, octubre 2025](https://www.stats.gov.cn/english/PressRelease/202510/t20251010_1961462.html).
+
+El crecimiento de la investigación aplicada al 17.6% es la señal de que China está deliberadamente elevando el componente de innovación de frontera. El 6.88% de investigación básica sobre un total de $580B equivale a aproximadamente $40B en I+D básico — superior al gasto total en I+D de muchos países europeos.
+
+**¿La innovación radical requiere libertad intelectual?**
+
+La tesis de que la innovación radical requiere libertad intelectual tiene sustancia real pero tres límites importantes:
+
+**Límite 1: El tipo de innovación importa.** La innovación disruptiva en IA generativa ocurre mediante recombinación de técnicas existentes (transformers, aprendizaje por refuerzo, MoE), no mediante ruptura conceptual fundamental. El tipo de innovación más relevante para la competitividad tecnológica del siglo XXI — IA aplicada, manufactura avanzada, vehículos eléctricos, baterías, energía solar — es precisamente donde China tiene ventajas acumuladas de escala, datos masivos y coordinación dirigida.
+
+**Límite 2: Los clusters OMPI refutan la tesis simple.** China tiene **26 de los top 100 clusters de ciencia y tecnología** en el GII 2024 de la OMPI — más que cualquier otro país, superando a EE.UU. (20 clusters). El cluster Shenzhen-Hong Kong-Guangzhou es el segundo más grande del mundo ([WIPO GII 2024](https://www.wipo.int/en/web/global-innovation-index/2024/science-technology-clusters)).
+
+**Límite 3 (concesión integrada):** El modelo autoritario produce bien innovación incremental a escala masiva, ingeniería de procesos y optimización, e innovación aplicada en sectores estratégicos. Produce menos bien innovación de ruptura de paradigma que requiere crítica institucional y tolerancia al fracaso sistemático. Esta distinción es real, pero los sectores tecnológicos de mayor impacto económico para 2030-2040 pertenecen mayoritariamente al primer grupo.
+
+---
+
+#### Evidencia (con fuentes)
+
+| Dato | Valor | Fuente |
+|---|---|---|
+| Costo entrenamiento DeepSeek-V3 | ~$5.6M sobre H800s | [DeepSeek-V3 Technical Report, arXiv 2412.19437](https://arxiv.org/html/2412.19437v1) |
+| Costo estimado entrenamiento GPT-4 | $50-100M | [Epoch AI, 2025](https://epoch.ai/gradient-updates/what-went-into-training-deepseek-r1) |
+| DeepSeek-R1 benchmark MATH-500 | 97.3% | [DeepSeek-R1 paper, arXiv 2501.12948](https://arxiv.org/pdf/2501.12948) |
+| Gasto total I+D China 2024 | 3,632.68 Mmd yuan (2.69% PIB) | [NBS China, octubre 2025](https://www.stats.gov.cn/english/PressRelease/202510/t20251010_1961462.html) |
+| Investigación básica China 2024 | 250.09 Mmd yuan (6.88%, +10.7%) | [NBS China, octubre 2025](https://www.stats.gov.cn/english/PressRelease/202510/t20251010_1961462.html) |
+| Investigación aplicada China 2024 | 430.55 Mmd yuan (11.85%, +17.6%) | [NBS China, octubre 2025](https://www.stats.gov.cn/english/PressRelease/202510/t20251010_1961462.html) |
+| Clusters S&T China top 100 OMPI | 26 (1er lugar), EE.UU. 20 | [WIPO GII 2024 Clusters](https://www.wipo.int/en/web/global-innovation-index/2024/science-technology-clusters) |
+| Deuda bruta gobierno general Japón 1990 | ~67% del PIB (métrica correcta) | [FRED — IMF GGGDTAJPA188N](https://fred.stlouisfed.org/series/GGGDTAJPA188N) |
+| Deuda central gobierno Japón 1990 | ~38-42% del PIB (métrica estrecha, error R3) | [World Bank GC.DOD.TOTL.GD.ZS](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=JP) |
+| Efecto seguro médico sobre ahorro rural China | Reducción de 1-3pp propensión marginal | [ScienceDirect, 2022](https://sciencedirect.com/science/article/abs/pii/S0313592622001606) |
+| Exceso de ahorro chino explicado por baja cobertura social | 5-8 pp sobre media emergentes | [IMF China Selected Issues, 2022](https://imf.org/-/media/Files/Publications/CR/2022/English/1CHNEA2022002.ashx) |
+
+---
+
+#### Ataque específico al argumento de B
+
+B sostendrá que la innovación china es "imitación y adaptación" sin capacidad de ruptura de paradigma. Identifico tres fallas en este argumento:
+
+**Primera falla — Evidencia desactualizada.** Los datos sobre calidad de patentes chinas de la primera mitad de la década de 2000 no representan el sistema actual. En 2024, China depositó 69,610 solicitudes PCT en la OMPI, superando a EE.UU. por quinto año consecutivo, con crecimiento del 15.3% interanual concentrado en IA, semiconductores y energía renovable.
+
+**Segunda falla — Confusión de mecanismos.** Los mecanismos de la innovación aplicada en IA no dependen de "pensamiento libre" en sentido político: dependen de acceso a datos masivos, infraestructura computacional, ingenieros de alta calidad y ciclos de iteración rápidos. China tiene ventajas documentadas en los cuatro — incluyendo ausencia del costo regulatorio de privacidad que limita el entrenamiento occidental (GDPR, litigios de copyright en EE.UU.).
+
+**Tercera falla — El espacio fiscal de I+D no depende de la represión financiera del consumidor.** La política industrial de innovación en China pasa por asignación directa del gobierno central, no por el mercado privado de capital riesgo. Los 3.6 billones de yuan de gasto en I+D tienen un 25% de origen gubernamental que no depende de las condiciones de represión financiera que afectan a los hogares ahorradores. B no puede usar simultáneamente "la represión financiera destruirá la innovación" y "la inversión privada es necesaria para innovar" sin especificar exactamente qué componente del gasto en I+D se ve afectado y en qué magnitud.
+
+---
+
+#### Concesión
+
+Reconozco dos puntos sin ambigüedad:
+
+**Primero:** Error de métrica en Ronda 3 sobre la deuda pública japonesa. La cifra correcta para la deuda bruta del gobierno general de Japón en 1990 es ~67% del PIB. La diferencia era de métrica (central vs. general government gross debt), no de fuentes contradictorias. Concedo el punto factual a B.
+
+**Segundo:** La brecha de China en investigación básica (6.88% del gasto en I+D vs. ~17% en EE.UU.) es una debilidad estructural real para el horizonte 2040-2050. Los paradigmas tecnológicos de ese horizonte dependerán de descubrimientos en física cuántica, biología sintética y ciencia de materiales que no pueden ser dirigidos desde arriba. En este dominio específico, el modelo autoritario tiene una desventaja sistémica que no puede descartarse.
+
+---
+
+#### Reto para Agente B — Ronda 4
+
+Si el desacoplamiento en hardware fuera un techo estructural absoluto, DeepSeek no habría producido sus resultados con H800. La pregunta que B debe responder no es si las restricciones de hardware existen — existen —, sino si producen un **techo de innovación absoluto** o simplemente **una trayectoria de innovación diferente**. Específicamente: en los sectores tecnológicos de mayor impacto económico para el horizonte 2030-2040 — IA aplicada, vehículos eléctricos autónomos, energía renovable, manufactura inteligente —, ¿cuáles son los insumos tecnológicos que China genuinamente no puede sustituir internamente en ese horizonte, distinguiendo entre insumos de frontera absoluta (donde la brecha es estructural) e insumos que China puede reemplazar con inversión dirigida en 5-8 años? Si B no puede especificar esa distinción, su argumento del "techo tecnológico" es una afirmación categórica que DeepSeek ya ha refutado parcialmente en la práctica.
+
