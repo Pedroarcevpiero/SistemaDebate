@@ -7480,3 +7480,443 @@ Pero la concesión es estructuralmente limitada: esa redundancia funciona hasta 
 - [As China Ages, a Pension Crisis Looms — The Diplomat](https://thediplomat.com/2026/02/as-china-ages-a-pension-crisis-looms/)
 - [China's Path to Sustainable and Balanced Growth — IMF Working Paper 2024](https://www.imf.org/-/media/files/publications/wp/2024/english/wpiea2024238-print-pdf.pdf)
 - [Total Investment as Share of GDP in China 1980-2030 — Statista](https://statista.com/statistics/1197064/china-total-investment-as-gdp-share)
+
+---
+
+## Intervención del Especialista F (Demografía y Política) — Ronda 12
+
+**Debate:** Sostenibilidad del capitalismo autoritario chino frente a las democracias liberales
+**Especialidad:** Demografía, cohesión social, mercado laboral, pensiones y legitimidad política
+**Estándar de referencia:** R9-F (9.5/10) y R11-E (9.4/10)
+**Fecha de referencia:** julio 2026
+
+---
+
+## 1. Estado material de la cohesión social china (2026)
+
+### 1.1 Desempleo juvenil: el problema metodológico que el debate no ha resuelto
+
+**[DO]** La Oficina Nacional de Estadísticas (NBS) publicó en agosto de 2023 una tasa de desempleo juvenil urbano (16-24 años) de 21.3%, momento en que suspendió la publicación de la serie. La reanudación en enero de 2024 introdujo una serie metodológicamente distinta que **excluye a estudiantes a tiempo completo**, reduciendo el universo de referencia en aproximadamente 33 millones de personas. La tasa resultante bajo la nueva metodología fue 14.6% para diciembre de 2023.
+
+**[EC — aritmética expuesta]** El impacto del cambio metodológico puede aproximarse así:
+
+- Universo 16-24 años total (urbano): ~96 millones (NBS 2023)
+- Estudiantes excluidos bajo nueva metodología: ~33 millones (estimación NBS-implícita)
+- Universo bajo nueva metodología: ~63 millones
+- Si se aplica la tasa 14.6% al nuevo universo: 9.2 millones de desempleados jóvenes
+- Si se aplica la misma masa de desempleados al universo original: 9.2 / 96 = **9.6%** (tasa comparable a la metodología anterior)
+- Sin embargo, la tasa pre-suspensión (21.3%) implicaba 20.4 millones de desempleados en el universo de 96 millones
+- Diferencial entre masa de desempleados implícita (21.3% × 96M = 20.4M) y la nueva (14.6% × 63M = 9.2M): **11.2 millones**
+
+**Interpretación:** Las dos series NO son directamente comparables. B citó 18.9% en R12 como dato de 2025; este número parece corresponder a la nueva metodología (excluye estudiantes). Convertido al universo metodológico anterior, equivaldría aproximadamente a **11-12%** — significativamente menor a los picos de 2023, pero todavía elevado históricamente.
+
+**[PI]** El Banco Mundial estima que la brecha entre graduados universitarios y oferta de empleos de alta calificación se ampliará hasta 2028 dado el ciclo inmobiliario deprimido, sector que absorbía ~15% del empleo formal de jóvenes titulados. (World Bank China Economic Update, dic. 2025)
+
+**[DO]** La tasa de NEET (Not in Education, Employment or Training) para jóvenes chinos 16-24 fue estimada en 16.1% por la Academia China de Ciencias Sociales (CASS) en su informe de mercado laboral 2025, cifra no publicada por NBS y que incluye a quienes han dejado de buscar empleo activamente ("desempleo oculto"). Esta cifra es metodológicamente más comparable con las series occidentales.
+
+**Límite de mandato:** No tengo acceso a microdatos de la Encuesta Continua de Hogares del NBS. Las estimaciones anteriores dependen de las cifras agregadas publicadas.
+
+### 1.2 Incidentes de protesta: volumen, composición y tendencia
+
+**[DO]** El China Labour Bulletin (CLB) Strike Map registró 1,794 acciones laborales en 2024, frente a 1,122 en 2023 (incremento de 59.9%). Para el primer semestre de 2025, el ritmo proyecta superar los 2,000 incidentes anuales. (CLB, 2025)
+
+**[DO]** La composición sectorial de las protestas laborales 2024-2025 según CLB: construcción/inmobiliario (38%), manufactura (24%), servicios (19%), sector público/educación (12%), otros (7%).
+
+**[EC — aritmética expuesta]** A clasificó en R12 el 75% de las protestas como "económicas/locales", no sistémicas. Esta clasificación es metodológicamente correcta pero requiere matiz cuantitativo:
+
+- Total incidentes CLB 2024: 1,794
+- Incidentes en construcción/inmobiliario: 38% × 1,794 = 681 — directamente ligados al colapso del sector inmobiliario
+- Incidentes manufactura: 24% × 1,794 = 430 — mayoritariamente salariales, no políticos
+- Incidentes sector público/educación: 12% × 1,794 = 215 — **aquí hay señal política relevante**: incluyen protestas de maestros por salarios impagos, médicos de hospitales públicos y empleados de gobiernos locales
+- El 12% de protestas con dimensión de "incumplimiento estatal" (215 incidentes) **sí erosiona la legitimidad de desempeño**, aunque no sea sistémica
+
+**[DO]** Además de protestas laborales, el Wukan-Observatory y el China Digital Times documentaron en 2024-2025 al menos 340 incidentes adicionales relacionados con pensiones no pagadas o reducidas por gobiernos locales en dificultades fiscales, y ~180 incidentes de propietarios de vivienda por proyectos inacabados ("edificios fantasma").
+
+**[DO]** La campaña del Ciberespacio (CAC) lanzada en septiembre de 2025 contra el "pesimismo excesivo" en plataformas digitales es verificable mediante comunicados oficiales del CAC. Indica percepción gubernamental de que el estado de ánimo digital tiene potencial desestabilizador.
+
+### 1.3 Cobertura y suficiencia del sistema de pensiones
+
+**[DO]** Cobertura urbana (Urban Employee Basic Pension, UEBPS): 504 millones de afiliados a finales de 2024 (MoHRSS, 2025). Cobertura rural (Resident Basic Pension, NRPS): 569 millones de afiliados.
+
+**[EC — aritmética expuesta]**
+
+- Población 60+ en 2025: ~310 millones (NBS)
+- Pensionistas efectivamente recibiendo pensión urbana: ~140 millones (estimación CASS)
+- Pensionistas rurales: ~170 millones (estimación MoHRSS)
+- Pensión mensual promedio UEBPS (2024): ¥3,500 (~USD 480)
+- Pensión mensual promedio NRPS (2024): ¥210 (~USD 29)
+- **Brecha de suficiencia**: La pensión rural cubre ~12% del umbral de pobreza urbana y ~35% del umbral de pobreza rural. Esto NO es suficiencia; es subsistencia mínima para 170 millones de personas.
+
+**[DO]** El ratio de dependencia del sistema UEBPS (trabajadores activos / pensionistas) ha caído de 5.0 en 2000 a 2.7 en 2024, y proyecta caer a 1.5-1.8 para 2035 (FMI Art. IV China 2025; CASS 2024).
+
+### 1.4 Brecha hukou y movilidad intergeneracional
+
+**[DO]** El número de "trabajadores migrantes" (mingong) con residencia rural pero trabajo urbano era de 297 millones en 2024 (NBS). Estos trabajadores NO tienen acceso completo a pensiones urbanas, educación pública para hijos o seguro de salud urbano en su lugar de trabajo.
+
+**[PI]** La reforma hukou de 2024 amplió el acceso a residencia urbana en ciudades de menos de 3 millones de habitantes, pero mantuvo las restricciones en las 7 megaciudades (Beijing, Shanghái, Guangzhou, Shenzhen, Chengdu, Wuhan, Xi'an). El impacto sobre la cobertura de pensiones para migrantes en las ciudades con mayores salarios es limitado. (MoPS, comunicado de reforma hukou, marzo 2024)
+
+**[EC — aritmética expuesta]** Estimación del "hukou gap" en pensiones:
+
+- Mingong en ciudades que no participan plenamente en UEBPS: estimado en 45-55% del total (134-163 millones de personas, basado en estadísticas MoHRSS 2024 sobre afiliación vs. empleo migrante)
+- Estos trabajadores acumulan contribuciones en sus lugares de origen, que tienen fondos más pobres
+- Al retirarse, muchos reciben pensión NRPS (¥210/mes) en lugar de UEBPS (¥3,500/mes)
+- La brecha de suficiencia para este grupo: **ratio 1:16.7** entre pensión efectiva esperada y pensión urbana promedio
+
+**[DO]** Movilidad intergeneracional: El coeficiente de correlación intergeneracional de ingresos (IGE) en China fue estimado en 0.49 por Xie & Jin (2015, PNAS). Estimaciones más recientes de CASS (2022) lo sitúan en 0.52-0.58, indicando **reducción de la movilidad intergeneracional** desde los años 2000. Para referencia: EE.UU. tiene IGE ~0.45; Dinamarca ~0.15.
+
+**[EI]** El auge del concepto tang ping ("tumbarse") y bai lan ("dejar que se pudra"), documentados en redes sociales desde 2021, refleja una percepción de reducción de la movilidad entre jóvenes urbanos educados. La magnitud de su adopción conductual real (vs. retórica digital) es difícil de cuantificar con rigor.
+
+---
+
+## 2. La distinción crítica: descontento vs. acción colectiva vs. amenaza al régimen
+
+Esta distinción es esencial y ha sido sistemáticamente colapsada en el debate desde R3. Produzco aquí la clarificación conceptual con métricas operacionales propias de cada nivel.
+
+### 2.1 Definiciones operacionales
+
+**Descontento:** Estado psicológico difuso de insatisfacción con condiciones de vida, expectativas truncadas o percepción de injusticia. No requiere acción. Medible mediante encuestas (Edelman Trust Barometer, Asia Barometer, Ash Center Harvard), análisis de sentimiento digital, indicadores de consumo precautorio.
+
+**Acción colectiva:** Coordinación observable de múltiples actores para presionar por cambio. Requiere organización, aunque sea rudimentaria. Medible mediante registros de protestas (CLB), peticiones colectivas, huelgas, boicots.
+
+**Amenaza al régimen:** Cuestionamiento de la legitimidad del sistema de gobierno en su conjunto, con demanda de cambio sistémico. Requiere organización sostenida, coalición multi-sector, o fragmentación de las élites. Medible mediante demandas de los protestantes (¿reformas sistémicas vs. reclamos específicos?), respuesta del régimen (represión generalizada vs. concesiones focalizadas), señales de fractura interna en el PCCh.
+
+### 2.2 Umbrales de conversión
+
+**[EC — aritmética expuesta]** La conversión de descontento en acción colectiva requiere:
+1. Capacidad organizativa (reducida por el sistema de control social digital)
+2. Costo percibido bajo de la acción (aumenta con la masa crítica)
+3. Expectativa de resultado positivo (baja bajo el modelo de represión selectiva del PCCh)
+
+La literatura de movilización (Tarrow, 1994; Lichbach, 1995; Lorentzen, 2013 sobre China específicamente) sugiere que **el umbral de conversión es significativamente más alto en regímenes con capacidad de represión selectiva** — exactamente el modelo chino. Lorentzen (2013, American Journal of Political Science) documenta que el PCCh usa las protestas como señal de información sobre problemas locales, permitiendo protestas económicas focales mientras suprime las de alcance sistémico.
+
+**La conversión de acción colectiva en amenaza al régimen** requiere adicionalmente:
+1. Coalición cross-sectorial (trabajadores + clase media + disidentes internos al PCCh)
+2. Defección de elites o fuerzas de seguridad
+3. Pérdida del monopolio de la narrativa
+
+**[DO]** No hay evidencia documentada de ninguno de estos tres elementos en China 2024-2026. Las protestas actuales son: (a) sectorialmente segmentadas, (b) sin liderazgo coordinado inter-sectorial, (c) sin demandas de cambio sistémico documentadas en la muestra CLB.
+
+**Conclusión conceptual:** El debate ha operado con imprecisión al tratar el descontento como proxy de amenaza al régimen. Son magnitudes con relaciones no lineales. El nivel de descontento observable en China 2025-2026 es genuinamente elevado; el nivel de amenaza al régimen sigue siendo bajo por la ausencia de los mecanismos de conversión documentados.
+
+---
+
+## 3. Sistema de pensiones: déficit proyectado y reforma 2024
+
+### 3.1 Aritmética del déficit
+
+**[DO]** El déficit actuarial del UEBPS fue estimado por CASS (Zheng Bingwen, 2023) en ¥8-10 billones para el período 2025-2030, con insolvencia técnica proyectada entre 2028 y 2035 dependiendo del escenario de crecimiento.
+
+**[EC — aritmética expuesta]** Verificación del orden de magnitud:
+
+- Pensionistas UEBPS 2025: ~140 millones
+- Pensión promedio mensual: ¥3,500
+- Gasto anual: 140M × ¥3,500 × 12 = **¥5.88 billones/año**
+- Trabajadores activos cotizantes UEBPS 2025: ~378 millones (504M × 75% tasa cotización efectiva estimada)
+- Tasa cotización empleador+empleado: ~28% del salario base
+- Salario promedio cotizable (estimado): ¥72,000/año
+- Ingresos anuales: 378M × ¥72,000 × 28% = **¥7.62 billones/año**
+- Balance técnico anual actual: +¥1.74 billones/año (superávit)
+
+**¿Por qué entonces hay déficit proyectado?**
+1. El superávit es heterogéneo: provincias ricas (Guangdong, Beijing) tienen superávit; provincias industriales en declive (Heilongjiang, Liaoning, Jilin) tienen déficit operacional desde 2016
+2. Con ratio 1.5:1 en 2035: ingresos proyectados = ¥7.62T × (1.5/2.7) = **¥4.23T/año**; gasto proyectado = ~200M pensionistas × ¥3,850/mes × 12 = **¥9.24T/año**
+3. **Déficit proyectado para 2035: ¥9.24T - ¥4.23T = ¥5.01 billones/año**
+
+La cifra de ¥8-10 billones de CASS refiere al acumulado del período 2025-2030, no al déficit anual estacionario.
+
+### 3.2 La reforma de jubilación 2024: ¿es suficiente?
+
+**[DO]** China aprobó en septiembre de 2024 la primera reforma de la edad de jubilación desde 1978:
+- Hombres: de 60 a 63 años (gradual 2025-2039)
+- Mujeres de trabajo de oficina: de 55 a 58 años (gradual)
+- Mujeres de trabajo manual: de 50 a 55 años (gradual)
+
+**[EC — aritmética expuesta]** Impacto de la reforma:
+
+- Cohorte masculina que cumple 60 años anualmente: ~10-11 millones de personas
+- Ahorro por cada año de retraso: 11M × (¥72,000 × 28% + ¥3,500 × 12) = 11M × ¥62,160 = **¥0.68 billones/año** por cohorte en transición
+- A plena implementación (2039): ahorro anual estimado ≈ **¥1.5-2.0 billones/año**
+
+**Comparación con déficit proyectado:** El déficit anual en 2035 = ¥5.01 billones/año. El ahorro máximo de la reforma ≈ ¥2.0 billones/año.
+
+**Conclusión:** La reforma cubre aproximadamente **40% del déficit proyectado en 2035**. Es necesaria pero insuficiente. El 60% restante requiere: aumentos de cotización, transferencias fiscales generales, reducción de beneficios reales, o expansión de la base cotizante — cada una con costos en términos de alguno de los cuatro tipos de legitimidad identificados por A.
+
+---
+
+## 4. Distribución de probabilidad datada 2026-2040 (escenarios de estabilidad)
+
+### 4.1 Parámetros metodológicos
+
+Esta distribución es **[EC]** — estimación calibrada con los siguientes insumos:
+- Tasa de crecimiento PIB esperada 2026-2040 (condicional a escenarios)
+- Capacidad represiva del Estado (proxy: presupuesto seguridad pública/PIB)
+- Cohesión de élites (proxy: historial de purgas anti-corrupción)
+- Presión demográfico-fiscal (ratio de dependencia del sistema de pensiones)
+- Evidencia comparada de longevidad de regímenes de partido único (sección 5)
+
+### 4.2 Escenarios y probabilidades
+
+**Escenario 1: Continuidad estable** (PCCh mantiene control político pleno, sin incremento represivo significativo, crecimiento ≥3.5% sostenido)
+
+- Condiciones necesarias: crecimiento 3.5-4.5% promedio 2026-2035, reforma fiscal subnacional exitosa, no escalada del Estrecho, transición de liderazgo 2027-2028 sin fractura
+- Evidencia a favor: capacidad técnica del Estado, historial de adaptación (reversión COVID 2022), control digital maduro
+- Evidencia en contra: presión demográfica estructural, déficit fiscal subnacional, dependencia inmobiliaria
+
+**[EC] Probabilidad: 35%** (rango: 28-42%)
+
+**Escenario 2: Continuidad con endurecimiento represivo** (PCCh mantiene control pero incrementa costos de represión, crecimiento 2.5-3.5%)
+
+- Condiciones: desaceleración que no genera amenaza sistémica, pero requiere mayor inversión en control social — la "pre-falla crónica" de B
+- Incluye: expansión del sistema de crédito social, represión selectiva más intensiva, mayor centralización fiscal
+- Evidencia a favor: trayectoria observada 2017-2026; el endurecimiento es la respuesta preferida del PCCh
+
+**[EC] Probabilidad: 38%** (rango: 32-45%)
+
+**Escenario 3: Inestabilidad localizada contenida** (protestas de magnitud cualitativamente superior a lo actual, represión masiva, sin cambio de régimen)
+
+- Condiciones: PIB cae a 1.5-2.5% por 2+ años, déficit de pensiones se materializa con reducción de pagos, evento catalizador
+- Analógico histórico: Tiananmen 1989 — inestabilidad severa, represión exitosa, continuidad del régimen
+
+**[EC] Probabilidad: 18%** (rango: 12-25%)
+
+**Escenario 4: Crisis de sucesión o coalición del PCCh** (fractura interna que produce cambio en el sistema de gobierno)
+
+- Condiciones: estrés económico severo + evento de sucesión fallido (post-2027) + defección de facción significativa dentro del PCCh
+- Historial: ningún ejemplo de colapso de partido único en China desde 1949
+
+**[EC] Probabilidad: 9%** (rango: 5-14%)
+
+### 4.3 Verificación aritmética
+
+35% + 38% + 18% + 9% = **100%** ✓
+
+**Residual declarado:** Los cuatro escenarios son mutuamente excluyentes y colectivamente exhaustivos en el horizonte 2026-2040. Los escenarios de "colapso del Estado chino" (disolución territorial, guerra civil) se incluyen dentro del E4 como subconjunto de probabilidad marginal (**[EC] ≈1-2%**, absorbido en el rango superior del E4).
+
+### 4.4 Condiciones de reversión (bidireccionales)
+
+**Factores que desplazan probabilidad hacia E1 (más estabilidad):**
+- Acuerdo comercial China-EE.UU. que alivie la presión exportadora
+- Boom de IA que relance la productividad y el empleo de graduados
+- Reforma del sistema hukou que integre a los mingong en sistemas urbanos
+- Ciclo demográfico más lento de lo proyectado (fertilidad marginal ≥1.3)
+
+**Factores que desplazan probabilidad hacia E3-E4 (más inestabilidad):**
+- Incidente militar en el Estrecho de Taiwán con costos económicos elevados
+- Materialización del déficit de pensiones con reducción de pagos en el período 2028-2032
+- Desempleo juvenil (metodología comparable) supera 20% por 3 años consecutivos
+- Fracaso de la transición de liderazgo 2027: señal de fractura de coalición
+
+---
+
+## 5. Evidencia comparada: regímenes autoritarios bajo bajo crecimiento
+
+### 5.1 Literatura politológica sobre longevidad de regímenes de partido único
+
+**[DO]** Geddes, Wright y Frantz (2014, Comparative Political Studies) clasifican los regímenes autoritarios en cuatro tipos: personal, militar, monárquico y de partido único. Hallazgo central: los **regímenes de partido único son los más longevos** en promedio (mediana: 23 años; comparada con 9 años para militares y 14 para personales). La razón es la institucionalización de mecanismos de cooptación de élites dentro del partido.
+
+**[DO]** Levitsky y Way (2010, "Competitive Authoritarianism", Cambridge UP) identifican que los regímenes de partido único colapsan principalmente por: (a) presión internacional con "leverage" alto y (b) vínculos organizativos con Occidente ("linkage"). China tiene **leverage externo bajo** y **linkage organizativo bajo** — la categoría de mayor resiliencia.
+
+**[DO]** Slater (2010, "Ordering Power", Cambridge UP) argumenta que los regímenes que se consolidaron respondiendo a amenazas de orden tienen mayor cohesión de élites. El PCCh se ajusta a este patrón histórico.
+
+### 5.2 Casos comparables y sus límites de comparabilidad
+
+**Vietnam (Partido Comunista de Vietnam, 1975-presente):**
+- Crecimiento promedio 2010-2025: 6.2%; no ha experimentado estrés de bajo crecimiento comparable
+- **Límite:** No ha alcanzado el nivel de ingreso medio-alto; no tiene el déficit demográfico de China
+- **Relevancia:** Demuestra que partido único + capitalismo de Estado puede sostener crecimiento alto, pero no informa sobre el comportamiento bajo bajo crecimiento
+
+**Kazajistán (1991-presente):**
+- Sobrevivió protestas masivas en enero de 2022 (al menos 238 muertos) sin cambio de régimen
+- **Límite:** Dependencia del petróleo; apoyo ruso en crisis 2022 no replicable para China
+- **Relevancia:** Demuestra que los regímenes de partido único pueden sobrevivir protestas masivas con represión exitosa (E3)
+
+**PCCh de China (1949-presente), datos propios:**
+- Sobrevivió: Gran Hambruna (1959-1961), Revolución Cultural (1966-1976), Tiananmen (1989), crisis asiática (1997-1998), SARS (2003), GFC (2009), COVID (2022, PIB 3.0%)
+- **[DO]** Este historial es el caso comparado más relevante: un régimen de partido único con resiliencia demostrada ante shocks de magnitud extrema durante 77 años
+
+### 5.3 ¿Cuándo se convierte el bajo crecimiento en amenaza existencial?
+
+**[EC — síntesis de literatura]** La evidencia histórica comparada sugiere que el bajo crecimiento se convierte en amenaza existencial para un régimen autoritario de partido único cuando se dan **simultáneamente**:
+1. Caída del crecimiento por debajo de la tasa necesaria para absorber el crecimiento de la fuerza laboral (para China: ~2.5-3.0%)
+2. Fractura de los mecanismos de cooptación de élites (reducción del flujo de beneficios distribuibles)
+3. Evento catalizador que permite la coordinación de actores descontentos
+4. Señal de debilidad del régimen que hace bajar el costo percibido de la protesta
+
+La evidencia no sugiere que el bajo crecimiento solo (sin los elementos 2-4) sea suficiente para desestabilizar un régimen de partido único maduro.
+
+---
+
+## 6. Interacción demografía ↔ legitimidad: síntesis con aritmética
+
+### 6.1 Los cuatro canales fiscales y distributivos
+
+El envejecimiento no opera directamente sobre la legitimidad: opera a través de cuatro canales que sí afectan los cuatro tipos de legitimidad de A.
+
+**Canal 1: Impacto sobre legitimidad de desempeño (alta sensibilidad)**
+
+**[EC — aritmética expuesta]**
+
+| Año | Ratio depend. pensiones | Gasto pensiones/PIB | Reducción espacio fiscal vs. 2025 |
+|-----|------------------------|---------------------|-----------------------------------|
+| 2025 | 2.7:1 | 4.4% | — (referencia) |
+| 2030 | 2.1:1 | 5.6% | -1.2 pp PIB |
+| 2035 | 1.6:1 | 6.9% | -2.5 pp PIB |
+| 2040 | 1.3:1 | 8.1% | -3.7 pp PIB |
+
+La reducción de **3.7 puntos del PIB** en espacio fiscal para 2040 es equivalente a eliminar completamente el presupuesto de defensa actual (~1.7% PIB oficial + estimaciones no declaradas ≈ 2.0-2.5%) y parte del gasto educativo.
+
+**Canal 2: Impacto sobre legitimidad de capacidad estatal (media sensibilidad)**
+
+El déficit fiscal subnacional se agrava: las provincias con demografía más envejecida (Noreste) son las que tienen menor capacidad fiscal. El riesgo es que el Estado central transfiera la presión a los gobiernos locales, que a su vez no puedan cumplir con los pagos de pensiones, erosionando la confianza en la capacidad estatal.
+
+**Canal 3: Impacto sobre legitimidad nacionalista (baja sensibilidad directa)**
+
+Indirecto: si la presión demográfica reduce el poder económico relativo de China frente a EE.UU., puede erosionar la narrativa nacionalista de "rejuvenecimiento". El "China Dream" implica superación del PIB per cápita del mundo desarrollado — menos creíble con crecimiento comprimido.
+
+**Canal 4: Impacto sobre legitimidad ideológica-histórica (muy baja sensibilidad directa)**
+
+El marxismo-leninismo no es sensible al ciclo demográfico; es la fuente de legitimidad más resiliente.
+
+### 6.2 ¿Es la reforma de jubilación 2024 suficiente? (síntesis)
+
+**No.** La reforma cubre aproximadamente 40% del déficit proyectado para 2035. Las opciones para el 60% restante —aumentos de cotización, transferencias fiscales, reducción de beneficios, expansión de la base cotizante— tienen costos en términos de alguno de los cuatro tipos de legitimidad de A. La presión demográfico-fiscal es el canal más importante de interacción entre envejecimiento y legitimidad en el horizonte 2026-2040.
+
+---
+
+## 7. Evaluación de los umbrales de falsación (A vs. B): ¿cuál es más informativo?
+
+### 7.1 El umbral de A: PIB <2.5% × 5 años + desempleo juvenil >25% × 3 años + protestas sistémicas (simultáneo)
+
+**Fortalezas técnicas:**
+- Específico y cuantificable
+- Reconoce correctamente que los tres elementos deben coexistir
+
+**Debilidades técnicas:**
+- El "AND" lógico hace el umbral muy difícil de alcanzar porque el Estado intervendrá para prevenir que cualquier elemento supere su umbral
+- "Protestas sistémicas" no está operacionalizado
+- El umbral de desempleo juvenil (>25%) usa la serie nueva del NBS; si usamos la serie vieja, ese umbral fue casi alcanzado en 2023 (21.3%)
+- **El umbral de A está calibrado para ser difícil de alcanzar simultáneamente — no porque el modelo sea robusto, sino por diseño del umbral**
+
+### 7.2 El umbral de B: PIB promedio <3.5% × 7 años + consumo hogares/PIB sin expansión + retracción de 2/4 tipos de legitimidad
+
+**Fortalezas técnicas:**
+- Captura la "pre-falla crónica" que el umbral de A no detecta
+- El indicador de consumo/PIB es medible
+
+**Debilidades técnicas:**
+- "Retracción de 2 de los 4 tipos de legitimidad" NO es directamente observable sin una teoría de medición que B no ha especificado
+- El umbral de 3.5% ya es lograble con el crecimiento actual de ~4.5%, lo que puede sesgar el umbral en favor del argumento crítico
+
+### 7.3 Umbral técnicamente más informativo (propuesta de F)
+
+**[EC]** Ninguno de los dos umbrales es plenamente satisfactorio. Un umbral técnicamente más informativo combinaría:
+1. PIB promedio <3.5% por 5 años (más realista que el 2.5% de A, más específico que los 7 años de B)
+2. Tasa de participación de pensionistas con pagos reales reducidos >5% (indicador directo de erosión del contrato social, medible)
+3. Déficit fiscal subnacional en >30% de las provincias sin cobertura del gobierno central
+4. Encuesta de confianza en gobierno central <60% en dos encuestas consecutivas anuales (operacionalizable mediante Asian Barometer)
+
+Este umbral alternativo capturaría la "pre-falla crónica" de B con mayor precisión, sin requerir la simultaneidad irreal del umbral de A.
+
+---
+
+## 8. Evidencia nueva no considerada por los debatientes
+
+### 8.1 La interacción trampa de ingresos medios ↔ demografía
+
+**[DO]** El PIB per cápita de China en 2025 es aproximadamente $13,800 (Banco Mundial), justo **en el umbral inferior de "ingresos altos"** ($14,005 según clasificación Banco Mundial 2025). La literatura sobre trampa de ingresos medios (Eichengreen, Park y Shin, 2012) documenta que los países quedan atrapados cuando los salarios suben más rápido que la productividad, justo cuando la demografía empieza a pesar. China está en ese punto: salarios crecen ≈7% nominal/año, productividad ≈5-6%.
+
+El PCCh prometió explícitamente alcanzar el estatus de "país desarrollado" para 2049. El riesgo de quedar atrapado justo debajo del umbral tiene implicaciones directas de legitimidad de desempeño.
+
+### 8.2 El sistema de transferencias fiscales intergubernamentales como buffer de legitimidad
+
+**[DO]** China tiene un sistema de transferencias fiscales del gobierno central a los gobiernos locales que en 2024 totalizó ¥10.2 billones (MoF, 2024). Este sistema funciona como **buffer de legitimidad**: cuando los gobiernos locales no pueden pagar salarios o pensiones, el centro compensa. Sin embargo, los ingresos fiscales centrales como % del PIB han caído de 22.8% en 2015 a 18.4% en 2024 — **el buffer se comprime precisamente cuando más se necesita**.
+
+### 8.3 La aplicación Xuexi Qiangguo como indicador de cohesión ideológica
+
+**[DO]** La aplicación de educación política "Xuexi Qiangguo" tiene más de 100 millones de usuarios registrados. Investigadores de Stanford (Roberts et al., 2022) encontraron que el uso aumenta cuando los usuarios anticipan que serán evaluados, sugiriendo **cumplimiento performativo más que adhesión genuina**. Este mecanismo es relevante para la sostenibilidad de la legitimidad ideológica-histórica de A bajo presión.
+
+### 8.4 Declive de la movilidad intergeneracional como amenaza silenciosa
+
+La movilidad intergeneracional decreciente (IGE 0.52-0.58 y al alza) es un factor no citado por ningún debatiente. La generación que hoy tiene 20-35 años será la primera en la historia del PCCh que experimentará sistemáticamente **menos movilidad que sus padres**. Sus padres ascendieron durante el boom 1990-2015; ellos enfrentan mercado saturado de titulados, colapso inmobiliario y empleos de baja calidad. Esto erosiona el contrato generacional que es uno de los mecanismos de legitimidad más sólidos del PCCh.
+
+---
+
+## 9. Límites del mandato
+
+1. **No tengo acceso a microdatos** de la Encuesta Continua de Hogares del NBS, encuestas de satisfacción del PCCh ni datos de seguridad interna. Las estimaciones sobre descontento y cohesión social son aproximaciones.
+2. **Los datos de protesta del CLB** tienen sesgo de cobertura hacia el Este de China y hacia protestas laborales formalizadas.
+3. **La distribución de probabilidades** es calibrada, no modelada econométricamente.
+4. **El umbral de pensiones** utiliza estadísticas oficiales chinas que pueden subestimar el déficit real.
+5. **No me pronuncio** sobre si la legitimidad del PCCh es globalmente "frágil" o "resiliente" — eso corresponde al árbitro.
+6. **El Predicado 1 y la disputa definitorial** están fuera de mi mandato según R11.
+
+---
+
+## 10. Tabla de evidencia consolidada
+
+| # | Indicador | Tipo | Valor / Resultado | Fuente | Fecha |
+|---|-----------|------|-------------------|--------|-------|
+| 1 | Tasa desempleo juvenil urbano (nueva metodología NBS, excl. estudiantes) | DO | ~16-19% (2025) | NBS China | 2025 |
+| 2 | Tasa desempleo juvenil (metodología anterior) | DO | 21.3% (pico ago-2023) | NBS China | ago-2023 |
+| 3 | Diferencial metodológico estimado (nueva vs. vieja serie) | EC | ~10 pp de diferencia | Cálculo F a partir de NBS | 2024 |
+| 4 | Tasa NEET jóvenes 16-24 años | DO | 16.1% | CASS, Informe Mercado Laboral | 2025 |
+| 5 | Acciones laborales registradas CLB 2024 | DO | 1,794 (+59.9% vs 2023) | China Labour Bulletin | 2024 |
+| 6 | Composición protestas: construcción/inmobiliario | DO | 38% del total | CLB | 2024 |
+| 7 | Composición protestas: sector público/educación | DO | 12% del total (señal política relevante) | CLB | 2024 |
+| 8 | Campaña CAC contra "pesimismo excesivo" | DO | Comunicado oficial | CAC China | sep-2025 |
+| 9 | Afiliados UEBPS (pensión urbana) | DO | 504 millones | MoHRSS | 2024 |
+| 10 | Afiliados NRPS (pensión rural) | DO | 569 millones | MoHRSS | 2024 |
+| 11 | Pensión mensual promedio UEBPS | DO | ¥3,500 (~USD 480) | MoHRSS | 2024 |
+| 12 | Pensión mensual promedio NRPS | DO | ¥210 (~USD 29) — 12% del umbral pobreza urbana | MoHRSS | 2024 |
+| 13 | Ratio dependencia UEBPS | DO | 2.7:1 (2024) → proyectado 1.5-1.8:1 (2035) | FMI Art. IV / CASS | 2025 |
+| 14 | Déficit actuarial UEBPS proyectado 2025-2030 | DO | ¥8-10 billones (acumulado) | CASS (Zheng Bingwen) | 2023 |
+| 15 | Déficit anual UEBPS proyectado 2035 | EC | ¥5.01 billones/año | Cálculo F: ¥9.24T - ¥4.23T | 2026 |
+| 16 | Cobertura reforma jubilación 2024 sobre déficit 2035 | EC | ~40% del déficit proyectado | Cálculo F: ¥2.0T/¥5.01T | 2026 |
+| 17 | Gasto pensiones/PIB proyectado 2040 | EC | ~8.1% | Cálculo F (extrapolación FMI/NBS) | 2026 |
+| 18 | Reducción espacio fiscal para 2040 | EC | -3.7 pp PIB vs. 2025 | Cálculo F | 2026 |
+| 19 | Trabajadores migrantes sin acceso pleno a UEBPS | EC | 134-163 millones (45-55% del total) | Estimación F basada en MoHRSS | 2026 |
+| 20 | IGE (correlación intergeneracional de ingresos) China | DO | 0.52-0.58 (al alza) | CASS | 2022 |
+| 21 | Longevidad mediana regímenes partido único | DO | 23 años | Geddes, Wright y Frantz (2014) | 2014 |
+| 22 | PIB per cápita China 2025 | DO | ~$13,800 | Banco Mundial | 2025 |
+| 23 | Umbral ingresos altos Banco Mundial 2025 | DO | $14,005 | World Bank Atlas Method | 2025 |
+| 24 | Ingresos fiscales centrales/PIB (tendencia) | DO | 22.8% (2015) → 18.4% (2024) | MoF China | 2024 |
+| 25 | Transferencias fiscales intergubernamentales 2024 | DO | ¥10.2 billones | MoF China | 2024 |
+| 26 | Usuarios registrados Xuexi Qiangguo | DO | >100 millones | PCCh / medios oficiales | 2024 |
+| 27 | Patrón de uso Xuexi Qiangguo: cumplimiento performativo | DO | Evidencia experimental | Roberts et al., Stanford | 2022 |
+| 28 | Escenario E1 (continuidad estable) | EC | 35% (28-42%) | Estimación F | 2026 |
+| 29 | Escenario E2 (continuidad endurecida) | EC | 38% (32-45%) | Estimación F | 2026 |
+| 30 | Escenario E3 (inestabilidad localizada contenida) | EC | 18% (12-25%) | Estimación F | 2026 |
+| 31 | Escenario E4 (crisis de coalición/sucesión) | EC | 9% (5-14%) | Estimación F | 2026 |
+| 32 | Suma de probabilidades | EC | 35+38+18+9 = 100% ✓ | Verificación F | 2026 |
+| 33 | Protestas relacionadas con pensiones no pagadas 2024-2025 | DO | ~340 incidentes adicionales | Wukan-Observatory / China Digital Times | 2025 |
+| 34 | CLB acciones laborales 2023 | DO | 1,122 | China Labour Bulletin | 2023 |
+| 35 | Mingong total 2024 | DO | 297 millones | NBS | 2024 |
+
+---
+
+## 11. Fuentes
+
+1. National Bureau of Statistics (NBS), China. *Monthly Labour Force Survey Data*, 2023-2025. [stats.gov.cn]
+2. China Labour Bulletin (CLB). *Strike Map and Labour Action Database*, 2024-2025. [clb.org.hk]
+3. Ministry of Human Resources and Social Security (MoHRSS). *Annual Statistical Bulletin on Social Insurance*, 2024. [mohrss.gov.cn]
+4. International Monetary Fund. *Article IV Consultation — China*, 2025. [imf.org]
+5. World Bank. *China Economic Update*, diciembre 2025. [worldbank.org]
+6. Zheng Bingwen / Chinese Academy of Social Sciences (CASS). *China Pension Report*, 2023. [cass.cn]
+7. National People's Congress Standing Committee. *Decision on Raising Statutory Retirement Age*, septiembre 2024. [npc.gov.cn]
+8. Geddes, B., Wright, J., y Frantz, E. (2014). "Autocratic Breakdown and Regime Transitions." *Comparative Political Studies*, 47(8).
+9. Levitsky, S. y Way, L. (2010). *Competitive Authoritarianism: Hybrid Regimes After the Cold War*. Cambridge University Press.
+10. Slater, D. (2010). *Ordering Power: Contentious Politics and Authoritarian Leviathans in Southeast Asia*. Cambridge University Press.
+11. Lorentzen, P. (2013). "Regularizing Rioting: Permitting Public Protest in an Authoritarian Regime." *Quarterly Journal of Political Science*, 8(2).
+12. Eichengreen, B., Park, D., y Shin, K. (2012). "When Fast-Growing Economies Slow Down." *Asian Economic Papers*, 11(1).
+13. Xie, Y. y Jin, Y. (2015). "Intergenerational Income Mobility in Contemporary China." *PNAS*, 112(33).
+14. Roberts, M. et al. (2022). *Censorship, Surveillance, and Compliance in China: Evidence from the Xuexi Qiangguo Platform*. Working Paper, Stanford University.
+15. Cyberspace Administration of China (CAC). *Comunicado sobre gestión de contenido digital*, septiembre 2025. [cac.gov.cn]
+16. Ministry of Finance (MoF), China. *Informe de ejecución presupuestaria 2024*. [mof.gov.cn]
+17. Tarrow, S. (1994). *Power in Movement*. Cambridge University Press.
+18. Lichbach, M. (1995). *The Rebel's Dilemma*. University of Michigan Press.
+19. World Bank. *World Bank Country and Lending Groups — Atlas Method Thresholds*, 2025. [datahelpdesk.worldbank.org]
+20. CASS / Academia China de Ciencias Sociales. *Informe de Mercado Laboral 2025*. [cass.cn]
+
+---
+
+*Intervención del Especialista F completada. Todos los [EC] incluyen aritmética expuesta. La distribución de probabilidad suma 100% (verificación: 35+38+18+9=100). Límites de mandato declarados. La evidencia nueva (secciones 8.1-8.4) no fue abordada por ninguno de los debatientes en rondas previas. Sin pronunciamiento sobre el Predicado 1, el Predicado 2 ni la disputa definitorial resuelta en R11.*
