@@ -1247,3 +1247,195 @@ Si China lanza 150 misiles hipersónicos DF-17 y YJ-21 simultáneamente contra u
 - Radio Free Asia: China supera 600 ojivas nucleares (informe DoD)
 - AEI: la US Navy está quedando atrás en relación a China
 
+
+---
+
+## Análisis del Especialista E — Ronda 4 (Poder militar y geopolítica)
+
+### 1. Balance militar actual por dominio
+
+**Naval.** [DO] El EPL-Marina (PLAN) es la mayor armada del mundo por número de cascos: ~370 buques y submarinos (DoD CMPR 2024), con proyección a ~435 hacia 2030. EE.UU. opera ~295 buques desplegables, pero con ventaja decisiva en **tonelaje agregado** (~2:1 a favor de EE.UU.) [EC], en portaaviones nucleares (11 vs. 3 chinos) [DO], y en submarinos nucleares de ataque, donde la brecha acústica sigue siendo el déficit chino más persistente [EC]. Traducción operativa: China domina en masa costera y regional; EE.UU. en proyección sostenida a distancia.
+
+**Aéreo.** [EC] EE.UU. mantiene superioridad en cazas de 5.ª generación (F-35/F-22, >1,000 unidades acumuladas) frente al J-20 chino. El déficit chino crítico no es el caza sino los **habilitadores**: reabastecimiento en vuelo, transporte estratégico e ISR persistente global.
+
+**Nuclear.** EE.UU. y Rusia mantienen ~1,550 ojivas desplegadas estratégicas bajo New START; China partió de ~200 en 2020 y el DoD estimó >600 ojivas operativas en 2024 [DO].
+
+**Cibernético y espacial.** Es el dominio donde la asimetría se estrecha más. China ha desplegado una arquitectura satelital ISR (Yaogan) orientada a la cadena de fuego antibuque [DO]. En ciber, ambos poseen capacidad ofensiva de primer nivel; la diferencia relevante es que la superficie de ataque estadounidense (infraestructura crítica privada) es mayor [EC].
+
+---
+
+### 2. Doctrina A2/AD: eficacia y límites
+
+La arquitectura china de negación —DF-21D, DF-26, HQ-9, submarinos convencionales AIP, ISR satelital— es **regionalmente efectiva y crecientemente creíble dentro de la Primera Cadena de Islas** [EC]. Los juegos de guerra del CSIS (*The First Battle of the Next War*, 2023) proyectan pérdidas estadounidenses de 2 portaaviones y 10-20 buques mayores en la mayoría de escenarios de invasión de Taiwán [DO].
+
+**Límites técnicos sustantivos:**
+- **La cadena de fuego (kill chain), no el misil, es el cuello de botella.** Un DF-26 requiere detección, identificación, seguimiento y actualización en vuelo contra un blanco móvil. Cada eslabón es atacable por guerra electrónica, ASAT y ciber [EC].
+- **Degradación con la distancia.** La efectividad cae marcadamente más allá de la Segunda Cadena de Islas [PI].
+- **Simetría del problema.** EE.UU. y Japón están construyendo su propia A2/AD (Regimientos Litorales de los Marines, misiles Typhon, Tomahawk japoneses). En 2050 el Mar de China Oriental será probablemente un espacio de **negación mutua** [PI].
+- **Sin validación en combate.** El EPL no combate desde 1979 [DO].
+
+---
+
+### 3. El diferencial de construcción naval "230x"
+
+La cifra de la ONI (2023) mide capacidad **comercial** agregada (portacontenedores, graneleros), no capacidad de construcción de buques de guerra. El diferencial en construcción naval **militar** es del orden de 3-5x, no 230x [EC].
+
+Sin embargo, la corrección no anula el argumento: la base industrial comercial es **convertible y, sobre todo, reparable**. La capacidad de reparar y reponer bajas en un conflicto prolongado es donde el diferencial se vuelve estratégicamente decisivo [PI]. [DO] La producción de submarinos clase Virginia corre por debajo de meta (~1.2/año frente a los ~2.3 requeridos con AUKUS).
+
+Proyección razonable: hacia 2050, **paridad o superioridad numérica china en cascos, con brecha cualitativa estrecha pero persistente** [PI].
+
+---
+
+### 4. Arsenal nuclear: ¿1,000+ ojivas para 2030?
+
+La proyección del DoD (1,000 para 2030, ~1,500 para 2035) es **plausible pero no inevitable** [EI]. Sustento observable: los ~320 nuevos silos de ICBM en Yumen, Hami y Ordos detectados por imágenes satelitales (FAS, 2021) [DO], y expansión de producción de plutonio vía reactores rápidos [EC].
+
+**Qué cambia estratégicamente:** el umbral relevante es la transición de **disuasión mínima** a **segundo golpe asegurado y sobreviviente**. Efectos: (a) fin de la asimetría de escalada que EE.UU. ha explotado implícitamente; (b) surgimiento del "problema de los tres cuerpos" — la planificación estadounidense debe disuadir simultáneamente a Rusia y China; (c) reactivación del *stability-instability paradox*: paridad nuclear estable puede **incrementar** el riesgo de conflicto convencional limitado [PI].
+
+Nota crítica: el arsenal nuclear estabiliza pero **no proyecta poder** — no toma islas ni protege líneas marítimas.
+
+---
+
+### 5. Alianzas vs. soledad estratégica
+
+Tres funciones distintas:
+
+- **Geografía / basing:** el valor principal. Japón, Corea, Australia, Filipinas, Guam otorgan a EE.UU. presencia dentro del arco de decisión chino. China no tiene equivalente (Djibouti, Ream son marginales) [DO].
+- **Capacidad agregada:** Japón elevando gasto a 2% del PIB, Australia con AUKUS, Corea con base industrial de defensa exportadora [DO].
+- **Fiabilidad de compromiso:** aquí está la vulnerabilidad real. Las alianzas requieren **decisión política simultánea de múltiples capitales**. El acceso a bases japonesas o filipinas en un conflicto por Taiwán es condicional, no automático [EI]. China enfrenta la coordinación de un solo actor.
+
+[EC] EE.UU. mantiene ~750 instalaciones en ~80 países — multiplicador difícil de compensar, pero también pasivo de dispersión.
+
+---
+
+### 6. ¿Quién impone su voluntad en 2050?
+
+| Escenario | Ventaja proyectada 2050 |
+|---|---|
+| Conflicto por Taiwán / Primera Cadena | China, con costos severos para ambos |
+| Segunda Cadena de Islas | Disputado / negación mutua |
+| Océano Índico, líneas de comunicación marítimas | EE.UU. + India |
+| Atlántico, Mediterráneo, Golfo | EE.UU. |
+| África / Sudamérica (baja intensidad, acceso) | China creciente |
+| Intercambio nuclear estratégico | Paridad disuasoria mutua |
+
+**Conclusión técnica neutral:** la trayectoria más defendible es **China como potencia regional dominante con alcance global limitado; EE.UU. como única potencia con capacidad expedicionaria global, pero ya sin capacidad de imponer su voluntad en el litoral chino**. En términos del IPNI, el subcomponente militar debería puntuarse por dominio y por teatro — una agregación global favorece a EE.UU., una ponderada por relevancia del teatro indopacífico estrecha el margen considerablemente.
+
+*Fuentes: DoD China Military Power Report 2023/2024; ONI (diapositiva astilleros 2023); CSIS "The First Battle of the Next War" 2023; FAS Chinese Nuclear Forces; IISS Military Balance.*
+
+
+## Intervención del Oponente — Ronda 4
+
+### Respuesta directa al argumento anterior
+
+El Proponente construyó un argumento numéricamente impresionante pero conceptualmente hueco. Confunde masa con potencia de combate, cantidad con letalidad proyectable, y región con hegemonía global. Respondo punto por punto.
+
+---
+
+**Sobre los 232x de capacidad de construcción naval y los 370 buques vs. 296:**
+
+Este número es el ejemplo más claro de estadística seleccionada para impresionar sin informar. China es el mayor constructor de buques *comerciales* del mundo — eso es lo que infla el tonelaje. Cuando se desagrega por tipo de buque de guerra de alta gama, el cuadro cambia radicalmente.
+
+[DO] China opera actualmente 3 portaaviones, todos de catapulta de vapor o rampa de esquí — tecnología de generación anterior. El Fujian usa catapultas electromagnéticas (EMALS), sí, pero está en pruebas y no ha demostrado capacidad de ciclo sostenido de sortidas. [DO] Estados Unidos opera 11 portaaviones de propulsión nuclear, todos con EMALS de generación probada, con capacidad de lanzar hasta 120 sortidas diarias cada uno en operaciones sostenidas. No son 370 vs. 296 — son 11 grupos de batalla nucleares con escolta Aegis vs. 3 portaaviones sin experiencia de combate integrado de alta intensidad.
+
+[DO] Los 370 buques del PLAN incluyen corvetas de litoral clase 056, patrulleras, barreminas y buques de apoyo costero. No son capital ships proyectables al Atlántico, al Mediterráneo, al Golfo Pérsico ni al Índico occidental. La pregunta no es cuántos buques tiene China en el Mar Amarillo — es cuántos puede sostener en combate a 5,000 millas de su costa durante 90 días. La respuesta honesta: muy pocos, sin reabastecimiento en alta mar de nivel comparable al de la Séptima Flota.
+
+---
+
+**Sobre A2/AD y la "matemática de la disuasión":**
+
+Respondo la pregunta directamente: si China lanza 150 misiles hipersónicos contra un grupo de batalla con interceptación del 70% por misil, en valor esperado 45 misiles impactan.
+
+Acepto el cálculo matemático. Ahora añado el contexto que el Proponente omite deliberadamente:
+
+*Primero*, ese escenario no ocurre en vacío. Un lanzamiento de 150 misiles balísticos/hipersónicos chinos contra la Séptima Flota en el Pacífico es, sin ambigüedad posible, un acto de guerra convencional a escala mayor que Pearl Harbor. El presidente que "no envía el portaaviones" bajo amenaza de A2/AD en tiempo de paz es el mismo presidente que enfrenta una elección de escalar a guerra total o ceder el Indo-Pacífico. Esa disyuntiva existe para *ambos* líderes. Xi Jinping también sabe que atacar un grupo de batalla americano activa los tratados de Japón y Australia, expone sus costas a submarinos clase Virginia, y destruye el comercio marítimo del que depende el 88% de las exportaciones chinas. La "matemática de la disuasión" corta en ambas direcciones.
+
+*Segundo*, [EC] la tasa de intercepción del 70% por misil es una estimación baja-media para el Aegis Block III + SM-6 en escenario de salva única. Pero el sistema de defensa en capas no es solo Aegis: incluye THAAD en Guam y Japón [DO], laser de alta energía embarcado en pruebas avanzadas [PI], y la capacidad de los propios F-35C/F/A-18 de interceptar plataformas de lanzamiento antes del lanzamiento. La cadena de kill comienza en los sensores espaciales, no en el intercept terminal.
+
+*Tercero*, [EI] las pruebas del DF-17 han demostrado precisión en blancos estacionarios. Un grupo de batalla en evasión a 30 nudos con contramedidas electrónicas activas no es un blanco estacionario. La tasa de intercepción efectiva contra un portaaviones en maniobra evasiva con jamming activo es una incógnita —y esa incógnita disuade a ambos lados, no solo a EE.UU.
+
+---
+
+**Sobre las 600+ ojivas nucleares chinas y el "segundo golpe garantizado":**
+
+[DO] China tiene estimadas 500-600 ojivas nucleares (SIPRI 2024). [DO] Estados Unidos tiene aproximadamente 5,500 ojivas, de las cuales ~1,700 están desplegadas estratégicamente en la TRÍADA completa: ICBM Minuteman III en silos endurecidos, 14 submarinos SSBN clase Ohio con misiles Trident II D5, y bombarderos B-2/B-52/B-21 Raider.
+
+El argumento del segundo golpe garantizado para China *en principio* es correcto — nadie en Washington contempla un primer golpe nuclear contra China. Pero eso no anula la coerción nuclear de EE.UU.; simplemente establece la paridad de disuasión mínima. Paridad de disuasión ≠ ventaja estratégica. [PI] China necesita desarrollar una TRÍADA completa comparable: sus SSBN clase Jin (Type 094) son significativamente más ruidosos que los Ohio y vulnerables a la capacidad de guerra antisubmarina superior de EE.UU. — el componente más silencioso y letal de la TRÍADA americana es precisamente el que China no puede neutralizar hoy ni en 2030.
+
+---
+
+**Sobre las alianzas como "carga fiscal" y la ausencia de tratado formal sobre Taiwán:**
+
+El Proponente responde la pregunta equivocada. Pregunta qué *dice* el texto de los tratados; yo respondo qué *hacen* las alianzas operativamente.
+
+[DO] El Tratado de Seguridad EE.UU.-Japón (1960, Artículo V) obliga a ambas partes a defender "los territorios bajo administración japonesa" — lo que incluye las islas Senkaku y, más relevante, los 54,000 efectivos americanos estacionados en Japón. Un ataque chino a Taiwán que active una respuesta americana convierte automáticamente las bases en Okinawa, Sasebo y Yokosuka en activos de combate bajo protección del tratado japonés. Japón no puede ser neutral si sus bases son usadas como plataforma de lanzamiento. [DO] Australia, bajo AUKUS, está adquiriendo submarinos nucleares de propulsión —los primeros en la región fuera de EE.UU.— con base en Perth para 2032-2035 según calendario oficial [PI]. La red no es papel: es bases, inteligencia, logística y submarinos de ataque pre-posicionados.
+
+Sobre Taiwán específicamente: [DO] el Taiwan Relations Act de 1979 no es un tratado de defensa mutua, correcto. Pero obliga legalmente a EE.UU. a proveer "artículos y servicios de defensa en cantidad suficiente para que Taiwán mantenga capacidad de autoresistencia" y declara que "cualquier determinación del futuro de Taiwán por otros que no sean medios pacíficos" es "de grave preocupación para EE.UU." Combinado con la ambigüedad estratégica deliberada — que mantiene a Beijing sin certeza sobre la respuesta americana — esto *es* la disuasión. Precisamente porque China no sabe si EE.UU. intervendrá, no puede calcular con seguridad. La ambigüedad es el diseño, no el defecto.
+
+---
+
+**Sobre espacio, ciberespacio y Volt Typhoon:**
+
+[DO] Volt Typhoon es real y preocupante: el FBI y CISA confirmaron en enero 2024 que actores chinos habían pre-posicionado acceso en infraestructura crítica americana. No lo minimizo.
+
+Pero la ventaja cibernética no es unilateral. [EC] EE.UU. tiene el Cyber Command con presupuesto clasificado estimado en decenas de miles de millones anuales, con capacidades ofensivas documentadas (Stuxnet demostró en 2010 lo que EE.UU. puede hacer). La asimetría cyber no es China dominante vs. EE.UU. vulnerable — es mutua vulnerabilidad con capacidades ofensivas comparables o superiores del lado americano en sistemas específicos de alto valor.
+
+Sobre espacio: [DO] EE.UU. tiene el presupuesto espacial militar más grande del mundo, con SpaceX como proveedor de lanzamiento con un costo por kilogramo a órbita baja de ~$2,700 (Falcon 9) frente a los ~$10,000-15,000 chinos [DO]. La constelación Starlink con 6,000+ satélites demostró en Ucrania ser militarmente transformadora para comunicaciones resilientes. China no tiene equivalente.
+
+---
+
+**Sobre la concesión del Proponente (EE.UU. superior fuera del Indo-Pacífico en 65% del globe):**
+
+Esta concesión es más importante de lo que parece. Una potencia mundial no es solo regional. Si China domina el Indo-Pacífico pero EE.UU. mantiene supremacía en el Atlántico, el Mediterráneo, el Golfo Pérsico, el Índico occidental y las rutas de energía africanas, China no es la primera potencia mundial — es una potencia regional con capacidades globales limitadas. El 65% del globo incluye la mayoría del PIB mundial fuera de Asia, la mayoría de las reservas de energía del Golfo, y todas las rutas marítimas alternativas al comercio chino.
+
+---
+
+**Sobre la experiencia de combate real:**
+
+[DO] El Ejército Popular de Liberación no ha combatido en una guerra real desde 1979 — la invasión de Vietnam, que terminó en retirada humillante después de pérdidas inesperadamente altas frente a fuerzas irregulares vietnamitas. [DO] EE.UU. ha operado en combate integrado aire-tierra-mar-espacio-cíber de forma continua desde 1991 — Gulf War, Kosovo, Afganistán, Iraq, Siria, operaciones en el Sahel. Esa experiencia genera doctrina, interoprabilidad de sistemas, liderazgo táctico probado bajo fuego real y cadenas de mando que funcionan en caos. No es un argumento sentimental — es la diferencia entre una armada que sabe cómo reabastecerse bajo fuego a 4,000 millas de costa y una que ha practicado maneuvers en el Mar de China del Sur.
+
+---
+
+### Objeción principal
+
+La tesis del Proponente en la dimensión militar comete un error categorial: mide poder militar como si fuera poder industrial. La capacidad de construir acero y misiles es necesaria pero no suficiente para imponer reglas globales. Imponer reglas globales requiere poder de proyección sostenida —la capacidad de llegar, permanecer y actuar en cualquier teatro del mundo durante meses, no semanas. En ese criterio específico, la brecha entre EE.UU. y China en 2026 es enorme, y los mecanismos que la reducirían para 2050 son [EI] altamente inciertos.
+
+[PI] Para que China pueda "imponer reglas globalmente" en 2050 necesita: (a) una red de bases militares extranjeras comparables a las 750+ instalaciones americanas en 80 países [DO]; (b) una capacidad de reabastecimiento en alta mar comparable a la de la Séptima Flota; (c) submarinos SSBN verdaderamente silenciosos e indetectables; (d) experiencia de combate integrado real. Ninguno de estos cuatro elementos está en trayectoria de alcanzar paridad con EE.UU. para 2050 según proyecciones del IISS, RAND o CRS actuales. Condición de falsación: si el PLAN despliega una escuadra de 3+ grupos de batalla en el Golfo Pérsico por 90+ días antes de 2035, revisaría esta evaluación.
+
+---
+
+### Evidencia usada
+
+- [DO] SIPRI Yearbook 2024: ~500-600 ojivas nucleares chinas vs. ~5,500 americanas, con ~1,700 desplegadas estratégicamente.
+- [DO] US Navy official: 11 portaaviones nucleares operativos; China: 3, incluyendo Fujian en pruebas.
+- [DO] FBI/CISA advisory, enero 2024: confirmación de Volt Typhoon en infraestructura crítica americana.
+- [DO] Taiwan Relations Act, Public Law 96-8, 1979: texto disponible en congress.gov.
+- [DO] Tratado de Seguridad EE.UU.-Japón, 1960, Artículo V.
+- [DO] SpaceX Falcon 9 cost-to-orbit: ~$2,700/kg (fuente: SpaceX, 2024 pricing).
+- [DO] PLAN última acción de combate: invasión de Vietnam, 1979 (consenso histórico).
+- [PI] Calendario AUKUS para submarines clase Virginia en Perth: 2032-2035 (Acuerdo AUKUS, 2023).
+
+---
+
+### Ataque al punto débil del proponente
+
+El Proponente nunca ha respondido la pregunta de proyección global: ¿cómo impone China reglas en el Golfo Pérsico, el Mediterráneo o el Atlántico sur en 2050? Toda su argumentación militar está geográficamente contenida al Indo-Pacífico —y aún allí, depende de que EE.UU. se abstenga de escalar. Una potencia que solo puede "ganar" si su rival no decide comprometerse completamente no es la primera potencia mundial —es una potencia regional con capacidad de negación local. Eso es estratégicamente significativo, pero no es hegemonía.
+
+---
+
+### Concesión limitada
+
+Concedo que la doctrina A2/AD representa un desafío real y creciente para la operación de portaaviones dentro del "primer archipiélago" — dentro de aproximadamente 1,000 km de la costa china. La matemática de saturación es genuinamente preocupante para planificadores del Pentágono y la literatura del RAND Institute lo documenta. [DO] Estudios RAND de 2015-2020 señalaron que la brecha A2/AD se estrechó significativamente. La concesión es: EE.UU. ya no puede operar con impunidad dentro del primer archipiélago como lo hacía en 1996. Eso es real.
+
+---
+
+### Preguntas críticas al Proponente
+
+**Pregunta 1 — Proyección global (la pregunta que el Proponente ha evitado):**
+
+Si China supera a EE.UU. como primera potencia mundial, necesita poder imponer reglas no solo en el Mar de China del Sur sino donde están los recursos críticos. En 2023, el 20% del comercio global pasó por el Estrecho de Ormuz y el 12% por el Estrecho de Bab el-Mandeb — ambos protegidos operativamente por la Quinta Flota de EE.UU. y aliados del Golfo. China importa el 73% de su petróleo por mar [DO, BP Statistical Review 2023]. ¿Con qué base naval permanente, con qué flota de escolta, y con qué aliados locales impondrá China las reglas en esas rutas energéticas críticas para *su propia economía* en 2050? Por favor proporcione el mecanismo concreto, no la aspiración.
+
+**Pregunta 2 — El problema de la experiencia de combate y la innovación bajo presión:**
+
+El PLAN no ha disparado un torpedo en combate real, no ha coordinado un grupo de batalla bajo fuego anti-navío real, y no ha operado su cadena de mando bajo las condiciones de caos y degradación de comunicaciones que produce un adversario de primer nivel. EE.UU. ha tenido 25 años de guerra continua para descubrir qué falla y corregirlo —desde la doctrina de guerra urbana hasta la arquitectura de red en combate degradado. ¿Cómo calcula el Proponente que el PLAN cerrará esa brecha de experiencia operativa real para 2050, cuando la única forma de cerrarla es... combatir en una guerra? ¿Y qué probabilidad asigna a que esa guerra de entrenamiento no sea contra EE.UU. mismo?
+
